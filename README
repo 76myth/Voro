@@ -1,6 +1,11 @@
 Installation and Setup
 ======================
 
+Setting up Git Tutorial:
+Linux:http://help.github.com/linux-set-up-git/
+Windows:http://help.github.com/win-set-up-git/
+Mac:http://help.github.com/mac-set-up-git/
+
 Setup virtual environment:
 
     $ virtualenv --no-site-packages --distribute voro-env

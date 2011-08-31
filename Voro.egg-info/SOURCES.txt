@@ -11,3 +11,4 @@ voro/__init__.py
 voro/lib/__init__.py
 voro/scripts/__init__.py
 voro/scripts/example.py
+voro/scripts/just_eat_scraper.py

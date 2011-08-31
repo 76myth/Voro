@@ -1,6 +1,6 @@
    Justeat India Call Center 022-600-00-600 (10AM - 11PM)
-   YOUR CITY : MUMBAI   OTHER CITIES : [1]BANGALORE | [2]DELHI | [3]Sign
-   In
+   YOUR CITY : MUMBAI   OTHER CITIES : [1]BANGALORE | [2]DELHI-NCR |
+   [3]Sign In
 
 
 
@@ -17,370 +17,178 @@ Showing all restaurants located in Andheri West area, Mumbai
 The following restaurants have online services enabled
 
     1. [5]21 Fahrenheit
-    2. [6]Almond Flower
-    3. [7]Barcode zero 53
-    4. [8]Fat Cat Cafe
-    5. [9]Ginger Marie
-    6. [10]La Kebabiya
-    7. [11]Lebanese Point, Andheri (W)
-    8. [12]Muncheeze
-    9. [13]Pizzaroma
-   10. [14]Rhythm, Andheri
-   11. [15]Salsa, Andheri(w)
-   12. [16]Salt n Pepper, Andheri(w)
-   13. [17]The Grand Nawab
-   14. [18]Torrp It Up, Andheri
-   15. [19]Yoko Sizzlers, Andheri(w)
-   16. [20]Zus Restaurant
-   17. [21]ZUS Sizzlers
+    2. [6]Barcode zero 53
+    3. [7]Bhojohori Manna
+    4. [8]Ginger Marie
+    5. [9]Lebanese Point, Andheri (W)
+    6. [10]Little Italy Malad
+    7. [11]Pizzaroma
+    8. [12]Rhythm, Andheri
+    9. [13]Salsa
+   10. [14]Salsa, Andheri(w)
+   11. [15]Salt n Pepper, Andheri(w)
+   12. [16]The Grand Nawab
+   13. [17]Torrp It Up, Andheri
+   14. [18]Zus Restaurant
+   15. [19]ZUS Sizzlers
 
 The following restaurants currently do not have online services. However you
 can still write reviews for them.
 
-    1. [22]2nd Peg Bar and Restaurant
-    2. [23]Appointment
-    3. [24]Aromas of China
-    4. [25]Birdy`s
-    5. [26]Blue Waters
-    6. [27]Bombay Blue
-    7. [28]China Gate
-    8. [29]China Hut
-    9. [30]China Suburb
-   10. [31]Chinese Corner
-   11. [32]Chinese Pavilion
-   12. [33]Chinthai
-   13. [34]Classic Chinese
-   14. [35]Coastal Cuisine
-   15. [36]Dastar Khwaan
-   16. [37]Discovery Restaurant
-   17. [38]Discovery Restaurant
-   18. [39]Domino`s Pizza
-   19. [40]Fanoos
-   20. [41]Firangi Dhaba
-   21. [42]Fluid Spice
-   22. [43]Food Inn
-   23. [44]Garden Court Restaurant
-   24. [45]Ginger Marie
-   25. [46]Golden Chariot
-   26. [47]Golden Fork
-   27. [48]Golden Fork
-   28. [49]Golden Gate
-   29. [50]Grissini
-   30. [51]Guru da Dhaba
-   31. [52]Hakka
-   32. [53]High Point
-   33. [54]Himalaya Chinese Hub
-   34. [55]Hotel Radhakrishna
-   35. [56]Hungry Jack
-   36. [57]Hyderabad House
-   37. [58]Ideal Restaurant, Bakery and Store
-   38. [59]Joey`s Pizza
-   39. [60]Jumbo King
-   40. [61]Kabab Hut
-   41. [62]Kailash Parbat
-   42. [63]Kalinga
-   43. [64]Kareem`s
-   44. [65]Kobe Sizzlers
-   45. [66]Lian Soon
-   46. [67]Little Italy
-   47. [68]Mainland China
-   48. [69]McDonald`s
-   49. [70]McDonald`s
-   50. [71]Mini China
-   51. [72]Mista Paaji
-   52. [73]Mogul Sarai
-   53. [74]Mostly Kababs
-   54. [75]Myst
-   55. [76]Nootan Pure Veg Restaurant
-   56. [77]Oasis
-   57. [78]Oh! Calcutta Express
-   58. [79]Oriental Wok
-   59. [80]Pal`s, Fish Corner
-   60. [81]Papillon Park Hotel
-   61. [82]Pizza Hut
-   62. [83]Poush
-   63. [84]Prangan
-   64. [85]Quilla
-   65. [86]Ratnagiri
-   66. [87]Red Box Cafe
-   67. [88]Rhythm Restaurant and Bar
-   68. [89]Rolling Beans
-   69. [90]Royal Fantacy, Andheri(w)
-   70. [91]Royal Fantasy
-   71. [92]Saffron Springs
-   72. [93]Sai Leela
-   73. [94]Salt `n` Pepper
-   74. [95]Sankalp
-   75. [96]Sasural
-   76. [97]Sernyaa Tibetan Chinese Restaurant
-   77. [98]Shabari
-   78. [99]Shan-e-Punjab
-   79. [100]Shanghai House
-   80. [101]Sharma Dairy
-   81. [102]Shatranj Napoli
-   82. [103]Shreejee`s Veg Wonders
-   83. [104]Sigara
-   84. [105]Smokin` Joe`s
-   85. [106]Song Hay
-   86. [107]Swadesh
-   87. [108]Tan Tra
-   88. [109]The Gold Leaf
-   89. [110]The Rice Boat
-   90. [111]Time and Again
-   91. [112]Trishna
-   92. [113]Turmerik - Grills and Kurries
-   93. [114]Twenty One Hours
-   94. [115]Urban Tadka
-   95. [116]Vanilla
-   96. [117]Vilas Bar and Restaurant
-   97. [118]Yoko Sizzlers
-   98. [119]Zaffran
-   99. [120]Zus Sizzlers
+    1. [20]Birdy`s
+    2. [21]Golden Fork
+    3. [22]Guru da Dhaba
+    4. [23]Pal`s, Fish Corner
+    5. [24]Royal Fantacy, Andheri(w)
 
    IFRAME:
-   [121]http://www.vizury.com/analyze/analyze.php?account_id=VIZ-VRM-1120&
-   param=c200&city=Mumbai&area=Andheri West&cuisine=
+   [25]http://www.vizury.com/analyze/analyze.php?account_id=VIZ-VRM-1120&p
+   aram=c200&city=Mumbai&area=Andheri West&cuisine=
 
    Please wait contacting server ...
 
    Click on the map to interact
    google map
 
-   [122]Close
+   [26]Close
 
 Browse Restaurants in Mumbai
 
 Top restaurants by location:
 
-     * [123]Powai Restaurants
-     * [124]Bandra Kurla Restaurants
-     * [125]Mulund Restaurants
-     * [126]Malad West Restaurants
-     * [127]Thakurli Restaurants
-     * [128]Kharghar East Restaurants
-     * [129]View more areas in Mumbai »
+     * [27]Powai Restaurants
+     * [28]Bandra Kurla Restaurants
+     * [29]Mulund Restaurants
+     * [30]Malad West Restaurants
+     * [31]Thakurli Restaurants
+     * [32]Kharghar East Restaurants
+     * [33]View more areas in Mumbai »
 
 Top Cuisines Restaurants:
 
-     * [130]North Indian Restaurants
-     * [131]Pizzas Restaurants
-     * [132]Andhra Cuisine Restaurants
-     * [133]Punjabi Restaurants
-     * [134]Chinese Restaurants
-     * [135]Cakes and Sweets
-     * [136]View more cuisines »
+     * [34]North Indian Restaurants
+     * [35]Pizzas Restaurants
+     * [36]Andhra Cuisine Restaurants
+     * [37]Punjabi Restaurants
+     * [38]Chinese Restaurants
+     * [39]Cakes and Sweets
+     * [40]View more cuisines »
 
 Search restaurants in Mumbai:
 
-     * [137]View all Mumbai Restaurants
-     * [138]Browse restaurants by Area
-     * [139]Browse restaurants by Cuisine
+     * [41]View all Mumbai Restaurants
+     * [42]Browse restaurants by Area
+     * [43]Browse restaurants by Cuisine
 
 Popular Restaurant chains in Mumbai:
 
-     * [140]US Pizza
-     * [141]Papa Johns
-     * [142]BJN group restaurants
-     * [143]Torrp it Up, Mumbai
-     * [144]Crepe Station, Mumbai
+     * [44]US Pizza
+     * [45]Papa Johns
+     * [46]BJN group restaurants
+     * [47]Torrp it Up, Mumbai
+     * [48]Crepe Station, Mumbai
 
    Just Eat
-     * [145]Blog
-     * [146]Jobs
-     * [147]About Us
-     * [148]Terms & Conditions
-     * [149]Privacy
+     * [49]Blog
+     * [50]Jobs
+     * [51]About Us
+     * [52]Terms & Conditions
+     * [53]Privacy
 
-     * [150]Help
-     * [151]FAQ (Mumbai)
-     * [152]FAQ (Non ordering cities)
+     * [54]Help
+     * [55]FAQ (Mumbai)
+     * [56]FAQ (Non ordering cities)
 
-     * [153]Recipe
-     * [154]Health Tip
-     * [155]Review
-     * [156]Gift Voucher
+     * [57]Recipe
+     * [58]Health Tip
+     * [59]Review
+     * [60]Gift Voucher
 
    Copyright ©2011 Achindra Online Marketing Pvt. Ltd. All rights reserved
    This site is best viewed at a minimum screen resolution of 1024x768
    with cookies and javascript enabled
-   [157]Just-Eat:
+   [61]Just-Eat:
 
 References
 
    Visible links
    1. http://justeat.in/bangalore
-   2. http://justeat.in/delhi
+   2. http://justeat.in/delhi-ncr
    3. http://justeat.in/user/login
    4. http://justeat.in/mumbai
    5. http://justeat.in/restaurant/21-fahrenheit/6141/north-indian-and-chinese/andheri-west/mumbai
-   6. http://justeat.in/restaurant/almond-flower/6100/north-indian/andheri-west/mumbai
-   7. http://justeat.in/restaurant/barcode-zero-53/5644/fast-food/andheri-west/mumbai
-   8. http://justeat.in/restaurant/fat-cat-cafe/5982/italian-continental/andheri-west/mumbai
-   9. http://justeat.in/restaurant/ginger-marie/5657/italian-mexican-and-chinese/andheri-west/mumbai
-  10. http://justeat.in/restaurant/la-kebabiya/6296/north-indian-punjabi-mughlai/andheri-west/mumbai
-  11. http://justeat.in/restaurant/lebanese-point-andheri-w/6227/north-indian-and-lebanese/andheri-west/mumbai
-  12. http://justeat.in/restaurant/muncheeze/5777/multi-cuisine/andheri-west/mumbai
-  13. http://justeat.in/restaurant/pizzaroma/6114/pizza/andheri-west/mumbai
-  14. http://justeat.in/restaurant/rhythm-andheri/5656/multicuisine/andheri-west/mumbai
-  15. http://justeat.in/restaurant/salsa-andheriw/6217/mediterranian/andheri-west/mumbai
-  16. http://justeat.in/restaurant/salt-n-pepper-andheriw/5674/chinese/andheri-west/mumbai
-  17. http://justeat.in/restaurant/the-grand-nawab/5729/indian-and-lucknowi/andheri-west/mumbai
-  18. http://justeat.in/restaurant/torrp-it-up-andheri/5638/indian-thai-mexican-arabic-italian-continental/andheri-west/mumbai
-  19. http://justeat.in/restaurant/yoko-sizzlers-andheriw/6214/continental/andheri-west/mumbai
-  20. http://justeat.in/restaurant/zus-restaurant/6230/north-indian-italian/andheri-west/mumbai
-  21. http://justeat.in/restaurant/zus-sizzlers/5880/chinese/andheri-west/mumbai
-  22. http://justeat.in/restaurant/2nd-peg-bar-and-restaurant/1746/indian/andheri-west/mumbai
-  23. http://justeat.in/restaurant/appointment/1016/fastfood-south-indian/andheri-west/mumbai
-  24. http://justeat.in/restaurant/aromas-of-china/1768/chinese/andheri-west/mumbai
-  25. http://justeat.in/restaurant/birdys/5645/fast-food/andheri-west/mumbai
-  26. http://justeat.in/restaurant/blue-waters/1048/international/andheri-west/mumbai
-  27. http://justeat.in/restaurant/bombay-blue/1051/european/andheri-west/mumbai
-  28. http://justeat.in/restaurant/china-gate/1090/chinese/andheri-west/mumbai
-  29. http://justeat.in/restaurant/china-hut/1805/chinese/andheri-west/mumbai
-  30. http://justeat.in/restaurant/china-suburb/1092/thai-chinese-indian/andheri-west/mumbai
-  31. http://justeat.in/restaurant/chinese-corner/1808/thai-chinese/andheri-west/mumbai
-  32. http://justeat.in/restaurant/chinese-pavilion/1097/chinese/andheri-west/mumbai
-  33. http://justeat.in/restaurant/chinthai/1813/thai-chinese/andheri-west/mumbai
-  34. http://justeat.in/restaurant/classic-chinese/1104/chinese/andheri-west/mumbai
-  35. http://justeat.in/restaurant/coastal-cuisine/1105/malvani/andheri-west/mumbai
-  36. http://justeat.in/restaurant/dastar-khwaan/1128/north-indian-bengali/andheri-west/mumbai
-  37. http://justeat.in/restaurant/discovery-restaurant/1824/thai-chinese/andheri-west/mumbai
-  38. http://justeat.in/restaurant/discovery-restaurant/1823/thai-chinese/andheri-west/mumbai
-  39. http://justeat.in/restaurant/dominos-pizza/1153/pizza/andheri-west/mumbai
-  40. http://justeat.in/restaurant/fanoos/1832/pizza-arabian/andheri-west/mumbai
-  41. http://justeat.in/restaurant/firangi-dhaba/1834/punjabi-chinese/andheri-west/mumbai
-  42. http://justeat.in/restaurant/fluid-spice/1836/north-indian-mediterranean/andheri-west/mumbai
-  43. http://justeat.in/restaurant/food-inn/1180/north-indian/andheri-west/mumbai
-  44. http://justeat.in/restaurant/garden-court-restaurant/1203/chinese-indian/andheri-west/mumbai
-  45. http://justeat.in/restaurant/ginger-marie/1210/italian/andheri-west/mumbai
-  46. http://justeat.in/restaurant/golden-chariot/1841/indian/andheri-west/mumbai
-  47. http://justeat.in/restaurant/golden-fork/1218/chinese/andheri-west/mumbai
-  48. http://justeat.in/restaurant/golden-fork/5664/chinese/andheri-west/mumbai
-  49. http://justeat.in/restaurant/golden-gate/1843/north-indian-chinese-european/andheri-west/mumbai
-  50. http://justeat.in/restaurant/grissini/1852/italian-american-cookies-cakes/andheri-west/mumbai
-  51. http://justeat.in/restaurant/guru-da-dhaba/5661/punjabi/andheri-west/mumbai
-  52. http://justeat.in/restaurant/hakka/1854/chinese/andheri-west/mumbai
-  53. http://justeat.in/restaurant/high-point/1252/north-indian-fastfood-chinese-south-indian-juice-ice-cream/andheri-west/mumbai
-  54. http://justeat.in/restaurant/himalaya-chinese-hub/1857/chinese/andheri-west/mumbai
-  55. http://justeat.in/restaurant/hotel-radhakrishna/1261/north-indian-fastfood-snacks-south-indian/andheri-west/mumbai
-  56. http://justeat.in/restaurant/hungry-jack/1266/snacks/andheri-west/mumbai
-  57. http://justeat.in/restaurant/hyderabad-house/1267/mughlai/andheri-west/mumbai
-  58. http://justeat.in/restaurant/ideal-restaurant-bakery-and-store/1873/snacks-coffee/andheri-west/mumbai
-  59. http://justeat.in/restaurant/joeys-pizza/1288/pizza/andheri-west/mumbai
-  60. http://justeat.in/restaurant/jumbo-king/1294/fastfood/andheri-west/mumbai
-  61. http://justeat.in/restaurant/kabab-hut/1301/north-west-frontier/andheri-west/mumbai
-  62. http://justeat.in/restaurant/kailash-parbat/1888/indian-sindhi-punjabi-snacks/andheri-west/mumbai
-  63. http://justeat.in/restaurant/kalinga/1887/north-indian-fastfood-punjabi-chinese-indian-juice/andheri-west/mumbai
-  64. http://justeat.in/restaurant/kareems/1892/mughlai/andheri-west/mumbai
-  65. http://justeat.in/restaurant/kobe-sizzlers/1324/italian-chinese/andheri-west/mumbai
-  66. http://justeat.in/restaurant/lian-soon/1913/chinese/andheri-west/mumbai
-  67. http://justeat.in/restaurant/little-italy/1346/mexican-italian/andheri-west/mumbai
-  68. http://justeat.in/restaurant/mainland-china/1360/chinese/andheri-west/mumbai
-  69. http://justeat.in/restaurant/mcdonalds/1388/fastfood/andheri-west/mumbai
-  70. http://justeat.in/restaurant/mcdonalds/1379/fastfood/andheri-west/mumbai
-  71. http://justeat.in/restaurant/mini-china/1935/chinese/andheri-west/mumbai
-  72. http://justeat.in/restaurant/mista-paaji/1936/punjabi/andheri-west/mumbai
-  73. http://justeat.in/restaurant/mogul-sarai/1938/mughlai/andheri-west/mumbai
-  74. http://justeat.in/restaurant/mostly-kababs/1426/north-indian/andheri-west/mumbai
-  75. http://justeat.in/restaurant/myst/1432/italian-chinese-indian-continental-moroccan/andheri-west/mumbai
-  76. http://justeat.in/restaurant/nootan-pure-veg-restaurant/1950/fastfood-punjabi-chinese-snacks-south-indian/andheri-west/mumbai
-  77. http://justeat.in/restaurant/oasis/1460/chinese-indian-malvani/andheri-west/mumbai
-  78. http://justeat.in/restaurant/oh-calcutta-express/1464/bengali/andheri-west/mumbai
-  79. http://justeat.in/restaurant/oriental-wok/1958/korean-thai-japanese-chinese/andheri-west/mumbai
-  80. http://justeat.in/restaurant/pals-fish-corner/5659/tandoori-seafood-and-moghlai/andheri-west/mumbai
-  81. http://justeat.in/restaurant/papillon-park-hotel/1485/chinese-indian/andheri-west/mumbai
-  82. http://justeat.in/restaurant/pizza-hut/1513/pizza/andheri-west/mumbai
-  83. http://justeat.in/restaurant/poush/1524/kashmiri/andheri-west/mumbai
-  84. http://justeat.in/restaurant/prangan/1526/north-indian-chinese/andheri-west/mumbai
-  85. http://justeat.in/restaurant/quilla/1539/mexican-italian-moroccan/andheri-west/mumbai
-  86. http://justeat.in/restaurant/ratnagiri/1556/chinese-indian-malvani/andheri-west/mumbai
-  87. http://justeat.in/restaurant/red-box-cafe/1558/mexican-italian-western-continental/andheri-west/mumbai
-  88. http://justeat.in/restaurant/rhythm-restaurant-and-bar/1986/general/andheri-west/mumbai
-  89. http://justeat.in/restaurant/rolling-beans/1563/fastfood-coffee/andheri-west/mumbai
-  90. http://justeat.in/restaurant/royal-fantacy-andheriw/5665/north-indian-pizza-beverages/andheri-west/mumbai
-  91. http://justeat.in/restaurant/royal-fantasy/1568/seafood-chinese-indian/andheri-west/mumbai
-  92. http://justeat.in/restaurant/saffron-springs/1575/indian/andheri-west/mumbai
-  93. http://justeat.in/restaurant/sai-leela/1998/fastfood-punjabi-chinese-indian/andheri-west/mumbai
-  94. http://justeat.in/restaurant/salt-n-pepper/1582/north-indian-chinese-south-east-asian/andheri-west/mumbai
-  95. http://justeat.in/restaurant/sankalp/2004/south-indian/andheri-west/mumbai
-  96. http://justeat.in/restaurant/sasural/1598/north-indian-chinese-mughlai/andheri-west/mumbai
-  97. http://justeat.in/restaurant/sernyaa-tibetan-chinese-restaurant/2017/tibetan/andheri-west/mumbai
-  98. http://justeat.in/restaurant/shabari/2019/north-indian-fastfood-chinese-snacks-south-indian/andheri-west/mumbai
-  99. http://justeat.in/restaurant/shan-e-punjab/2025/punjabi-chinese/andheri-west/mumbai
- 100. http://justeat.in/restaurant/shanghai-house/2026/chinese/andheri-west/mumbai
- 101. http://justeat.in/restaurant/sharma-dairy/2029/punjabi-indian/andheri-west/mumbai
- 102. http://justeat.in/restaurant/shatranj-napoli/2031/italian-indian/andheri-west/mumbai
- 103. http://justeat.in/restaurant/shreejees-veg-wonders/2044/multi-cuisine/andheri-west/mumbai
- 104. http://justeat.in/restaurant/sigara/2047/indian-continental/andheri-west/mumbai
- 105. http://justeat.in/restaurant/smokin-joes/1639/pizza/andheri-west/mumbai
- 106. http://justeat.in/restaurant/song-hay/2052/chinese/andheri-west/mumbai
- 107. http://justeat.in/restaurant/swadesh/1687/north-indian-fastfood-chinese-snacks-south-indian/andheri-west/mumbai
- 108. http://justeat.in/restaurant/tan-tra/2075/punjabi/andheri-west/mumbai
- 109. http://justeat.in/restaurant/the-gold-leaf/2094/arabian-mughlai/andheri-west/mumbai
- 110. http://justeat.in/restaurant/the-rice-boat/2107/malyalee-seafood/andheri-west/mumbai
- 111. http://justeat.in/restaurant/time-and-again/1708/north-indian-thai-chinese/andheri-west/mumbai
- 112. http://justeat.in/restaurant/trishna/2116/tandoori-malvani-indian-coastal/andheri-west/mumbai
- 113. http://justeat.in/restaurant/turmerik-grills-and-kurries/2118/indian/andheri-west/mumbai
- 114. http://justeat.in/restaurant/twenty-one-hours/1713/indian-continental/andheri-west/mumbai
- 115. http://justeat.in/restaurant/urban-tadka/1715/north-indian-punjabi/andheri-west/mumbai
- 116. http://justeat.in/restaurant/vanilla/2128/pasta-pizza-italian-indian/andheri-west/mumbai
- 117. http://justeat.in/restaurant/vilas-bar-and-restaurant/2131/indian/andheri-west/mumbai
- 118. http://justeat.in/restaurant/yoko-sizzlers/1738/sizzlers-snacks/andheri-west/mumbai
- 119. http://justeat.in/restaurant/zaffran/1741/north-west-frontier-north-indian/andheri-west/mumbai
- 120. http://justeat.in/restaurant/zus-sizzlers/2157/american-continental-italian/andheri-west/mumbai
- 121. http://www.vizury.com/analyze/analyze.php?account_id=VIZ-VRM-1120&param=c200&city=Mumbai&area=Andheri%20West&cuisine=
- 122. http://justeat.in/location/mumbai/andheri-west-restaurants/152
- 123. http://justeat.in/location/mumbai/powai-restaurants/267
- 124. http://justeat.in/location/mumbai/bandra-kurla-restaurants/779
- 125. http://justeat.in/location/mumbai/mulund-restaurants/778
- 126. http://justeat.in/location/mumbai/malad-west-restaurants/238
- 127. http://justeat.in/location/mumbai/thakurli-restaurants/283
- 128. http://justeat.in/location/mumbai/kharghar-east-restaurants/224
- 129. http://justeat.in/locations/mumbai
- 130. http://justeat.in/cuisine/mumbai/north-indian-restaurants/4
- 131. http://justeat.in/cuisine/mumbai/pizza-restaurants/12
- 132. http://justeat.in/cuisine/mumbai/andhra-style-restaurants/11
- 133. http://justeat.in/cuisine/mumbai/punjabi-restaurants/10
- 134. http://justeat.in/cuisine/mumbai/chinese-restaurants/1
- 135. http://justeat.in/cuisine/mumbai/sweetscakes/19
- 136. http://justeat.in/cuisines/mumbai
- 137. http://justeat.in/all-restaurants/mumbai
- 138. http://justeat.in/locations/mumbai
- 139. http://justeat.in/cuisines/mumbai
- 140. http://justeat.in/us-pizza
- 141. http://justeat.in/papa-johns-pizza
- 142. http://justeat.in/bjn
- 143. http://justeat.in/torrp-it-up
- 144. http://justeat.in/crepe-station
- 145. http://justeat.in/blog
- 146. http://justeat.in/jobs
- 147. http://justeat.in/about
- 148. http://justeat.in/terms
- 149. http://justeat.in/privacy
- 150. http://justeat.in/help
- 151. http://justeat.in/faq1
- 152. http://justeat.in/faq2
- 153. http://justeat.in/recipes
- 154. http://justeat.in/articles
- 155. http://justeat.in/latest-restaurant-reviews/mumbai
- 156. http://justeat.in/gift-vouchers
- 157. http://www.just-eat.com/
+   6. http://justeat.in/restaurant/barcode-zero-53/5644/fast-food/andheri-west/mumbai
+   7. http://justeat.in/restaurant/bhojohori-manna/6211/bengali/jogeshwari-west/mumbai
+   8. http://justeat.in/restaurant/ginger-marie/5657/italian-mexican-and-chinese/andheri-west/mumbai
+   9. http://justeat.in/restaurant/lebanese-point-andheri-w/6227/north-indian-and-lebanese/andheri-west/mumbai
+  10. http://justeat.in/restaurant/little-italy-malad/5789/italian-mexican/malad-west/mumbai
+  11. http://justeat.in/restaurant/pizzaroma/6114/pizza/andheri-west/mumbai
+  12. http://justeat.in/restaurant/rhythm-andheri/5656/multicuisine/andheri-west/mumbai
+  13. http://justeat.in/restaurant/salsa/6341/mediterranean-cuisine/andheri-west/mumbai
+  14. http://justeat.in/restaurant/salsa-andheriw/6217/mediterranian/andheri-west/mumbai
+  15. http://justeat.in/restaurant/salt-n-pepper-andheriw/5674/chinese/andheri-west/mumbai
+  16. http://justeat.in/restaurant/the-grand-nawab/5729/indian-and-lucknowi/andheri-west/mumbai
+  17. http://justeat.in/restaurant/torrp-it-up-andheri/5638/indian-thai-mexican-arabic-italian-continental/andheri-west/mumbai
+  18. http://justeat.in/restaurant/zus-restaurant/6230/north-indian-italian/andheri-west/mumbai
+  19. http://justeat.in/restaurant/zus-sizzlers/5880/chinese/andheri-west/mumbai
+  20. http://justeat.in/restaurant/birdys/5645/fast-food/andheri-west/mumbai
+  21. http://justeat.in/restaurant/golden-fork/5664/chinese/andheri-west/mumbai
+  22. http://justeat.in/restaurant/guru-da-dhaba/5661/punjabi/andheri-west/mumbai
+  23. http://justeat.in/restaurant/pals-fish-corner/5659/tandoori-seafood-and-moghlai/andheri-west/mumbai
+  24. http://justeat.in/restaurant/royal-fantacy-andheriw/5665/north-indian-pizza-beverages/andheri-west/mumbai
+  25. http://www.vizury.com/analyze/analyze.php?account_id=VIZ-VRM-1120&param=c200&city=Mumbai&area=Andheri%20West&cuisine=
+  26. http://justeat.in/location/mumbai/andheri-west-restaurants/152
+  27. http://justeat.in/location/mumbai/powai-restaurants/267
+  28. http://justeat.in/location/mumbai/bandra-kurla-restaurants/779
+  29. http://justeat.in/location/mumbai/mulund-restaurants/778
+  30. http://justeat.in/location/mumbai/malad-west-restaurants/238
+  31. http://justeat.in/location/mumbai/thakurli-restaurants/283
+  32. http://justeat.in/location/mumbai/kharghar-east-restaurants/224
+  33. http://justeat.in/locations/mumbai
+  34. http://justeat.in/cuisine/mumbai/north-indian-restaurants/4
+  35. http://justeat.in/cuisine/mumbai/pizza-restaurants/12
+  36. http://justeat.in/cuisine/mumbai/andhra-style-restaurants/11
+  37. http://justeat.in/cuisine/mumbai/punjabi-restaurants/10
+  38. http://justeat.in/cuisine/mumbai/chinese-restaurants/1
+  39. http://justeat.in/cuisine/mumbai/sweetscakes/19
+  40. http://justeat.in/cuisines/mumbai
+  41. http://justeat.in/all-restaurants/mumbai
+  42. http://justeat.in/locations/mumbai
+  43. http://justeat.in/cuisines/mumbai
+  44. http://justeat.in/us-pizza
+  45. http://justeat.in/papa-johns-pizza
+  46. http://justeat.in/bjn
+  47. http://justeat.in/torrp-it-up
+  48. http://justeat.in/crepe-station
+  49. http://justeat.in/blog
+  50. http://justeat.in/jobs
+  51. http://justeat.in/about
+  52. http://justeat.in/terms
+  53. http://justeat.in/privacy
+  54. http://justeat.in/help
+  55. http://justeat.in/faq1
+  56. http://justeat.in/faq2
+  57. http://justeat.in/recipes
+  58. http://justeat.in/articles
+  59. http://justeat.in/latest-restaurant-reviews/mumbai
+  60. http://justeat.in/gift-vouchers
+  61. http://www.just-eat.com/
 
    Hidden links:
- 159. http://justeat.in/user/restaurant_register
- 160. http://www.twitter.com/justeat_india
- 161. http://www.youtube.com/user/TVjusteat
- 162. http://www.facebook.com/JustEatIndia
- 163. http://www.just-eat.dk/
- 164. http://www.just-eat.no/
- 165. http://www.just-eat.se/
- 166. http://www.just-eat.ca/
- 167. http://www.just-delivery.com.br/
- 168. http://justeat.in/
- 169. http://www.just-eat.ie/
- 170. http://www.just-eat.it/
- 171. http://www.just-eat.be/
- 172. http://www.justeat.nl/
- 173. http://www.just-eat.es/
- 174. http://www.eat.ch/
- 175. http://www.just-eat.co.uk/
+  63. http://justeat.in/user/restaurant_register
+  64. http://www.twitter.com/justeat_india
+  65. http://www.youtube.com/user/TVjusteat
+  66. http://www.facebook.com/JustEatIndia
+  67. http://www.just-eat.dk/
+  68. http://www.just-eat.no/
+  69. http://www.just-eat.se/
+  70. http://www.just-eat.ca/
+  71. http://www.just-delivery.com.br/
+  72. http://justeat.in/
+  73. http://www.just-eat.ie/
+  74. http://www.just-eat.it/
+  75. http://www.just-eat.be/
+  76. http://www.justeat.nl/
+  77. http://www.just-eat.es/
+  78. http://www.eat.ch/
+  79. http://www.just-eat.co.uk/
