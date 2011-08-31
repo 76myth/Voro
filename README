@@ -15,6 +15,9 @@ Install `voro`:
     (voro-env)$ cd voro-env/src/voro
     (voro-env)$ python setup.py develop
 
+Setup 'Lynx' :
+    $ sudo apt-get install lynx
+
 
 Voro has a nice ring to it.
 
