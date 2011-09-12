@@ -6,6 +6,7 @@ Voro.egg-info/SOURCES.txt
 Voro.egg-info/dependency_links.txt
 Voro.egg-info/entry_points.txt
 Voro.egg-info/not-zip-safe
+Voro.egg-info/requires.txt
 Voro.egg-info/top_level.txt
 voro/__init__.py
 voro/lib/__init__.py
