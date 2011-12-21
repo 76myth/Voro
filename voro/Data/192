@@ -1,0 +1,73 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VLittle Hut
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/little-hut_malvani_mumbai_restaurants/13711801772
+p11
+sS'region'
+p12
+VMalvani
+p13
+sS'phone'
+p14
+(lp15
+V28880516
+p16
+aV 9892203511
+p17
+asS'cost'
+p18
+g7
+sS'addr'
+p19
+VShop No 154, Block No 1, B M C Colony, Near Firebrigade Office, Malvani, Malad West, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g7
+sg8
+VChifs Corner Hotel
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/chifs-corner-hotel_malvani_mumbai_restaurants/14311802366
+p26
+sg12
+VMalvani
+p27
+sg14
+(lp28
+V28817854
+p29
+aV 9224288572
+p30
+aV 9987053675
+p31
+asg18
+g7
+sg19
+VShop No 6, Plot No 5, Reshma Building, Mare Road, Malvani, Malad West, Mumbai
+p32
+sba.

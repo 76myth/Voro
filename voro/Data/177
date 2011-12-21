@@ -1,0 +1,70 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VTAO - An Asian Journey
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/tao---an-asian-journey_midc-chakala_mumbai_restaurants/1271342782
+p11
+sS'region'
+p12
+VMIDC Chakala
+p13
+sS'phone'
+p14
+(lp15
+V66726672
+p16
+asS'cost'
+p17
+V3
+p18
+sS'addr'
+p19
+VMIDC Chakala, Andheri East, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VBars & Pubs
+p24
+aV Restaurants
+p25
+asg6
+g18
+sg8
+VZerza Restobar
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/zerza-restobar_midc-chakala_mumbai_bars-pubs-restaurants/1611490148
+p27
+sg12
+VMIDC Chakala
+p28
+sg14
+(lp29
+V66726672
+p30
+asg17
+g18
+sg19
+VMIDC Chakala, Andheri East, Mumbai
+p31
+sba.

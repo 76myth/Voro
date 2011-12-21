@@ -1,0 +1,338 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VMasalazone Bar & Kitchen
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/masalazone-bar-kitchen_bandra-reclamation_mumbai_restaurants/1831519326
+p11
+sS'region'
+p12
+VBandra Reclamation
+p13
+sS'phone'
+p14
+(lp15
+V26452031
+p16
+aV 26439239
+p17
+aV 9820403111
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+V21-B, Santhal ONGC Complex, Opposite Leelavati Hosptial, Bandra Reclamation, Bandra West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+aV Cafes
+p27
+asg6
+g7
+sg8
+VQuench
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/quench_bandra-reclamation_mumbai_restaurants-cafes/1605234049
+p29
+sg12
+VBandra Reclamation
+p30
+sg14
+(lp31
+V26400511
+p32
+asg19
+g20
+sg21
+VBandra Reclamation, Bandra West, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g7
+sg8
+VChez Moi
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/chez-moi_bandra-reclamation_mumbai_restaurants/1316239178
+p39
+sg12
+VBandra Reclamation
+p40
+sg14
+(lp41
+V7738382407
+p42
+asg19
+V3
+p43
+sg21
+VHouse No.13, Candies Lane, Bandra Reclamation, Bandra West, Mumbai
+p44
+sba(i__main__
+Place
+p45
+(dp46
+g3
+(lp47
+VRestaurants
+p48
+aV Cafes
+p49
+aV Delicatessens
+p50
+asg6
+g43
+sg8
+VSalt Water Cafe
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/salt-water-cafe_bandra-reclamation_mumbai_restaurants-cafes-delicatessens/1151314594
+p52
+sg12
+VBandra Reclamation
+p53
+sg14
+(lp54
+V26434441
+p55
+aV 32710520
+p56
+asg19
+g43
+sg21
+VRose Minar Annexe, 87, Chapel Road, Next to Mount Carmel Church, Bandra Reclamation, Bandra West, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g43
+sg8
+VSai Sagar
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-sagar_bandra-reclamation_mumbai_restaurants/17151138
+p63
+sg12
+VBandra Reclamation
+p64
+sg14
+(lp65
+V26413629
+p66
+aV 26424324
+p67
+aV 26518246
+p68
+asg19
+g20
+sg21
+VBandra (W), Bandra (W), Bandra Reclamation, Bandra West, Mumbai
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VOutdoor Caterers
+p73
+aV Cafes
+p74
+aV Dessert Shops
+p75
+aV Fast Food Shops
+p76
+aV Restaurants
+p77
+aV Delicatessens
+p78
+aV Bakery Shops
+p79
+asg6
+g7
+sg8
+VLancys Java Joy
+p80
+sg10
+Vhttp://mumbai.burrp.com/listing/lancys-java-joy_bandra-reclamation_mumbai_outdoor-caterers-cafes-dessert-shops/1635153346
+p81
+sg12
+VBandra Reclamation
+p82
+sg14
+(lp83
+V26432275
+p84
+asg19
+g20
+sg21
+VShop No.14, ONGC Complex, Near Lilavati Hospital, Bandra Reclamation, Bandra West, Mumbai
+p85
+sba(i__main__
+Place
+p86
+(dp87
+g3
+(lp88
+VRestaurants
+p89
+asg6
+g20
+sg8
+VZaza
+p90
+sg10
+Vhttp://mumbai.burrp.com/listing/zaza_bandra-reclamation_mumbai_restaurants/1705442039
+p91
+sg12
+VBandra Reclamation
+p92
+sg14
+(lp93
+V26455800
+p94
+aV 26455801
+p95
+asg19
+V0
+p96
+sg21
+V5/6 Geliki, ONGC Building No.2, Bandra Reclamation, Bandra West, Mumbai
+p97
+sba(i__main__
+Place
+p98
+(dp99
+g3
+(lp100
+VRestaurants
+p101
+asg6
+g43
+sg8
+VMasalacraft
+p102
+sg10
+Vhttp://mumbai.burrp.com/listing/masalacraft_bandra-reclamation_mumbai_restaurants/1821519227
+p103
+sg12
+VBandra Reclamation
+p104
+sg14
+(lp105
+V26452031
+p106
+aV 26439239
+p107
+aV 9820403111
+p108
+asg19
+g20
+sg21
+V21-B, Santhal ONGC Complex, Opposite Leelavati Hosptial, Next to Candies, Bandra Reclamation, Bandra West, Mumbai
+p109
+sba(i__main__
+Place
+p110
+(dp111
+g3
+(lp112
+VDessert Shops
+p113
+aV Cafes
+p114
+aV Restaurants
+p115
+aV Bakery Shops
+p116
+asg6
+g96
+sg8
+VJalal Bakery
+p117
+sg10
+Vhttp://mumbai.burrp.com/listing/jalal-bakery_bandra-reclamation_mumbai_dessert-shops-cafes-restaurants/1557726554
+p118
+sg12
+VBandra Reclamation
+p119
+sg14
+(lp120
+V26406231
+p121
+aV 26407207
+p122
+aV 9820316646
+p123
+asg19
+g96
+sg21
+VCakes And Cookies, Bandra Reclamation, Bandra West, Mumbai
+p124
+sba(i__main__
+Place
+p125
+(dp126
+g3
+(lp127
+VRestaurants
+p128
+asg6
+g96
+sg8
+VOceania
+p129
+sg10
+Vhttp://mumbai.burrp.com/listing/oceania_bandra-reclamation_mumbai_restaurants/14515123564
+p130
+sg12
+VBandra Reclamation
+p131
+sg14
+(lp132
+V26401919
+p133
+asg19
+g96
+sg21
+VHotel Rang Sharda, KC Margh, Bandra Reclamation, Bandra West, Mumbai
+p134
+sba.

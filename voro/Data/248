@@ -1,0 +1,2108 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VSpaghetti Kitchen
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/spaghetti-kitchen_powai_mumbai_restaurants/1554999554
+p11
+sS'region'
+p12
+VPowai
+p13
+sS'phone'
+p14
+(lp15
+V66718800
+p16
+asS'cost'
+p17
+V3
+p18
+sS'addr'
+p19
+VHiranandani Gardens, 103 Ventura Park, IT Building, Above Aromas Café, Powai, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g7
+sg8
+VMainland China
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/mainland-china_powai_mumbai_restaurants/1281234881
+p26
+sg12
+VPowai
+p27
+sg14
+(lp28
+V25708800
+p29
+aV 25708821
+p30
+aV 25708820
+p31
+asg17
+g18
+sg19
+V1st Floor, City Park, Hiranandani, Powai, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VBars & Pubs
+p36
+aV Restaurants
+p37
+aV Lounges
+p38
+asg6
+g7
+sg8
+VRude Lounge
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/rude-lounge_powai_mumbai_bars-pubs-restaurants-lounges/1874966722
+p40
+sg12
+VPowai
+p41
+sg14
+(lp42
+V25703388
+p43
+aV 25704433
+p44
+asg17
+V2
+p45
+sg19
+VNear to Shipping Corporation, Main Gate, A.S. Marg, Powai, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g18
+sg8
+VThe Yellow Chilli
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/the-yellow-chilli_powai_mumbai_restaurants/1482460861
+p52
+sg12
+VPowai
+p53
+sg14
+(lp54
+V40156161
+p55
+aV 25706062
+p56
+asg17
+g45
+sg19
+V2nd Floor, City Park, Hiranandani Gardens, Near D-Mart, Powai, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g7
+sg8
+VBijoli Grill
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/bijoli-grill_powai_mumbai_restaurants/1425709267
+p63
+sg12
+VPowai
+p64
+sg14
+(lp65
+V65286604
+p66
+aV 65286605
+p67
+asg17
+g45
+sg19
+VHakone Childrens Park, Hiranandani, Powai, Mumbai
+p68
+sba(i__main__
+Place
+p69
+(dp70
+g3
+(lp71
+VRestaurants
+p72
+asg6
+g7
+sg8
+VLake View Cafe
+p73
+sg10
+Vhttp://mumbai.burrp.com/listing/lake-view-cafe_powai_mumbai_restaurants/18570524
+p74
+sg12
+VPowai
+p75
+sg14
+(lp76
+V66927550
+p77
+aV 66927777 
+p78
+asg17
+g7
+sg19
+VLocated in Renaissance Hotel, Powai, Mumbai
+p79
+sba(i__main__
+Place
+p80
+(dp81
+g3
+(lp82
+VCafes
+p83
+aV Outdoor Caterers
+p84
+aV Restaurants
+p85
+aV Lounges
+p86
+asg6
+g18
+sg8
+VBistro Grill
+p87
+sg10
+Vhttp://mumbai.burrp.com/listing/bistro-grill_iit-powai_mumbai_cafes-outdoor-caterers-restaurants/1701365039
+p88
+sg12
+VIIT Powai
+p89
+sg14
+(lp90
+V40157888
+p91
+aV 40157889
+p92
+asg17
+g45
+sg19
+VShop No.G1-G3, Ventura Building, Ground Floor, Hiranandani Gardens, IIT Powai, Powai, Mumbai
+p93
+sba(i__main__
+Place
+p94
+(dp95
+g3
+(lp96
+VRestaurants
+p97
+asg6
+g18
+sg8
+VCafe Mangii
+p98
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-mangii_powai_mumbai_restaurants/1715739138
+p99
+sg12
+VPowai
+p100
+sg14
+(lp101
+V25705136
+p102
+aV 25705137
+p103
+aV 25705139
+p104
+aV 9867603640
+p105
+asg17
+g45
+sg19
+VShop No. 3, Transocean House, Ground Floor, Lake Boulevard Road, Hiranandani Business Park, Powai, Mumbai
+p106
+sba(i__main__
+Place
+p107
+(dp108
+g3
+(lp109
+VRestaurants
+p110
+asg6
+g18
+sg8
+VOut Of The Blue
+p111
+sg10
+Vhttp://mumbai.burrp.com/listing/out-of-the-blue_powai_mumbai_restaurants/13522043574
+p112
+sg12
+VPowai
+p113
+sg14
+(lp114
+V25717344
+p115
+aV 8879366202
+p116
+aV 8879366201
+p117
+aV 8879366203
+p118
+asg17
+g18
+sg19
+VLevel I, Haiko Mall, Hiranandani Gardens, Powai, Mumbai
+p119
+sba(i__main__
+Place
+p120
+(dp121
+g3
+(lp122
+VOutdoor Caterers
+p123
+aV Restaurants
+p124
+asg6
+g7
+sg8
+VMurali Hotel
+p125
+sg10
+Vhttp://mumbai.burrp.com/listing/murali-hotel_powai_mumbai_outdoor-caterers-restaurants/172798237
+p126
+sg12
+VPowai
+p127
+sg14
+(lp128
+V9930783012
+p129
+aV 9987519741
+p130
+asg17
+V1
+p131
+sg19
+VSaki Vihar Road, 1st Floor, Above Thunga bus stop, Powai, Mumbai
+p132
+sba(i__main__
+Place
+p133
+(dp134
+g3
+(lp135
+VRestaurants
+p136
+asg6
+g18
+sg8
+VSaffron Spice
+p137
+sg10
+Vhttp://mumbai.burrp.com/listing/saffron-spice_powai_mumbai_restaurants/175159534
+p138
+sg12
+VPowai
+p139
+sg14
+(lp140
+V25703838
+p141
+asg17
+g45
+sg19
+V101, Adi Sankaracharya Marg, Hiranandani Gardens, Powai, Mumbai
+p142
+sba(i__main__
+Place
+p143
+(dp144
+g3
+(lp145
+VRestaurants
+p146
+asg6
+g18
+sg8
+VMantra
+p147
+sg10
+Vhttp://mumbai.burrp.com/listing/mantra_powai_mumbai_restaurants/1401317069
+p148
+sg12
+VPowai
+p149
+sg14
+(lp150
+V25702501
+p151
+aV 25702502
+p152
+aV 25702504
+p153
+asg17
+V0
+p154
+sg19
+VGround Floor, Powai Plaza, Hiranandani Gardens, Powai, Mumbai
+p155
+sba(i__main__
+Place
+p156
+(dp157
+g3
+(lp158
+VRestaurants
+p159
+asg6
+g7
+sg8
+VDolphy's
+p160
+sg10
+Vhttp://mumbai.burrp.com/listing/dolphys_powai_mumbai_restaurants/12515022584
+p161
+sg12
+VPowai
+p162
+sg14
+(lp163
+V25717271
+p164
+asg17
+g45
+sg19
+VGalleria Mall, Shop No. 153-F, Hiranandani, Powai, Mumbai
+p165
+sba(i__main__
+Place
+p166
+(dp167
+g3
+(lp168
+VBars & Pubs
+p169
+aV Restaurants
+p170
+asg6
+g18
+sg8
+VKinnkon Roccs Resto-Bar
+p171
+sg10
+Vhttp://mumbai.burrp.com/listing/kinnkon-roccs-resto-bar_powai_mumbai_bars-pubs-restaurants/1935012316
+p172
+sg12
+VPowai
+p173
+sg14
+(lp174
+V25717157
+p175
+aV 25717158
+p176
+asg17
+g45
+sg19
+V101 Delta Bulding, Next to Olympia, Hiranandani Gardens, Powai, Mumbai
+p177
+sba(i__main__
+Place
+p178
+(dp179
+g3
+(lp180
+VRestaurants
+p181
+asg6
+g18
+sg8
+VJughead's -The Unrestaurant
+p182
+sg10
+Vhttp://mumbai.burrp.com/listing/jugheads--the-unrestaurant_powai_mumbai_restaurants/168833841
+p183
+sg12
+VPowai
+p184
+sg14
+(lp185
+V25705222
+p186
+aV 25705333
+p187
+asg17
+g45
+sg19
+VJheel Darshan, Opposite Powai Lake, Powai, Mumbai
+p188
+sba(i__main__
+Place
+p189
+(dp190
+g3
+(lp191
+VBars & Pubs
+p192
+aV Restaurants
+p193
+aV Dessert Shops
+p194
+aV Cafes
+p195
+asg6
+g18
+sg8
+VMocha
+p196
+sg10
+Vhttp://mumbai.burrp.com/listing/mocha_powai_mumbai_bars-pubs-restaurants-dessert-shops/19744712
+p197
+sg12
+VPowai
+p198
+sg14
+(lp199
+V40051800
+p200
+aV 25703674
+p201
+aV 40054800
+p202
+aV 400514800
+p203
+asg17
+g154
+sg19
+VGalleria, 135 Hiranandani Gardens, Powai, Mumbai
+p204
+sba(i__main__
+Place
+p205
+(dp206
+g3
+(lp207
+VCafes
+p208
+aV Restaurants
+p209
+asg6
+g7
+sg8
+VRetro Rewind Cafe
+p210
+sg10
+Vhttp://mumbai.burrp.com/listing/retro-rewind-cafe_iit-powai_mumbai_cafes-restaurants/12518424584
+p211
+sg12
+VIIT Powai
+p212
+sg14
+(lp213
+V32267767
+p214
+aV 25700799
+p215
+aV 983345078
+p216
+aV 9819064145
+p217
+asg17
+g45
+sg19
+V2, 3, Sadguru CHS (Pant Farm), ADS Marg, IIT Powai, Powai, Mumbai
+p218
+sba(i__main__
+Place
+p219
+(dp220
+g3
+(lp221
+VRestaurants
+p222
+asg6
+g7
+sg8
+VFar East
+p223
+sg10
+Vhttp://mumbai.burrp.com/listing/far-east_powai_mumbai_restaurants/172114237
+p224
+sg12
+VPowai
+p225
+sg14
+(lp226
+V66936969
+p227
+asg17
+g45
+sg19
+VCentral Avenue, Hiranandani Gardens, IIT Powai, Powai, Mumbai
+p228
+sba(i__main__
+Place
+p229
+(dp230
+g3
+(lp231
+VRestaurants
+p232
+asg6
+g18
+sg8
+VChina House
+p233
+sg10
+Vhttp://mumbai.burrp.com/listing/china-house_powai_mumbai_restaurants/1715298138
+p234
+sg12
+VPowai
+p235
+sg14
+(lp236
+V25700535
+p237
+aV 40263100
+p238
+asg17
+g45
+sg19
+V136-138A Galleria Shopping Centre, Hiranandani Gardens, Powai, Mumbai
+p239
+sba(i__main__
+Place
+p240
+(dp241
+g3
+(lp242
+VRestaurants
+p243
+asg6
+g18
+sg8
+VParabola
+p244
+sg10
+Vhttp://mumbai.burrp.com/listing/parabola_powai_mumbai_restaurants/117135792
+p245
+sg12
+VPowai
+p246
+sg14
+(lp247
+V66936969
+p248
+asg17
+g18
+sg19
+VCentral Avenue, Hiranandani Gardens, Powai, Mumbai
+p249
+sba(i__main__
+Place
+p250
+(dp251
+g3
+(lp252
+VRestaurants
+p253
+asg6
+g7
+sg8
+VFratelli Fresh
+p254
+sg10
+Vhttp://mumbai.burrp.com/listing/fratelli-fresh_powai_mumbai_restaurants/1591309950
+p255
+sg12
+VPowai
+p256
+sg14
+(lp257
+V66927141
+p258
+aV 66927540
+p259
+asg17
+g18
+sg19
+VLocated in Renaissance Hotel, Powai, Mumbai
+p260
+sba(i__main__
+Place
+p261
+(dp262
+g3
+(lp263
+VRestaurants
+p264
+asg6
+g18
+sg8
+VChina Valley
+p265
+sg10
+Vhttp://mumbai.burrp.com/listing/china-valley_powai_mumbai_restaurants/158409851
+p266
+sg12
+VPowai
+p267
+sg14
+(lp268
+V25701484
+p269
+aV 25701035
+p270
+aV 65716503
+p271
+asg17
+g45
+sg19
+VPlot No.9-B, Kopari Village, Powai, Mumbai
+p272
+sba(i__main__
+Place
+p273
+(dp274
+g3
+(lp275
+VRestaurants
+p276
+aV Bars & Pubs
+p277
+asg6
+g45
+sg8
+VChili's Grill & Restaurant
+p278
+sg10
+Vhttp://mumbai.burrp.com/listing/chilis-grill-restaurant_powai_mumbai_restaurants-bars-pubs/1454827564
+p279
+sg12
+VPowai
+p280
+sg14
+(lp281
+V67419002
+p282
+aV 67419003
+p283
+aV 67419004
+p284
+asg17
+g18
+sg19
+VVentura Building, Hiranandani Business Park, Central Avenue Rd., Powai, Mumbai
+p285
+sba(i__main__
+Place
+p286
+(dp287
+g3
+(lp288
+VHome Caterers
+p289
+aV Restaurants
+p290
+aV Outdoor Caterers
+p291
+aV Take Away Shops
+p292
+asg6
+g7
+sg8
+VKosho 
+p293
+sg10
+Vhttp://mumbai.burrp.com/listing/kosho-_powai_mumbai_home-caterers-restaurants-outdoor-caterers/1564423653
+p294
+sg12
+VPowai
+p295
+sg14
+(lp296
+V28578391
+p297
+aV 28578392
+p298
+aV 9820653210
+p299
+asg17
+g131
+sg19
+VD1, Nahar Shopping Complex, Nahar Amrit Shakti, Lok Milan Branch, Powai, Mumbai
+p300
+sba(i__main__
+Place
+p301
+(dp302
+g3
+(lp303
+VRestaurants
+p304
+asg6
+g7
+sg8
+VEmperor's Court
+p305
+sg10
+Vhttp://mumbai.burrp.com/listing/emperors-court_powai_mumbai_restaurants/171114138
+p306
+sg12
+VPowai
+p307
+sg14
+(lp308
+V66927561
+p309
+asg17
+g18
+sg19
+VLocated in Renaissance Hotel, Powai, Mumbai
+p310
+sba(i__main__
+Place
+p311
+(dp312
+g3
+(lp313
+VRestaurants
+p314
+asg6
+g7
+sg8
+VThe Flavour Charpai
+p315
+sg10
+Vhttp://mumbai.burrp.com/listing/the-flavour-charpai_powai_mumbai_restaurants/1672777742
+p316
+sg12
+VPowai
+p317
+sg14
+(lp318
+V40104100
+p319
+aV 42152100
+p320
+asg17
+g45
+sg19
+V149 F Galleria, Hiranandani Gardens, Powai, Mumbai
+p321
+sba(i__main__
+Place
+p322
+(dp323
+g3
+(lp324
+VRestaurants
+p325
+asg6
+g45
+sg8
+VThe Great Kabab Factory
+p326
+sg10
+Vhttp://mumbai.burrp.com/listing/the-great-kabab-factory_powai_mumbai_restaurants/1294519980
+p327
+sg12
+VPowai
+p328
+sg14
+(lp329
+V67587071
+p330
+aV 67587072
+p331
+aV 8080147851
+p332
+asg17
+g18
+sg19
+V14, Ventury Bldg, Hiranandani Business Park, Central Avenue Road, Powai, Mumbai
+p333
+sba(i__main__
+Place
+p334
+(dp335
+g3
+(lp336
+VRestaurants
+p337
+asg6
+g18
+sg8
+VUtsav Restaurant
+p338
+sg10
+Vhttp://mumbai.burrp.com/listing/utsav-restaurant_powai_mumbai_restaurants/1771311732
+p339
+sg12
+VPowai
+p340
+sg14
+(lp341
+V25705356
+p342
+aV 25705357
+p343
+aV 9819258618
+p344
+asg17
+g45
+sg19
+VHiranandani Gardens, Opposite Hiranandani School, Powai, Mumbai
+p345
+sba(i__main__
+Place
+p346
+(dp347
+g3
+(lp348
+VRestaurants
+p349
+asg6
+g7
+sg8
+VPizzaroma Powai
+p350
+sg10
+Vhttp://mumbai.burrp.com/listing/pizzaroma-powai_iit-powai_mumbai_restaurants/13722673772
+p351
+sg12
+VIIT Powai
+p352
+sg14
+(lp353
+V66979992
+p354
+aV 66979993
+p355
+aV 66979994
+p356
+aV 66979995
+p357
+asg17
+g45
+sg19
+VShop No 50, Powai Plaza, Hiranandani Gardens, IIT Powai, Powai, Mumbai
+p358
+sba(i__main__
+Place
+p359
+(dp360
+g3
+(lp361
+VRestaurants
+p362
+asg6
+g7
+sg8
+VGary's Menu
+p363
+sg10
+Vhttp://mumbai.burrp.com/listing/garys-menu_powai_mumbai_restaurants/189115920
+p364
+sg12
+VPowai
+p365
+sg14
+(lp366
+V25706159
+p367
+aV 25701786
+p368
+asg17
+g154
+sg19
+VNo.1, Daffodil, Hiranandani Gardens, Powai, Mumbai
+p369
+sba(i__main__
+Place
+p370
+(dp371
+g3
+(lp372
+VRestaurants
+p373
+asg6
+g7
+sg8
+VLaxmi
+p374
+sg10
+Vhttp://mumbai.burrp.com/listing/laxmi_powai_mumbai_restaurants/122739287
+p375
+sg12
+VPowai
+p376
+sg14
+(lp377
+V25785963
+p378
+aV 25770171
+p379
+aV 25788879
+p380
+asg17
+g45
+sg19
+VExclusive Appartment, Ali Shankar Archary  Road, Powai, Mumbai
+p381
+sba(i__main__
+Place
+p382
+(dp383
+g3
+(lp384
+VRestaurants
+p385
+asg6
+g45
+sg8
+VSmokin' Joe's
+p386
+sg10
+Vhttp://mumbai.burrp.com/listing/smokin-joes_powai_mumbai_restaurants/19817811
+p387
+sg12
+VPowai
+p388
+sg14
+(lp389
+V25702927
+p390
+aV 25702928
+p391
+asg17
+g154
+sg19
+V60, Galleria, Hiranandani Gardens, Powai, Mumbai
+p392
+sba(i__main__
+Place
+p393
+(dp394
+g3
+(lp395
+VRestaurants
+p396
+asg6
+g131
+sg8
+VYoko Sizzlers
+p397
+sg10
+Vhttp://mumbai.burrp.com/listing/yoko-sizzlers_powai_mumbai_restaurants/172762237
+p398
+sg12
+VPowai
+p399
+sg14
+(lp400
+V25703674
+p401
+aV 40054100
+p402
+asg17
+g45
+sg19
+VGalleria Shopping Mall, Hiranandani Gardens, Powai, Mumbai
+p403
+sba(i__main__
+Place
+p404
+(dp405
+g3
+(lp406
+VTake Away Shops
+p407
+aV Restaurants
+p408
+asg6
+V5
+p409
+sg8
+VSpice Hut
+p410
+sg10
+Vhttp://mumbai.burrp.com/listing/spice-hut_powai_mumbai_take-away-shops-restaurants/1584576851
+p411
+sg12
+VPowai
+p412
+sg14
+(lp413
+V9768011221
+p414
+aV 9768022112
+p415
+aV 9768118221
+p416
+aV 9768089221
+p417
+asg17
+g131
+sg19
+V150/151, Galleria, Hiranandani Gardens, Powai, Mumbai
+p418
+sba(i__main__
+Place
+p419
+(dp420
+g3
+(lp421
+VBars & Pubs
+p422
+aV Restaurants
+p423
+asg6
+g7
+sg8
+VJugheads Restaurant
+p424
+sg10
+Vhttp://mumbai.burrp.com/listing/jugheads-restaurant_powai_mumbai_bars-pubs-restaurants/14112630168
+p425
+sg12
+VPowai
+p426
+sg14
+(lp427
+V25705222
+p428
+aV 25705333
+p429
+aV 25705444
+p430
+aV 25705666
+p431
+asg17
+g154
+sg19
+V1st Floor, Jheel Darshan, G N Road, Powai, Mumbai
+p432
+sba(i__main__
+Place
+p433
+(dp434
+g3
+(lp435
+VRestaurants
+p436
+aV Bars & Pubs
+p437
+asg6
+g7
+sg8
+VFusion
+p438
+sg10
+Vhttp://mumbai.burrp.com/listing/fusion_powai_mumbai_restaurants-bars-pubs/125145584
+p439
+sg12
+VPowai
+p440
+sg14
+(lp441
+V28575000
+p442
+aV 28578686
+p443
+aV 28578693
+p444
+asg17
+g154
+sg19
+VThe Residence Hotel, Saki Vihar Road, Before NITIE, Powai, Mumbai
+p445
+sba(i__main__
+Place
+p446
+(dp447
+g3
+(lp448
+VJuice Parlours
+p449
+aV Restaurants
+p450
+aV Take Away Shops
+p451
+aV Fast Food Shops
+p452
+asg6
+g7
+sg8
+VRasoi
+p453
+sg10
+Vhttp://mumbai.burrp.com/listing/rasoi_powai_mumbai_juice-parlours-restaurants-take-away-shops/1194464990
+p454
+sg12
+VPowai
+p455
+sg14
+(lp456
+V25707712
+p457
+aV 25707713
+p458
+aV 9004384985
+p459
+asg17
+g131
+sg19
+V81-82 Powai Plaza, A.S. Marg, Hiranandani Gardens, Powai, Mumbai
+p460
+sba(i__main__
+Place
+p461
+(dp462
+g3
+(lp463
+VRestaurants
+p464
+asg6
+g7
+sg8
+VParatha World
+p465
+sg10
+Vhttp://mumbai.burrp.com/listing/paratha-world_powai_mumbai_restaurants/11924264990
+p466
+sg12
+VPowai
+p467
+sg14
+(lp468
+V65220076
+p469
+asg17
+g154
+sg19
+V155, Galleria Food Mall, Hiranandani, Powai, Mumbai
+p470
+sba(i__main__
+Place
+p471
+(dp472
+g3
+(lp473
+VRestaurants
+p474
+asg6
+g18
+sg8
+VDomino's Pizza
+p475
+sg10
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_powai_mumbai_restaurants/14439465
+p476
+sg12
+VPowai
+p477
+sg14
+(lp478
+V25705720
+p479
+aV 25705718
+p480
+aV 25705719
+p481
+aV 25705721
+p482
+asg17
+g45
+sg19
+VGalleria, Shop No. 159, 160, 161, Opp. Bayer House, Powai, Mumbai
+p483
+sba(i__main__
+Place
+p484
+(dp485
+g3
+(lp486
+VRestaurants
+p487
+asg6
+g131
+sg8
+VHerb n Spice
+p488
+sg10
+Vhttp://mumbai.burrp.com/listing/herb-n-spice_powai_mumbai_restaurants/163878346
+p489
+sg12
+VPowai
+p490
+sg14
+(lp491
+V67776111
+p492
+aV 67776000
+p493
+asg17
+g18
+sg19
+VRamada Powai, Before Vihar Lake, Powai, Mumbai
+p494
+sba(i__main__
+Place
+p495
+(dp496
+g3
+(lp497
+VRestaurants
+p498
+aV Bars & Pubs
+p499
+asg6
+g18
+sg8
+VMaple Restaurant & Bar
+p500
+sg10
+Vhttp://mumbai.burrp.com/listing/maple-restaurant-bar_powai_mumbai_restaurants-bars-pubs/1831384326
+p501
+sg12
+VPowai
+p502
+sg14
+(lp503
+V25708331
+p504
+aV 25708332
+p505
+aV 25701780
+p506
+aV 9820474737  
+p507
+asg17
+g45
+sg19
+VCrystal Building, Powai Vihar Complex, Powai, Mumbai
+p508
+sba(i__main__
+Place
+p509
+(dp510
+g3
+(lp511
+VRestaurants
+p512
+aV Cafes
+p513
+asg6
+g45
+sg8
+VAura Deli
+p514
+sg10
+Vhttp://mumbai.burrp.com/listing/aura-deli_powai_mumbai_restaurants-cafes/1402757069
+p515
+sg12
+VPowai
+p516
+sg14
+(lp517
+V66936969
+p518
+asg17
+g45
+sg19
+VHotel Rodas, Hiranandani Gardens, Powai, Mumbai
+p519
+sba(i__main__
+Place
+p520
+(dp521
+g3
+(lp522
+VRestaurants
+p523
+asg6
+g154
+sg8
+VRuchi Restaurant
+p524
+sg10
+Vhttp://mumbai.burrp.com/listing/ruchi-restaurant_powai_mumbai_restaurants/17512606534
+p525
+sg12
+VPowai
+p526
+sg14
+(lp527
+V64482444
+p528
+aV 28571279
+p529
+asg17
+g45
+sg19
+VSaki Vihar Road, Powai, Mumbai
+p530
+sba(i__main__
+Place
+p531
+(dp532
+g3
+(lp533
+VRestaurants
+p534
+asg6
+g154
+sg8
+VSip N Dine
+p535
+sg10
+Vhttp://mumbai.burrp.com/listing/sip-n-dine_iit-powai_mumbai_restaurants/1355618574
+p536
+sg12
+VIIT Powai
+p537
+sg14
+(lp538
+V25796019
+p539
+aV 25796011
+p540
+asg17
+g131
+sg19
+VIIT Gate No. 2, Apna Bazar Road, IIT Powai, Powai, Mumbai
+p541
+sba(i__main__
+Place
+p542
+(dp543
+g3
+(lp544
+VRestaurants
+p545
+aV Bars & Pubs
+p546
+asg6
+g154
+sg8
+VSealand Restaurant & Bar
+p547
+sg10
+Vhttp://mumbai.burrp.com/listing/sealand-restaurant-bar_powai_mumbai_restaurants-bars-pubs/15512622554
+p548
+sg12
+VPowai
+p549
+sg14
+(lp550
+V28578816
+p551
+aV 28578817
+p552
+aV 9594975484
+p553
+asg17
+g45
+sg19
+VSaki Vihar Road, Powai, Mumbai
+p554
+sba(i__main__
+Place
+p555
+(dp556
+g3
+(lp557
+VRestaurants
+p558
+asg6
+g154
+sg8
+VCity Life
+p559
+sg10
+Vhttp://mumbai.burrp.com/listing/city-life_powai_mumbai_restaurants/16923630940
+p560
+sg12
+VPowai
+p561
+sg14
+(lp562
+V28472277
+p563
+aV 9323968447
+p564
+aV 7208636521
+p565
+asg17
+g45
+sg19
+VShristi Complex , Tristar Building, Shop No 11, Sakivihar Road, Powai, Mumbai
+p566
+sba(i__main__
+Place
+p567
+(dp568
+g3
+(lp569
+VRestaurants
+p570
+asg6
+g154
+sg8
+VNutan Pure Veg
+p571
+sg10
+Vhttp://mumbai.burrp.com/listing/nutan-pure-veg_powai_mumbai_restaurants/18112607128
+p572
+sg12
+VPowai
+p573
+sg14
+(lp574
+V25797429
+p575
+asg17
+g154
+sg19
+V148, 1st Floor, Galleria Shopping Centre, Hiranandani Garden, Powai, Mumbai
+p576
+sba(i__main__
+Place
+p577
+(dp578
+g3
+(lp579
+VRestaurants
+p580
+asg6
+g154
+sg8
+VMohini Fast Food
+p581
+sg10
+Vhttp://mumbai.burrp.com/listing/mohini-fast-food_powai_mumbai_restaurants/18112625128
+p582
+sg12
+VPowai
+p583
+sg14
+(lp584
+V25706591
+p585
+aV 25706691
+p586
+aV 9820615481
+p587
+aV 9869853139
+p588
+asg17
+g154
+sg19
+V7 Cypress Building , Hiranandani Garden , Powai, Mumbai
+p589
+sba(i__main__
+Place
+p590
+(dp591
+g3
+(lp592
+VRestaurants
+p593
+aV Bars & Pubs
+p594
+asg6
+g154
+sg8
+VA Bar
+p595
+sg10
+Vhttp://mumbai.burrp.com/listing/a-bar_powai_mumbai_restaurants-bars-pubs/174141435
+p596
+sg12
+VPowai
+p597
+sg14
+(lp598
+V66927570
+p599
+aV 66928888
+p600
+asg17
+g7
+sg19
+VLocated in Renaissance Hotel, Powai, Mumbai
+p601
+sba(i__main__
+Place
+p602
+(dp603
+g3
+(lp604
+VRestaurants
+p605
+aV Bars & Pubs
+p606
+asg6
+g131
+sg8
+VUno Bar & Restaurant
+p607
+sg10
+Vhttp://mumbai.burrp.com/listing/uno-bar-restaurant_powai_mumbai_restaurants-bars-pubs/161878148
+p608
+sg12
+VPowai
+p609
+sg14
+(lp610
+V67776000
+p611
+asg17
+g154
+sg19
+VRamada Powai, Before Vihar Lake, Powai, Mumbai
+p612
+sba(i__main__
+Place
+p613
+(dp614
+g3
+(lp615
+VRestaurants
+p616
+asg6
+g154
+sg8
+VHy Fy Chinese Spot
+p617
+sg10
+Vhttp://mumbai.burrp.com/listing/hy-fy-chinese-spot_powai_mumbai_restaurants/1964445613
+p618
+sg12
+VPowai
+p619
+sg14
+(lp620
+V28578212 
+p621
+aV 28573257
+p622
+asg17
+g154
+sg19
+VShop # 11, Shristi Shopping Complex, Saki Vihar Road, Powai, Mumbai
+p623
+sba(i__main__
+Place
+p624
+(dp625
+g3
+(lp626
+VRestaurants
+p627
+asg6
+g154
+sg8
+VMings
+p628
+sg10
+Vhttp://mumbai.burrp.com/listing/mings_powai_mumbai_restaurants/1994490910
+p629
+sg12
+VPowai
+p630
+sg14
+(lp631
+V25717101
+p632
+asg17
+g154
+sg19
+VShop No-152, B / 152, Gallaria, 1st bFloor, Hiranandani Gardens, Powai, Mumbai
+p633
+sba(i__main__
+Place
+p634
+(dp635
+g3
+(lp636
+VRestaurants
+p637
+asg6
+g154
+sg8
+VTiara - Restaurant & Bar
+p638
+sg10
+Vhttp://mumbai.burrp.com/listing/tiara---restaurant-bar_powai_mumbai_restaurants/1576808752
+p639
+sg12
+VPowai
+p640
+sg14
+(lp641
+V25755555
+p642
+asg17
+g45
+sg19
+VPowai, Mumbai
+p643
+sba(i__main__
+Place
+p644
+(dp645
+g3
+(lp646
+VRestaurants
+p647
+asg6
+g154
+sg8
+VCrimson
+p648
+sg10
+Vhttp://mumbai.burrp.com/listing/crimson_powai_mumbai_restaurants/1517114158
+p649
+sg12
+VPowai
+p650
+sg14
+(lp651
+V66927574
+p652
+aV 66928888
+p653
+asg17
+g154
+sg19
+VLocated in Lakeside Chalet, Powai, Mumbai
+p654
+sba(i__main__
+Place
+p655
+(dp656
+g3
+(lp657
+VBars & Pubs
+p658
+aV Restaurants
+p659
+asg6
+g154
+sg8
+VShaolin Chinese
+p660
+sg10
+Vhttp://mumbai.burrp.com/listing/shaolin-chinese_iit-powai_mumbai_bars-pubs-restaurants/15510084554
+p661
+sg12
+VIIT Powai
+p662
+sg14
+(lp663
+V25797565
+p664
+aV 40057565
+p665
+asg17
+g154
+sg19
+V192, 193, Galleria, I.I.T, Hiranandani Gardens, IIT Powai, Powai, Mumbai
+p666
+sba(i__main__
+Place
+p667
+(dp668
+g3
+(lp669
+VRestaurants
+p670
+asg6
+g154
+sg8
+VMapel Restaurant
+p671
+sg10
+Vhttp://mumbai.burrp.com/listing/mapel-restaurant_powai_mumbai_restaurants/15710084752
+p672
+sg12
+VPowai
+p673
+sg14
+(lp674
+V25701780
+p675
+aV 25708331
+p676
+aV 25708332
+p677
+aV 9820474737
+p678
+asg17
+g45
+sg19
+VPowai Vihar Complex, Crystal Building, Powai, Mumbai
+p679
+sba(i__main__
+Place
+p680
+(dp681
+g3
+(lp682
+VRestaurants
+p683
+asg6
+g154
+sg8
+VNavjivan Restaurant
+p684
+sg10
+Vhttp://mumbai.burrp.com/listing/navjivan-restaurant_powai_mumbai_restaurants/19512608514
+p685
+sg12
+VPowai
+p686
+sg14
+(lp687
+V25704951
+p688
+aV 25797408
+p689
+asg17
+g154
+sg19
+VShop No 199, Galleria , Hiranandani Gardens, Powai, Mumbai
+p690
+sba(i__main__
+Place
+p691
+(dp692
+g3
+(lp693
+VRestaurants
+p694
+asg6
+g154
+sg8
+VParathas Restaurants
+p695
+sg10
+Vhttp://mumbai.burrp.com/listing/parathas-restaurants_powai_mumbai_restaurants/18512634524
+p696
+sg12
+VPowai
+p697
+sg14
+(lp698
+V25797923
+p699
+aV 40262826
+p700
+asg17
+g154
+sg19
+VShop No 196, Foodcourt, Galleria Shopping Mall, Powai, Mumbai
+p701
+sba(i__main__
+Place
+p702
+(dp703
+g3
+(lp704
+VBars & Pubs
+p705
+aV Restaurants
+p706
+asg6
+g154
+sg8
+VPunjab Se Restaurant
+p707
+sg10
+Vhttp://mumbai.burrp.com/listing/punjab-se-restaurant_powai_mumbai_bars-pubs-restaurants/11112636198
+p708
+sg12
+VPowai
+p709
+sg14
+(lp710
+V25709939
+p711
+aV 25709959
+p712
+aV 9820357689
+p713
+asg17
+g154
+sg19
+V150/151, Food Court Gallaria, Hiranandani Garden, Powai, Mumbai
+p714
+sba(i__main__
+Place
+p715
+(dp716
+g3
+(lp717
+VRestaurants
+p718
+asg6
+g154
+sg8
+VClassic Hotel
+p719
+sg10
+Vhttp://mumbai.burrp.com/listing/classic-hotel_powai_mumbai_restaurants/12112637188
+p720
+sg12
+VPowai
+p721
+sg14
+(lp722
+V25794200
+p723
+aV 25794300
+p724
+asg17
+g154
+sg19
+VGround Floor, Bhavan Industrial, IIT Main Gate, Powai, Mumbai
+p725
+sba(i__main__
+Place
+p726
+(dp727
+g3
+(lp728
+VHotels
+p729
+aV Restaurants
+p730
+asg6
+g154
+sg8
+VHotel Metro Residency
+p731
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-metro-residency_powai_mumbai_hotels-restaurants/13512638574
+p732
+sg12
+VPowai
+p733
+sg14
+(lp734
+V30556677
+p735
+aV 30556678
+p736
+aV 30556679
+p737
+asg17
+g154
+sg19
+V M/s Metro Hospitality Pvt Ltd, 101, Metro Residency, Powai, Mumbai
+p738
+sba(i__main__
+Place
+p739
+(dp740
+g3
+(lp741
+VRestaurants
+p742
+asg6
+g154
+sg8
+VQabila
+p743
+sg10
+Vhttp://mumbai.burrp.com/listing/qabila_powai_mumbai_restaurants/13115167178
+p744
+sg12
+VPowai
+p745
+sg14
+(lp746
+V28478688
+p747
+aV 28478687
+p748
+aV 9820503583
+p749
+aV 9820530046
+p750
+asg17
+g154
+sg19
+V C-43, Chandivali Farm Road, Near Chandivali Studio, Powai, Mumbai
+p751
+sba(i__main__
+Place
+p752
+(dp753
+g3
+(lp754
+VRestaurants
+p755
+asg6
+g154
+sg8
+VRenuka Restaurant
+p756
+sg10
+Vhttp://mumbai.burrp.com/listing/renuka-restaurant_powai_mumbai_restaurants/19918395910
+p757
+sg12
+VPowai
+p758
+sg14
+(lp759
+V25185876
+p760
+asg17
+g154
+sg19
+VD/36, Kailash Industrial Complex, Parksite, Hiranandani Road, Powai, Mumbai
+p761
+sba(i__main__
+Place
+p762
+(dp763
+g3
+(lp764
+VBars & Pubs
+p765
+aV Restaurants
+p766
+asg6
+g154
+sg8
+VSantosh Family Restaurant & Bar
+p767
+sg10
+Vhttp://mumbai.burrp.com/listing/santosh-family-restaurant-bar_powai_mumbai_bars-pubs-restaurants/19123075118
+p768
+sg12
+VPowai
+p769
+sg14
+(lp770
+V28575391
+p771
+aV 69532715
+p772
+asg17
+g45
+sg19
+VS.V. Road, Powai, Mumbai
+p773
+sba(i__main__
+Place
+p774
+(dp775
+g3
+(lp776
+VRestaurants
+p777
+asg6
+g154
+sg8
+VHotel Shiv Shankar
+p778
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shiv-shankar_powai_mumbai_restaurants/13323204376
+p779
+sg12
+VPowai
+p780
+sg14
+(lp781
+V28472262
+p782
+aV 69540436
+p783
+aV 9869931926
+p784
+asg17
+g154
+sg19
+VTunga Village, Saki Vihar Road  , Powai, Mumbai
+p785
+sba(i__main__
+Place
+p786
+(dp787
+g3
+(lp788
+VRestaurants
+p789
+asg6
+g154
+sg8
+VHotel Guru Krupa
+p790
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-guru-krupa_powai_mumbai_restaurants/11323751396
+p791
+sg12
+VPowai
+p792
+sg14
+(lp793
+V28578762
+p794
+aV 28570374
+p795
+asg17
+g45
+sg19
+VSaki Vihar Road, Powai, Mumbai
+p796
+sba.

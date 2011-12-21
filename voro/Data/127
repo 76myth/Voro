@@ -1,0 +1,223 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VJoss
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/joss_kala-ghoda_mumbai_restaurants-bars-pubs/167122742
+p12
+sS'region'
+p13
+VKala Ghoda
+p14
+sS'phone'
+p15
+(lp16
+V66356908
+p17
+aV 66334233
+p18
+asS'cost'
+p19
+V3
+p20
+sS'addr'
+p21
+V30, K. Dubhash Marg, Next to Chetana Restaurant, Kala Ghoda, Colaba, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg7
+g8
+sg9
+VSilk Route
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/silk-route_kala-ghoda_mumbai_restaurants/14057069
+p28
+sg13
+VKala Ghoda
+p29
+sg15
+(lp30
+V22844324
+p31
+aV 22818572
+p32
+asg19
+V2
+p33
+sg21
+V38, K Dubash Marg, Fort, Kala Ghoda, Colaba, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg7
+g20
+sg9
+VArmy Restaurant
+p39
+sg11
+Vhttp://mumbai.burrp.com/listing/army-restaurant_kala-ghoda_mumbai_restaurants/150103059
+p40
+sg13
+VKala Ghoda
+p41
+sg15
+(lp42
+V22844973
+p43
+aV 22885640
+p44
+asg19
+V1
+p45
+sg21
+VEsplande Mansion, A D'mello Road, Fort, Kala Ghoda, Colaba, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+aV Bakery Shops
+p51
+aV Home Caterers
+p52
+aV Outdoor Caterers
+p53
+aV Dessert Shops
+p54
+aV Delicatessens
+p55
+aV Food-court Stalls
+p56
+aV Cafes
+p57
+aV Take Away Shops
+p58
+asg7
+V0
+p59
+sg9
+VStar Anise Fine Foods & Leisure Pvt Ltd
+p60
+sg11
+Vhttp://mumbai.burrp.com/listing/star-anise-fine-foods-leisure-pvt-ltd_kala-ghoda_mumbai_restaurants-bakery-shops-home-caterers/1355636574
+p61
+sg13
+VKala Ghoda
+p62
+sg15
+(lp63
+V65227827
+p64
+aV 65177827
+p65
+aV 65267827
+p66
+asg19
+g33
+sg21
+VSterling Multiplex, Murzaban Road, Fort, Kala Ghoda, Colaba, Mumbai
+p67
+sba(i__main__
+Place
+p68
+(dp69
+g3
+(lp70
+VRestaurants
+p71
+asg7
+g59
+sg9
+VCopper Chimney
+p72
+sg11
+Vhttp://mumbai.burrp.com/listing/copper-chimney_kala-ghoda_mumbai_restaurants/19710331712
+p73
+sg13
+VKala Ghoda
+p74
+sg15
+(lp75
+V22022444
+p76
+aV 22022555
+p77
+aV 22041661
+p78
+asg19
+g59
+sg21
+V18, Hargovindas Building, K Dubhash Marg, Kala Ghoda, Colaba, Mumbai
+p79
+sba(i__main__
+Place
+p80
+(dp81
+g3
+(lp82
+VBars & Pubs
+p83
+aV Restaurants
+p84
+asg7
+g59
+sg9
+VKhyber Restaurant
+p85
+sg11
+Vhttp://mumbai.burrp.com/listing/khyber-restaurant_kala-ghoda_mumbai_bars-pubs-restaurants/11510332594
+p86
+sg13
+VKala Ghoda
+p87
+sg15
+(lp88
+V22673227
+p89
+aV 40026697
+p90
+aV 40396611
+p91
+aV 40396612
+p92
+asg19
+g59
+sg21
+V145, Mahatma Gandhi Road, Near Rhythm Hous, Kala Ghoda, Colaba, Mumbai
+p93
+sba.

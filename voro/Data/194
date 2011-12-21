@@ -1,0 +1,41 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VMcf Daffodils Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/mcf-daffodils-restaurant_mandapeshwar_mumbai_restaurants/14311811366
+p11
+sS'region'
+p12
+VMandapeshwar
+p13
+sS'phone'
+p14
+(lp15
+V28901352
+p16
+aV 69933444
+p17
+asS'cost'
+p18
+g7
+sS'addr'
+p19
+VMcf Sports Complex, Mandpeshwar Road, Prem Nagar, Mandapeshwar, Borivali West, Mumbai
+p20
+sba.

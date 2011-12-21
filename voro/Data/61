@@ -1,0 +1,358 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VCrystal
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/crystal_chowpatty-girgaon_mumbai_restaurants/16468445
+p11
+sS'region'
+p12
+VChowpatty (Girgaon)
+p13
+sS'phone'
+p14
+(lp15
+V23691482
+p16
+asS'cost'
+p17
+V1
+p18
+sS'addr'
+p19
+V19, Chowpatty Seaface, Near Wilson College, Chowpatty (Girgaon), Girgaon, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+V4
+p25
+sg8
+VCream Centre
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/cream-centre_chowpatty-girgaon_mumbai_restaurants/16168148
+p27
+sg12
+VChowpatty (Girgaon)
+p28
+sg14
+(lp29
+V23679222
+p30
+aV 23679333
+p31
+asg17
+V0
+p32
+sg19
+V25, Fulchand Niwas, Chowpatty (Girgaon), Girgaon, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g25
+sg8
+VSukh Sagar
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/sukh-sagar_chowpatty-girgaon_mumbai_restaurants/11818891
+p39
+sg12
+VChowpatty (Girgaon)
+p40
+sg14
+(lp41
+V23633523
+p42
+aV 23636856
+p43
+aV 23679614
+p44
+asg17
+V2
+p45
+sg19
+VMarine Mansion, SVP Road, Chowpatty, Girgaum, Chowpatty (Girgaon), Girgaon, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+V3
+p51
+sg8
+VSoam Pure Vegetarian
+p52
+sg10
+Vhttp://mumbai.burrp.com/listing/soam-pure-vegetarian_chowpatty-girgaon_mumbai_restaurants/14857861
+p53
+sg12
+VChowpatty (Girgaon)
+p54
+sg14
+(lp55
+V23698080
+p56
+asg17
+g45
+sg19
+VSadguru Sadan, Ground Floor, Chowpatty (Girgaon), Girgaon, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g25
+sg8
+VNew Yorker
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/new-yorker_chowpatty-girgaon_mumbai_restaurants/173132336
+p63
+sg12
+VChowpatty (Girgaon)
+p64
+sg14
+(lp65
+V66283338
+p66
+aV 23677500
+p67
+aV 23677502
+p68
+asg17
+g32
+sg19
+V25, Fulchand Niwas, Chowpatty Seaface, Chowpatty (Girgaon), Girgaon, Mumbai
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VDessert Shops
+p73
+aV Bakery Shops
+p74
+aV Restaurants
+p75
+asg6
+g25
+sg8
+VGovinda's Restaurant
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/govindas-restaurant_chowpatty-girgaon_mumbai_dessert-shops-bakery-shops-restaurants/1695099940
+p77
+sg12
+VChowpatty (Girgaon)
+p78
+sg14
+(lp79
+V23665567
+p80
+aV 23665566
+p81
+aV 32428660
+p82
+aV 9322754646
+p83
+asg17
+g45
+sg19
+V7 K M Munshi Rd, Chowpatty, Girgaum, Chowpatty (Girgaon), Girgaon, Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg6
+g25
+sg8
+VThackers
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/thackers_chowpatty-girgaon_mumbai_restaurants/19862811
+p90
+sg12
+VChowpatty (Girgaon)
+p91
+sg14
+(lp92
+V23649300
+p93
+aV 23649301
+p94
+aV 23649305
+p95
+asg17
+g32
+sg19
+VBirla Kreeda Kendra, Chowpatty, Chowpatty (Girgaon), Girgaon, Mumbai
+p96
+sba(i__main__
+Place
+p97
+(dp98
+g3
+(lp99
+VRestaurants
+p100
+asg6
+g25
+sg8
+VCafe Ideal
+p101
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-ideal_chowpatty-girgaon_mumbai_restaurants/198107811
+p102
+sg12
+VChowpatty (Girgaon)
+p103
+sg14
+(lp104
+V23630943
+p105
+aV 9819153864
+p106
+asg17
+g45
+sg19
+VShop No. 5, Fulchand Nivas, Chowpatty (Girgaon), Girgaon, Mumbai
+p107
+sba(i__main__
+Place
+p108
+(dp109
+g3
+(lp110
+VRestaurants
+p111
+asg6
+g51
+sg8
+VKobe Sizzlers
+p112
+sg10
+Vhttp://mumbai.burrp.com/listing/kobe-sizzlers_chowpatty-girgaon_mumbai_restaurants/189124920
+p113
+sg12
+VChowpatty (Girgaon)
+p114
+sg14
+(lp115
+V23632174
+p116
+aV 23696982
+p117
+asg17
+g51
+sg19
+V12/13, Sukh Sagar, Hughes Road, Chowpatty (Girgaon), Girgaon, Mumbai
+p118
+sba(i__main__
+Place
+p119
+(dp120
+g3
+(lp121
+VRestaurants
+p122
+aV Lounges
+p123
+asg6
+g7
+sg8
+VWaterpipe - Italian Bistro and Sheesha Lounge
+p124
+sg10
+Vhttp://mumbai.burrp.com/listing/waterpipe---italian-bistro-and-sheesha-lounge_chowpatty-girgaon_mumbai_restaurants-lounges/1937172316
+p125
+sg12
+VChowpatty (Girgaon)
+p126
+sg14
+(lp127
+V23623131
+p128
+aV 23633131
+p129
+asg17
+g18
+sg19
+V392, Dadi Seth Cross Lane, Loyalka Marg, Bombay Garage Road, Chowpatty (Girgaon), Girgaon, Mumbai
+p130
+sba(i__main__
+Place
+p131
+(dp132
+g3
+(lp133
+VOutdoor Caterers
+p134
+aV Restaurants
+p135
+asg6
+g25
+sg8
+VLeb Mex
+p136
+sg10
+Vhttp://mumbai.burrp.com/listing/leb-mex_chowpatty-girgaon_mumbai_outdoor-caterers-restaurants/15324889356
+p137
+sg12
+VChowpatty (Girgaon)
+p138
+sg14
+(lp139
+V23688000
+p140
+asg17
+g45
+sg19
+VGround Floor, Sukh Sagar , Chowpatty (Girgaon), Girgaon, Mumbai
+p141
+sba.

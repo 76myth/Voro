@@ -1,0 +1,303 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VLaxmi Punjab Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/laxmi-punjab-restaurant_andheri-kurla-road_mumbai_restaurants/1137335396
+p11
+sS'region'
+p12
+VAndheri Kurla Road
+p13
+sS'phone'
+p14
+(lp15
+V28243926
+p16
+asS'cost'
+p17
+V0
+p18
+sS'addr'
+p19
+V5, Shivaji Colony, Andheri Kurla Road, Andheri East, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g18
+sg8
+VAnand Bhuvan
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/anand-bhuvan_andheri-kurla-road_mumbai_restaurants/16923657940
+p26
+sg12
+VAndheri Kurla Road
+p27
+sg14
+(lp28
+V28510695
+p29
+aV 32172051
+p30
+asg17
+V2
+p31
+sg19
+VJarimari, Kurla Andheri Road, Andheri Kurla Road, Andheri East, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VJuice Parlours
+p36
+aV Restaurants
+p37
+aV Fast Food Shops
+p38
+asg6
+g18
+sg8
+VNatraj Restaurant & Bar
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/natraj-restaurant-bar_andheri-kurla-road_mumbai_juice-parlours-restaurants-fast-food-shops/1257336584
+p40
+sg12
+VAndheri Kurla Road
+p41
+sg14
+(lp42
+V26839728
+p43
+aV 9004810721
+p44
+aV 9867792985
+p45
+asg17
+g18
+sg19
+VVazir Glass Compound, Andheri Kurla Road, Andheri East, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g18
+sg8
+VBlue Park Restaurant
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/blue-park-restaurant_andheri-kurla-road_mumbai_restaurants/1357337574
+p52
+sg12
+VAndheri Kurla Road
+p53
+sg14
+(lp54
+V26362543
+p55
+aV 26362955
+p56
+asg17
+g18
+sg19
+VShop No 9, Janakdeep Building, J P Road, Andheri Kurla Road, Andheri East, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VBars & Pubs
+p61
+aV Restaurants
+p62
+asg6
+g18
+sg8
+VMaharaja Restaurant & Bar
+p63
+sg10
+Vhttp://mumbai.burrp.com/listing/maharaja-restaurant-bar_andheri-kurla-road_mumbai_bars-pubs-restaurants/1534279356
+p64
+sg12
+VAndheri Kurla Road
+p65
+sg14
+(lp66
+V28597878
+p67
+aV 28507878
+p68
+aV 28517878
+p69
+asg17
+g31
+sg19
+VGala No. 1, 2, 3 Amai Industrial Estate, Sakinana, Andheri Kurla Road, Andheri East, Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VOutdoor Caterers
+p74
+aV Restaurants
+p75
+asg6
+g18
+sg8
+VHarmeet
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/harmeet_andheri-kurla-road_mumbai_outdoor-caterers-restaurants/1814435128
+p77
+sg12
+VAndheri Kurla Road
+p78
+sg14
+(lp79
+V28228600
+p80
+aV 9967127472
+p81
+aV 9820575439
+p82
+aV 9224332379
+p83
+asg17
+g18
+sg19
+VMarol Fish Market, J.B. Nagar, Andheri Kurla Road, Andheri East, Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg6
+g18
+sg8
+VSadanand Restaurant
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/sadanand-restaurant_andheri-kurla-road_mumbai_restaurants/1457338564
+p90
+sg12
+VAndheri Kurla Road
+p91
+sg14
+(lp92
+V28217104
+p93
+aV 28322416
+p94
+aV 28347491
+p95
+aV 9870399033
+p96
+asg17
+g18
+sg19
+VNear Darpan Talkies, Andheri Kurla Road, Andheri East, Mumbai
+p97
+sba(i__main__
+Place
+p98
+(dp99
+g3
+(lp100
+VCafes
+p101
+aV Restaurants
+p102
+asg6
+g18
+sg8
+VPoolside
+p103
+sg10
+Vhttp://mumbai.burrp.com/listing/poolside_andheri-kurla-road_mumbai_cafes-restaurants/1617340148
+p104
+sg12
+VAndheri Kurla Road
+p105
+sg14
+(lp106
+V28270707
+p107
+aV 61517555
+p108
+asg17
+g18
+sg19
+VVITS Hotel, International Airport Zone, Kondivita Lane, Andheri Kurla Road, Andheri East, Mumbai
+p109
+sba(i__main__
+Place
+p110
+(dp111
+g3
+(lp112
+VRestaurants
+p113
+asg6
+g18
+sg8
+VSveda - The Restaurant
+p114
+sg10
+Vhttp://mumbai.burrp.com/listing/sveda---the-restaurant_andheri-kurla-road_mumbai_restaurants/16522640544
+p115
+sg12
+VAndheri Kurla Road
+p116
+sg14
+(lp117
+V9920929690
+p118
+aV 61771000
+p119
+asg17
+g18
+sg19
+VSagar Tech Plaza Complex, Saki Naka Junction, Andheri Kurla Road, Andheri East, Mumbai
+p120
+sba.

@@ -1,0 +1,72 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VKshanbhar Vishranti
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/kshanbhar-vishranti_new-panvel-w_navi-mumbai_restaurants/197251712
+p11
+sS'region'
+p12
+VNew Panvel (W)
+p13
+sS'phone'
+p14
+(lp15
+V24042501
+p16
+asS'cost'
+p17
+V0
+p18
+sS'addr'
+p19
+VBombay-Goa Highway, Opp Karnala Bird Sanctuary, New Panvel (W), Navi Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VHotels
+p24
+aV Restaurants
+p25
+asg6
+g18
+sg8
+VN R Resort
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/n-r-resort_new-panvel-w_navi-mumbai_hotels-restaurants/1696143940
+p27
+sg12
+VNew Panvel (W)
+p28
+sg14
+(lp29
+V8108462284
+p30
+aV 9967914061
+p31
+asg17
+g18
+sg19
+VKarnala Tara, OPP Bandhan Wadi, 14 Kms from Panvel Depot, Mumbai Goa Highway. Raigad, New Panvel (W), Navi Mumbai
+p32
+sba.

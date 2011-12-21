@@ -1,0 +1,385 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VLounges
+p5
+aV Restaurants
+p6
+aV Bars & Pubs
+p7
+asS'rating'
+p8
+V4
+p9
+sS'name'
+p10
+VRockVille Bar & Dinner
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/rockville-bar-dinner_cbd-belapur-w_navi-mumbai_lounges-restaurants-bars-pubs/1725379237
+p13
+sS'region'
+p14
+VCBD-Belapur (W)
+p15
+sS'phone'
+p16
+(lp17
+V41234422
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VCiti Tower, Plot No.55, Sector 15, CBD-Belapur (W), Navi Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg8
+g9
+sg10
+VMalvan Katta
+p27
+sg12
+Vhttp://mumbai.burrp.com/listing/malvan-katta_cbd-belapur-w_navi-mumbai_restaurants/1325645277
+p28
+sg14
+VCBD-Belapur (W)
+p29
+sg16
+(lp30
+V27580333
+p31
+aV 27580444
+p32
+asg19
+V0
+p33
+sg21
+VVishnu Building, Sector 15, Off Palm Beach Road, CBD-Belapur (W), Navi Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg8
+V3
+p39
+sg10
+VAmchi Margarita 
+p40
+sg12
+Vhttp://mumbai.burrp.com/listing/amchi-margarita-_cbd-belapur-w_navi-mumbai_restaurants/1556466554
+p41
+sg14
+VCBD-Belapur (W)
+p42
+sg16
+(lp43
+V27579289
+p44
+asg19
+g20
+sg21
+VShop No 8 , Palm Beach Road, Sector 15 , Plot No 35, CBD-Belapur (W), Navi Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg8
+g39
+sg10
+VZest
+p50
+sg12
+Vhttp://mumbai.burrp.com/listing/zest_cbd-belapur-w_navi-mumbai_restaurants/135362574
+p51
+sg14
+VCBD-Belapur (W)
+p52
+sg16
+(lp53
+V67589000
+p54
+asg19
+g39
+sg21
+VThe Park Navi Mumbai, No 1, Sector 10, CBD-Belapur (W), Navi Mumbai
+p55
+sba(i__main__
+Place
+p56
+(dp57
+g3
+(lp58
+VOutdoor Caterers
+p59
+aV Banquet Halls
+p60
+aV Restaurants
+p61
+asg8
+g39
+sg10
+VNimantran Family Restaurant
+p62
+sg12
+Vhttp://mumbai.burrp.com/listing/nimantran-family-restaurant_cbd-belapur-w_navi-mumbai_outdoor-caterers-banquet-halls-restaurants/1111377198
+p63
+sg14
+VCBD-Belapur (W)
+p64
+sg16
+(lp65
+V67939035
+p66
+aV 27563777
+p67
+asg19
+g20
+sg21
+VBrahma Complex, Sector 15, Sakhal Bhavan Road, CBD-Belapur (W), Navi Mumbai
+p68
+sba(i__main__
+Place
+p69
+(dp70
+g3
+(lp71
+VRestaurants
+p72
+asg8
+V5
+p73
+sg10
+VSuras Paratha Express
+p74
+sg12
+Vhttp://mumbai.burrp.com/listing/suras-paratha-express_cbd-belapur-w_navi-mumbai_restaurants/1845794425
+p75
+sg14
+VCBD-Belapur (W)
+p76
+sg16
+(lp77
+V27563261
+p78
+aV 64468834
+p79
+asg19
+g20
+sg21
+VShop No - 61, Kukreja Plaza, Sector - 11, CBD-Belapur (W), Navi Mumbai
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VRestaurants
+p84
+asg8
+g9
+sg10
+VMandarin Masala
+p85
+sg12
+Vhttp://mumbai.burrp.com/listing/mandarin-masala_cbd-belapur-w_navi-mumbai_restaurants/1514990158
+p86
+sg14
+VCBD-Belapur (W)
+p87
+sg16
+(lp88
+V27563830
+p89
+aV 27563831
+p90
+aV 27563832 
+p91
+asg19
+g39
+sg21
+VHilton Centre, Plot No. 66, Sector II, CBD-Belapur (W), Navi Mumbai
+p92
+sba(i__main__
+Place
+p93
+(dp94
+g3
+(lp95
+VBars & Pubs
+p96
+aV Restaurants
+p97
+asg8
+g39
+sg10
+VMahesh Fine Dine & Bar
+p98
+sg12
+Vhttp://mumbai.burrp.com/listing/mahesh-fine-dine-bar_cbd-belapur-w_navi-mumbai_bars-pubs-restaurants/1884147821
+p99
+sg14
+VCBD-Belapur (W)
+p100
+sg16
+(lp101
+V27564971
+p102
+aV 27565292
+p103
+asg19
+g20
+sg21
+VShop No. 20, Sai Sangam Building, Sector 15, CBD-Belapur (W), Navi Mumbai
+p104
+sba(i__main__
+Place
+p105
+(dp106
+g3
+(lp107
+VShops
+p108
+aV Restaurants
+p109
+asg8
+g33
+sg10
+VManohar Mishthan
+p110
+sg12
+Vhttp://mumbai.burrp.com/listing/manohar-mishthan_cbd-belapur-w_navi-mumbai_shops-restaurants/1192385990
+p111
+sg14
+VCBD-Belapur (W)
+p112
+sg16
+(lp113
+V27572544
+p114
+aV 27570297
+p115
+asg19
+g20
+sg21
+VSector 4, Shop 8/9, CBD Shopping Centre, CBD-Belapur (W), Navi Mumbai
+p116
+sba(i__main__
+Place
+p117
+(dp118
+g3
+(lp119
+VRestaurants
+p120
+asg8
+g33
+sg10
+VBamboo
+p121
+sg12
+Vhttp://mumbai.burrp.com/listing/bamboo_cbd-belapur-w_navi-mumbai_restaurants/1214744188
+p122
+sg14
+VCBD-Belapur (W)
+p123
+sg16
+(lp124
+V27589000
+p125
+asg19
+g33
+sg21
+VThe Park Navi Mumbai, No 1, Sector 10, CBD Belapur, CBD-Belapur (W), Navi Mumbai
+p126
+sba(i__main__
+Place
+p127
+(dp128
+g3
+(lp129
+VRestaurants
+p130
+aV Bars & Pubs
+p131
+asg8
+g33
+sg10
+VHotel Kinara
+p132
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-kinara_cbd-belapur-w_navi-mumbai_restaurants-bars-pubs/1636386346
+p133
+sg14
+VCBD-Belapur (W)
+p134
+sg16
+(lp135
+V32054404
+p136
+aV 67958866
+p137
+asg19
+g20
+sg21
+VGeetanjali Building, Plot No. H-8, Sector -14, Diwale, CBD-Belapur (W), Navi Mumbai
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VRestaurants
+p142
+asg8
+g33
+sg10
+VKonkani Rassa
+p143
+sg12
+Vhttp://mumbai.burrp.com/listing/konkani-rassa_cbd-belapur-w_navi-mumbai_restaurants/15923296950
+p144
+sg14
+VCBD-Belapur (W)
+p145
+sg16
+(lp146
+V27573389
+p147
+aV 27573390
+p148
+aV 9920749649
+p149
+asg19
+g20
+sg21
+VVishnu CHS, Shop No. 18, Plot No. 36 , CBD-Belapur (W), Navi Mumbai
+p150
+sba.

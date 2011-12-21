@@ -1,0 +1,164 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VHotel Aaram
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/hotel-aaram_nalasopara_thane_restaurants/18114425128
+p11
+sS'region'
+p12
+VNalasopara
+p13
+sS'phone'
+p14
+(lp15
+V2402055
+p16
+aV 2414179
+p17
+aV 7709355085
+p18
+asS'cost'
+p19
+g7
+sS'addr'
+p20
+VSiddhivinayak Complex, Near Station Road, Nalasopara, Vasai, Thane
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VHotel Dwaraka
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-dwaraka_nalasopara_thane_restaurants/18514425524
+p27
+sg12
+VNalasopara
+p28
+sg14
+(lp29
+V2405344
+p30
+aV 2405519
+p31
+aV 2411421
+p32
+asg19
+g7
+sg20
+VSalomi Building, Achole Road, Majithia Park, Nalasopara, Vasai, Thane
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g7
+sg8
+VNavaratna Hotel
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/navaratna-hotel_nalasopara_thane_restaurants/15914431950
+p39
+sg12
+VNalasopara
+p40
+sg14
+(lp41
+V2405519
+p42
+asg19
+g7
+sg20
+VSolsmi Building, A Chole Road, Nalasopara, Vasai, Thane
+p43
+sba(i__main__
+Place
+p44
+(dp45
+g3
+(lp46
+VRestaurants
+p47
+asg6
+g7
+sg8
+VNagraj Lunch Home Hotel
+p48
+sg10
+Vhttp://mumbai.burrp.com/listing/nagraj-lunch-home-hotel_nalasopara_thane_restaurants/16114432148
+p49
+sg12
+VNalasopara
+p50
+sg14
+(lp51
+V
+p52
+aV 9324876671
+p53
+asg19
+g7
+sg20
+VShop No 18, Maha Rishi Dayanand Co Operative Society (M D Nagar Society), Gala Nagar, Achole Road , Nalasopara, Vasai, Thane
+p54
+sba(i__main__
+Place
+p55
+(dp56
+g3
+(lp57
+VRestaurants
+p58
+asg6
+g7
+sg8
+VPasand Koliwada
+p59
+sg10
+Vhttp://mumbai.burrp.com/listing/pasand-koliwada_nalasopara_thane_restaurants/15714440752
+p60
+sg12
+VNalasopara
+p61
+sg14
+(lp62
+g52
+aV 9323624202
+p63
+aV 9822756883
+p64
+asg19
+g7
+sg20
+VShop No 19, Anuradha Building, Nalasopara, Vasai, Thane
+p65
+sba.

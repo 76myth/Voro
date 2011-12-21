@@ -1,0 +1,41 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VGood Hope Restaurant
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/good-hope-restaurant_darukhana_mumbai_restaurants-bars-pubs/1759348534
+p12
+sS'region'
+p13
+VDarukhana
+p14
+sS'phone'
+p15
+(lp16
+V23722223
+p17
+asS'cost'
+p18
+g8
+sS'addr'
+p19
+VLakdi Bunder Naka, Darukhana, Mazgaon, Mumbai
+p20
+sba.

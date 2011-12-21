@@ -1,0 +1,47 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VDessert Shops
+p5
+aV Cafes
+p6
+aV Bakery Shops
+p7
+aV Restaurants
+p8
+asS'rating'
+p9
+V0
+p10
+sS'name'
+p11
+VWARDEN BAKERY
+p12
+sS'url'
+p13
+Vhttp://mumbai.burrp.com/listing/warden-bakery_august-kranti-marg_mumbai_dessert-shops-cafes-bakery-shops/1897684920
+p14
+sS'region'
+p15
+VAugust Kranti Marg
+p16
+sS'phone'
+p17
+(lp18
+V23861580
+p19
+aV 23876558
+p20
+asS'cost'
+p21
+g10
+sS'addr'
+p22
+VTAJ BUILDING COMPOUND, GOWALIA TANK ROAD, August Kranti Marg, Cumballa Hill, Mumbai
+p23
+sba.

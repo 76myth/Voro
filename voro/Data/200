@@ -1,0 +1,748 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VBarahandi
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/barahandi_mohammed-ali-road_mumbai_restaurants/168104841
+p11
+sS'region'
+p12
+VMohammed Ali Road
+p13
+sS'phone'
+p14
+(lp15
+V23475926
+p16
+asS'cost'
+p17
+V0
+p18
+sS'addr'
+p19
+V261 Nagdevi Street, Opposite Masjid, Mohammed Ali Road, Masjid Bunder, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+V5
+p25
+sg8
+VAl Rehmani Restaurant
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/al-rehmani-restaurant_mohammed-ali-road_mumbai_restaurants/182925227
+p27
+sg12
+VMohammed Ali Road
+p28
+sg14
+(lp29
+V23472914
+p30
+asg17
+V1
+p31
+sg19
+VE.R. Road, Opp J.J. Hospital, Mandvi, Mohammed Ali Road, Masjid Bunder, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+asg6
+g18
+sg8
+VHukka 'n' Tikka
+p37
+sg10
+Vhttp://mumbai.burrp.com/listing/hukka-n-tikka_mohammed-ali-road_mumbai_restaurants/1464521663
+p38
+sg12
+VMohammed Ali Road
+p39
+sg14
+(lp40
+V23454761
+p41
+aV 23438786
+p42
+asg17
+g18
+sg19
+V486/488 Ali Raza Center, Opposite JJ Police Station, Mohammed Ali Road, Masjid Bunder, Mumbai
+p43
+sba(i__main__
+Place
+p44
+(dp45
+g3
+(lp46
+VRestaurants
+p47
+asg6
+g18
+sg8
+VBhagat Tarachand
+p48
+sg10
+Vhttp://mumbai.burrp.com/listing/bhagat-tarachand_masjid-bunder_mumbai_restaurants/1636170346
+p49
+sg12
+VMasjid Bunder
+p50
+sg14
+(lp51
+V23416655
+p52
+asg17
+g18
+sg19
+V47/55, Mumbadevi Road, Paydhoni, Masjid Bunder, Mumbai
+p53
+sba(i__main__
+Place
+p54
+(dp55
+g3
+(lp56
+VRestaurants
+p57
+asg6
+g18
+sg8
+VVishwaraj Restaurant & Bar
+p58
+sg10
+Vhttp://mumbai.burrp.com/listing/vishwaraj-restaurant-bar_chinch-bunder_mumbai_restaurants/1278632782
+p59
+sg12
+VChinch Bunder
+p60
+sg14
+(lp61
+V23726766
+p62
+aV 9867424350
+p63
+asg17
+g18
+sg19
+V112, Purshottam Building, K N Road, Dongri, Chinch Bunder, Masjid Bunder, Mumbai
+p64
+sba(i__main__
+Place
+p65
+(dp66
+g3
+(lp67
+VJuice Parlours
+p68
+aV Restaurants
+p69
+asg6
+g18
+sg8
+VLaxmi Vilas Restaurant And Bar
+p70
+sg10
+Vhttp://mumbai.burrp.com/listing/laxmi-vilas-restaurant-and-bar_mandvi_mumbai_juice-parlours-restaurants/15511812554
+p71
+sg12
+VMandvi
+p72
+sg14
+(lp73
+V23444566
+p74
+aV 23459261
+p75
+asg17
+g18
+sg19
+VShop No 33/35, Kanchwala Building, Janjikar Street, Mandvi Koliwada, Near Danzy Hotel, Mandvi, Masjid Bunder, Mumbai
+p76
+sba(i__main__
+Place
+p77
+(dp78
+g3
+(lp79
+VRestaurants
+p80
+aV Hotels
+p81
+asg6
+g18
+sg8
+VLords Panchagani Club
+p82
+sg10
+Vhttp://mumbai.burrp.com/listing/lords-panchagani-club_masjid-bunder_mumbai_restaurants-hotels/14911874960
+p83
+sg12
+VMasjid Bunder
+p84
+sg14
+(lp85
+V23449516
+p86
+aV 66541634
+p87
+aV 66541635
+p88
+aV 9324281501
+p89
+asg17
+g18
+sg19
+V208, Parshbaa Chambers, 19/21, Issaji Street, Vadgadi, Masjid Bunder, Mumbai
+p90
+sba(i__main__
+Place
+p91
+(dp92
+g3
+(lp93
+VRestaurants
+p94
+aV Juice Parlours
+p95
+asg6
+g18
+sg8
+VLuv Kush Veg Restaurant
+p96
+sg10
+Vhttp://mumbai.burrp.com/listing/luv-kush-veg-restaurant_masjid-bunder_mumbai_restaurants-juice-parlours/16511876544
+p97
+sg12
+VMasjid Bunder
+p98
+sg14
+(lp99
+V23713989
+p100
+aV 23733599
+p101
+asg17
+g18
+sg19
+VShop No 289, Gomukh Bhavan Building, Narshi Natha Street, Near Jain Mandir, Masjid Bunder, Mumbai
+p102
+sba(i__main__
+Place
+p103
+(dp104
+g3
+(lp105
+VRestaurants
+p106
+asg6
+g18
+sg8
+VRuhani Restaurant
+p107
+sg10
+Vhttp://mumbai.burrp.com/listing/ruhani-restaurant_masjid-bunder_mumbai_restaurants/11711880792
+p108
+sg12
+VMasjid Bunder
+p109
+sg14
+(lp110
+V23432316
+p111
+asg17
+g18
+sg19
+V70, Mohammad Ali Road, Masjid Bunder, Mumbai
+p112
+sba(i__main__
+Place
+p113
+(dp114
+g3
+(lp115
+VRestaurants
+p116
+asg6
+g18
+sg8
+VNew Patel Restaurant
+p117
+sg10
+Vhttp://mumbai.burrp.com/listing/new-patel-restaurant_masjid-bunder_mumbai_restaurants/13511882574
+p118
+sg12
+VMasjid Bunder
+p119
+sg14
+(lp120
+V23435844
+p121
+aV 64192188
+p122
+asg17
+g18
+sg19
+VHussaini Building, Shahida Marg, Masjid Bunder, Mumbai
+p123
+sba(i__main__
+Place
+p124
+(dp125
+g3
+(lp126
+VRestaurants
+p127
+asg6
+g18
+sg8
+VNew Sun Shine Restaurant
+p128
+sg10
+Vhttp://mumbai.burrp.com/listing/new-sun-shine-restaurant_masjid-bunder_mumbai_restaurants/13711882772
+p129
+sg12
+VMasjid Bunder
+p130
+sg14
+(lp131
+V23708010
+p132
+asg17
+g18
+sg19
+VFathima Manzil Building, Maheshwari Road, Masjid Bunder, Mumbai
+p133
+sba(i__main__
+Place
+p134
+(dp135
+g3
+(lp136
+VRestaurants
+p137
+asg6
+g18
+sg8
+VNavin Bar & Restaurant
+p138
+sg10
+Vhttp://mumbai.burrp.com/listing/navin-bar-restaurant_masjid-bunder_mumbai_restaurants/13911882970
+p139
+sg12
+VMasjid Bunder
+p140
+sg14
+(lp141
+V23775979
+p142
+asg17
+g18
+sg19
+VKohi Samaj BVhavan, Dr Maheshwari Road, Dongri, Masjid Bunder, Mumbai
+p143
+sba(i__main__
+Place
+p144
+(dp145
+g3
+(lp146
+VRestaurants
+p147
+asg6
+g18
+sg8
+VNew Best Restaurant
+p148
+sg10
+Vhttp://mumbai.burrp.com/listing/new-best-restaurant_masjid-bunder_mumbai_restaurants/14311883366
+p149
+sg12
+VMasjid Bunder
+p150
+sg14
+(lp151
+V23459321
+p152
+aV 23465978
+p153
+aV 9967551786
+p154
+asg17
+g18
+sg19
+VRaudat Tahera Street, Null Bazar, Masjid Bunder, Mumbai
+p155
+sba(i__main__
+Place
+p156
+(dp157
+g3
+(lp158
+VHotels
+p159
+aV Restaurants
+p160
+asg6
+g18
+sg8
+VAsian Hotel
+p161
+sg10
+Vhttp://mumbai.burrp.com/listing/asian-hotel_masjid-bunder_mumbai_hotels-restaurants/18711887722
+p162
+sg12
+VMasjid Bunder
+p163
+sg14
+(lp164
+V23426482
+p165
+aV 23459137
+p166
+asg17
+g18
+sg19
+VHotel No 58, Mohmad Ali Road, Masjid Bunder, Mumbai
+p167
+sba(i__main__
+Place
+p168
+(dp169
+g3
+(lp170
+VRestaurants
+p171
+asg6
+g18
+sg8
+VSwastik Bar & Restaurant
+p172
+sg10
+Vhttp://mumbai.burrp.com/listing/swastik-bar-restaurant_masjid-bunder_mumbai_restaurants/13511900574
+p173
+sg12
+VMasjid Bunder
+p174
+sg14
+(lp175
+V23427365
+p176
+aV 9819560838
+p177
+asg17
+g18
+sg19
+VGala No 10, Dhoble Bhavan, L T Road, Near Carnac Bunder, Masjid Bunder, Mumbai
+p178
+sba(i__main__
+Place
+p179
+(dp180
+g3
+(lp181
+VRestaurants
+p182
+asg6
+g18
+sg8
+VSahara Restaurant
+p183
+sg10
+Vhttp://mumbai.burrp.com/listing/sahara-restaurant_masjid-bunder_mumbai_restaurants/13911900970
+p184
+sg12
+VMasjid Bunder
+p185
+sg14
+(lp186
+V28491895
+p187
+aV 9821308004
+p188
+asg17
+g18
+sg19
+VRani Sati Marg , Pathan Wadi, Highway Road , Masjid Bunder, Mumbai
+p189
+sba(i__main__
+Place
+p190
+(dp191
+g3
+(lp192
+VRestaurants
+p193
+asg6
+g18
+sg8
+VSnow White Veg Restaurant
+p194
+sg10
+Vhttp://mumbai.burrp.com/listing/snow-white-veg-restaurant_masjid-bunder_mumbai_restaurants/17111904138
+p195
+sg12
+VMasjid Bunder
+p196
+sg14
+(lp197
+V23454522
+p198
+aV 23454533
+p199
+aV 23454582
+p200
+asg17
+g18
+sg19
+VRiddhi House , Plot No 88, Yusuf Meherali Road, Masjid Bunder, Mumbai
+p201
+sba(i__main__
+Place
+p202
+(dp203
+g3
+(lp204
+VRestaurants
+p205
+aV Dessert Shops
+p206
+aV Cafes
+p207
+asg6
+g18
+sg8
+VShri Ganesh Sandwich Centre
+p208
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-ganesh-sandwich-centre_masjid-bunder_mumbai_restaurants-dessert-shops-cafes/19911906910
+p209
+sg12
+VMasjid Bunder
+p210
+sg14
+(lp211
+V23437801
+p212
+aV 9892111569
+p213
+asg17
+g18
+sg19
+V201 Samuel Street, Opposite Baroda Bank And Janta Store, Opposite Mahavir Xerox, Masjid Bunder, Mumbai
+p214
+sba(i__main__
+Place
+p215
+(dp216
+g3
+(lp217
+VRestaurants
+p218
+asg6
+g18
+sg8
+VChinese N Grill
+p219
+sg10
+Vhttp://mumbai.burrp.com/listing/chinese-n-grill_masjid-bunder_mumbai_restaurants/18511914524
+p220
+sg12
+VMasjid Bunder
+p221
+sg14
+(lp222
+V23456529
+p223
+aV 23475621
+p224
+aV 32903045
+p225
+aV 8108411419
+p226
+asg17
+g18
+sg19
+VBuilding No 132/122, Barkat Manzil, Ibrahim Merchant Road, Mohammed Ali Road, Masjid Bunder, Mumbai
+p227
+sba(i__main__
+Place
+p228
+(dp229
+g3
+(lp230
+VRestaurants
+p231
+asg6
+g18
+sg8
+VCafe Almas
+p232
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-almas_masjid-bunder_mumbai_restaurants/18911914920
+p233
+sg12
+VMasjid Bunder
+p234
+sg14
+(lp235
+V23728891
+p236
+aV 23750434
+p237
+asg17
+g18
+sg19
+VPrinces Building, Opp Ebrahim Rehimtulla, Masjid Bunder, Mumbai
+p238
+sba(i__main__
+Place
+p239
+(dp240
+g3
+(lp241
+VRestaurants
+p242
+asg6
+g18
+sg8
+VHijaz Restaurant
+p243
+sg10
+Vhttp://mumbai.burrp.com/listing/hijaz-restaurant_masjid-bunder_mumbai_restaurants/14511919564
+p244
+sg12
+VMasjid Bunder
+p245
+sg14
+(lp246
+V22610634
+p247
+asg17
+g18
+sg19
+VS S Musafirkhana Building, Carnac Road, Masjid Bunder, Mumbai
+p248
+sba(i__main__
+Place
+p249
+(dp250
+g3
+(lp251
+VRestaurants
+p252
+asg6
+g18
+sg8
+VJAI Jyotawali Steel Pvt Ltd
+p253
+sg10
+Vhttp://mumbai.burrp.com/listing/jai-jyotawali-steel-pvt-ltd_masjid-bunder_mumbai_restaurants/11511925594
+p254
+sg12
+VMasjid Bunder
+p255
+sg14
+(lp256
+V23747196
+p257
+aV 23755381
+p258
+aV 9821047155
+p259
+aV 23704823
+p260
+asg17
+g18
+sg19
+VPlot No 331, NAV Vyapar Bhawan, P D Mello Road, Carnac Bunder, Masjid Bunder, Mumbai
+p261
+sba(i__main__
+Place
+p262
+(dp263
+g3
+(lp264
+VRestaurants
+p265
+asg6
+g18
+sg8
+VNilgiri Restaurant
+p266
+sg10
+Vhttp://mumbai.burrp.com/listing/nilgiri-restaurant_mohammed-ali-road_mumbai_restaurants/13512080574
+p267
+sg12
+VMohammed Ali Road
+p268
+sg14
+(lp269
+V23466101
+p270
+asg17
+g18
+sg19
+V49, M Shaukatali Road, Mohammed Ali Road, Masjid Bunder, Mumbai
+p271
+sba(i__main__
+Place
+p272
+(dp273
+g3
+(lp274
+VBars & Pubs
+p275
+aV Restaurants
+p276
+asg6
+g18
+sg8
+VSigdi Restaurant
+p277
+sg10
+Vhttp://mumbai.burrp.com/listing/sigdi-restaurant_mohammed-ali-road_mumbai_bars-pubs-restaurants/16312083346
+p278
+sg12
+VMohammed Ali Road
+p279
+sg14
+(lp280
+V23478925
+p281
+aV 9833662083
+p282
+asg17
+g18
+sg19
+V21/22 Mohammed Ali Building, Nr Shalimar Hotel, Opposite Mandhivi Post Office, Mohammed Ali Road, Masjid Bunder, Mumbai
+p283
+sba.

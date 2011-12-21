@@ -1,0 +1,40 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V1
+p7
+sS'name'
+p8
+VDomino's Pizza
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_vashi-e_navi-mumbai_restaurants/15240257
+p11
+sS'region'
+p12
+VVashi (E)
+p13
+sS'phone'
+p14
+(lp15
+V27895656
+p16
+asS'cost'
+p17
+V0
+p18
+sS'addr'
+p19
+VShop no 13, Plot No.74, Sector 17, Vashi (E), Navi Mumbai
+p20
+sba.

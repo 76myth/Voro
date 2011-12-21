@@ -1,0 +1,241 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VPritam Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/pritam-restaurant_dahisar-w_mumbai_restaurants/1221801287
+p11
+sS'region'
+p12
+VDahisar (W)
+p13
+sS'phone'
+p14
+(lp15
+V9819315563
+p16
+aV 9821431070
+p17
+aV 69488027
+p18
+aV 64103599
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VSasupada Village, Taluka Vasai, Mumbai - Ahmedabad Highway, Dahisar (W), Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg6
+V4
+p28
+sg8
+VWest Coast Diner
+p29
+sg10
+Vhttp://mumbai.burrp.com/listing/west-coast-diner_dahisar-w_mumbai_restaurants/187826722
+p30
+sg12
+VDahisar (W)
+p31
+sg14
+(lp32
+V28941990
+p33
+aV 28926138
+p34
+aV 65344749
+p35
+aV 65344759
+p36
+asg20
+g21
+sg22
+VEkta Vivek, Link Road, Kanderpada, Dahisar (W), Mumbai
+p37
+sba(i__main__
+Place
+p38
+(dp39
+g3
+(lp40
+VDelicatessens
+p41
+aV Restaurants
+p42
+asg6
+g28
+sg8
+VRed Chillies 
+p43
+sg10
+Vhttp://mumbai.burrp.com/listing/red-chillies-_dahisar-w_mumbai_delicatessens-restaurants/1756675534
+p44
+sg12
+VDahisar (W)
+p45
+sg14
+(lp46
+V28926237
+p47
+aV 28926235
+p48
+aV 9920548118
+p49
+asg20
+g21
+sg22
+VShop No. 1 and 2, Narayan Heritage, Kandarpada, Dahisar (W), Mumbai
+p50
+sba(i__main__
+Place
+p51
+(dp52
+g3
+(lp53
+VRestaurants
+p54
+aV Lounges
+p55
+asg6
+V3
+p56
+sg8
+VKosmic Restobar
+p57
+sg10
+Vhttp://mumbai.burrp.com/listing/kosmic-restobar_dahisar-w_mumbai_restaurants-lounges/1213529188
+p58
+sg12
+VDahisar (W)
+p59
+sg14
+(lp60
+V28940081
+p61
+aV 28940082
+p62
+asg20
+g56
+sg22
+VHeredia Lotus, IC Colony Extension, Kandarpada, Off New Link Road, Dahisar (W), Mumbai
+p63
+sba(i__main__
+Place
+p64
+(dp65
+g3
+(lp66
+VBars & Pubs
+p67
+aV Restaurants
+p68
+asg6
+V0
+p69
+sg8
+VDeepa Family Restaurant & Bar
+p70
+sg10
+Vhttp://mumbai.burrp.com/listing/deepa-family-restaurant-bar_dahisar-w_mumbai_bars-pubs-restaurants/1641427445
+p71
+sg12
+VDahisar (W)
+p72
+sg14
+(lp73
+V28954066
+p74
+aV 28920013
+p75
+asg20
+g21
+sg22
+VY R Tawde Road, Opp Dahisar Railway Station, Dahisar (W), Mumbai
+p76
+sba(i__main__
+Place
+p77
+(dp78
+g3
+(lp79
+VRestaurants
+p80
+aV Fast Food Shops
+p81
+asg6
+g69
+sg8
+VMcDonald's
+p82
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_dahisar-w_mumbai_restaurants-fast-food-shops/1792499930
+p83
+sg12
+VDahisar (W)
+p84
+sg14
+(lp85
+V32651109
+p86
+asg20
+g21
+sg22
+VLion Pencils Compound, WE Highway, Dahisar (W), Mumbai
+p87
+sba(i__main__
+Place
+p88
+(dp89
+g3
+(lp90
+VRestaurants
+p91
+asg6
+g69
+sg8
+VMajestic Deluxe Family Restaurant
+p92
+sg10
+Vhttp://mumbai.burrp.com/listing/majestic-deluxe-family-restaurant_dahisar-w_mumbai_restaurants/122127287
+p93
+sg12
+VDahisar (W)
+p94
+sg14
+(lp95
+V28954838
+p96
+aV 28914746
+p97
+asg20
+g69
+sg22
+VNeelangi Apartments, B.P. Road, Kandarpada, Dahisar (W), Mumbai
+p98
+sba.

@@ -1,0 +1,816 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VAshok Pure Veg
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/ashok-pure-veg_malad-east_mumbai_restaurants/18711392722
+p11
+sS'region'
+p12
+VMalad East
+p13
+sS'phone'
+p14
+(lp15
+V28816194
+p16
+aV 28887020
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VExquire Building, Shop No.2, Manchubai Road, Malad East, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VJaya Prabha Restaurant And Bar
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/jaya-prabha-restaurant-and-bar_malad-east_mumbai_restaurants/18711464722
+p27
+sg12
+VMalad East
+p28
+sg14
+(lp29
+V28807422
+p30
+aV 28882222
+p31
+aV 28890105
+p32
+asg18
+g7
+sg20
+VPushpa Park, Daftary Road, Next To Sify Iway, Malad East, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g7
+sg8
+VRatnagiri Family Restaurant And Bar
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/ratnagiri-family-restaurant-and-bar_malad-east_mumbai_restaurants/14111406168
+p39
+sg12
+VMalad East
+p40
+sg14
+(lp41
+V28402662
+p42
+aV 28411661
+p43
+aV 28414044
+p44
+asg18
+g19
+sg20
+VFilmcity Road, Gokuldham, Malad East, Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g7
+sg8
+VJumbo King
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/jumbo-king_malad-east_mumbai_restaurants/16241247
+p51
+sg12
+VMalad East
+p52
+sg14
+(lp53
+V28890372
+p54
+asg18
+g7
+sg20
+VNear Western Railway Compound, Snacks House, Daftary Road, Malad (E), Malad East, Mumbai
+p55
+sba(i__main__
+Place
+p56
+(dp57
+g3
+(lp58
+VRestaurants
+p59
+asg6
+g7
+sg8
+VJumbo King
+p60
+sg10
+Vhttp://mumbai.burrp.com/listing/jumbo-king_malad-east_mumbai_restaurants/16341346
+p61
+sg12
+VMalad East
+p62
+sg14
+(lp63
+V28779937
+p64
+asg18
+g7
+sg20
+VRani Sati Marg, Near Railway Bridge, Malad (E), Malad East, Mumbai
+p65
+sba(i__main__
+Place
+p66
+(dp67
+g3
+(lp68
+VRestaurants
+p69
+asg6
+g7
+sg8
+VClassic Veg Restaurant
+p70
+sg10
+Vhttp://mumbai.burrp.com/listing/classic-veg-restaurant_malad-east_mumbai_restaurants/1674415742
+p71
+sg12
+VMalad East
+p72
+sg14
+(lp73
+V28408802
+p74
+aV 28425940
+p75
+aV 28428416
+p76
+aV 8898941444
+p77
+asg18
+g7
+sg20
+VMira Nagar, Malad East, Mumbai
+p78
+sba(i__main__
+Place
+p79
+(dp80
+g3
+(lp81
+VRestaurants
+p82
+asg6
+g7
+sg8
+VCoriander Pur Veg Restaurant
+p83
+sg10
+Vhttp://mumbai.burrp.com/listing/coriander-pur-veg-restaurant_malad-east_mumbai_restaurants/1774416732
+p84
+sg12
+VMalad East
+p85
+sg14
+(lp86
+V28788811
+p87
+aV 902211117
+p88
+asg18
+g7
+sg20
+VDhanlaxmi CHS, Shop No. 10, Upper Govind Nagar, Malad East, Mumbai
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VRestaurants
+p93
+aV Bars & Pubs
+p94
+asg6
+g7
+sg8
+VJayaprabha Bar & Restaurant
+p95
+sg10
+Vhttp://mumbai.burrp.com/listing/jayaprabha-bar-restaurant_malad-east_mumbai_restaurants-bars-pubs/1384448871
+p96
+sg12
+VMalad East
+p97
+sg14
+(lp98
+V28882222
+p99
+asg18
+g7
+sg20
+VPushpa Park, Daffary Road, Malad (E), Malad East, Mumbai
+p100
+sba(i__main__
+Place
+p101
+(dp102
+g3
+(lp103
+VRestaurants
+p104
+asg6
+g7
+sg8
+VShree Laxmi Vilas Refreshment & Bar 
+p105
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-laxmi-vilas-refreshment-bar-_malad-east_mumbai_restaurants/1404476069
+p106
+sg12
+VMalad East
+p107
+sg14
+(lp108
+V28831934 
+p109
+asg18
+g7
+sg20
+VHira Niwas Building, Pusha Park, Daftary Road, Malad (E), Malad East, Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VRestaurants
+p114
+asg6
+g7
+sg8
+VAshoka
+p115
+sg10
+Vhttp://mumbai.burrp.com/listing/ashoka_malad-east_mumbai_restaurants/1496123960
+p116
+sg12
+VMalad East
+p117
+sg14
+(lp118
+V28816194
+p119
+aV 28887020
+p120
+asg18
+g7
+sg20
+V2, Manchubhai Road, Malad (E), Malad East, Mumbai
+p121
+sba(i__main__
+Place
+p122
+(dp123
+g3
+(lp124
+VRestaurants
+p125
+asg6
+g7
+sg8
+VAasra Restaurant
+p126
+sg10
+Vhttp://mumbai.burrp.com/listing/aasra-restaurant_malad-east_mumbai_restaurants/17911391930
+p127
+sg12
+VMalad East
+p128
+sg14
+(lp129
+V28491895
+p130
+asg18
+g7
+sg20
+VPathan Wadi, Rani Sati Marg, Malad East, Mumbai
+p131
+sba(i__main__
+Place
+p132
+(dp133
+g3
+(lp134
+VRestaurants
+p135
+aV Hotels
+p136
+asg6
+g7
+sg8
+VRoyal Regency Hotel
+p137
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-regency-hotel_malad-east_mumbai_restaurants-hotels/15911407950
+p138
+sg12
+VMalad East
+p139
+sg14
+(lp140
+V28829900
+p141
+aV 28829901
+p142
+aV 28829904
+p143
+aV 9323677766
+p144
+asg18
+g7
+sg20
+VJanta Niwas, Daftary Road, Malad East, Mumbai
+p145
+sba(i__main__
+Place
+p146
+(dp147
+g3
+(lp148
+VRestaurants
+p149
+asg6
+g7
+sg8
+VSamudra Restaurant And Bar
+p150
+sg10
+Vhttp://mumbai.burrp.com/listing/samudra-restaurant-and-bar_malad-east_mumbai_restaurants/18311446326
+p151
+sg12
+VMalad East
+p152
+sg14
+(lp153
+V28885087
+p154
+asg18
+g7
+sg20
+VGala No 1/3, Shankar Wadi Complex, Shantaram Pada, Western Highway, Malad East, Mumbai
+p155
+sba(i__main__
+Place
+p156
+(dp157
+g3
+(lp158
+VRestaurants
+p159
+asg6
+g7
+sg8
+VShri Laxmi Vilas Family Restaurant
+p160
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-laxmi-vilas-family-restaurant_malad-east_mumbai_restaurants/19711447712
+p161
+sg12
+VMalad East
+p162
+sg14
+(lp163
+V28826791
+p164
+aV 28831934
+p165
+aV 9819279037
+p166
+asg18
+g7
+sg20
+VPushpa Park, Daftary Road, Near Eastern Mall, Malad East, Mumbai
+p167
+sba(i__main__
+Place
+p168
+(dp169
+g3
+(lp170
+VRestaurants
+p171
+asg6
+g7
+sg8
+VHotel Shree Prabhu Niketan
+p172
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shree-prabhu-niketan_malad-east_mumbai_restaurants/13911450970
+p173
+sg12
+VMalad East
+p174
+sg14
+(lp175
+V28802782
+p176
+aV 28835596
+p177
+asg18
+g19
+sg20
+VPushpa Park, Daftary Road, Malad East, Mumbai
+p178
+sba(i__main__
+Place
+p179
+(dp180
+g3
+(lp181
+VRestaurants
+p182
+asg6
+g7
+sg8
+VSanjha Chulha
+p183
+sg10
+Vhttp://mumbai.burrp.com/listing/sanjha-chulha_malad-east_mumbai_restaurants/14311451366
+p184
+sg12
+VMalad East
+p185
+sg14
+(lp186
+V28802682
+p187
+aV 28805921
+p188
+asg18
+g7
+sg20
+VRani Sati Marg, Near W E Highway, Malad East, Mumbai
+p189
+sba(i__main__
+Place
+p190
+(dp191
+g3
+(lp192
+VRestaurants
+p193
+aV Bars & Pubs
+p194
+asg6
+g7
+sg8
+VSri Krishna
+p195
+sg10
+Vhttp://mumbai.burrp.com/listing/sri-krishna_malad-east_mumbai_restaurants-bars-pubs/14911451960
+p196
+sg12
+VMalad East
+p197
+sg14
+(lp198
+V28775562
+p199
+aV 28775842
+p200
+asg18
+g7
+sg20
+VAshoka Palace, Jitendra Road, Malad East, Mumbai
+p201
+sba(i__main__
+Place
+p202
+(dp203
+g3
+(lp204
+VRestaurants
+p205
+asg6
+g7
+sg8
+VSarovar Restaurant And Bar
+p206
+sg10
+Vhttp://mumbai.burrp.com/listing/sarovar-restaurant-and-bar_malad-east_mumbai_restaurants/15711452752
+p207
+sg12
+VMalad East
+p208
+sg14
+(lp209
+V28777489
+p210
+aV 9820503449
+p211
+asg18
+g7
+sg20
+VOm Shiv Sagar Society, Haji Bapu Road, Near Tabela, Malad East, Mumbai
+p212
+sba(i__main__
+Place
+p213
+(dp214
+g3
+(lp215
+VBars & Pubs
+p216
+aV Restaurants
+p217
+asg6
+g7
+sg8
+VMilan Restaurant
+p218
+sg10
+Vhttp://mumbai.burrp.com/listing/milan-restaurant_malad-east_mumbai_bars-pubs-restaurants/17311454336
+p219
+sg12
+VMalad East
+p220
+sg14
+(lp221
+V28814466
+p222
+aV 28887843
+p223
+asg18
+g7
+sg20
+V1/4/7 Saptarshi Shopping Centre, Daftary Road, Malad East, Mumbai
+p224
+sba(i__main__
+Place
+p225
+(dp226
+g3
+(lp227
+VRestaurants
+p228
+asg6
+g7
+sg8
+VMalika Bar And Restaurant
+p229
+sg10
+Vhttp://mumbai.burrp.com/listing/malika-bar-and-restaurant_malad-east_mumbai_restaurants/18311455326
+p230
+sg12
+VMalad East
+p231
+sg14
+(lp232
+V28404771
+p233
+aV 9892412106
+p234
+asg18
+g7
+sg20
+VPatanwadi, Rani Sati Marg, Malad East, Mumbai
+p235
+sba(i__main__
+Place
+p236
+(dp237
+g3
+(lp238
+VCafes
+p239
+aV Bakery Shops
+p240
+aV Dessert Shops
+p241
+aV Restaurants
+p242
+asg6
+g7
+sg8
+VMonginis The Cake Shop
+p243
+sg10
+Vhttp://mumbai.burrp.com/listing/monginis-the-cake-shop_malad-east_mumbai_cafes-bakery-shops-dessert-shops/19111456118
+p244
+sg12
+VMalad East
+p245
+sg14
+(lp246
+V28808162
+p247
+asg18
+g7
+sg20
+VKapadia Chawl, Daftary Road, Malad East, Mumbai
+p248
+sba(i__main__
+Place
+p249
+(dp250
+g3
+(lp251
+VRestaurants
+p252
+asg6
+g7
+sg8
+VCity Star Family Restaurant
+p253
+sg10
+Vhttp://mumbai.burrp.com/listing/city-star-family-restaurant_malad-east_mumbai_restaurants/11911457990
+p254
+sg12
+VMalad East
+p255
+sg14
+(lp256
+V28420007
+p257
+aV 28424239
+p258
+aV 28491159
+p259
+aV 28494687
+p260
+asg18
+g7
+sg20
+VNew Mukadam Compound, Film City Road, Malad East, Mumbai
+p261
+sba(i__main__
+Place
+p262
+(dp263
+g3
+(lp264
+VRestaurants
+p265
+asg6
+g7
+sg8
+VClassic Restaurant
+p266
+sg10
+Vhttp://mumbai.burrp.com/listing/classic-restaurant_malad-east_mumbai_restaurants/12711458782
+p267
+sg12
+VMalad East
+p268
+sg14
+(lp269
+V28408802
+p270
+aV 28425940
+p271
+aV 28428416
+p272
+asg18
+g7
+sg20
+VMira Nagar, Near Dindoshi Bus Depot, Malad East, Mumbai
+p273
+sba(i__main__
+Place
+p274
+(dp275
+g3
+(lp276
+VRestaurants
+p277
+asg6
+g7
+sg8
+VParee Bar & Restaurant
+p278
+sg10
+Vhttp://mumbai.burrp.com/listing/paree-bar-restaurant_malad-east_mumbai_restaurants/14311469366
+p279
+sg12
+VMalad East
+p280
+sg14
+(lp281
+V28424197
+p282
+aV 9870242808
+p283
+asg18
+g7
+sg20
+VShiv Sagar Ghruha Nirman Society, Anand Wadi, Kurar Village, Malad East, Mumbai
+p284
+sba(i__main__
+Place
+p285
+(dp286
+g3
+(lp287
+VRestaurants
+p288
+asg6
+g7
+sg8
+VP K Hospitality Group
+p289
+sg10
+Vhttp://mumbai.burrp.com/listing/p-k-hospitality-group_malad-east_mumbai_restaurants/14511469564
+p290
+sg12
+VMalad East
+p291
+sg14
+(lp292
+V28710041
+p293
+aV 28710042
+p294
+aV 28710044
+p295
+aV 65166786
+p296
+asg18
+g7
+sg20
+VGaruda House No 142, Upper Govind Nagar, Malad East, Mumbai
+p297
+sba(i__main__
+Place
+p298
+(dp299
+g3
+(lp300
+VRestaurants
+p301
+asg6
+g7
+sg8
+VPrasad Family Restaurant & Bar
+p302
+sg10
+Vhttp://mumbai.burrp.com/listing/prasad-family-restaurant-bar_malad-east_mumbai_restaurants/14711469762
+p303
+sg12
+VMalad East
+p304
+sg14
+(lp305
+V28817204
+p306
+aV 28836917
+p307
+asg18
+g7
+sg20
+VPlot No 66, Daftary Road, Pushpa Park, Malad East, Mumbai
+p308
+sba.

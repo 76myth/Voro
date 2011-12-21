@@ -1,0 +1,43 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VSlice of Lime
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/slice-of-lime_link-road-malad-west_mumbai_restaurants-bars-pubs/18311167326
+p12
+sS'region'
+p13
+VLInk Road-Malad West
+p14
+sS'phone'
+p15
+(lp16
+V28445516
+p17
+aV 28808404
+p18
+asS'cost'
+p19
+g8
+sS'addr'
+p20
+VJagdambas Commercial Complex, LInk Road-Malad West, Malad West, Mumbai
+p21
+sba.

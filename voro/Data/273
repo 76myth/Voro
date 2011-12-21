@@ -1,0 +1,502 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBakery Shops
+p5
+aV Dessert Shops
+p6
+aV Restaurants
+p7
+asS'rating'
+p8
+V4
+p9
+sS'name'
+p10
+VOven Fresh
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/oven-fresh_shivaji-park_mumbai_bakery-shops-dessert-shops-restaurants/15694653
+p13
+sS'region'
+p14
+VShivaji Park
+p15
+sS'phone'
+p16
+(lp17
+V67600000
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VKiran, 68 Ranade Road, Shivaji Park, Dadar West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg8
+g9
+sg10
+VPrakash
+p27
+sg12
+Vhttp://mumbai.burrp.com/listing/prakash_shivaji-park_mumbai_restaurants/145138564
+p28
+sg14
+VShivaji Park
+p29
+sg16
+(lp30
+V24304921
+p31
+asg19
+V1
+p32
+sg21
+VShiv Sena Bhavan, Next to Kithe Hall, Gokhale Road, Shivaji Park, Dadar West, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg8
+g9
+sg10
+VGypsy Chinese
+p38
+sg12
+Vhttp://mumbai.burrp.com/listing/gypsy-chinese_shivaji-park_mumbai_restaurants/17869831
+p39
+sg14
+VShivaji Park
+p40
+sg16
+(lp41
+V24455965
+p42
+aV 24467518
+p43
+asg19
+g20
+sg21
+V21 Maryland Corner, Opp. Sena Bhavan, Keluskar Marg, Shivaji Park, Dadar West, Mumbai
+p44
+sba(i__main__
+Place
+p45
+(dp46
+g3
+(lp47
+VDelicatessens
+p48
+aV Restaurants
+p49
+aV Home Caterers
+p50
+aV Dessert Shops
+p51
+aV Cafes
+p52
+aV Bakery Shops
+p53
+aV Fast Food Shops
+p54
+aV Outdoor Caterers
+p55
+asg8
+V3
+p56
+sg10
+VHome Chef
+p57
+sg12
+Vhttp://mumbai.burrp.com/listing/home-chef_shivaji-park_mumbai_delicatessens-restaurants-home-caterers/1354799574
+p58
+sg14
+VShivaji Park
+p59
+sg16
+(lp60
+V24455034
+p61
+aV 24455035
+p62
+aV 24453036
+p63
+aV 9987033335
+p64
+asg19
+g20
+sg21
+V71 Meher Building, Ranade Road, Shivaji Park, Dadar West, Mumbai
+p65
+sba(i__main__
+Place
+p66
+(dp67
+g3
+(lp68
+VBars & Pubs
+p69
+aV Restaurants
+p70
+asg8
+g56
+sg10
+VTamnak Thai
+p71
+sg12
+Vhttp://mumbai.burrp.com/listing/tamnak-thai_shivaji-park_mumbai_bars-pubs-restaurants/18861821
+p72
+sg14
+VShivaji Park
+p73
+sg16
+(lp74
+V24474949
+p75
+asg19
+g20
+sg21
+V274, VS Marg, Shivaji Park, Dadar West, Mumbai
+p76
+sba(i__main__
+Place
+p77
+(dp78
+g3
+(lp79
+VBars & Pubs
+p80
+aV Restaurants
+p81
+aV Outdoor Caterers
+p82
+asg8
+g56
+sg10
+VDadar, Mumbai 28
+p83
+sg12
+Vhttp://mumbai.burrp.com/listing/dadar-mumbai-28_shivaji-park_mumbai_bars-pubs-restaurants-outdoor-caterers/1975192712
+p84
+sg14
+VShivaji Park
+p85
+sg16
+(lp86
+V24448866
+p87
+asg19
+g20
+sg21
+V377, Amar Kunj, Veer Savarkar Marg, Shivaji Park, Dadar West, Mumbai
+p88
+sba(i__main__
+Place
+p89
+(dp90
+g3
+(lp91
+VRestaurants
+p92
+aV Bakery Shops
+p93
+aV Fast Food Shops
+p94
+aV Ice-cream Parlours
+p95
+asg8
+g9
+sg10
+VFavourites
+p96
+sg12
+Vhttp://mumbai.burrp.com/listing/favourites_shivaji-park_mumbai_restaurants-bakery-shops-fast-food-shops/1752868534
+p97
+sg14
+VShivaji Park
+p98
+sg16
+(lp99
+V24316788
+p100
+aV 9867814868
+p101
+aV 9892724514
+p102
+asg19
+g32
+sg21
+V5/6, Sonwadi Mansion, 209, L.J. Road, Shivaji Park, Dadar West, Mumbai
+p103
+sba(i__main__
+Place
+p104
+(dp105
+g3
+(lp106
+VRestaurants
+p107
+asg8
+g9
+sg10
+VHotel Sachin
+p108
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-sachin_shivaji-park_mumbai_restaurants/146120663
+p109
+sg14
+VShivaji Park
+p110
+sg16
+(lp111
+V24466625
+p112
+asg19
+V0
+p113
+sg21
+VGokhale Road, Shivaji Park, Dadar West, Mumbai
+p114
+sba(i__main__
+Place
+p115
+(dp116
+g3
+(lp117
+VRestaurants
+p118
+asg8
+g9
+sg10
+VMasalazone Bar & Kitchen
+p119
+sg12
+Vhttp://mumbai.burrp.com/listing/masalazone-bar-kitchen_shivaji-park_mumbai_restaurants/15322873356
+p120
+sg14
+VShivaji Park
+p121
+sg16
+(lp122
+V24458172
+p123
+aV 65658111
+p124
+aV 65658222
+p125
+asg19
+g20
+sg21
+V289, Cadell Road, Shivaji Park, Dadar West, Mumbai
+p126
+sba(i__main__
+Place
+p127
+(dp128
+g3
+(lp129
+VBars & Pubs
+p130
+aV Restaurants
+p131
+asg8
+g56
+sg10
+VGreen Restaurant & Bar
+p132
+sg12
+Vhttp://mumbai.burrp.com/listing/green-restaurant-bar_shivaji-park_mumbai_bars-pubs-restaurants/17169138
+p133
+sg14
+VShivaji Park
+p134
+sg16
+(lp135
+V24458160
+p136
+aV 66015385
+p137
+asg19
+g20
+sg21
+VShivnath, 223 Ranade Road Extension, Dadar (W), Shivaji Park, Dadar West, Mumbai
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VRestaurants
+p142
+asg8
+V5
+p143
+sg10
+VBurger Corner
+p144
+sg12
+Vhttp://mumbai.burrp.com/listing/burger-corner_shivaji-park_mumbai_restaurants/185106524
+p145
+sg14
+VShivaji Park
+p146
+sg16
+(lp147
+V24465915
+p148
+aV 24458499
+p149
+asg19
+g113
+sg21
+VAnand Bhuvan, Road No 4, Shivaji Park, Dadar West, Mumbai
+p150
+sba(i__main__
+Place
+p151
+(dp152
+g3
+(lp153
+VRestaurants
+p154
+asg8
+g9
+sg10
+VChandragupta
+p155
+sg12
+Vhttp://mumbai.burrp.com/listing/chandragupta_shivaji-park_mumbai_restaurants/126109683
+p156
+sg14
+VShivaji Park
+p157
+sg16
+(lp158
+V24446405
+p159
+aV 24446406
+p160
+asg19
+g20
+sg21
+VVidya Bhavan Co-op Society, Shivaji Park, Dadar West, Mumbai
+p161
+sba(i__main__
+Place
+p162
+(dp163
+g3
+(lp164
+VRestaurants
+p165
+aV Outdoor Caterers
+p166
+asg8
+g9
+sg10
+VNebula Gourmet Express
+p167
+sg12
+Vhttp://mumbai.burrp.com/listing/nebula-gourmet-express_shivaji-park_mumbai_restaurants-outdoor-caterers/1864462623
+p168
+sg14
+VShivaji Park
+p169
+sg16
+(lp170
+V24365689
+p171
+aV 24362277
+p172
+aV 24362299
+p173
+asg19
+g20
+sg21
+VPraful Bun Co-op Hsg. Society, Ram Maruti Road, Dadar (W), Shivaji Park, Dadar West, Mumbai
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VRestaurants
+p178
+asg8
+g9
+sg10
+VHotel Rajarajeshwari
+p179
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-rajarajeshwari_shivaji-park_mumbai_restaurants/145120564
+p180
+sg14
+VShivaji Park
+p181
+sg16
+(lp182
+V24453474
+p183
+asg19
+g113
+sg21
+VAmarkunj, Off Veer Savarkar Marg, Dadar (W), Shivaji Park, Dadar West, Mumbai
+p184
+sba(i__main__
+Place
+p185
+(dp186
+g3
+(lp187
+VBars & Pubs
+p188
+aV Restaurants
+p189
+asg8
+g56
+sg10
+VMumbai Masala
+p190
+sg12
+Vhttp://mumbai.burrp.com/listing/mumbai-masala_shivaji-park_mumbai_bars-pubs-restaurants/162131247
+p191
+sg14
+VShivaji Park
+p192
+sg16
+(lp193
+V24453361
+p194
+aV 24453362
+p195
+aV 24453363
+p196
+asg19
+g113
+sg21
+VSea Face, Ranade Road, Shivaji Park, Dadar West, Mumbai
+p197
+sba.

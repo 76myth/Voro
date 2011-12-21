@@ -1,0 +1,78 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VLounges
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VIce N Spice 
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/ice-n-spice-_seawoods-darave_navi-mumbai_lounges-restaurants/1901295019
+p12
+sS'region'
+p13
+VSeawoods Darave
+p14
+sS'phone'
+p15
+(lp16
+V27731313
+p17
+aV 27731414
+p18
+aV 27731415 
+p19
+aV 9920854168
+p20
+asS'cost'
+p21
+V2
+p22
+sS'addr'
+p23
+VPlot No. 24, Sector 25, Seawoods Darave, Nerul East, Navi Mumbai
+p24
+sba(i__main__
+Place
+p25
+(dp26
+g3
+(lp27
+VRestaurants
+p28
+asg7
+V3
+p29
+sg9
+VRoyal Rasoi Marina
+p30
+sg11
+Vhttp://mumbai.burrp.com/listing/royal-rasoi-marina_seawoods-darave_navi-mumbai_restaurants/14715141762
+p31
+sg13
+VSeawoods Darave
+p32
+sg15
+(lp33
+V9769696653
+p34
+asg21
+V0
+p35
+sg23
+VHaware Centurion Mall, Ground Floor, Sector 19 A, Seawoods Darave, Nerul East, Navi Mumbai
+p36
+sba.

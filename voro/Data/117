@@ -1,0 +1,140 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VDilli 6 - The Food Capital
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/dilli-6---the-food-capital_jb-nagar_mumbai_restaurants/17715558732
+p11
+sS'region'
+p12
+VJB Nagar
+p13
+sS'phone'
+p14
+(lp15
+V65110419
+p16
+aV 9892987789
+p17
+aV 8080668640
+p18
+asS'cost'
+p19
+V1
+p20
+sS'addr'
+p21
+VJay Ganesh Society, Shop No.1, JB Nagar, Andheri East, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+V0
+p27
+sg8
+VSai Kinara
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-kinara_jb-nagar_mumbai_restaurants/17723712732
+p29
+sg12
+VJB Nagar
+p30
+sg14
+(lp31
+V65294375
+p32
+aV 65294376
+p33
+aV 28305176
+p34
+asg19
+V2
+p35
+sg21
+VDalvi Plaza, Om Nagar, JB Nagar, Andheri East, Mumbai
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VHotels
+p40
+aV Restaurants
+p41
+asg6
+g27
+sg8
+VKerala Hotel
+p42
+sg10
+Vhttp://mumbai.burrp.com/listing/kerala-hotel_jb-nagar_mumbai_hotels-restaurants/15110120158
+p43
+sg12
+VJB Nagar
+p44
+sg14
+(lp45
+V32018044
+p46
+aV 32232209
+p47
+aV 9224146504
+p48
+asg19
+g27
+sg21
+VAshok Nagar, Marol Pipe Line, JB Nagar, Andheri East, Mumbai
+p49
+sba(i__main__
+Place
+p50
+(dp51
+g3
+(lp52
+VRestaurants
+p53
+asg6
+g27
+sg8
+VVasant Bar And Restaurant
+p54
+sg10
+Vhttp://mumbai.burrp.com/listing/vasant-bar-and-restaurant_jb-nagar_mumbai_restaurants/16110130148
+p55
+sg12
+VJB Nagar
+p56
+sg14
+(lp57
+V28223643
+p58
+asg19
+g27
+sg21
+VMisrakons Building, Old Nagardas Road, JB Nagar, Andheri East, Mumbai
+p59
+sba.

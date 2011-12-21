@@ -1,0 +1,1062 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VChina One
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/china-one_dadar-east_mumbai_restaurants/137110772
+p11
+sS'region'
+p12
+VDadar East
+p13
+sS'phone'
+p14
+(lp15
+V24145555
+p16
+asS'cost'
+p17
+V0
+p18
+sS'addr'
+p19
+VHotel Midtown Pritam, Pritam Estates, Dadar (E), Dadar East, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+aV Bars & Pubs
+p25
+asg6
+V3
+p26
+sg8
+VPritam Da Dhaba
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/pritam-da-dhaba_dadar-east_mumbai_restaurants-bars-pubs/149138960
+p28
+sg12
+VDadar East
+p29
+sg14
+(lp30
+V24143311
+p31
+aV 24145555
+p32
+aV 24143817
+p33
+asg17
+V2
+p34
+sg19
+VDharamputra, Pritam Estates, Dadar East, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+g26
+sg8
+VGreat Punjab Restaurant & Bar
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/great-punjab-restaurant-bar_dadar-east_mumbai_restaurants/126118683
+p41
+sg12
+VDadar East
+p42
+sg14
+(lp43
+V24114946
+p44
+aV 24114713
+p45
+asg17
+g18
+sg19
+V186, Prakash Mansion, Opposite Fire Brigade, Dadar (E), Dadar East, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+aV Bars & Pubs
+p51
+asg6
+V4
+p52
+sg8
+VPritam Restaurant & Bar
+p53
+sg10
+Vhttp://mumbai.burrp.com/listing/pritam-restaurant-bar_dadar-east_mumbai_restaurants-bars-pubs/151139158
+p54
+sg12
+VDadar East
+p55
+sg14
+(lp56
+V24145555
+p57
+aV 24143311
+p58
+aV 24143817
+p59
+asg17
+g34
+sg19
+VDharamputra, Pritam Estates, Dadar (E), Dadar East, Mumbai
+p60
+sba(i__main__
+Place
+p61
+(dp62
+g3
+(lp63
+VJuice Parlours
+p64
+aV Restaurants
+p65
+asg6
+g52
+sg8
+VJyoti Restaurant
+p66
+sg10
+Vhttp://mumbai.burrp.com/listing/jyoti-restaurant_dadar-east_mumbai_juice-parlours-restaurants/162599247
+p67
+sg12
+VDadar East
+p68
+sg14
+(lp69
+V24120985
+p70
+aV 32430118
+p71
+aV 24123949
+p72
+asg17
+g34
+sg19
+VKhodadad Circle, Dadar TT, Next to Silk Museum, Dadar East, Mumbai
+p73
+sba(i__main__
+Place
+p74
+(dp75
+g3
+(lp76
+VRestaurants
+p77
+asg6
+g26
+sg8
+VPunjabi Tadka
+p78
+sg10
+Vhttp://mumbai.burrp.com/listing/punjabi-tadka_dadar-east_mumbai_restaurants/150139059
+p79
+sg12
+VDadar East
+p80
+sg14
+(lp81
+V24115657
+p82
+aV 24177900
+p83
+asg17
+g26
+sg19
+VPlot No. 3, Dadar East, Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VIce-cream Parlours
+p88
+aV Juice Parlours
+p89
+aV Fast Food Shops
+p90
+aV Restaurants
+p91
+asg6
+g52
+sg8
+VZaiqaa
+p92
+sg10
+Vhttp://mumbai.burrp.com/listing/zaiqaa_dadar-east_mumbai_ice-cream-parlours-juice-parlours-fast-food-shops/151247158
+p93
+sg12
+VDadar East
+p94
+sg14
+(lp95
+V396211597
+p96
+aV 9892951007
+p97
+asg17
+g18
+sg19
+V1/2, Rajaram Estate, Dadasaheb Phalke Road, Dadar East, Mumbai
+p98
+sba(i__main__
+Place
+p99
+(dp100
+g3
+(lp101
+VRestaurants
+p102
+asg6
+g52
+sg8
+VSwagat
+p103
+sg10
+Vhttp://mumbai.burrp.com/listing/swagat_dadar-east_mumbai_restaurants/18261227
+p104
+sg12
+VDadar East
+p105
+sg14
+(lp106
+V24142470
+p107
+asg17
+g18
+sg19
+VEmpress Mahal, Khodadad Circle, Dadar (E), Dadar East, Mumbai
+p108
+sba(i__main__
+Place
+p109
+(dp110
+g3
+(lp111
+VRestaurants
+p112
+asg6
+g52
+sg8
+VRashtriya Veg Retaurant
+p113
+sg10
+Vhttp://mumbai.burrp.com/listing/rashtriya-veg-retaurant_dadar-east_mumbai_restaurants/134920475
+p114
+sg12
+VDadar East
+p115
+sg14
+(lp116
+V24110087
+p117
+aV 24113787
+p118
+asg17
+g34
+sg19
+V95, Rajaram Estate, Naigaum Cross Road, Dadar (E), Dadar East, Mumbai
+p119
+sba(i__main__
+Place
+p120
+(dp121
+g3
+(lp122
+VRestaurants
+p123
+asg6
+g52
+sg8
+VRishi Restaurant
+p124
+sg10
+Vhttp://mumbai.burrp.com/listing/rishi-restaurant_dadar-east_mumbai_restaurants/1351352574
+p125
+sg12
+VDadar East
+p126
+sg14
+(lp127
+V24183043
+p128
+aV 24182805
+p129
+aV 24114795
+p130
+aV 24171513
+p131
+asg17
+g34
+sg19
+VShinde Estate, Opp Dadar Central Rly Stn, Dadar East, Mumbai
+p132
+sba(i__main__
+Place
+p133
+(dp134
+g3
+(lp135
+VRestaurants
+p136
+asg6
+g52
+sg8
+VToran
+p137
+sg10
+Vhttp://mumbai.burrp.com/listing/toran_dadar-east_mumbai_restaurants/1493909960
+p138
+sg12
+VDadar East
+p139
+sg14
+(lp140
+V43449999
+p141
+aV 24145555
+p142
+asg17
+g34
+sg19
+V1, Dharamputra, Pritam Estate, Dadar (E), Dadar East, Mumbai
+p143
+sba(i__main__
+Place
+p144
+(dp145
+g3
+(lp146
+VRestaurants
+p147
+asg6
+g7
+sg8
+VBig Bite
+p148
+sg10
+Vhttp://mumbai.burrp.com/listing/big-bite_dadar-east_mumbai_restaurants/19532840514
+p149
+sg12
+VDadar East
+p150
+sg14
+(lp151
+V24112415
+p152
+asg17
+g34
+sg19
+VNo. 1, Satnam Mansion, Dadar East, Mumbai
+p153
+sba(i__main__
+Place
+p154
+(dp155
+g3
+(lp156
+VRestaurants
+p157
+asg6
+g52
+sg8
+VChili Flakes
+p158
+sg10
+Vhttp://mumbai.burrp.com/listing/chili-flakes_dadar-east_mumbai_restaurants/15515187554
+p159
+sg12
+VDadar East
+p160
+sg14
+(lp161
+V9987299402
+p162
+asg17
+g18
+sg19
+V622, Palia Mansion, Lady Jehangir Road, Dadar East, Mumbai
+p163
+sba(i__main__
+Place
+p164
+(dp165
+g3
+(lp166
+VRestaurants
+p167
+asg6
+g52
+sg8
+VHotel Vasant
+p168
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-vasant_dadar-east_mumbai_restaurants/1451416564
+p169
+sg12
+VDadar East
+p170
+sg14
+(lp171
+V24189979
+p172
+aV 65758086
+p173
+asg17
+g34
+sg19
+VNear Sharda Talkies, Dadar East, Mumbai
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VRestaurants
+p178
+asg6
+g52
+sg8
+VLaxmi Vilas Hindu Hotel
+p179
+sg10
+Vhttp://mumbai.burrp.com/listing/laxmi-vilas-hindu-hotel_dadar-east_mumbai_restaurants/1873499722
+p180
+sg12
+VDadar East
+p181
+sg14
+(lp182
+V24112919
+p183
+asg17
+g18
+sg19
+VDr Ambedkar Road, Dadar (E), Dadar East, Mumbai
+p184
+sba(i__main__
+Place
+p185
+(dp186
+g3
+(lp187
+VRestaurants
+p188
+asg6
+g52
+sg8
+VPrisha
+p189
+sg10
+Vhttp://mumbai.burrp.com/listing/prisha_dadar-east_mumbai_restaurants/1876172722
+p190
+sg12
+VDadar East
+p191
+sg14
+(lp192
+V24140680
+p193
+aV 24140681
+p194
+aV 24140682
+p195
+asg17
+g34
+sg19
+VDadar East, Mumbai
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VRestaurants
+p200
+aV Outdoor Caterers
+p201
+asg6
+g18
+sg8
+VRachna Hotel
+p202
+sg10
+Vhttp://mumbai.burrp.com/listing/rachna-hotel_dadar-east_mumbai_restaurants-outdoor-caterers/1118937198
+p203
+sg12
+VDadar East
+p204
+sg14
+(lp205
+V24144445
+p206
+aV 24169090
+p207
+asg17
+g34
+sg19
+VRajaram Estate, D S Phalke Road, Dadar East, Mumbai
+p208
+sba(i__main__
+Place
+p209
+(dp210
+g3
+(lp211
+VRestaurants
+p212
+asg6
+g18
+sg8
+VNavi Udipi
+p213
+sg10
+Vhttp://mumbai.burrp.com/listing/navi-udipi_dadar-tt_mumbai_restaurants/11332868396
+p214
+sg12
+VDadar TT
+p215
+sg14
+(lp216
+V64145383
+p217
+aV 24145643
+p218
+asg17
+g34
+sg19
+VEmpress Mahal, No.2, Khodadad Circle, Dadar TT, Dadar East, Mumbai
+p219
+sba(i__main__
+Place
+p220
+(dp221
+g3
+(lp222
+VTake Away Shops
+p223
+aV Restaurants
+p224
+asg6
+g18
+sg8
+VSadhana
+p225
+sg10
+Vhttp://mumbai.burrp.com/listing/sadhana_dadar-east_mumbai_take-away-shops-restaurants/1493657960
+p226
+sg12
+VDadar East
+p227
+sg14
+(lp228
+V24112785
+p229
+aV 24171079
+p230
+asg17
+g34
+sg19
+V99, Janabai Building, Dadasaheb Phalke Road, Opposite Dadar Railway Station, Dadar East, Mumbai
+p231
+sba(i__main__
+Place
+p232
+(dp233
+g3
+(lp234
+VRestaurants
+p235
+asg6
+g18
+sg8
+VShubham Pure Veg Restaurant
+p236
+sg10
+Vhttp://mumbai.burrp.com/listing/shubham-pure-veg-restaurant_dadar-east_mumbai_restaurants/1478985762
+p237
+sg12
+VDadar East
+p238
+sg14
+(lp239
+V24144015
+p240
+aV 24144107
+p241
+aV 9820922066
+p242
+asg17
+g34
+sg19
+VL N Road, Dadar East, Mumbai
+p243
+sba(i__main__
+Place
+p244
+(dp245
+g3
+(lp246
+VRestaurants
+p247
+asg6
+g18
+sg8
+VShri Samarth
+p248
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-samarth_dadar-east_mumbai_restaurants/14923664960
+p249
+sg12
+VDadar East
+p250
+sg14
+(lp251
+V24123340
+p252
+aV 24189157
+p253
+asg17
+g34
+sg19
+VNanabhay Court, Near Hindmata Cinema, Dadar East, Mumbai
+p254
+sba(i__main__
+Place
+p255
+(dp256
+g3
+(lp257
+VRestaurants
+p258
+asg6
+g18
+sg8
+VHotel Purva Pangat
+p259
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-purva-pangat_dadar-east_mumbai_restaurants/1181350891
+p260
+sg12
+VDadar East
+p261
+sg14
+(lp262
+V24386504
+p263
+asg17
+g34
+sg19
+V301, Miranda Chawl, Shop No. 8, N.C. Kelkar Marg, Dadar (E), Dadar East, Mumbai
+p264
+sba(i__main__
+Place
+p265
+(dp266
+g3
+(lp267
+VRestaurants
+p268
+asg6
+g18
+sg8
+VAshok Restaurant And Bar
+p269
+sg10
+Vhttp://mumbai.burrp.com/listing/ashok-restaurant-and-bar_dadar-east_mumbai_restaurants/1178955792
+p270
+sg12
+VDadar East
+p271
+sg14
+(lp272
+V24111768
+p273
+aV 24152345
+p274
+asg17
+g18
+sg19
+VIrani Mansion, Shop No 174/B, Ground Floor, Dr Ambedkar Road, Dadar East, Mumbai
+p275
+sba(i__main__
+Place
+p276
+(dp277
+g3
+(lp278
+VRestaurants
+p279
+asg6
+g18
+sg8
+VVishwa Mahal Hotel
+p280
+sg10
+Vhttp://mumbai.burrp.com/listing/vishwa-mahal-hotel_dadar-east_mumbai_restaurants/1739006336
+p281
+sg12
+VDadar East
+p282
+sg14
+(lp283
+V24165071
+p284
+aV 24184410
+p285
+asg17
+V1
+p286
+sg19
+VCasam Mehta Building, D S Road, Foot Bridge, Dadar East, Mumbai
+p287
+sba(i__main__
+Place
+p288
+(dp289
+g3
+(lp290
+VRestaurants
+p291
+asg6
+g18
+sg8
+VPrabhakar Chinese
+p292
+sg10
+Vhttp://mumbai.burrp.com/listing/prabhakar-chinese_dadar-east_mumbai_restaurants/1485763861
+p293
+sg12
+VDadar East
+p294
+sg14
+(lp295
+V24141041
+p296
+aV 7208169499
+p297
+aV 9867830875
+p298
+asg17
+g18
+sg19
+VAnkur Building, G. K. Road, Dadar (E), Dadar East, Mumbai
+p299
+sba(i__main__
+Place
+p300
+(dp301
+g3
+(lp302
+VRestaurants
+p303
+asg6
+g18
+sg8
+VNew Modern
+p304
+sg10
+Vhttp://mumbai.burrp.com/listing/new-modern_dadar-east_mumbai_restaurants/1638933346
+p305
+sg12
+VDadar East
+p306
+sg14
+(lp307
+V24114566
+p308
+aV 9819704891
+p309
+asg17
+g18
+sg19
+VShop No 16, Saikunj, Dr Ambedkar Road, Dadar East, Mumbai
+p310
+sba(i__main__
+Place
+p311
+(dp312
+g3
+(lp313
+VRestaurants
+p314
+asg6
+g286
+sg8
+VPritam Group Of  Hotels
+p315
+sg10
+Vhttp://mumbai.burrp.com/listing/pritam-group-of-hotels_dadar-east_mumbai_restaurants/1978936712
+p316
+sg12
+VDadar East
+p317
+sg14
+(lp318
+V24144811
+p319
+aV 43449999
+p320
+asg17
+g18
+sg19
+V Dharmputra, Pritam Estate, Dadar  T T , Dadar East, Mumbai
+p321
+sba(i__main__
+Place
+p322
+(dp323
+g3
+(lp324
+VRestaurants
+p325
+aV Shops
+p326
+aV Dessert Shops
+p327
+asg6
+g18
+sg8
+VSindh Pure Veg Restaurant And Sweet Mart
+p328
+sg10
+Vhttp://mumbai.burrp.com/listing/sindh-pure-veg-restaurant-and-sweet-mart_dadar-east_mumbai_restaurants-shops-dessert-shops/1498940960
+p329
+sg12
+VDadar East
+p330
+sg14
+(lp331
+V24110862
+p332
+asg17
+g18
+sg19
+VNaigaon Cross Road, Dadar East, Mumbai
+p333
+sba(i__main__
+Place
+p334
+(dp335
+g3
+(lp336
+VRestaurants
+p337
+asg6
+g18
+sg8
+VAshirwad Restaurant And Bar
+p338
+sg10
+Vhttp://mumbai.burrp.com/listing/ashirwad-restaurant-and-bar_dadar-east_mumbai_restaurants/1598959950
+p339
+sg12
+VDadar East
+p340
+sg14
+(lp341
+V24115729
+p342
+aV 24182430
+p343
+asg17
+g18
+sg19
+VShop No 190, Satnam Mansion, Dr B A Road, Dadar East, Mumbai
+p344
+sba(i__main__
+Place
+p345
+(dp346
+g3
+(lp347
+VRestaurants
+p348
+aV Lounges
+p349
+asg6
+g18
+sg8
+VBaywatch Bar
+p350
+sg10
+Vhttp://mumbai.burrp.com/listing/baywatch-bar_dadar-east_mumbai_restaurants-lounges/1998981910
+p351
+sg12
+VDadar East
+p352
+sg14
+(lp353
+V24182227
+p354
+asg17
+g18
+sg19
+VShop No 188/H, Sharda Mansion, Dr Ambedkar Road, Dadar East, Mumbai
+p355
+sba(i__main__
+Place
+p356
+(dp357
+g3
+(lp358
+VDessert Shops
+p359
+aV Restaurants
+p360
+aV Shops
+p361
+asg6
+g18
+sg8
+VSindh Hindu Hotel & Sweet Mart
+p362
+sg10
+Vhttp://mumbai.burrp.com/listing/sindh-hindu-hotel-sweet-mart_dadar-east_mumbai_dessert-shops-restaurants-shops/1398984970
+p363
+sg12
+VDadar East
+p364
+sg14
+(lp365
+V24110862
+p366
+asg17
+g18
+sg19
+VNaigaon Cross Road, Opposite Kailash Lassi, Dadar East, Mumbai
+p367
+sba(i__main__
+Place
+p368
+(dp369
+g3
+(lp370
+VRestaurants
+p371
+aV Hotels
+p372
+asg6
+g18
+sg8
+VStar Of Cochin Restaurant
+p373
+sg10
+Vhttp://mumbai.burrp.com/listing/star-of-cochin-restaurant_dadar-east_mumbai_restaurants-hotels/1758988534
+p374
+sg12
+VDadar East
+p375
+sg14
+(lp376
+V24145152
+p377
+aV 24145638
+p378
+aV 24145680
+p379
+aV 9819024878
+p380
+asg17
+g18
+sg19
+VDharmputra Building, 3rd Floor, Dr Ambedkar Road, Dadar TT, Dadar East, Mumbai
+p381
+sba(i__main__
+Place
+p382
+(dp383
+g3
+(lp384
+VRestaurants
+p385
+asg6
+g18
+sg8
+VModern Times Restaurant
+p386
+sg10
+Vhttp://mumbai.burrp.com/listing/modern-times-restaurant_dadar-east_mumbai_restaurants/1578995752
+p387
+sg12
+VDadar East
+p388
+sg14
+(lp389
+V24138828
+p390
+asg17
+g18
+sg19
+VKismat Bldg, Dr Ambedkar Road, Near Hindmata Cinema, Dadar East, Mumbai
+p391
+sba(i__main__
+Place
+p392
+(dp393
+g3
+(lp394
+VRestaurants
+p395
+asg6
+g18
+sg8
+VChetan Restaurant & Bar
+p396
+sg10
+Vhttp://mumbai.burrp.com/listing/chetan-restaurant-bar_dadar-east_mumbai_restaurants/1798997930
+p397
+sg12
+VDadar East
+p398
+sg14
+(lp399
+V24113414
+p400
+asg17
+g18
+sg19
+V63 Rajaram Estate Sakina Building, Dsp Road, Opp Hind Rajasthan Building, Dadar East, Mumbai
+p401
+sba.

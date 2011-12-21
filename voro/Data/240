@@ -1,0 +1,76 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VAnam Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/anam-restaurant_boisar_thane_restaurants/1275419782
+p11
+sS'region'
+p12
+VBoisar
+p13
+sS'phone'
+p14
+(lp15
+V645736
+p16
+aV 9820422277
+p17
+asS'cost'
+p18
+V1
+p19
+sS'addr'
+p20
+VNational Highway 8, Village Durvesh aka Manor, Boisar, Palghar, Thane
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VShivanand Family Restaurant And Bar
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/shivanand-family-restaurant-and-bar_boisar_thane_restaurants/13314141376
+p27
+sg12
+VBoisar
+p28
+sg14
+(lp29
+V270405
+p30
+aV 272121
+p31
+aV 272356
+p32
+aV 276483
+p33
+asg18
+g7
+sg20
+VPlot No P/5, Chitra Lane, Tarapur Road, Chitralaya, Boisar, Palghar, Thane
+p34
+sba.

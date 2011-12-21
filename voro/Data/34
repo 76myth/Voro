@@ -1,0 +1,536 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VRaju Kitchen
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/raju-kitchen_borivali-east_mumbai_restaurants/155256554
+p11
+sS'region'
+p12
+VBorivali East
+p13
+sS'phone'
+p14
+(lp15
+V28016290
+p16
+aV 28063298 
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+V1, M.G.Road , Opposite S.T. Bus Depot, Borivali (E), Borivali East, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g19
+sg8
+VNew Gopalkrishna Hindu Hotel
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/new-gopalkrishna-hindu-hotel_borivali-east_mumbai_restaurants/1918027118
+p27
+sg12
+VBorivali East
+p28
+sg14
+(lp29
+V28058840
+p30
+aV 28086617
+p31
+aV 9892610643
+p32
+asg18
+g19
+sg20
+VShop No 1, Navalkar Chawl, Kasturba Road No 3, Near Post Office, Borivali East, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VJuice Parlours
+p37
+aV Fast Food Shops
+p38
+aV Restaurants
+p39
+asg6
+g19
+sg8
+VBalaji Fast Food & Juice Corner 
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/balaji-fast-food-juice-corner-_borivali-east_mumbai_juice-parlours-fast-food-shops-restaurants/17922632930
+p41
+sg12
+VBorivali East
+p42
+sg14
+(lp43
+V28844999
+p44
+aV 28844777
+p45
+asg18
+V2
+p46
+sg20
+VShop No 33, Annex Mall, Broadway Theatre , Borivali East, Mumbai
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VRestaurants
+p51
+asg6
+g19
+sg8
+VSpring Fields Restaurant
+p52
+sg10
+Vhttp://mumbai.burrp.com/listing/spring-fields-restaurant_borivali-east_mumbai_restaurants/1298047980
+p53
+sg12
+VBorivali East
+p54
+sg14
+(lp55
+V28544635
+p56
+aV 28547744
+p57
+aV 28549933
+p58
+asg18
+g19
+sg20
+VShop No 125, Country Park, Dattapada Road, Near Western Express Highway, Borivali East, Mumbai
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg6
+g19
+sg8
+VRadha Krishna
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/radha-krishna_borivali-east_mumbai_restaurants/120163089
+p65
+sg12
+VBorivali East
+p66
+sg14
+(lp67
+V28058042
+p68
+aV 9324358042
+p69
+asg18
+g19
+sg20
+VKasturba Road, Borivali (E), Borivali East, Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+aV Home Caterers
+p75
+asg6
+g19
+sg8
+VJamnagri Sweet & Farsan Mart
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/jamnagri-sweet-farsan-mart_borivali-east_mumbai_restaurants-home-caterers/185376524
+p77
+sg12
+VBorivali East
+p78
+sg14
+(lp79
+V28628672
+p80
+asg18
+V1
+p81
+sg20
+VCarter Road, No 2 Corner, Borivili (E), Borivali East, Mumbai
+p82
+sba(i__main__
+Place
+p83
+(dp84
+g3
+(lp85
+VRestaurants
+p86
+asg6
+g19
+sg8
+VGopal Krishna
+p87
+sg10
+Vhttp://mumbai.burrp.com/listing/gopal-krishna_borivali-east_mumbai_restaurants/158751851
+p88
+sg12
+VBorivali East
+p89
+sg14
+(lp90
+V28058840
+p91
+asg18
+g81
+sg20
+VKasturba Cross Road No.3, Borivali (E), Borivali East, Mumbai
+p92
+sba(i__main__
+Place
+p93
+(dp94
+g3
+(lp95
+VRestaurants
+p96
+asg6
+g19
+sg8
+VChina Dine
+p97
+sg10
+Vhttp://mumbai.burrp.com/listing/china-dine_borivali-east_mumbai_restaurants/1614415148
+p98
+sg12
+VBorivali East
+p99
+sg14
+(lp100
+V28549638
+p101
+asg18
+g19
+sg20
+VLav Kush Shopping Center, Shop No 8, Dattapada, Borivali (E), Borivali East, Mumbai
+p102
+sba(i__main__
+Place
+p103
+(dp104
+g3
+(lp105
+VRestaurants
+p106
+asg6
+g19
+sg8
+VGreen Veg. Restaurant
+p107
+sg10
+Vhttp://mumbai.burrp.com/listing/green-veg-restaurant_borivali-east_mumbai_restaurants/1394430970
+p108
+sg12
+VBorivali East
+p109
+sg14
+(lp110
+V28081843
+p111
+aV 28081537
+p112
+asg18
+g19
+sg20
+VShop No. 8, Amita Apartment, Kasturba Road No. 5, Borivali (E), Borivali East, Mumbai
+p113
+sba(i__main__
+Place
+p114
+(dp115
+g3
+(lp116
+VRestaurants
+p117
+aV Bars & Pubs
+p118
+asg6
+g19
+sg8
+VHotel Regency Family Restaurant & Bar
+p119
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-regency-family-restaurant-bar_borivali-east_mumbai_restaurants-bars-pubs/1644442445
+p120
+sg12
+VBorivali East
+p121
+sg14
+(lp122
+V65234098
+p123
+asg18
+g19
+sg20
+VGanesh Nagar, C.C.I. Bhor ( Industries), W. E. Highway, Borivali (E), Borivali East, Mumbai
+p124
+sba(i__main__
+Place
+p125
+(dp126
+g3
+(lp127
+VRestaurants
+p128
+asg6
+g19
+sg8
+VNamaskar Restaurant
+p129
+sg10
+Vhttp://mumbai.burrp.com/listing/namaskar-restaurant_borivali-east_mumbai_restaurants/1494503960
+p130
+sg12
+VBorivali East
+p131
+sg14
+(lp132
+V28968606 
+p133
+aV 28965607
+p134
+asg18
+g46
+sg20
+VAdinath Tower-B, NearNancy Colony  , Borivali East, Mumbai
+p135
+sba(i__main__
+Place
+p136
+(dp137
+g3
+(lp138
+VRestaurants
+p139
+asg6
+g19
+sg8
+VUma Restaurant
+p140
+sg10
+Vhttp://mumbai.burrp.com/listing/uma-restaurant_borivali-east_mumbai_restaurants/1518023158
+p141
+sg12
+VBorivali East
+p142
+sg14
+(lp143
+V28929554
+p144
+aV 28946067
+p145
+asg18
+g19
+sg20
+VShop No 12, Ground Floor, Pannalal Nagar, S V Road, Borivali East, Mumbai
+p146
+sba(i__main__
+Place
+p147
+(dp148
+g3
+(lp149
+VRestaurants
+p150
+asg6
+g19
+sg8
+VRajus Kitchen Restaurant
+p151
+sg10
+Vhttp://mumbai.burrp.com/listing/rajus-kitchen-restaurant_borivali-east_mumbai_restaurants/1718025138
+p152
+sg12
+VBorivali East
+p153
+sg14
+(lp154
+V28016290
+p155
+aV 28063298
+p156
+aV 9819650876
+p157
+asg18
+g19
+sg20
+VM G Road, Borivali East, Mumbai
+p158
+sba(i__main__
+Place
+p159
+(dp160
+g3
+(lp161
+VRestaurants
+p162
+asg6
+g19
+sg8
+VRahul Lunch Home
+p163
+sg10
+Vhttp://mumbai.burrp.com/listing/rahul-lunch-home_borivali-east_mumbai_restaurants/1798025930
+p164
+sg12
+VBorivali East
+p165
+sg14
+(lp166
+V
+p167
+aV 9833733691
+p168
+asg18
+g19
+sg20
+VM G Road, Borivali East, Mumbai
+p169
+sba(i__main__
+Place
+p170
+(dp171
+g3
+(lp172
+VRestaurants
+p173
+aV Juice Parlours
+p174
+asg6
+g19
+sg8
+VSai Lakshmi Hotel
+p175
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-lakshmi-hotel_borivali-east_mumbai_restaurants-juice-parlours/1818044128
+p176
+sg12
+VBorivali East
+p177
+sg14
+(lp178
+V28973200
+p179
+aV 9892410445
+p180
+asg18
+g19
+sg20
+VShop No 4, Anthony Amar Chawl, Kajupada, Borivali East, Mumbai
+p181
+sba(i__main__
+Place
+p182
+(dp183
+g3
+(lp184
+VRestaurants
+p185
+asg6
+g19
+sg8
+VShree Ramdev Restaurant
+p186
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-ramdev-restaurant_borivali-east_mumbai_restaurants/1158046594
+p187
+sg12
+VBorivali East
+p188
+sg14
+(lp189
+V28945452
+p190
+aV 9869137714
+p191
+asg18
+g19
+sg20
+VCosmos Park, M G Road, Near Omkareshwar Temple, Borivali East, Mumbai
+p192
+sba(i__main__
+Place
+p193
+(dp194
+g3
+(lp195
+VRestaurants
+p196
+aV Bars & Pubs
+p197
+asg6
+g19
+sg8
+VCentral Prabhu Restaurant & Bar
+p198
+sg10
+Vhttp://mumbai.burrp.com/listing/central-prabhu-restaurant-bar_borivali-east_mumbai_restaurants-bars-pubs/1818053128
+p199
+sg12
+VBorivali East
+p200
+sg14
+(lp201
+V28542091
+p202
+aV 28544753
+p203
+aV 28541608
+p204
+asg18
+g19
+sg20
+VDattapada Road, Near Western Express Highway, Borivali East, Mumbai
+p205
+sba.

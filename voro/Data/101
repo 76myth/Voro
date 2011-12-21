@@ -1,0 +1,1596 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VWhite: The Italian Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/white-the-italian-restaurant_goregaon-west_mumbai_restaurants/192719217
+p11
+sS'region'
+p12
+VGoregaon West
+p13
+sS'phone'
+p14
+(lp15
+V28735645
+p16
+aV 28735648
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VThe Ozone Club, Rang Sabade Marg, Siddharth Nagar, Goregaon West, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+V180 Degrees
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/180-degrees_goregaon-west_mumbai_restaurants/130839079
+p27
+sg12
+VGoregaon West
+p28
+sg14
+(lp29
+V28718000
+p30
+asg18
+V3
+p31
+sg20
+VAK Plaza, Junction of S.V. Road & Veer Savarkar Road Flyover, Goregaon West, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VBanquet Halls
+p36
+aV Cafes
+p37
+aV Restaurants
+p38
+aV Bars & Pubs
+p39
+asg6
+g7
+sg8
+VLalit Fine Dine
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/lalit-fine-dine_goregaon-west_mumbai_banquet-halls-cafes-restaurants/147921762
+p41
+sg12
+VGoregaon West
+p42
+sg14
+(lp43
+V28720789
+p44
+aV 28737428
+p45
+asg18
+V2
+p46
+sg20
+VGround floor, Topiwala Building, Station Road, Goregaon (W), Goregaon West, Mumbai
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VCafes
+p51
+aV Dessert Shops
+p52
+aV Take Away Shops
+p53
+aV Restaurants
+p54
+aV Bakery Shops
+p55
+asg6
+g31
+sg8
+VMoxaa
+p56
+sg10
+Vhttp://mumbai.burrp.com/listing/moxaa_goregaon-west_mumbai_cafes-dessert-shops-take-away-shops/1334970376
+p57
+sg12
+VGoregaon West
+p58
+sg14
+(lp59
+V28712148
+p60
+aV 22906060
+p61
+asg18
+g46
+sg20
+VShop No 8, Ozone (Rustomjee Project), 90 Feet Link Road, Between S.V. Rd & Link Rd, Goregaon (W), Goregaon West, Mumbai
+p62
+sba(i__main__
+Place
+p63
+(dp64
+g3
+(lp65
+VRestaurants
+p66
+asg6
+V5
+p67
+sg8
+VPrashant
+p68
+sg10
+Vhttp://mumbai.burrp.com/listing/prashant_goregaon-west_mumbai_restaurants/142138267
+p69
+sg12
+VGoregaon West
+p70
+sg14
+(lp71
+V28735402
+p72
+aV 28781222
+p73
+asg18
+g19
+sg20
+VStation Road, Goregaon (W), Goregaon West, Mumbai
+p74
+sba(i__main__
+Place
+p75
+(dp76
+g3
+(lp77
+VRestaurants
+p78
+asg6
+g31
+sg8
+VPop N Dine
+p79
+sg10
+Vhttp://mumbai.burrp.com/listing/pop-n-dine_goregaon-west_mumbai_restaurants/1356383574
+p80
+sg12
+VGoregaon West
+p81
+sg14
+(lp82
+V28781155
+p83
+aV 28781313
+p84
+asg18
+g19
+sg20
+VPagrav Building, S.V.Road, Goregaon West, Mumbai
+p85
+sba(i__main__
+Place
+p86
+(dp87
+g3
+(lp88
+VRestaurants
+p89
+aV Bars & Pubs
+p90
+asg6
+g31
+sg8
+VPicasso
+p91
+sg10
+Vhttp://mumbai.burrp.com/listing/picasso_goregaon-west_mumbai_restaurants-bars-pubs/133137376
+p92
+sg12
+VGoregaon West
+p93
+sg14
+(lp94
+V28741122
+p95
+aV 28723355
+p96
+asg18
+g46
+sg20
+VNew link Road, Opposite Bangur Nagar, Goregaon West, Mumbai
+p97
+sba(i__main__
+Place
+p98
+(dp99
+g3
+(lp100
+VBars & Pubs
+p101
+aV Restaurants
+p102
+asg6
+g31
+sg8
+VImage Restaurant & Bar
+p103
+sg10
+Vhttp://mumbai.burrp.com/listing/image-restaurant-bar_goregaon-west_mumbai_bars-pubs-restaurants/141147168
+p104
+sg12
+VGoregaon West
+p105
+sg14
+(lp106
+V28741251
+p107
+aV 28767225
+p108
+aV 28767869
+p109
+asg18
+g46
+sg20
+VHotel Laxmi International, Near Telephone Exchange, Goregaon (W), Goregaon West, Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VBars & Pubs
+p114
+aV Restaurants
+p115
+asg6
+g31
+sg8
+VZing
+p116
+sg10
+Vhttp://mumbai.burrp.com/listing/zing_goregaon-west_mumbai_bars-pubs-restaurants/180835029
+p117
+sg12
+VGoregaon West
+p118
+sg14
+(lp119
+V28735645
+p120
+aV 28735648
+p121
+asg18
+g46
+sg20
+VThe Ozone Club, Rang Sabade Marg, Siddharth Nagar, Billabong/Vibgyor Lane, Goregaon West, Mumbai
+p122
+sba(i__main__
+Place
+p123
+(dp124
+g3
+(lp125
+VRestaurants
+p126
+asg6
+g7
+sg8
+VSudama
+p127
+sg10
+Vhttp://mumbai.burrp.com/listing/sudama_goregaon-west_mumbai_restaurants/159373950
+p128
+sg12
+VGoregaon West
+p129
+sg14
+(lp130
+V28782877
+p131
+aV 28727377
+p132
+asg18
+V1
+p133
+sg20
+VPanchratna Apartment, 29/B, Jawahar Nagar, Goregaon (W), Goregaon West, Mumbai
+p134
+sba(i__main__
+Place
+p135
+(dp136
+g3
+(lp137
+VRestaurants
+p138
+asg6
+g7
+sg8
+VManthan Restaurant
+p139
+sg10
+Vhttp://mumbai.burrp.com/listing/manthan-restaurant_goregaon-west_mumbai_restaurants/1111359198
+p140
+sg12
+VGoregaon West
+p141
+sg14
+(lp142
+V28758844
+p143
+aV 28776789
+p144
+aV 65239457
+p145
+aV 9699829938
+p146
+asg18
+g133
+sg20
+VShop No.10. Unnath Shopping Center, M G Road, Unnat Nagar, Goregaon West, Mumbai
+p147
+sba(i__main__
+Place
+p148
+(dp149
+g3
+(lp150
+VRestaurants
+p151
+asg6
+g31
+sg8
+VKonkan Swad Gomantak Food
+p152
+sg10
+Vhttp://mumbai.burrp.com/listing/konkan-swad-gomantak-food_goregaon-west_mumbai_restaurants/1257903584
+p153
+sg12
+VGoregaon West
+p154
+sg14
+(lp155
+V28777130
+p156
+asg18
+g19
+sg20
+VShop No 4, M G Road, Bangur Nagar Junction, Goregaon West, Mumbai
+p157
+sba(i__main__
+Place
+p158
+(dp159
+g3
+(lp160
+VRestaurants
+p161
+aV Bars & Pubs
+p162
+asg6
+g19
+sg8
+VSandhya Bar & Restaurant
+p163
+sg10
+Vhttp://mumbai.burrp.com/listing/sandhya-bar-restaurant_mg-road_mumbai_restaurants-bars-pubs/15323539356
+p164
+sg12
+VMG Road
+p165
+sg14
+(lp166
+V28753010
+p167
+aV 28763281
+p168
+aV 9967784599
+p169
+asg18
+g46
+sg20
+VB-11, 6 & 7, Shraddha Co-Op Hsg, Society, Mitha Nagar, MG Road, Goregaon West, Mumbai
+p170
+sba(i__main__
+Place
+p171
+(dp172
+g3
+(lp173
+VRestaurants
+p174
+aV Fast Food Shops
+p175
+asg6
+g19
+sg8
+VMcDonald's
+p176
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_goregaon-west_mumbai_restaurants-fast-food-shops/1812500128
+p177
+sg12
+VGoregaon West
+p178
+sg14
+(lp179
+V26333154
+p180
+asg18
+g46
+sg20
+VMega Mall, Oshiwara, Near Lokhandwala Complex, Goregaon (W), Goregaon West, Mumbai
+p181
+sba(i__main__
+Place
+p182
+(dp183
+g3
+(lp184
+VRestaurants
+p185
+asg6
+g19
+sg8
+VSwami 
+p186
+sg10
+Vhttp://mumbai.burrp.com/listing/swami-_goregaon-west_mumbai_restaurants/17722929732
+p187
+sg12
+VGoregaon West
+p188
+sg14
+(lp189
+V28712195
+p190
+aV 9820948099
+p191
+asg18
+g19
+sg20
+V14/1, Yogi Kripa Jawahar Nagar, S.V.Road , Goregaon West, Mumbai
+p192
+sba(i__main__
+Place
+p193
+(dp194
+g3
+(lp195
+VRestaurants
+p196
+asg6
+g19
+sg8
+VMilan Restaurant
+p197
+sg10
+Vhttp://mumbai.burrp.com/listing/milan-restaurant_link-road-goregoan-west_mumbai_restaurants/13323312376
+p198
+sg12
+VLink Road-Goregoan West
+p199
+sg14
+(lp200
+V28778767
+p201
+aV 9588798006
+p202
+asg18
+g46
+sg20
+VAzad Nagar, New Link Road, Link Road-Goregoan West, Goregaon West, Mumbai
+p203
+sba(i__main__
+Place
+p204
+(dp205
+g3
+(lp206
+VRestaurants
+p207
+asg6
+g19
+sg8
+VFood First
+p208
+sg10
+Vhttp://mumbai.burrp.com/listing/food-first_goregaon-west_mumbai_restaurants/15133961158
+p209
+sg12
+VGoregaon West
+p210
+sg14
+(lp211
+V28762222
+p212
+aV 9321522333
+p213
+asg18
+g31
+sg20
+VThird Floor, DLH Park, S V Road, Goregaon West, Mumbai
+p214
+sba(i__main__
+Place
+p215
+(dp216
+g3
+(lp217
+VRestaurants
+p218
+asg6
+g19
+sg8
+VVithal Kamats
+p219
+sg10
+Vhttp://mumbai.burrp.com/listing/vithal-kamats_goregaon-west_mumbai_restaurants/1436483366
+p220
+sg12
+VGoregaon West
+p221
+sg14
+(lp222
+V28713020
+p223
+asg18
+g19
+sg20
+VKamala Charan Building, Jowahar Nagar Railway Phatta, Goregaon (W), Goregaon West, Mumbai
+p224
+sba(i__main__
+Place
+p225
+(dp226
+g3
+(lp227
+VRestaurants
+p228
+asg6
+g19
+sg8
+VLom Chings Chinese & Thai
+p229
+sg10
+Vhttp://mumbai.burrp.com/listing/lom-chings-chinese-thai_goregaon-west_mumbai_restaurants/1461479663
+p230
+sg12
+VGoregaon West
+p231
+sg14
+(lp232
+V32718116
+p233
+aV 64403766
+p234
+asg18
+g133
+sg20
+VShop No 4, Ashok Raj CHS, B-Wing. SV Road, Opposite Citi Center, Goregaon (W), Goregaon West, Mumbai
+p235
+sba(i__main__
+Place
+p236
+(dp237
+g3
+(lp238
+VRestaurants
+p239
+asg6
+g19
+sg8
+VChinagaon Restaurant
+p240
+sg10
+Vhttp://mumbai.burrp.com/listing/chinagaon-restaurant_goregaon-west_mumbai_restaurants/1939791316
+p241
+sg12
+VGoregaon West
+p242
+sg14
+(lp243
+V28743469
+p244
+aV 32509485
+p245
+aV 9820404441
+p246
+asg18
+g19
+sg20
+VShop No 11, Lalita Ruka Niwas, Station Road, Goregaon West, Mumbai
+p247
+sba(i__main__
+Place
+p248
+(dp249
+g3
+(lp250
+VRestaurants
+p251
+asg6
+g19
+sg8
+VLomchings Restaurant
+p252
+sg10
+Vhttp://mumbai.burrp.com/listing/lomchings-restaurant_goregaon-west_mumbai_restaurants/1659797544
+p253
+sg12
+VGoregaon West
+p254
+sg14
+(lp255
+V32718116
+p256
+aV 64403766
+p257
+aV 9833011240
+p258
+asg18
+g19
+sg20
+VShop No 4, B Wing, Ashokraj Co Operative Housing Society, S V Road , Near Ratna Hotel, Goregaon West, Mumbai
+p259
+sba(i__main__
+Place
+p260
+(dp261
+g3
+(lp262
+VRestaurants
+p263
+asg6
+g19
+sg8
+VManchan Family Restaurant And Bar
+p264
+sg10
+Vhttp://mumbai.burrp.com/listing/manchan-family-restaurant-and-bar_goregaon-west_mumbai_restaurants/1219802188
+p265
+sg12
+VGoregaon West
+p266
+sg14
+(lp267
+V28758844
+p268
+aV 28776789
+p269
+asg18
+g19
+sg20
+VShop No 10, Unnath Shopping Center, Mahatma Gandhi Road, Goregaon West, Mumbai
+p270
+sba(i__main__
+Place
+p271
+(dp272
+g3
+(lp273
+VRestaurants
+p274
+asg6
+g19
+sg8
+VChicken Saraswat Malvani Restaurant
+p275
+sg10
+Vhttp://mumbai.burrp.com/listing/chicken-saraswat-malvani-restaurant_goregaon-west_mumbai_restaurants/1839871326
+p276
+sg12
+VGoregaon West
+p277
+sg14
+(lp278
+V22928631
+p279
+aV 28766776
+p280
+aV 28782064
+p281
+aV 9820404441
+p282
+asg18
+g19
+sg20
+VLalita Rukka Nivas, Station Road , Goregaon West, Mumbai
+p283
+sba(i__main__
+Place
+p284
+(dp285
+g3
+(lp286
+VRestaurants
+p287
+asg6
+g19
+sg8
+VAdelkar's Kitchen 
+p288
+sg10
+Vhttp://mumbai.burrp.com/listing/adelkars-kitchen-_goregaon-west_mumbai_restaurants/15522954554
+p289
+sg12
+VGoregaon West
+p290
+sg14
+(lp291
+V28781330
+p292
+aV 9819361977
+p293
+asg18
+g46
+sg20
+VShaukat Mansion , Aarey Road , Goregaon West, Mumbai
+p294
+sba(i__main__
+Place
+p295
+(dp296
+g3
+(lp297
+VRestaurants
+p298
+asg6
+g133
+sg8
+VNamrata Hotel
+p299
+sg10
+Vhttp://mumbai.burrp.com/listing/namrata-hotel_goregaon-west_mumbai_restaurants/1399803970
+p300
+sg12
+VGoregaon West
+p301
+sg14
+(lp302
+V28721381
+p303
+asg18
+g19
+sg20
+VBuilding No 103, Ashok Nagar CHS, S V Road, Topiwala Marg, Goregaon West, Mumbai
+p304
+sba(i__main__
+Place
+p305
+(dp306
+g3
+(lp307
+VRestaurants
+p308
+asg6
+g19
+sg8
+VAnand Restaurant
+p309
+sg10
+Vhttp://mumbai.burrp.com/listing/anand-restaurant_goregaon-west_mumbai_restaurants/1819808128
+p310
+sg12
+VGoregaon West
+p311
+sg14
+(lp312
+V28782438
+p313
+aV 28781098
+p314
+asg18
+g19
+sg20
+VShop No 3, M G Road, Unnat Nagar No 4, Goregaon West, Mumbai
+p315
+sba(i__main__
+Place
+p316
+(dp317
+g3
+(lp318
+VLounges
+p319
+aV Restaurants
+p320
+asg6
+g19
+sg8
+VFumes - The Sheesha Lounge
+p321
+sg10
+Vhttp://mumbai.burrp.com/listing/fumes---the-sheesha-lounge_goregaon-west_mumbai_lounges-restaurants/1733192336
+p322
+sg12
+VGoregaon West
+p323
+sg14
+(lp324
+V7738320995
+p325
+asg18
+g46
+sg20
+VGulshan Compound, Link Road, Opposite Shashtri Nagar, Goregaon (W), Goregaon West, Mumbai
+p326
+sba(i__main__
+Place
+p327
+(dp328
+g3
+(lp329
+VRestaurants
+p330
+asg6
+g133
+sg8
+VTrends (Family Rest. & Bar) 
+p331
+sg10
+Vhttp://mumbai.burrp.com/listing/trends-family-rest-bar-_goregaon-west_mumbai_restaurants/1564459653
+p332
+sg12
+VGoregaon West
+p333
+sg14
+(lp334
+V28781648
+p335
+aV 28789495 
+p336
+asg18
+g19
+sg20
+VLink Rd. Chincholi Bundar Junction , Goregaon (W), Goregaon West, Mumbai
+p337
+sba(i__main__
+Place
+p338
+(dp339
+g3
+(lp340
+VRestaurants
+p341
+asg6
+g19
+sg8
+VShri Nidhi Pure Veg. Restaurant 
+p342
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-nidhi-pure-veg-restaurant-_goregaon-west_mumbai_restaurants/1134473396
+p343
+sg12
+VGoregaon West
+p344
+sg14
+(lp345
+V28777593
+p346
+aV 28736765 
+p347
+asg18
+g19
+sg20
+VGoregaon (W), Goregaon West, Mumbai
+p348
+sba(i__main__
+Place
+p349
+(dp350
+g3
+(lp351
+VRestaurants
+p352
+asg6
+g19
+sg8
+VMagnum Restaurant
+p353
+sg10
+Vhttp://mumbai.burrp.com/listing/magnum-restaurant_goregaon-west_mumbai_restaurants/1564477653
+p354
+sg12
+VGoregaon West
+p355
+sg14
+(lp356
+V28727175
+p357
+aV 28782210
+p358
+aV 28762777
+p359
+asg18
+g19
+sg20
+V15, Jawahar Nagar, S.V.Road, Goregaon West, Mumbai
+p360
+sba(i__main__
+Place
+p361
+(dp362
+g3
+(lp363
+VRestaurants
+p364
+asg6
+g19
+sg8
+VRatan
+p365
+sg10
+Vhttp://mumbai.burrp.com/listing/ratan_goregaon-west_mumbai_restaurants/1396851970
+p366
+sg12
+VGoregaon West
+p367
+sg14
+(lp368
+V28724031
+p369
+aV 28766504
+p370
+asg18
+g19
+sg20
+VAshokraj Building, S.V.Road, Goregaon (W), Goregaon West, Mumbai
+p371
+sba(i__main__
+Place
+p372
+(dp373
+g3
+(lp374
+VRestaurants
+p375
+aV Bars & Pubs
+p376
+asg6
+g19
+sg8
+VSamrat Bar & Restaurant
+p377
+sg10
+Vhttp://mumbai.burrp.com/listing/samrat-bar-restaurant_goregaon-west_mumbai_restaurants-bars-pubs/1757017534
+p378
+sg12
+VGoregaon West
+p379
+sg14
+(lp380
+V28772073
+p381
+aV 28781179
+p382
+asg18
+g46
+sg20
+VJawahar Nagar, Goregaon (W), Goregaon West, Mumbai
+p383
+sba(i__main__
+Place
+p384
+(dp385
+g3
+(lp386
+VRestaurants
+p387
+asg6
+g19
+sg8
+VSanman 
+p388
+sg10
+Vhttp://mumbai.burrp.com/listing/sanman-_goregaon-west_mumbai_restaurants/1917019118
+p389
+sg12
+VGoregaon West
+p390
+sg14
+(lp391
+V67028021
+p392
+aV 28734406
+p393
+aV 67100396
+p394
+asg18
+g46
+sg20
+VAshok Raj Building, Topiwala Lane, S.V.Road, Goregaon (W), Goregaon West, Mumbai
+p395
+sba(i__main__
+Place
+p396
+(dp397
+g3
+(lp398
+VRestaurants
+p399
+asg6
+g19
+sg8
+VTrushna Restaurant
+p400
+sg10
+Vhttp://mumbai.burrp.com/listing/trushna-restaurant_bangur-nagar_mumbai_restaurants/1897900920
+p401
+sg12
+VBangur Nagar
+p402
+sg14
+(lp403
+V28781260
+p404
+aV 9892023364
+p405
+asg18
+g19
+sg20
+VNew Mitha Nagar, M G Road, Bangur Nagar, Goregaon West, Mumbai
+p406
+sba(i__main__
+Place
+p407
+(dp408
+g3
+(lp409
+VRestaurants
+p410
+asg6
+g19
+sg8
+VBrothers Kitchen
+p411
+sg10
+Vhttp://mumbai.burrp.com/listing/brothers-kitchen_bangur-nagar_mumbai_restaurants/1177902792
+p412
+sg12
+VBangur Nagar
+p413
+sg14
+(lp414
+V28735007
+p415
+asg18
+g19
+sg20
+VRamdas Chowk, M G Road, Link Road Junction, Bangur Nagar, Goregaon West, Mumbai
+p416
+sba(i__main__
+Place
+p417
+(dp418
+g3
+(lp419
+VRestaurants
+p420
+asg6
+g19
+sg8
+VShabri Veg Restaurant
+p421
+sg10
+Vhttp://mumbai.burrp.com/listing/shabri-veg-restaurant_goregaon-west_mumbai_restaurants/1139855396
+p422
+sg12
+VGoregaon West
+p423
+sg14
+(lp424
+V28735581
+p425
+asg18
+g19
+sg20
+VM G Road, Unnat Nagar, Goregaon West, Mumbai
+p426
+sba(i__main__
+Place
+p427
+(dp428
+g3
+(lp429
+VRestaurants
+p430
+asg6
+g19
+sg8
+VSadguru Restaurant
+p431
+sg10
+Vhttp://mumbai.burrp.com/listing/sadguru-restaurant_goregaon-west_mumbai_restaurants/1539859356
+p432
+sg12
+VGoregaon West
+p433
+sg14
+(lp434
+V28738781
+p435
+aV 69944114
+p436
+asg18
+g19
+sg20
+VBuilding No 16, S V Road, Jawahar Nagar, Goregaon West, Mumbai
+p437
+sba(i__main__
+Place
+p438
+(dp439
+g3
+(lp440
+VRestaurants
+p441
+aV Dessert Shops
+p442
+aV Shops
+p443
+asg6
+g19
+sg8
+VSapre And  Sons
+p444
+sg10
+Vhttp://mumbai.burrp.com/listing/sapre-and-sons_goregaon-west_mumbai_restaurants-dessert-shops-shops/1639860346
+p445
+sg12
+VGoregaon West
+p446
+sg14
+(lp447
+V28776012
+p448
+aV 28781093
+p449
+aV 9820244893
+p450
+asg18
+g19
+sg20
+VShop No 6, Ground Floor, Jayakar Smruti Building, Aarey Road, Near A B Goregaonkar School, Goregaon West, Mumbai
+p451
+sba(i__main__
+Place
+p452
+(dp453
+g3
+(lp454
+VRestaurants
+p455
+asg6
+g19
+sg8
+VSavera Hotel
+p456
+sg10
+Vhttp://mumbai.burrp.com/listing/savera-hotel_goregaon-west_mumbai_restaurants/1699860940
+p457
+sg12
+VGoregaon West
+p458
+sg14
+(lp459
+V28785088
+p460
+asg18
+g19
+sg20
+VMain Road, Bhagat Singh Nagar No 2, New Link Road , Goregaon West, Mumbai
+p461
+sba(i__main__
+Place
+p462
+(dp463
+g3
+(lp464
+VRestaurants
+p465
+aV Dessert Shops
+p466
+aV Cafes
+p467
+aV Ice-cream Parlours
+p468
+aV Juice Parlours
+p469
+asg6
+g19
+sg8
+VSai Sagar Restaurant
+p470
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-sagar-restaurant_goregaon-west_mumbai_restaurants-dessert-shops-cafes/1179864792
+p471
+sg12
+VGoregaon West
+p472
+sg14
+(lp473
+V28742065
+p474
+aV 28778010
+p475
+asg18
+g19
+sg20
+VShop No 7/4, Geet Govind Building, S V Road, Near Goregaon Police Station, Goregaon West, Mumbai
+p476
+sba(i__main__
+Place
+p477
+(dp478
+g3
+(lp479
+VRestaurants
+p480
+asg6
+g19
+sg8
+VCanara Restaurant And Bar
+p481
+sg10
+Vhttp://mumbai.burrp.com/listing/canara-restaurant-and-bar_goregaon-west_mumbai_restaurants/1939872316
+p482
+sg12
+VGoregaon West
+p483
+sg14
+(lp484
+V28726566
+p485
+aV 9821020795
+p486
+aV 9821990119
+p487
+asg18
+g19
+sg20
+VRadha Krishna Building, S V Road, Goregaon West, Mumbai
+p488
+sba(i__main__
+Place
+p489
+(dp490
+g3
+(lp491
+VRestaurants
+p492
+asg6
+g19
+sg8
+VGokul Bar & Restaurant
+p493
+sg10
+Vhttp://mumbai.burrp.com/listing/gokul-bar-restaurant_goregaon-west_mumbai_restaurants/1759879534
+p494
+sg12
+VGoregaon West
+p495
+sg14
+(lp496
+V26769018
+p497
+aV 26769081
+p498
+aV 9967227850
+p499
+asg18
+g19
+sg20
+VRam Mandir Naka, S V Road, Goregaon West, Mumbai
+p500
+sba(i__main__
+Place
+p501
+(dp502
+g3
+(lp503
+VRestaurants
+p504
+asg6
+g19
+sg8
+VKancha Restaurant & Bar
+p505
+sg10
+Vhttp://mumbai.burrp.com/listing/kancha-restaurant-bar_goregaon-west_mumbai_restaurants/1919890118
+p506
+sg12
+VGoregaon West
+p507
+sg14
+(lp508
+V28783971
+p509
+aV 28786643
+p510
+asg18
+g19
+sg20
+VNew Azad Nagar, Link Road, Goregaon West, Mumbai
+p511
+sba(i__main__
+Place
+p512
+(dp513
+g3
+(lp514
+VRestaurants
+p515
+asg6
+g19
+sg8
+VHotel Prakash Bar And Restaurant 
+p516
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-prakash-bar-and-restaurant-_goregaon-west_mumbai_restaurants/1539895356
+p517
+sg12
+VGoregaon West
+p518
+sg14
+(lp519
+V28720137
+p520
+aV 28781049
+p521
+asg18
+g19
+sg20
+VPlot No 68/A, Jawahar Nagar Road No 1 , Goregaon West, Mumbai
+p522
+sba(i__main__
+Place
+p523
+(dp524
+g3
+(lp525
+VRestaurants
+p526
+asg6
+g19
+sg8
+VPoonam Restaurant
+p527
+sg10
+Vhttp://mumbai.burrp.com/listing/poonam-restaurant_goregaon-west_mumbai_restaurants/1579895752
+p528
+sg12
+VGoregaon West
+p529
+sg14
+(lp530
+V28779278
+p531
+aV 28781027
+p532
+asg18
+g19
+sg20
+VShop No 5/6, Manju Niketan Building, Goregaon West, Mumbai
+p533
+sba(i__main__
+Place
+p534
+(dp535
+g3
+(lp536
+VRestaurants
+p537
+asg6
+g19
+sg8
+VSagar Restaurant  And  Bar
+p538
+sg10
+Vhttp://mumbai.burrp.com/listing/sagar-restaurant-and-bar_mg-road_mumbai_restaurants/16112074148
+p539
+sg12
+VMG Road
+p540
+sg14
+(lp541
+V28762304
+p542
+aV 9920054541
+p543
+asg18
+g19
+sg20
+VShreeniwas Building, MG Road, Goregaon West, Mumbai
+p544
+sba(i__main__
+Place
+p545
+(dp546
+g3
+(lp547
+VRestaurants
+p548
+asg6
+g19
+sg8
+VAltius Enterprises Pvt Ltd
+p549
+sg10
+Vhttp://mumbai.burrp.com/listing/altius-enterprises-pvt-ltd_motilal-nagar_mumbai_restaurants/12112088188
+p550
+sg12
+VMotilal Nagar
+p551
+sg14
+(lp552
+V28785135
+p553
+aV 9224617336
+p554
+aV 9833346462
+p555
+asg18
+g19
+sg20
+V80/642, Ground Floor, Motilal Nagar 1, D B More Marg, Motilal Nagar, Goregaon West, Mumbai
+p556
+sba(i__main__
+Place
+p557
+(dp558
+g3
+(lp559
+VRestaurants
+p560
+asg6
+g19
+sg8
+VRatna Veg Restaurant
+p561
+sg10
+Vhttp://mumbai.burrp.com/listing/ratna-veg-restaurant_goregaon-west_mumbai_restaurants/15318301356
+p562
+sg12
+VGoregaon West
+p563
+sg14
+(lp564
+V28724031
+p565
+aV 28766504
+p566
+asg18
+g19
+sg20
+VGround Floor, Ashokraj Building, S.V. Road, Goregaon West, Mumbai
+p567
+sba(i__main__
+Place
+p568
+(dp569
+g3
+(lp570
+VRestaurants
+p571
+asg6
+g19
+sg8
+VSamrat Lunch Home
+p572
+sg10
+Vhttp://mumbai.burrp.com/listing/samrat-lunch-home_goregaon-west_mumbai_restaurants/11718432792
+p573
+sg12
+VGoregaon West
+p574
+sg14
+(lp575
+V28772073
+p576
+asg18
+g19
+sg20
+VShop No 17, Attaram Niwas, S V Road, Goregaon West, Mumbai
+p577
+sba(i__main__
+Place
+p578
+(dp579
+g3
+(lp580
+VBars & Pubs
+p581
+aV Restaurants
+p582
+asg6
+g19
+sg8
+VVinod Restaurant & Bar
+p583
+sg10
+Vhttp://mumbai.burrp.com/listing/vinod-restaurant-bar_goregaon-west_mumbai_bars-pubs-restaurants/17922281930
+p584
+sg12
+VGoregaon West
+p585
+sg14
+(lp586
+V28723054
+p587
+asg18
+g19
+sg20
+VAnand Bhavan Chawl, Station Road, Goregaon West, Mumbai
+p588
+sba(i__main__
+Place
+p589
+(dp590
+g3
+(lp591
+VRestaurants
+p592
+asg6
+g19
+sg8
+VTamarind Restaurant
+p593
+sg10
+Vhttp://mumbai.burrp.com/listing/tamarind-restaurant_goregaon-west_mumbai_restaurants/12722375782
+p594
+sg12
+VGoregaon West
+p595
+sg14
+(lp596
+V65657774
+p597
+aV 65657775
+p598
+aV 9987142183
+p599
+asg18
+g46
+sg20
+VShop No. 3, Unnat Nagar No. 4, M.G. Road, Goregaon West, Mumbai
+p600
+sba.

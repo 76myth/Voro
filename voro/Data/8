@@ -1,0 +1,3106 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VOutdoor Caterers
+p5
+aV Take Away Shops
+p6
+aV Cafes
+p7
+aV Restaurants
+p8
+aV Fast Food Shops
+p9
+asS'rating'
+p10
+V4
+p11
+sS'name'
+p12
+VCafe Appetite
+p13
+sS'url'
+p14
+Vhttp://mumbai.burrp.com/listing/cafe-appetite_chakala_mumbai_outdoor-caterers-take-away-shops-cafes/1103240099
+p15
+sS'region'
+p16
+VChakala
+p17
+sS'phone'
+p18
+(lp19
+V28367141
+p20
+aV 28327141
+p21
+aV 9820398705
+p22
+asS'cost'
+p23
+V2
+p24
+sS'addr'
+p25
+V186 Bhagat Singh Colony, New Andheri Link Road, Chakala, Andheri East, Mumbai
+p26
+sba(i__main__
+Place
+p27
+(dp28
+g3
+(lp29
+VRestaurants
+p30
+aV Bars & Pubs
+p31
+asg10
+g11
+sg12
+VPop Tate's
+p32
+sg14
+Vhttp://mumbai.burrp.com/listing/pop-tates_sakinaka_mumbai_restaurants-bars-pubs/1948415
+p33
+sg16
+VSakinaka
+p34
+sg18
+(lp35
+V28591277
+p36
+aV 28591278
+p37
+asg23
+g24
+sg25
+V1st Floor, Sagar Palazzio, Sakinaka, Andheri East, Mumbai
+p38
+sba(i__main__
+Place
+p39
+(dp40
+g3
+(lp41
+VRestaurants
+p42
+asg10
+g11
+sg12
+VNH-1 Kitchen & Bar
+p43
+sg14
+Vhttp://mumbai.burrp.com/listing/nh-1-kitchen-bar_chakala_mumbai_restaurants/177132732
+p44
+sg16
+VChakala
+p45
+sg18
+(lp46
+V28227922
+p47
+aV 28257922
+p48
+asg23
+g24
+sg25
+VKajuwadi, Cardinal Gracious Road, Chakala, Andheri East, Mumbai
+p49
+sba(i__main__
+Place
+p50
+(dp51
+g3
+(lp52
+VRestaurants
+p53
+asg10
+g11
+sg12
+VCurry Twist
+p54
+sg14
+Vhttp://mumbai.burrp.com/listing/curry-twist_sakinaka_mumbai_restaurants/111405198
+p55
+sg16
+VSakinaka
+p56
+sg18
+(lp57
+V64524040
+p58
+aV 28518800
+p59
+aV 28513300
+p60
+aV 9322995935
+p61
+asg23
+g24
+sg25
+VAndheri Kulra Road, Sakinaka, Andheri East, Mumbai
+p62
+sba(i__main__
+Place
+p63
+(dp64
+g3
+(lp65
+VRestaurants
+p66
+aV Bars & Pubs
+p67
+asg10
+g11
+sg12
+VMainland China
+p68
+sg14
+Vhttp://mumbai.burrp.com/listing/mainland-china_sakinaka_mumbai_restaurants-bars-pubs/120127089
+p69
+sg16
+VSakinaka
+p70
+sg18
+(lp71
+V28578656
+p72
+aV 65806291
+p73
+aV 28754005
+p74
+asg23
+V3
+p75
+sg25
+VSakinaka Junction, Andheri-Kurla Road, Sakinaka, Andheri East, Mumbai
+p76
+sba(i__main__
+Place
+p77
+(dp78
+g3
+(lp79
+VRestaurants
+p80
+asg10
+g11
+sg12
+VPeshawari
+p81
+sg14
+Vhttp://mumbai.burrp.com/listing/peshawari_sahar_mumbai_restaurants/129136980
+p82
+sg16
+VSahar
+p83
+sg18
+(lp84
+V28303030
+p85
+asg23
+g11
+sg25
+VSahar, Andheri East, Mumbai
+p86
+sba(i__main__
+Place
+p87
+(dp88
+g3
+(lp89
+VRestaurants
+p90
+asg10
+g11
+sg12
+VSizzling Bites
+p91
+sg14
+Vhttp://mumbai.burrp.com/listing/sizzling-bites_andheri-east_mumbai_restaurants/130830079
+p92
+sg16
+VAndheri East
+p93
+sg18
+(lp94
+V28205554
+p95
+asg23
+g24
+sg25
+VMIDC, Central Road, Andheri East, Mumbai
+p96
+sba(i__main__
+Place
+p97
+(dp98
+g3
+(lp99
+VRestaurants
+p100
+asg10
+g11
+sg12
+VChakra
+p101
+sg14
+Vhttp://mumbai.burrp.com/listing/chakra_sakinaka_mumbai_restaurants/124109485
+p102
+sg16
+VSakinaka
+p103
+sg18
+(lp104
+V28513331
+p105
+aV 28515205
+p106
+aV 28512463
+p107
+asg23
+V0
+p108
+sg25
+VSakinaka Junction, Andheri-Kurla Road, Andheri (E), Sakinaka, Andheri East, Mumbai
+p109
+sba(i__main__
+Place
+p110
+(dp111
+g3
+(lp112
+VRestaurants
+p113
+asg10
+g75
+sg12
+V5 Spice
+p114
+sg14
+Vhttp://mumbai.burrp.com/listing/5-spice_sakinaka_mumbai_restaurants/1173627792
+p115
+sg16
+VSakinaka
+p116
+sg18
+(lp117
+V28562185
+p118
+aV 28562186
+p119
+aV 28562187
+p120
+asg23
+g24
+sg25
+VShiva Industrial Estate, Andheri Kurla Road, Sakinaka, Andheri East, Mumbai
+p121
+sba(i__main__
+Place
+p122
+(dp123
+g3
+(lp124
+VRestaurants
+p125
+asg10
+V5
+p126
+sg12
+VDilli 6 - The Food Capital
+p127
+sg14
+Vhttp://mumbai.burrp.com/listing/dilli-6---the-food-capital_jb-nagar_mumbai_restaurants/17715558732
+p128
+sg16
+VJB Nagar
+p129
+sg18
+(lp130
+V65110419
+p131
+aV 9892987789
+p132
+aV 8080668640
+p133
+asg23
+V1
+p134
+sg25
+VJay Ganesh Society, Shop No.1, JB Nagar, Andheri East, Mumbai
+p135
+sba(i__main__
+Place
+p136
+(dp137
+g3
+(lp138
+VRestaurants
+p139
+asg10
+g11
+sg12
+VGajalee Annex
+p140
+sg14
+Vhttp://mumbai.burrp.com/listing/gajalee-annex_andheri-east_mumbai_restaurants/15440455
+p141
+sg16
+VAndheri East
+p142
+sg18
+(lp143
+V28227272
+p144
+aV 28227373
+p145
+asg23
+g75
+sg25
+VE/3, Udyog Sadan No 2, MIDC, Andheri East, Mumbai
+p146
+sba(i__main__
+Place
+p147
+(dp148
+g3
+(lp149
+VRestaurants
+p150
+aV Bars & Pubs
+p151
+asg10
+g11
+sg12
+VPan Asian
+p152
+sg14
+Vhttp://mumbai.burrp.com/listing/pan-asian_sahar_mumbai_restaurants-bars-pubs/199134910
+p153
+sg16
+VSahar
+p154
+sg18
+(lp155
+V28303030
+p156
+asg23
+g75
+sg25
+VSahar, Andheri East, Mumbai
+p157
+sba(i__main__
+Place
+p158
+(dp159
+g3
+(lp160
+VBars & Pubs
+p161
+aV Restaurants
+p162
+asg10
+g11
+sg12
+VTangerine Restaurant
+p163
+sg14
+Vhttp://mumbai.burrp.com/listing/tangerine-restaurant_andheri-east_mumbai_bars-pubs-restaurants/166491643
+p164
+sg16
+VAndheri East
+p165
+sg18
+(lp166
+V66495000
+p167
+aV 66495044 
+p168
+aV 42485000
+p169
+aV 66495045
+p170
+asg23
+g24
+sg25
+VAndheri East, Mumbai
+p171
+sba(i__main__
+Place
+p172
+(dp173
+g3
+(lp174
+VRestaurants
+p175
+aV Bars & Pubs
+p176
+asg10
+g11
+sg12
+VMumbai Mirchi
+p177
+sg14
+Vhttp://mumbai.burrp.com/listing/mumbai-mirchi_chakala_mumbai_restaurants-bars-pubs/1761338633
+p178
+sg16
+VChakala
+p179
+sg18
+(lp180
+V42151888
+p181
+aV 42151900  
+p182
+asg23
+g24
+sg25
+VSawant House, Andheri Kurla Road, Chakala, Andheri East, Mumbai
+p183
+sba(i__main__
+Place
+p184
+(dp185
+g3
+(lp186
+VRestaurants
+p187
+asg10
+g75
+sg12
+VSaffron Eatery & Bar
+p188
+sg14
+Vhttp://mumbai.burrp.com/listing/saffron-eatery-bar_andheri-east_mumbai_restaurants/1541417455
+p189
+sg16
+VAndheri East
+p190
+sg18
+(lp191
+V28312727
+p192
+aV 28352727
+p193
+aV 30963427
+p194
+asg23
+g75
+sg25
+VThe Supremo, Jogeshwari-Vikhroli Link Road, Andheri (E), Andheri East, Mumbai
+p195
+sba(i__main__
+Place
+p196
+(dp197
+g3
+(lp198
+VRestaurants
+p199
+asg10
+g11
+sg12
+VSomethings Fishy
+p200
+sg14
+Vhttp://mumbai.burrp.com/listing/somethings-fishy_andheri-east_mumbai_restaurants/15158158
+p201
+sg16
+VAndheri East
+p202
+sg18
+(lp203
+V61446464 
+p204
+asg23
+g24
+sg25
+VAndheri East, Mumbai
+p205
+sba(i__main__
+Place
+p206
+(dp207
+g3
+(lp208
+VRestaurants
+p209
+asg10
+g11
+sg12
+VKobe Sizzlers
+p210
+sg14
+Vhttp://mumbai.burrp.com/listing/kobe-sizzlers_andheri-east_mumbai_restaurants/17342336
+p211
+sg16
+VAndheri East
+p212
+sg18
+(lp213
+V28599999
+p214
+aV 28566666
+p215
+asg23
+g108
+sg25
+VTown Centre Bldg, Shop No. 2, Andheri Kurla Road, Between Marol and Sakinaka, Mittal Estate, Andheri (E), Andheri East, Mumbai
+p216
+sba(i__main__
+Place
+p217
+(dp218
+g3
+(lp219
+VRestaurants
+p220
+aV Bars & Pubs
+p221
+asg10
+g75
+sg12
+VThe Laughing Buddha
+p222
+sg14
+Vhttp://mumbai.burrp.com/listing/the-laughing-buddha_andheri-east_mumbai_restaurants-bars-pubs/1695423940
+p223
+sg16
+VAndheri East
+p224
+sg18
+(lp225
+V28503030
+p226
+aV 28503031
+p227
+aV 28503032
+p228
+asg23
+g24
+sg25
+V4/35, Sagar Palazio, Sakinaka Junction, Andheri East, Mumbai
+p229
+sba(i__main__
+Place
+p230
+(dp231
+g3
+(lp232
+VRestaurants
+p233
+asg10
+g75
+sg12
+VWazwaan Cook's Workshop
+p234
+sg14
+Vhttp://mumbai.burrp.com/listing/wazwaan-cooks-workshop_marol_mumbai_restaurants/158247851
+p235
+sg16
+VMarol
+p236
+sg18
+(lp237
+V66770017
+p238
+aV 66941144
+p239
+aV 65008145
+p240
+asg23
+g108
+sg25
+VMilitary Road, JP Nagar, Marol, Andheri East, Mumbai
+p241
+sba(i__main__
+Place
+p242
+(dp243
+g3
+(lp244
+VRestaurants
+p245
+asg10
+g11
+sg12
+VThe Glass House
+p246
+sg14
+Vhttp://mumbai.burrp.com/listing/the-glass-house_sahar_mumbai_restaurants/11663693
+p247
+sg16
+VSahar
+p248
+sg18
+(lp249
+V66961621
+p250
+aV 66961624
+p251
+aV 66961234
+p252
+asg23
+g11
+sg25
+VSahar Airport Road, Sahar, Andheri East, Mumbai
+p253
+sba(i__main__
+Place
+p254
+(dp255
+g3
+(lp256
+VRestaurants
+p257
+asg10
+g11
+sg12
+VThe Brasserie
+p258
+sg14
+Vhttp://mumbai.burrp.com/listing/the-brasserie_sahar_mumbai_restaurants/18070029
+p259
+sg16
+VSahar
+p260
+sg18
+(lp261
+V28380000
+p262
+asg23
+g75
+sg25
+VSahar Airport Road, Andheri (E), Sahar, Andheri East, Mumbai
+p263
+sba(i__main__
+Place
+p264
+(dp265
+g3
+(lp266
+VRestaurants
+p267
+asg10
+g75
+sg12
+VDum Pukht
+p268
+sg14
+Vhttp://mumbai.burrp.com/listing/dum-pukht_sahar_mumbai_restaurants/168113841
+p269
+sg16
+VSahar
+p270
+sg18
+(lp271
+V28303030
+p272
+asg23
+g11
+sg25
+VSahar, Andheri East, Mumbai
+p273
+sba(i__main__
+Place
+p274
+(dp275
+g3
+(lp276
+VRestaurants
+p277
+aV Bars & Pubs
+p278
+asg10
+g75
+sg12
+VSaffron Spice
+p279
+sg14
+Vhttp://mumbai.burrp.com/listing/saffron-spice_marol_mumbai_restaurants-bars-pubs/156454653
+p280
+sg16
+VMarol
+p281
+sg18
+(lp282
+V66990088
+p283
+aV 65172323
+p284
+aV 65173131
+p285
+aV 65173232
+p286
+asg23
+g24
+sg25
+VPlot No. 34, Central Road, Marol Inland Area, M.I.D.C., Andheri (E), Marol, Andheri East, Mumbai
+p287
+sba(i__main__
+Place
+p288
+(dp289
+g3
+(lp290
+VRestaurants
+p291
+asg10
+g75
+sg12
+VStax
+p292
+sg14
+Vhttp://mumbai.burrp.com/listing/stax_sahar_mumbai_restaurants/16859841
+p293
+sg16
+VSahar
+p294
+sg18
+(lp295
+V66961234 
+p296
+aV 66961235   
+p297
+aV 66961627
+p298
+aV 66961631
+p299
+asg23
+g11
+sg25
+VSahar Airport Road, Sahar, Andheri East, Mumbai
+p300
+sba(i__main__
+Place
+p301
+(dp302
+g3
+(lp303
+VRestaurants
+p304
+aV Outdoor Caterers
+p305
+asg10
+g11
+sg12
+VKailash Parbat
+p306
+sg14
+Vhttp://mumbai.burrp.com/listing/kailash-parbat_sakinaka_mumbai_restaurants-outdoor-caterers/12123104188
+p307
+sg16
+VSakinaka
+p308
+sg18
+(lp309
+V61270927
+p310
+aV 61270928
+p311
+aV 61270929
+p312
+asg23
+g24
+sg25
+VKantilal & Co. Estate , Sakinaka, Andheri East, Mumbai
+p313
+sba(i__main__
+Place
+p314
+(dp315
+g3
+(lp316
+VRestaurants
+p317
+asg10
+g11
+sg12
+VPeninsula & Garnish
+p318
+sg14
+Vhttp://mumbai.burrp.com/listing/peninsula-garnish_andheri-east_mumbai_restaurants/122757287
+p319
+sg16
+VAndheri East
+p320
+sg18
+(lp321
+V28301779
+p322
+aV 28301778
+p323
+asg23
+g24
+sg25
+VRoad No. 5, Opposite Holy Spirit Hospital, Andheri (E), Andheri East, Mumbai
+p324
+sba(i__main__
+Place
+p325
+(dp326
+g3
+(lp327
+VRestaurants
+p328
+asg10
+g11
+sg12
+VWest View - The Grill Room
+p329
+sg14
+Vhttp://mumbai.burrp.com/listing/west-view---the-grill-room_sahar_mumbai_restaurants/11572594
+p330
+sg16
+VSahar
+p331
+sg18
+(lp332
+V28303030
+p333
+asg23
+g75
+sg25
+VSahar, Andheri East, Mumbai
+p334
+sba(i__main__
+Place
+p335
+(dp336
+g3
+(lp337
+VRestaurants
+p338
+asg10
+g11
+sg12
+VKebab Corner
+p339
+sg14
+Vhttp://mumbai.burrp.com/listing/kebab-corner_andheri-east_mumbai_restaurants/1354700574
+p340
+sg16
+VAndheri East
+p341
+sg18
+(lp342
+V28214777
+p343
+aV 28204777
+p344
+aV 28234777
+p345
+aV 9820130432
+p346
+asg23
+g24
+sg25
+VNew Malani Apartment, Ground Floor, Mahakali Caves Road, Andheri East, Mumbai
+p347
+sba(i__main__
+Place
+p348
+(dp349
+g3
+(lp350
+VRestaurants
+p351
+asg10
+g75
+sg12
+VUttam Da Dhaba
+p352
+sg14
+Vhttp://mumbai.burrp.com/listing/uttam-da-dhaba_marol_mumbai_restaurants/123361386
+p353
+sg16
+VMarol
+p354
+sg18
+(lp355
+V29207175
+p356
+asg23
+g24
+sg25
+VMilitary Road, Marol Maroshi Road, Andheri (E), Marol, Andheri East, Mumbai
+p357
+sba(i__main__
+Place
+p358
+(dp359
+g3
+(lp360
+VRestaurants
+p361
+asg10
+g75
+sg12
+VCitrus
+p362
+sg14
+Vhttp://mumbai.burrp.com/listing/citrus_sahar_mumbai_restaurants/148111861
+p363
+sg16
+VSahar
+p364
+sg18
+(lp365
+V66911359
+p366
+aV 66911360
+p367
+asg23
+g75
+sg25
+VAndheri Kurla Road, Sahar, Andheri East, Mumbai
+p368
+sba(i__main__
+Place
+p369
+(dp370
+g3
+(lp371
+VRestaurants
+p372
+asg10
+g75
+sg12
+VNayak's Khyber
+p373
+sg14
+Vhttp://mumbai.burrp.com/listing/nayaks-khyber_chakala_mumbai_restaurants/1422343267
+p374
+sg16
+VChakala
+p375
+sg18
+(lp376
+V28325460
+p377
+aV 28372144
+p378
+aV 28365460
+p379
+aV 28324560
+p380
+asg23
+g24
+sg25
+VMonarch Palace, J.B. nagar , Andheri (E), Chakala, Andheri East, Mumbai
+p381
+sba(i__main__
+Place
+p382
+(dp383
+g3
+(lp384
+VRestaurants
+p385
+asg10
+g75
+sg12
+VOm Uncle's Chinese Corner
+p386
+sg14
+Vhttp://mumbai.burrp.com/listing/om-uncles-chinese-corner_marol_mumbai_restaurants/1142502495
+p387
+sg16
+VMarol
+p388
+sg18
+(lp389
+V9820399159
+p390
+asg23
+g134
+sg25
+VVijay Nagar, Marol Maroshi Road, Marol, Andheri East, Mumbai
+p391
+sba(i__main__
+Place
+p392
+(dp393
+g3
+(lp394
+VRestaurants
+p395
+asg10
+g11
+sg12
+VThe Coffee Studio
+p396
+sg14
+Vhttp://mumbai.burrp.com/listing/the-coffee-studio_andheri-east_mumbai_restaurants/1456078564
+p397
+sg16
+VAndheri East
+p398
+sg18
+(lp399
+V28395724
+p400
+aV 9167614777
+p401
+aV 9167615777
+p402
+asg23
+g24
+sg25
+VShop No. 2, 3 & 4, Shanti Nagar, Pinnacle Business Park, Andheri (E), Andheri East, Mumbai
+p403
+sba(i__main__
+Place
+p404
+(dp405
+g3
+(lp406
+VRestaurants
+p407
+asg10
+g11
+sg12
+VPizza Hut
+p408
+sg14
+Vhttp://mumbai.burrp.com/listing/pizza-hut_andheri-east_mumbai_restaurants/12446485
+p409
+sg16
+VAndheri East
+p410
+sg18
+(lp411
+V28303596
+p412
+aV 39883988
+p413
+asg23
+g108
+sg25
+VGround Floor, Shop No 1, Tandon Mall, Andheri Kurla Road, Andheri (E), Andheri East, Mumbai
+p414
+sba(i__main__
+Place
+p415
+(dp416
+g3
+(lp417
+VRestaurants
+p418
+asg10
+g11
+sg12
+VDakshin
+p419
+sg14
+Vhttp://mumbai.burrp.com/listing/dakshin_sahar_mumbai_restaurants/156112653
+p420
+sg16
+VSahar
+p421
+sg18
+(lp422
+V28303030
+p423
+asg23
+g11
+sg25
+VSahar, Andheri East, Mumbai
+p424
+sba(i__main__
+Place
+p425
+(dp426
+g3
+(lp427
+VRestaurants
+p428
+aV Lounges
+p429
+asg10
+g11
+sg12
+VBombay High
+p430
+sg14
+Vhttp://mumbai.burrp.com/listing/bombay-high_sahar_mumbai_restaurants-lounges/180376029
+p431
+sg16
+VSahar
+p432
+sg18
+(lp433
+V28303030
+p434
+asg23
+g11
+sg25
+VSahar, Andheri East, Mumbai
+p435
+sba(i__main__
+Place
+p436
+(dp437
+g3
+(lp438
+VRestaurants
+p439
+asg10
+g11
+sg12
+VTAO - An Asian Journey
+p440
+sg14
+Vhttp://mumbai.burrp.com/listing/tao---an-asian-journey_midc-chakala_mumbai_restaurants/1271342782
+p441
+sg16
+VMIDC Chakala
+p442
+sg18
+(lp443
+V66726672
+p444
+asg23
+g75
+sg25
+VMIDC Chakala, Andheri East, Mumbai
+p445
+sba(i__main__
+Place
+p446
+(dp447
+g3
+(lp448
+VRestaurants
+p449
+asg10
+g24
+sg12
+VApna Dhaba
+p450
+sg14
+Vhttp://mumbai.burrp.com/listing/apna-dhaba_andheri-east_mumbai_restaurants/172924237
+p451
+sg16
+VAndheri East
+p452
+sg18
+(lp453
+V64529776
+p454
+aV 64529778
+p455
+aV 40763333
+p456
+aV 40762222
+p457
+asg23
+g24
+sg25
+VMarol Pipeline, Andheri Kurla Road, Andheri East, Mumbai
+p458
+sba(i__main__
+Place
+p459
+(dp460
+g3
+(lp461
+VRestaurants
+p462
+asg10
+g75
+sg12
+VSmokin Lee's
+p463
+sg14
+Vhttp://mumbai.burrp.com/listing/smokin-lees_marol_mumbai_restaurants/152742257
+p464
+sg16
+VMarol
+p465
+sg18
+(lp466
+V32675252
+p467
+aV 32675253
+p468
+aV 9702299559
+p469
+asg23
+g24
+sg25
+VShop No.3, Sagbaug, Andheri-Kurla Road, Marol, Andheri East, Mumbai
+p470
+sba(i__main__
+Place
+p471
+(dp472
+g3
+(lp473
+VRestaurants
+p474
+asg10
+g11
+sg12
+VKabab Corner & More
+p475
+sg14
+Vhttp://mumbai.burrp.com/listing/kabab-corner-more_andheri-east_mumbai_restaurants/1664451643
+p476
+sg16
+VAndheri East
+p477
+sg18
+(lp478
+V28204777
+p479
+aV 28214777
+p480
+aV 28234777
+p481
+aV 28244777
+p482
+asg23
+g108
+sg25
+VGala No 1 & 2, Ground Floor, Malini Apartment, Mahakali Caves Road, Andheri East, Mumbai
+p483
+sba(i__main__
+Place
+p484
+(dp485
+g3
+(lp486
+VBars & Pubs
+p487
+aV Restaurants
+p488
+asg10
+g11
+sg12
+VDestiny
+p489
+sg14
+Vhttp://mumbai.burrp.com/listing/destiny_andheri-east_mumbai_bars-pubs-restaurants/161113148
+p490
+sg16
+VAndheri East
+p491
+sg18
+(lp492
+V28217272
+p493
+aV 67898900
+p494
+asg23
+g108
+sg25
+VPlot No. 16, MIDC Central Road, Andheri East, Mumbai
+p495
+sba(i__main__
+Place
+p496
+(dp497
+g3
+(lp498
+VBars & Pubs
+p499
+aV Restaurants
+p500
+asg10
+g11
+sg12
+VRegency
+p501
+sg14
+Vhttp://mumbai.burrp.com/listing/regency_andheri-east_mumbai_bars-pubs-restaurants/14348366
+p502
+sg16
+VAndheri East
+p503
+sg18
+(lp504
+V26824711
+p505
+aV 26821423
+p506
+asg23
+g108
+sg25
+VProfessor Phadke Road, Vasant Building. Opp. Poonam Plaza, Andheri East, Mumbai
+p507
+sba(i__main__
+Place
+p508
+(dp509
+g3
+(lp510
+VRestaurants
+p511
+asg10
+g11
+sg12
+VBaluchi
+p512
+sg14
+Vhttp://mumbai.burrp.com/listing/baluchi_sahar_mumbai_restaurants/164104445
+p513
+sg16
+VSahar
+p514
+sg18
+(lp515
+V66992222
+p516
+asg23
+g11
+sg25
+VGround Floor, Sahar, Andheri East, Mumbai
+p517
+sba(i__main__
+Place
+p518
+(dp519
+g3
+(lp520
+VRestaurants
+p521
+asg10
+g11
+sg12
+VHarish Restaurant
+p522
+sg14
+Vhttp://mumbai.burrp.com/listing/harish-restaurant_andheri-east_mumbai_restaurants/181826128
+p523
+sg16
+VAndheri East
+p524
+sg18
+(lp525
+V66924554
+p526
+aV 66924555
+p527
+asg23
+g24
+sg25
+VMittal Estate, Opp Linkway Honda, Andheri Kurla Rd, Andheri (E), Andheri East, Mumbai
+p528
+sba(i__main__
+Place
+p529
+(dp530
+g3
+(lp531
+VRestaurants
+p532
+asg10
+g11
+sg12
+VNew Café -Marol
+p533
+sg14
+Vhttp://mumbai.burrp.com/listing/new-cafe--marol_andheri-east_mumbai_restaurants/1814507128
+p534
+sg16
+VAndheri East
+p535
+sg18
+(lp536
+V29201440 
+p537
+aV 9833246766
+p538
+asg23
+g108
+sg25
+VBeside Hotel Shabnam, Near Anjali Gas, Marol Maroshi Rd., Andheri East, Mumbai
+p539
+sba(i__main__
+Place
+p540
+(dp541
+g3
+(lp542
+VRestaurants
+p543
+asg10
+g11
+sg12
+VDesi Joint
+p544
+sg14
+Vhttp://mumbai.burrp.com/listing/desi-joint_sakinaka_mumbai_restaurants/1834957326
+p545
+sg16
+VSakinaka
+p546
+sg18
+(lp547
+V28477888
+p548
+asg23
+g24
+sg25
+VSaki Vihar Road, Ansa Industrial Estate), Andheri (E), Sakinaka, Andheri East, Mumbai
+p549
+sba(i__main__
+Place
+p550
+(dp551
+g3
+(lp552
+VCafes
+p553
+aV Restaurants
+p554
+asg10
+g11
+sg12
+VCarafe - The Coffee Shop
+p555
+sg14
+Vhttp://mumbai.burrp.com/listing/carafe---the-coffee-shop_andheri-east_mumbai_cafes-restaurants/1956110514
+p556
+sg16
+VAndheri East
+p557
+sg18
+(lp558
+V28519191
+p559
+aV 28502613
+p560
+asg23
+g75
+sg25
+VAndheri East, Mumbai
+p561
+sba(i__main__
+Place
+p562
+(dp563
+g3
+(lp564
+VRestaurants
+p565
+asg10
+g75
+sg12
+VCafe Marol
+p566
+sg14
+Vhttp://mumbai.burrp.com/listing/cafe-marol_marol_mumbai_restaurants/110369099
+p567
+sg16
+VMarol
+p568
+sg18
+(lp569
+V29201384
+p570
+aV 29208184
+p571
+aV 9833138980
+p572
+asg23
+g134
+sg25
+V1, 2, 3, Everjoy Apartments, Marol Maroshi Rd., Marol, Andheri East, Mumbai
+p573
+sba(i__main__
+Place
+p574
+(dp575
+g3
+(lp576
+VRestaurants
+p577
+asg10
+g75
+sg12
+VJust Kerala
+p578
+sg14
+Vhttp://mumbai.burrp.com/listing/just-kerala_chakala_mumbai_restaurants/1221396287
+p579
+sg16
+VChakala
+p580
+sg18
+(lp581
+V9819158349
+p582
+aV 28363919
+p583
+aV 66595899
+p584
+asg23
+g24
+sg25
+VHotel Samraj, Next to NH-1 Restaurant, Andheri (E), Chakala, Andheri East, Mumbai
+p585
+sba(i__main__
+Place
+p586
+(dp587
+g3
+(lp588
+VBars & Pubs
+p589
+aV Restaurants
+p590
+asg10
+g75
+sg12
+VZerza Restobar
+p591
+sg14
+Vhttp://mumbai.burrp.com/listing/zerza-restobar_midc-chakala_mumbai_bars-pubs-restaurants/1611490148
+p592
+sg16
+VMIDC Chakala
+p593
+sg18
+(lp594
+V66726672
+p595
+asg23
+g75
+sg25
+VMIDC Chakala, Andheri East, Mumbai
+p596
+sba(i__main__
+Place
+p597
+(dp598
+g3
+(lp599
+VRestaurants
+p600
+asg10
+g75
+sg12
+VRed Zen
+p601
+sg14
+Vhttp://mumbai.burrp.com/listing/red-zen_andheri-east_mumbai_restaurants/1415304168
+p602
+sg16
+VAndheri East
+p603
+sg18
+(lp604
+V61369999 
+p605
+asg23
+g108
+sg25
+V1st Floor, Located in Courtyard by Marriott, Andheri East, Mumbai
+p606
+sba(i__main__
+Place
+p607
+(dp608
+g3
+(lp609
+VRestaurants
+p610
+aV Cafes
+p611
+asg10
+g75
+sg12
+VMoMo Cafe
+p612
+sg14
+Vhttp://mumbai.burrp.com/listing/momo-cafe_andheri-east_mumbai_restaurants-cafes/1455304564
+p613
+sg16
+VAndheri East
+p614
+sg18
+(lp615
+V61369999
+p616
+asg23
+g75
+sg25
+VLocated in Courtyard by Marriott, Andheri (E), Andheri East, Mumbai
+p617
+sba(i__main__
+Place
+p618
+(dp619
+g3
+(lp620
+VRestaurants
+p621
+asg10
+g126
+sg12
+VDomino's Pizza
+p622
+sg14
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_chakala_mumbai_restaurants/14139168
+p623
+sg16
+VChakala
+p624
+sg18
+(lp625
+V28263760
+p626
+aV 28263762
+p627
+aV 28263763
+p628
+aV 28263764
+p629
+asg23
+g108
+sg25
+VUnit 5, Ground Floor, Kapadia Industrial Estate, 123/124, Andheri Kurla Road, Andheri (E), Chakala, Andheri East, Mumbai
+p630
+sba(i__main__
+Place
+p631
+(dp632
+g3
+(lp633
+VRestaurants
+p634
+asg10
+g126
+sg12
+VLomchings Restaurant
+p635
+sg14
+Vhttp://mumbai.burrp.com/listing/lomchings-restaurant_andheri-east_mumbai_restaurants/1717251138
+p636
+sg16
+VAndheri East
+p637
+sg18
+(lp638
+V28266741
+p639
+aV 28389069
+p640
+asg23
+g108
+sg25
+VShop No.19, Poonam Darshan, Poonam Nagar, Mahakali Caves Road, Andheri East, Mumbai
+p641
+sba(i__main__
+Place
+p642
+(dp643
+g3
+(lp644
+VRestaurants
+p645
+asg10
+g126
+sg12
+VVividh
+p646
+sg14
+Vhttp://mumbai.burrp.com/listing/vividh_andheri-east_mumbai_restaurants/1876109722
+p647
+sg16
+VAndheri East
+p648
+sg18
+(lp649
+V28519191
+p650
+asg23
+g75
+sg25
+VAndheri East, Mumbai
+p651
+sba(i__main__
+Place
+p652
+(dp653
+g3
+(lp654
+VRestaurants
+p655
+aV Bars & Pubs
+p656
+asg10
+g24
+sg12
+VTunga Dining Bar
+p657
+sg14
+Vhttp://mumbai.burrp.com/listing/tunga-dining-bar_andheri-east_mumbai_restaurants-bars-pubs/197152712
+p658
+sg16
+VAndheri East
+p659
+sg18
+(lp660
+V66921212
+p661
+aV 28366010
+p662
+aV 66726672
+p663
+asg23
+g24
+sg25
+VTunga International, MIDC Central Road, Andheri (E), Andheri East, Mumbai
+p664
+sba(i__main__
+Place
+p665
+(dp666
+g3
+(lp667
+VRestaurants
+p668
+asg10
+g75
+sg12
+VSubway
+p669
+sg14
+Vhttp://mumbai.burrp.com/listing/subway_andheri-east_mumbai_restaurants/11518594
+p670
+sg16
+VAndheri East
+p671
+sg18
+(lp672
+V67021154
+p673
+aV 32493341
+p674
+asg23
+g24
+sg25
+VShop No. 8, Adeshwar Arcade, Andheri Kurla Road, Andheri (E), Andheri East, Mumbai
+p675
+sba(i__main__
+Place
+p676
+(dp677
+g3
+(lp678
+VRestaurants
+p679
+asg10
+g75
+sg12
+VBlossoms Fine Dine
+p680
+sg14
+Vhttp://mumbai.burrp.com/listing/blossoms-fine-dine_marol_mumbai_restaurants/122928287
+p681
+sg16
+VMarol
+p682
+sg18
+(lp683
+V22948791
+p684
+aV 22948792
+p685
+aV 9930977884
+p686
+asg23
+g24
+sg25
+VMarol, Andheri East, Mumbai
+p687
+sba(i__main__
+Place
+p688
+(dp689
+g3
+(lp690
+VRestaurants
+p691
+asg10
+g75
+sg12
+VStella
+p692
+sg14
+Vhttp://mumbai.burrp.com/listing/stella_sahar_mumbai_restaurants/163248346
+p693
+sg16
+VSahar
+p694
+sg18
+(lp695
+V66911234
+p696
+aV 66911344
+p697
+aV 66911345
+p698
+asg23
+g108
+sg25
+VSahar, Andheri East, Mumbai
+p699
+sba(i__main__
+Place
+p700
+(dp701
+g3
+(lp702
+VRestaurants
+p703
+asg10
+g75
+sg12
+VRatnagiri
+p704
+sg14
+Vhttp://mumbai.burrp.com/listing/ratnagiri_andheri-east_mumbai_restaurants/13947970
+p705
+sg16
+VAndheri East
+p706
+sg18
+(lp707
+V28369134
+p708
+aV 28255699
+p709
+asg23
+g108
+sg25
+VBhagwan Bhuvan, Near Police Station, Sir MV Road, Andheri (E), Andheri East, Mumbai
+p710
+sba(i__main__
+Place
+p711
+(dp712
+g3
+(lp713
+VRestaurants
+p714
+asg10
+g75
+sg12
+VThe Peshwa Pavilion
+p715
+sg14
+Vhttp://mumbai.burrp.com/listing/the-peshwa-pavilion_sahar_mumbai_restaurants/12564584
+p716
+sg16
+VSahar
+p717
+sg18
+(lp718
+V28303030
+p719
+asg23
+g75
+sg25
+VGround Floor, Sahar, Andheri East, Mumbai
+p720
+sba(i__main__
+Place
+p721
+(dp722
+g3
+(lp723
+VRestaurants
+p724
+asg10
+g75
+sg12
+VSai Punjab
+p725
+sg14
+Vhttp://mumbai.burrp.com/listing/sai-punjab_andheri-east_mumbai_restaurants/167878742
+p726
+sg16
+VAndheri East
+p727
+sg18
+(lp728
+V65175152
+p729
+asg23
+g24
+sg25
+VSher-e-Punjab Society, Andheri (E), Andheri East, Mumbai
+p730
+sba(i__main__
+Place
+p731
+(dp732
+g3
+(lp733
+VRestaurants
+p734
+asg10
+g24
+sg12
+VUrban Tadka
+p735
+sg14
+Vhttp://mumbai.burrp.com/listing/urban-tadka_sakinaka_mumbai_restaurants/1425727267
+p736
+sg16
+VSakinaka
+p737
+sg18
+(lp738
+V28512532
+p739
+aV 28512535
+p740
+asg23
+g24
+sg25
+V1st Floor, Sagar Pallazio, Sakinaka Junction, Sakinaka, Andheri East, Mumbai
+p741
+sba(i__main__
+Place
+p742
+(dp743
+g3
+(lp744
+VRestaurants
+p745
+asg10
+g11
+sg12
+VSai Krishna
+p746
+sg14
+Vhttp://mumbai.burrp.com/listing/sai-krishna_andheri-east_mumbai_restaurants/1161440693
+p747
+sg16
+VAndheri East
+p748
+sg18
+(lp749
+V65068994
+p750
+aV 28257714
+p751
+aV 28257788
+p752
+aV 65228298
+p753
+asg23
+g24
+sg25
+VBldg No.31, Sher-E-Punjab Society, G.G.S.Marg, Opp: Hanuman Temple, Andheri East, Mumbai
+p754
+sba(i__main__
+Place
+p755
+(dp756
+g3
+(lp757
+VRestaurants
+p758
+asg10
+g11
+sg12
+VMahesh Lunch Home 
+p759
+sg14
+Vhttp://mumbai.burrp.com/listing/mahesh-lunch-home-_sakinaka_mumbai_restaurants/14915267960
+p760
+sg16
+VSakinaka
+p761
+sg18
+(lp762
+V28565560
+p763
+aV 28565561
+p764
+aV 28565562
+p765
+asg23
+g134
+sg25
+VAndheri Kurla Road, Opposite Mcdonalds, Sakinaka, Andheri East, Mumbai
+p766
+sba(i__main__
+Place
+p767
+(dp768
+g3
+(lp769
+VBars & Pubs
+p770
+aV Restaurants
+p771
+asg10
+g11
+sg12
+VThe Lobby Lounge
+p772
+sg14
+Vhttp://mumbai.burrp.com/listing/the-lobby-lounge_sahar_mumbai_bars-pubs-restaurants/12264287
+p773
+sg16
+VSahar
+p774
+sg18
+(lp775
+V66911355
+p776
+aV 66911356
+p777
+aV 66911354
+p778
+asg23
+g11
+sg25
+VThe Leela, Andheri (E), Sahar, Andheri East, Mumbai
+p779
+sba(i__main__
+Place
+p780
+(dp781
+g3
+(lp782
+VBars & Pubs
+p783
+aV Restaurants
+p784
+asg10
+g11
+sg12
+VCirkus Cirkus
+p785
+sg14
+Vhttp://mumbai.burrp.com/listing/cirkus-cirkus_andheri-east_mumbai_bars-pubs-restaurants/147111762
+p786
+sg16
+VAndheri East
+p787
+sg18
+(lp788
+V28270707
+p789
+asg23
+g108
+sg25
+VLotus Suites, Andheri Kurla Road, International Airport Zone, Andheri (E), Andheri East, Mumbai
+p790
+sba(i__main__
+Place
+p791
+(dp792
+g3
+(lp793
+VRestaurants
+p794
+aV Bars & Pubs
+p795
+asg10
+g11
+sg12
+VThe Beryl Club
+p796
+sg14
+Vhttp://mumbai.burrp.com/listing/the-beryl-club_andheri-east_mumbai_restaurants-bars-pubs/189142920
+p797
+sg16
+VAndheri East
+p798
+sg18
+(lp799
+V66919000
+p800
+aV 28209999
+p801
+asg23
+g75
+sg25
+VAndheri Kurla Road, Andheri East, Mumbai
+p802
+sba(i__main__
+Place
+p803
+(dp804
+g3
+(lp805
+VRestaurants
+p806
+asg10
+g24
+sg12
+VThe Solitaire
+p807
+sg14
+Vhttp://mumbai.burrp.com/listing/the-solitaire_andheri-east_mumbai_restaurants/12764782
+p808
+sg16
+VAndheri East
+p809
+sg18
+(lp810
+V66919000
+p811
+aV 67693666
+p812
+asg23
+g24
+sg25
+VAndheri Kurla Road, Andheri East, Mumbai
+p813
+sba(i__main__
+Place
+p814
+(dp815
+g3
+(lp816
+VRestaurants
+p817
+asg10
+g75
+sg12
+VCopper Chimney
+p818
+sg14
+Vhttp://mumbai.burrp.com/listing/copper-chimney_andheri-east_mumbai_restaurants/13238277
+p819
+sg16
+VAndheri East
+p820
+sg18
+(lp821
+V28505607
+p822
+aV 28503094
+p823
+asg23
+g108
+sg25
+VShiva Industrial Estate, Next to Parke Davis, Andheri-Kurla Road, Andheri East, Mumbai
+p824
+sba(i__main__
+Place
+p825
+(dp826
+g3
+(lp827
+VRestaurants
+p828
+asg10
+g75
+sg12
+VSudarshan
+p829
+sg14
+Vhttp://mumbai.burrp.com/listing/sudarshan_andheri-east_mumbai_restaurants/17060039
+p830
+sg16
+VAndheri East
+p831
+sg18
+(lp832
+V28513331
+p833
+aV 28512463
+p834
+aV 28515205
+p835
+asg23
+g24
+sg25
+VSakinaka Junction, Andheri-Kurla Road, Saki Naka, Andheri East, Mumbai
+p836
+sba(i__main__
+Place
+p837
+(dp838
+g3
+(lp839
+VRestaurants
+p840
+asg10
+g75
+sg12
+VLaxmi Family Restaurant & Bar
+p841
+sg14
+Vhttp://mumbai.burrp.com/listing/laxmi-family-restaurant-bar_andheri-east_mumbai_restaurants/18870821
+p842
+sg16
+VAndheri East
+p843
+sg18
+(lp844
+V28270389
+p845
+aV 66987981
+p846
+asg23
+g108
+sg25
+VOpp. Cine Magic, Andheri-Kurla Road, Andheri (E), Andheri East, Mumbai
+p847
+sba(i__main__
+Place
+p848
+(dp849
+g3
+(lp850
+VBars & Pubs
+p851
+aV Restaurants
+p852
+asg10
+g75
+sg12
+VDivyasagar Bar & Restaurant
+p853
+sg14
+Vhttp://mumbai.burrp.com/listing/divyasagar-bar-restaurant_andheri-east_mumbai_bars-pubs-restaurants/115144594
+p854
+sg16
+VAndheri East
+p855
+sg18
+(lp856
+V26823333
+p857
+aV 26822277
+p858
+asg23
+g108
+sg25
+VShop No 1, N S Phadke Marg, Saiwadi, Andheri East, Mumbai
+p859
+sba(i__main__
+Place
+p860
+(dp861
+g3
+(lp862
+VRestaurants
+p863
+asg10
+g75
+sg12
+VSai Dham
+p864
+sg14
+Vhttp://mumbai.burrp.com/listing/sai-dham_andheri-east_mumbai_restaurants/199755910
+p865
+sg16
+VAndheri East
+p866
+sg18
+(lp867
+V28373194
+p868
+aV 39425089
+p869
+asg23
+g24
+sg25
+VShanti Nagar, Mahakali Caves Road, Andheri (E), Andheri East, Mumbai
+p870
+sba(i__main__
+Place
+p871
+(dp872
+g3
+(lp873
+VRestaurants
+p874
+asg10
+g24
+sg12
+VZodiac
+p875
+sg14
+Vhttp://mumbai.burrp.com/listing/zodiac_andheri-east_mumbai_restaurants/12873881
+p876
+sg16
+VAndheri East
+p877
+sg18
+(lp878
+V28346143
+p879
+aV 28341708
+p880
+asg23
+g108
+sg25
+V15 Brindaban, Poonam Nagar, Off Mahakali Caves Road, Andheri (E), Andheri East, Mumbai
+p881
+sba(i__main__
+Place
+p882
+(dp883
+g3
+(lp884
+VRestaurants
+p885
+asg10
+g24
+sg12
+VLomching Chinese & Thai Food
+p886
+sg14
+Vhttp://mumbai.burrp.com/listing/lomching-chinese-thai-food_andheri-east_mumbai_restaurants/1434458366
+p887
+sg16
+VAndheri East
+p888
+sg18
+(lp889
+V28266741
+p890
+asg23
+g108
+sg25
+VShop No. 19, Poonam Darshan, Poonam Nagar, 'B'Off. Mahakali Caves Road, Andheri (E), Andheri East, Mumbai
+p891
+sba(i__main__
+Place
+p892
+(dp893
+g3
+(lp894
+VRestaurants
+p895
+asg10
+g24
+sg12
+VThe Great Wall
+p896
+sg14
+Vhttp://mumbai.burrp.com/listing/the-great-wall_sahar_mumbai_restaurants/11863891
+p897
+sg16
+VSahar
+p898
+sg18
+(lp899
+V66911348
+p900
+asg23
+g75
+sg25
+VAndheri Kurla Road, Sahar, Andheri East, Mumbai
+p901
+sba(i__main__
+Place
+p902
+(dp903
+g3
+(lp904
+VRestaurants
+p905
+asg10
+g126
+sg12
+VHariprasad Restaurant
+p906
+sg14
+Vhttp://mumbai.burrp.com/listing/hariprasad-restaurant_marol_mumbai_restaurants/17311868336
+p907
+sg16
+VMarol
+p908
+sg18
+(lp909
+V29209555
+p910
+aV 29202112
+p911
+asg23
+g24
+sg25
+VMilitary Road, Marol Maroshi Road, Marol, Andheri East, Mumbai
+p912
+sba(i__main__
+Place
+p913
+(dp914
+g3
+(lp915
+VRestaurants
+p916
+asg10
+g126
+sg12
+VNagpal Fish Fry
+p917
+sg14
+Vhttp://mumbai.burrp.com/listing/nagpal-fish-fry_andheri-east_mumbai_restaurants/1531219356
+p918
+sg16
+VAndheri East
+p919
+sg18
+(lp920
+V28325314
+p921
+aV 28383052
+p922
+aV 65981414
+p923
+asg23
+g24
+sg25
+VAkal Society, Shop #1, Tarun Bharat Road, JB Nagar, Andheri East, Mumbai
+p924
+sba(i__main__
+Place
+p925
+(dp926
+g3
+(lp927
+VRestaurants
+p928
+aV Bars & Pubs
+p929
+asg10
+g126
+sg12
+VMaharaja Restaurant & Bar
+p930
+sg14
+Vhttp://mumbai.burrp.com/listing/maharaja-restaurant-bar_andheri-east_mumbai_restaurants-bars-pubs/1617304148
+p931
+sg16
+VAndheri East
+p932
+sg18
+(lp933
+V28341919
+p934
+aV 28221919
+p935
+aV 28381919
+p936
+asg23
+g24
+sg25
+VA. K. Road, Off Western Express Highway, Andheri East, Mumbai
+p937
+sba(i__main__
+Place
+p938
+(dp939
+g3
+(lp940
+VRestaurants
+p941
+asg10
+g126
+sg12
+VLaxmi Punjab Restaurant
+p942
+sg14
+Vhttp://mumbai.burrp.com/listing/laxmi-punjab-restaurant_andheri-kurla-road_mumbai_restaurants/1137335396
+p943
+sg16
+VAndheri Kurla Road
+p944
+sg18
+(lp945
+V28243926
+p946
+asg23
+g108
+sg25
+V5, Shivaji Colony, Andheri Kurla Road, Andheri East, Mumbai
+p947
+sba(i__main__
+Place
+p948
+(dp949
+g3
+(lp950
+VRestaurants
+p951
+asg10
+g11
+sg12
+VHotel Saidev
+p952
+sg14
+Vhttp://mumbai.burrp.com/listing/hotel-saidev_andheri-east_mumbai_restaurants/1684442841
+p953
+sg16
+VAndheri East
+p954
+sg18
+(lp955
+V28257979
+p956
+aV 28389288
+p957
+aV 28390654
+p958
+aV 258227957
+p959
+asg23
+g24
+sg25
+VSilver Belle, J.B. Nagar, Kondivitta Village, Andheri East, Mumbai
+p960
+sba(i__main__
+Place
+p961
+(dp962
+g3
+(lp963
+VRestaurants
+p964
+asg10
+g11
+sg12
+VGanga
+p965
+sg14
+Vhttp://mumbai.burrp.com/listing/ganga_andheri-east_mumbai_restaurants/184115425
+p966
+sg16
+VAndheri East
+p967
+sg18
+(lp968
+V67898900
+p969
+aV 28217272
+p970
+aV 28217278
+p971
+asg23
+g108
+sg25
+VPlot No. 16, MIDC Central Road, Andheri East, Mumbai
+p972
+sba(i__main__
+Place
+p973
+(dp974
+g3
+(lp975
+VRestaurants
+p976
+asg10
+g11
+sg12
+VMore's
+p977
+sg14
+Vhttp://mumbai.burrp.com/listing/mores_marol_mumbai_restaurants/114369495
+p978
+sg16
+VMarol
+p979
+sg18
+(lp980
+V28510048
+p981
+aV 28510428
+p982
+asg23
+g134
+sg25
+VShop No 4, 5, 6, Vinayak Society, Marol Military Rd, Andheri (E), Marol, Andheri East, Mumbai
+p983
+sba(i__main__
+Place
+p984
+(dp985
+g3
+(lp986
+VRestaurants
+p987
+asg10
+g11
+sg12
+VSpice of China
+p988
+sg14
+Vhttp://mumbai.burrp.com/listing/spice-of-china_andheri-east_mumbai_restaurants/159823950
+p989
+sg16
+VAndheri East
+p990
+sg18
+(lp991
+V64122039
+p992
+aV 28301938
+p993
+aV 28216708
+p994
+asg23
+g24
+sg25
+V26, Poonam Vihar - A, Poonam Nagar, Off Mahakali Caves Road, Andheri East, Mumbai
+p995
+sba(i__main__
+Place
+p996
+(dp997
+g3
+(lp998
+VRestaurants
+p999
+asg10
+g11
+sg12
+VSaidev Restaurant
+p1000
+sg14
+Vhttp://mumbai.burrp.com/listing/saidev-restaurant_chakala_mumbai_restaurants/1144410495
+p1001
+sg16
+VChakala
+p1002
+sg18
+(lp1003
+V28390654
+p1004
+asg23
+g108
+sg25
+VAndheri (E), Chakala, Andheri East, Mumbai
+p1005
+sba(i__main__
+Place
+p1006
+(dp1007
+g3
+(lp1008
+VRestaurants
+p1009
+asg10
+g11
+sg12
+VSolkadhi Restaurant 
+p1010
+sg14
+Vhttp://mumbai.burrp.com/listing/solkadhi-restaurant-_andheri-east_mumbai_restaurants/1804471029
+p1011
+sg16
+VAndheri East
+p1012
+sg18
+(lp1013
+V28511742 
+p1014
+asg23
+g108
+sg25
+V41/3/c, Sagbaug, Opp. Mahalaxmi Restaurant, A.K. RD, Marol , Andheri (E), Andheri East, Mumbai
+p1015
+sba(i__main__
+Place
+p1016
+(dp1017
+g3
+(lp1018
+VRestaurants
+p1019
+asg10
+g11
+sg12
+VSarvodaya Pure Veg Restaurant 
+p1020
+sg14
+Vhttp://mumbai.burrp.com/listing/sarvodaya-pure-veg-restaurant-_andheri-east_mumbai_restaurants/1284483881
+p1021
+sg16
+VAndheri East
+p1022
+sg18
+(lp1023
+V28361515 
+p1024
+asg23
+g108
+sg25
+V8, Vidya Villa No.1, shop no. 5, Old Nagardas Road, Andheri (E), Andheri East, Mumbai
+p1025
+sba(i__main__
+Place
+p1026
+(dp1027
+g3
+(lp1028
+VRestaurants
+p1029
+asg10
+g11
+sg12
+VThambi
+p1030
+sg14
+Vhttp://mumbai.burrp.com/listing/thambi_chandivali_mumbai_restaurants/1297192980
+p1031
+sg16
+VChandivali
+p1032
+sg18
+(lp1033
+V28472153
+p1034
+aV 28472154
+p1035
+asg23
+g134
+sg25
+VD'Souza Compound, Oberoi Garden Estate, Chandivali Farm Road, Powai, Chandivali, Andheri East, Mumbai
+p1036
+sba(i__main__
+Place
+p1037
+(dp1038
+g3
+(lp1039
+VRestaurants
+p1040
+asg10
+g11
+sg12
+VChilly And Onion
+p1041
+sg14
+Vhttp://mumbai.burrp.com/listing/chilly-and-onion_andheri-east_mumbai_restaurants/14711280762
+p1042
+sg16
+VAndheri East
+p1043
+sg18
+(lp1044
+V22987101
+p1045
+aV 22987102
+p1046
+aV 28387101
+p1047
+aV 28387103
+p1048
+asg23
+g108
+sg25
+VShop No. 10, Takshila Building, Mahakali Caves Road, Andheri East, Mumbai
+p1049
+sba(i__main__
+Place
+p1050
+(dp1051
+g3
+(lp1052
+VRestaurants
+p1053
+asg10
+g75
+sg12
+VKrishna Restaurant & Bar
+p1054
+sg14
+Vhttp://mumbai.burrp.com/listing/krishna-restaurant-bar_andheri-east_mumbai_restaurants/1331217376
+p1055
+sg16
+VAndheri East
+p1056
+sg18
+(lp1057
+V28329614
+p1058
+aV 28216021
+p1059
+aV 23873288
+p1060
+asg23
+g24
+sg25
+VShanti Nagar, Mahakali Caves Road, Andheri (E), Andheri East, Mumbai
+p1061
+sba(i__main__
+Place
+p1062
+(dp1063
+g3
+(lp1064
+VRestaurants
+p1065
+asg10
+g75
+sg12
+VJumbo King
+p1066
+sg14
+Vhttp://mumbai.burrp.com/listing/jumbo-king_andheri-east_mumbai_restaurants/16541544
+p1067
+sg16
+VAndheri East
+p1068
+sg18
+(lp1069
+V26841896
+p1070
+asg23
+g108
+sg25
+V11, Noor Shopping Centre, Opp. Agarkar Chowk. Station Gully, Andheri (E), Andheri East, Mumbai
+p1071
+sba(i__main__
+Place
+p1072
+(dp1073
+g3
+(lp1074
+VRestaurants
+p1075
+asg10
+g75
+sg12
+VRound The Clock
+p1076
+sg14
+Vhttp://mumbai.burrp.com/listing/round-the-clock_andheri-east_mumbai_restaurants/15749752
+p1077
+sg16
+VAndheri East
+p1078
+sg18
+(lp1079
+V28238811
+p1080
+asg23
+g108
+sg25
+VSun n Sheel, Kakad Comer, Andheri Kurla Road, Andheri (E), Andheri East, Mumbai
+p1081
+sba(i__main__
+Place
+p1082
+(dp1083
+g3
+(lp1084
+VRestaurants
+p1085
+asg10
+g75
+sg12
+VJamavar
+p1086
+sg14
+Vhttp://mumbai.burrp.com/listing/jamavar_sahar_mumbai_restaurants/161122148
+p1087
+sg16
+VSahar
+p1088
+sg18
+(lp1089
+V66911234
+p1090
+aV 66911350
+p1091
+aV 66911351
+p1092
+asg23
+g108
+sg25
+VSahar, Andheri East, Mumbai
+p1093
+sba(i__main__
+Place
+p1094
+(dp1095
+g3
+(lp1096
+VRestaurants
+p1097
+asg10
+g75
+sg12
+VFlames Grills & Barbeque
+p1098
+sg14
+Vhttp://mumbai.burrp.com/listing/flames-grills-barbeque_sahar_mumbai_restaurants/1211387188
+p1099
+sg16
+VSahar
+p1100
+sg18
+(lp1101
+V28380000
+p1102
+asg23
+g75
+sg25
+VSahar, Andheri East, Mumbai
+p1103
+sba(i__main__
+Place
+p1104
+(dp1105
+g3
+(lp1106
+VRestaurants
+p1107
+asg10
+g75
+sg12
+VVaibhav Veg Restaurant
+p1108
+sg14
+Vhttp://mumbai.burrp.com/listing/vaibhav-veg-restaurant_sahar_mumbai_restaurants/1521417257
+p1109
+sg16
+VSahar
+p1110
+sg18
+(lp1111
+V26846600
+p1112
+aV 26846888
+p1113
+aV 26835937
+p1114
+asg23
+g24
+sg25
+VOpp. Old Police Lane, Sahar Road, Andheri (E), Sahar, Andheri East, Mumbai
+p1115
+sba(i__main__
+Place
+p1116
+(dp1117
+g3
+(lp1118
+VRestaurants
+p1119
+asg10
+g75
+sg12
+VJyoti Restaurant
+p1120
+sg14
+Vhttp://mumbai.burrp.com/listing/jyoti-restaurant_andheri-east_mumbai_restaurants/1554450554
+p1121
+sg16
+VAndheri East
+p1122
+sg18
+(lp1123
+V28353445
+p1124
+aV 28255573
+p1125
+asg23
+g108
+sg25
+VJ.B Nagar, Andheri (E), Andheri East, Mumbai
+p1126
+sba(i__main__
+Place
+p1127
+(dp1128
+g3
+(lp1129
+VRestaurants
+p1130
+asg10
+g75
+sg12
+VCafe Tuba
+p1131
+sg14
+Vhttp://mumbai.burrp.com/listing/cafe-tuba_andheri-east_mumbai_restaurants/14723628762
+p1132
+sg16
+VAndheri East
+p1133
+sg18
+(lp1134
+V32247037
+p1135
+aV 32247039
+p1136
+asg23
+g108
+sg25
+VMahakali Caves Road , Andheri East, Mumbai
+p1137
+sba(i__main__
+Place
+p1138
+(dp1139
+g3
+(lp1140
+VRestaurants
+p1141
+aV Bars & Pubs
+p1142
+asg10
+g24
+sg12
+VRegency
+p1143
+sg14
+Vhttp://mumbai.burrp.com/listing/regency_marol_mumbai_restaurants-bars-pubs/1751365534
+p1144
+sg16
+VMarol
+p1145
+sg18
+(lp1146
+V42359999
+p1147
+asg23
+g108
+sg25
+VHotel Silver Inn, Near SBI Bank, Marol Maroshi Road, Marol, Andheri East, Mumbai
+p1148
+sba(i__main__
+Place
+p1149
+(dp1150
+g3
+(lp1151
+VRestaurants
+p1152
+asg10
+g24
+sg12
+VRich Fast Food
+p1153
+sg14
+Vhttp://mumbai.burrp.com/listing/rich-fast-food_andheri-east_mumbai_restaurants/1431434366
+p1154
+sg16
+VAndheri East
+p1155
+sg18
+(lp1156
+V28374534
+p1157
+aV 28378315
+p1158
+asg23
+g24
+sg25
+V144 Arjun Bldg., Sher e Punjab Society, Andheri (E), Andheri East, Mumbai
+p1159
+sba.

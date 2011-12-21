@@ -1,0 +1,45 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Hotels
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VShree Ganesh Plaza
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/shree-ganesh-plaza_titwala_thane_restaurants-hotels/15314710356
+p12
+sS'region'
+p13
+VTitwala
+p14
+sS'phone'
+p15
+(lp16
+V2380934
+p17
+aV 2381890
+p18
+aV 9819115606
+p19
+asS'cost'
+p20
+g8
+sS'addr'
+p21
+VStation Road, Titwala, Kalyan, Thane
+p22
+sba.

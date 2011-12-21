@@ -1,0 +1,1041 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VTwin Spice
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/twin-spice_bhandup-west_mumbai_restaurants/1515845158
+p11
+sS'region'
+p12
+VBhandup West
+p13
+sS'phone'
+p14
+(lp15
+V25663031
+p16
+aV 25669526
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VGuru Nanak Udyog Bhavan, LBS Marg, Bhandup (W), Bhandup West, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V4
+p26
+sg8
+VShera Restaurant and Bar
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/shera-restaurant-and-bar_bhandup-west_mumbai_restaurants/119252990
+p28
+sg12
+VBhandup West
+p29
+sg14
+(lp30
+V25911852
+p31
+asg18
+g19
+sg20
+VL.B.S Marg, Near Asian Paints, Bhandhup (W), Bhandup West, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VBars & Pubs
+p36
+aV Restaurants
+p37
+asg6
+g26
+sg8
+VHotel Vijayalakshmi Bar & Restaurant
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-vijayalakshmi-bar-restaurant_bhandup-west_mumbai_bars-pubs-restaurants/129802980
+p39
+sg12
+VBhandup West
+p40
+sg14
+(lp41
+V25954682
+p42
+asg18
+V2
+p43
+sg20
+VKapoor Compound, Near Neptune, LBS Road, Bhandup (W), Bhandup West, Mumbai
+p44
+sba(i__main__
+Place
+p45
+(dp46
+g3
+(lp47
+VRestaurants
+p48
+asg6
+g26
+sg8
+VRatna Restaurant 
+p49
+sg10
+Vhttp://mumbai.burrp.com/listing/ratna-restaurant-_bhandup-west_mumbai_restaurants/1824498227
+p50
+sg12
+VBhandup West
+p51
+sg14
+(lp52
+V25666757 
+p53
+aV 25663339 
+p54
+asg18
+g19
+sg20
+VStation Plaza, Station Road , Bhandup (W), Bhandup West, Mumbai
+p55
+sba(i__main__
+Place
+p56
+(dp57
+g3
+(lp58
+VRestaurants
+p59
+asg6
+g19
+sg8
+VSudarshan Restaurant & Bar
+p60
+sg10
+Vhttp://mumbai.burrp.com/listing/sudarshan-restaurant-bar_bhandup-west_mumbai_restaurants/1111476198
+p61
+sg12
+VBhandup West
+p62
+sg14
+(lp63
+V25957404
+p64
+aV 25957405
+p65
+asg18
+g19
+sg20
+VL.B.S. Marg, Corner of Mulund-Goregaon Link Road, Bhandup West, Mumbai
+p66
+sba(i__main__
+Place
+p67
+(dp68
+g3
+(lp69
+VRestaurants
+p70
+asg6
+g19
+sg8
+VBricks- The Family Restaurant
+p71
+sg10
+Vhttp://mumbai.burrp.com/listing/bricks--the-family-restaurant_bhandup-west_mumbai_restaurants/1304412079
+p72
+sg12
+VBhandup West
+p73
+sg14
+(lp74
+V25663031
+p75
+asg18
+g19
+sg20
+VGurunanak Udyog Bhuvan, L. B. S. Marg, Bhandup West, Mumbai
+p76
+sba(i__main__
+Place
+p77
+(dp78
+g3
+(lp79
+VRestaurants
+p80
+asg6
+g19
+sg8
+VSpeedy Grub Corner 
+p81
+sg10
+Vhttp://mumbai.burrp.com/listing/speedy-grub-corner-_bhandup-west_mumbai_restaurants/1724470237
+p82
+sg12
+VBhandup West
+p83
+sg14
+(lp84
+V26459612
+p85
+aV 26459619
+p86
+aV 26409597 
+p87
+asg18
+g19
+sg20
+VMatai Manision, Shop No. 4, St. John Baptist Road, Bhandup (W), Bhandup West, Mumbai
+p88
+sba(i__main__
+Place
+p89
+(dp90
+g3
+(lp91
+VRestaurants
+p92
+asg6
+g19
+sg8
+VSanjraj- The Family Restaurant& Bar 
+p93
+sg10
+Vhttp://mumbai.burrp.com/listing/sanjraj--the-family-restaurant-bar-_bhandup-west_mumbai_restaurants/1804489029
+p94
+sg12
+VBhandup West
+p95
+sg14
+(lp96
+V25947358 
+p97
+aV 25949607
+p98
+aV 9867815821
+p99
+asg18
+g43
+sg20
+VL.B.S. Marg, Bhandup West, Mumbai
+p100
+sba(i__main__
+Place
+p101
+(dp102
+g3
+(lp103
+VRestaurants
+p104
+asg6
+g19
+sg8
+VSadhana Again 
+p105
+sg10
+Vhttp://mumbai.burrp.com/listing/sadhana-again-_bhandup-west_mumbai_restaurants/1494494960
+p106
+sg12
+VBhandup West
+p107
+sg14
+(lp108
+V25663031 
+p109
+asg18
+g19
+sg20
+VGala no.5, Gurunanak Udyog Bhavan, L.B.S Marg , Bhandup (W), Bhandup West, Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VRestaurants
+p114
+asg6
+g19
+sg8
+VHotel Gopala
+p115
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-gopala_bhandup-west_mumbai_restaurants/1757926534
+p116
+sg12
+VBhandup West
+p117
+sg14
+(lp118
+V25782060
+p119
+aV 32977181
+p120
+asg18
+g19
+sg20
+VL B S Marg , Udyog Nagar, Bhandup West, Mumbai
+p121
+sba(i__main__
+Place
+p122
+(dp123
+g3
+(lp124
+VRestaurants
+p125
+asg6
+g19
+sg8
+VNew Punjabi Family Restaurant Bar
+p126
+sg10
+Vhttp://mumbai.burrp.com/listing/new-punjabi-family-restaurant-bar_bhandup-west_mumbai_restaurants/1497932960
+p127
+sg12
+VBhandup West
+p128
+sg14
+(lp129
+V25951769
+p130
+aV 25959262
+p131
+aV 9820613697
+p132
+asg18
+g19
+sg20
+VGround Floor, L B S Marg, Bhandup West, Mumbai
+p133
+sba(i__main__
+Place
+p134
+(dp135
+g3
+(lp136
+VRestaurants
+p137
+asg6
+g19
+sg8
+VPrathama Hotel
+p138
+sg10
+Vhttp://mumbai.burrp.com/listing/prathama-hotel_bhandup-west_mumbai_restaurants/1597933950
+p139
+sg12
+VBhandup West
+p140
+sg14
+(lp141
+V25947497
+p142
+asg18
+g19
+sg20
+V04, Lakadawala Chawl  , Station Road, Bhandup West, Mumbai
+p143
+sba(i__main__
+Place
+p144
+(dp145
+g3
+(lp146
+VRestaurants
+p147
+asg6
+g19
+sg8
+VAmbika Hotel
+p148
+sg10
+Vhttp://mumbai.burrp.com/listing/ambika-hotel_bhandup-west_mumbai_restaurants/1877945722
+p149
+sg12
+VBhandup West
+p150
+sg14
+(lp151
+V25951745
+p152
+asg18
+g19
+sg20
+VShop No 6, Zakriya Niwas, Bhattipada Road, Bhandup West, Mumbai
+p153
+sba(i__main__
+Place
+p154
+(dp155
+g3
+(lp156
+VRestaurants
+p157
+asg6
+g19
+sg8
+VBalkrishna Hotel
+p158
+sg10
+Vhttp://mumbai.burrp.com/listing/balkrishna-hotel_bhandup-west_mumbai_restaurants/1217957188
+p159
+sg12
+VBhandup West
+p160
+sg14
+(lp161
+V25669527
+p162
+aV 9819403775
+p163
+asg18
+g19
+sg20
+VShop No 1/A, Shinde Shopping Centre, Village Road, Bhandup West, Mumbai
+p164
+sba(i__main__
+Place
+p165
+(dp166
+g3
+(lp167
+VRestaurants
+p168
+asg6
+g19
+sg8
+VSuraj Chinese Cusine
+p169
+sg10
+Vhttp://mumbai.burrp.com/listing/suraj-chinese-cusine_bhandup-west_mumbai_restaurants/1697961940
+p170
+sg12
+VBhandup West
+p171
+sg14
+(lp172
+V25662645
+p173
+aV 65041756
+p174
+aV 65140200
+p175
+asg18
+g19
+sg20
+VShop No 2, Shankar Vihar, J M Road, Sarvodaya Nagar, Bhandup West, Mumbai
+p176
+sba(i__main__
+Place
+p177
+(dp178
+g3
+(lp179
+VRestaurants
+p180
+asg6
+g19
+sg8
+VShree Muthappan Eating House
+p181
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-muthappan-eating-house_bhandup-west_mumbai_restaurants/1997964910
+p182
+sg12
+VBhandup West
+p183
+sg14
+(lp184
+V25969421
+p185
+asg18
+g19
+sg20
+VShop No 1, Vijay Niwas, Jangal Mangal Road, Bhandup West, Mumbai
+p186
+sba(i__main__
+Place
+p187
+(dp188
+g3
+(lp189
+VRestaurants
+p190
+asg6
+g19
+sg8
+VManasa Dining Bar
+p191
+sg10
+Vhttp://mumbai.burrp.com/listing/manasa-dining-bar_bhandup-west_mumbai_restaurants/1157965594
+p192
+sg12
+VBhandup West
+p193
+sg14
+(lp194
+V25668995
+p195
+aV 25668996
+p196
+aV 9324533299
+p197
+asg18
+g19
+sg20
+VLBS Marg, Bhandup West, Mumbai
+p198
+sba(i__main__
+Place
+p199
+(dp200
+g3
+(lp201
+VRestaurants
+p202
+asg6
+g19
+sg8
+VMadras Cafe
+p203
+sg10
+Vhttp://mumbai.burrp.com/listing/madras-cafe_bhandup-west_mumbai_restaurants/1417968168
+p204
+sg12
+VBhandup West
+p205
+sg14
+(lp206
+V25949530
+p207
+aV 25949802
+p208
+asg18
+g43
+sg20
+VL B S Marg, Opp Station Rd, Bhandup West, Mumbai
+p209
+sba(i__main__
+Place
+p210
+(dp211
+g3
+(lp212
+VRestaurants
+p213
+asg6
+g19
+sg8
+VChopsuey Restaurant
+p214
+sg10
+Vhttp://mumbai.burrp.com/listing/chopsuey-restaurant_bhandup-west_mumbai_restaurants/1477968762
+p215
+sg12
+VBhandup West
+p216
+sg14
+(lp217
+V25612643
+p218
+asg18
+g19
+sg20
+VShop No 1, Kakde Niwas, Village Road, Bhandup West, Mumbai
+p219
+sba(i__main__
+Place
+p220
+(dp221
+g3
+(lp222
+VRestaurants
+p223
+asg6
+g19
+sg8
+VHanuman Hotel Bar And Restaurant
+p224
+sg10
+Vhttp://mumbai.burrp.com/listing/hanuman-hotel-bar-and-restaurant_bhandup-west_mumbai_restaurants/1657970544
+p225
+sg12
+VBhandup West
+p226
+sg14
+(lp227
+V25942776
+p228
+aV 25969734
+p229
+aV 9322526929
+p230
+asg18
+g19
+sg20
+VVinod Niwas, Quarry Road, Maharashtra Nagar, Bhandup West, Mumbai
+p231
+sba(i__main__
+Place
+p232
+(dp233
+g3
+(lp234
+VRestaurants
+p235
+asg6
+g19
+sg8
+VHotel Gurudev
+p236
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-gurudev_bhandup-west_mumbai_restaurants/1757971534
+p237
+sg12
+VBhandup West
+p238
+sg14
+(lp239
+V25968700
+p240
+aV 25969294
+p241
+asg18
+g19
+sg20
+VBhaichand Textile Compound, LBS Marg, Bhandup West, Mumbai
+p242
+sba(i__main__
+Place
+p243
+(dp244
+g3
+(lp245
+VBars & Pubs
+p246
+aV Restaurants
+p247
+asg6
+g19
+sg8
+VGuruprasad Veg Restaurant
+p248
+sg10
+Vhttp://mumbai.burrp.com/listing/guruprasad-veg-restaurant_bhandup-west_mumbai_bars-pubs-restaurants/1897972920
+p249
+sg12
+VBhandup West
+p250
+sg14
+(lp251
+V25612666
+p252
+aV 25612677
+p253
+asg18
+g19
+sg20
+VMariton Max Apts, Mulund Goregaon Link Rd, Nr Kotak Mahindra Bank, Bhandup West, Mumbai
+p254
+sba(i__main__
+Place
+p255
+(dp256
+g3
+(lp257
+VRestaurants
+p258
+asg6
+g19
+sg8
+VPunjab Hindu Hotel
+p259
+sg10
+Vhttp://mumbai.burrp.com/listing/punjab-hindu-hotel_bhandup-west_mumbai_restaurants/1617979148
+p260
+sg12
+VBhandup West
+p261
+sg14
+(lp262
+V25940547
+p263
+aV 25949535
+p264
+aV 9699233198
+p265
+aV 9869238869
+p266
+asg18
+g19
+sg20
+VShop No 1, Ground Floor, Gorai Arcade, LBS Marg, Bhandup West, Mumbai
+p267
+sba(i__main__
+Place
+p268
+(dp269
+g3
+(lp270
+VRestaurants
+p271
+asg6
+g19
+sg8
+VPadma Hotel
+p272
+sg10
+Vhttp://mumbai.burrp.com/listing/padma-hotel_bhandup-west_mumbai_restaurants/1657979544
+p273
+sg12
+VBhandup West
+p274
+sg14
+(lp275
+V25969687
+p276
+asg18
+g19
+sg20
+VSonapur Signal, L B S Marg, Bhandup West, Mumbai
+p277
+sba(i__main__
+Place
+p278
+(dp279
+g3
+(lp280
+VRestaurants
+p281
+asg6
+g19
+sg8
+VWelcome Hotel
+p282
+sg10
+Vhttp://mumbai.burrp.com/listing/welcome-hotel_bhandup-west_mumbai_restaurants/1717980138
+p283
+sg12
+VBhandup West
+p284
+sg14
+(lp285
+V25941389
+p286
+asg18
+g19
+sg20
+V9, Ram Bhavan, J M Road, Bhandup West, Mumbai
+p287
+sba(i__main__
+Place
+p288
+(dp289
+g3
+(lp290
+VRestaurants
+p291
+asg6
+g19
+sg8
+VAditya Pure Veg Restaurant
+p292
+sg10
+Vhttp://mumbai.burrp.com/listing/aditya-pure-veg-restaurant_lbs-marg-bhandup-west_mumbai_restaurants/15111146158
+p293
+sg12
+VLBS Marg (Bhandup West)
+p294
+sg14
+(lp295
+V25968078
+p296
+aV 56869663
+p297
+asg18
+g19
+sg20
+VMayuresh Shristi Complex, Opp Asian Paints, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p298
+sba(i__main__
+Place
+p299
+(dp300
+g3
+(lp301
+VRestaurants
+p302
+asg6
+g19
+sg8
+VBageecha Restaurant
+p303
+sg10
+Vhttp://mumbai.burrp.com/listing/bageecha-restaurant_lbs-marg-bhandup-west_mumbai_restaurants/15511146554
+p304
+sg12
+VLBS Marg (Bhandup West)
+p305
+sg14
+(lp306
+V25665251
+p307
+aV 9820260717
+p308
+aV 9867799730
+p309
+aV 9967106106
+p310
+asg18
+g19
+sg20
+VShop No 20/21 , Bhandup Station Plaza, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p311
+sba(i__main__
+Place
+p312
+(dp313
+g3
+(lp314
+VRestaurants
+p315
+asg6
+g19
+sg8
+VSuraj Restaurant And Bar
+p316
+sg10
+Vhttp://mumbai.burrp.com/listing/suraj-restaurant-and-bar_lbs-marg-bhandup-west_mumbai_restaurants/15711146752
+p317
+sg12
+VLBS Marg (Bhandup West)
+p318
+sg14
+(lp319
+V25645812
+p320
+aV 25949643
+p321
+aV 25951755
+p322
+aV 9821093426
+p323
+asg18
+g19
+sg20
+VSuraj Restaurant And Bar              , LBS Marg (Bhandup West), Bhandup West, Mumbai
+p324
+sba(i__main__
+Place
+p325
+(dp326
+g3
+(lp327
+VRestaurants
+p328
+asg6
+g19
+sg8
+VSadguru Restaurant & Bar
+p329
+sg10
+Vhttp://mumbai.burrp.com/listing/sadguru-restaurant-bar_lbs-marg-bhandup-west_mumbai_restaurants/15911146950
+p330
+sg12
+VLBS Marg (Bhandup West)
+p331
+sg14
+(lp332
+V25940289
+p333
+asg18
+g19
+sg20
+VShop No 15, Quarry Road, Maharashtra Nager, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p334
+sba(i__main__
+Place
+p335
+(dp336
+g3
+(lp337
+VRestaurants
+p338
+asg6
+g19
+sg8
+VOm Sai Restaurant & Bar
+p339
+sg10
+Vhttp://mumbai.burrp.com/listing/om-sai-restaurant-bar_bhandup-west_mumbai_restaurants/19115614118
+p340
+sg12
+VBhandup West
+p341
+sg14
+(lp342
+V25959575
+p343
+aV 9820786438
+p344
+asg18
+g19
+sg20
+VJ.M. Road, Bhandup West, Mumbai
+p345
+sba(i__main__
+Place
+p346
+(dp347
+g3
+(lp348
+VRestaurants
+p349
+asg6
+g19
+sg8
+VCafe Amber
+p350
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-amber_bhandup-west_mumbai_restaurants/13515689574
+p351
+sg12
+VBhandup West
+p352
+sg14
+(lp353
+V9920525772 
+p354
+aV 9920935772
+p355
+asg18
+V1
+p356
+sg20
+VShop No.8, Sonapur , L.B.S.Marg, Darga Road, Bhandup West, Mumbai
+p357
+sba(i__main__
+Place
+p358
+(dp359
+g3
+(lp360
+VRestaurants
+p361
+asg6
+g19
+sg8
+VCafe Maaz
+p362
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-maaz_bhandup-west_mumbai_restaurants/11715696792
+p363
+sg12
+VBhandup West
+p364
+sg14
+(lp365
+V67989185
+p366
+aV 25954853
+p367
+asg18
+g19
+sg20
+VShop No 4 Opposite Bhandup Sonapur Bus Stop, L B S Marg, Bhandup West, Mumbai
+p368
+sba(i__main__
+Place
+p369
+(dp370
+g3
+(lp371
+VBars & Pubs
+p372
+aV Restaurants
+p373
+asg6
+g19
+sg8
+VHotel Pancharatna
+p374
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-pancharatna_bhandup-west_mumbai_bars-pubs-restaurants/13118119178
+p375
+sg12
+VBhandup West
+p376
+sg14
+(lp377
+V25965193
+p378
+asg18
+g43
+sg20
+VLBS Marg, Sonapur, Bhandup West, Mumbai
+p379
+sba(i__main__
+Place
+p380
+(dp381
+g3
+(lp382
+VRestaurants
+p383
+asg6
+g19
+sg8
+VAbhiruchi Juice & Snacks
+p384
+sg10
+Vhttp://mumbai.burrp.com/listing/abhiruchi-juice-snacks_lbs-marg-bhandup-west_mumbai_restaurants/18923596920
+p385
+sg12
+VLBS Marg (Bhandup West)
+p386
+sg14
+(lp387
+V64169729
+p388
+aV 32634849
+p389
+asg18
+g43
+sg20
+V1/A, Chandra Nagar, Opp Dreams Mall, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p390
+sba.

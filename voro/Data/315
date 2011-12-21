@@ -1,0 +1,409 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBanquet Halls
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V3
+p8
+sS'name'
+p9
+VRoyal Challenge II
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/royal-challenge-ii_wagle-industrial-estate_thane_banquet-halls-restaurants/15949950
+p12
+sS'region'
+p13
+VWagle Industrial Estate
+p14
+sS'phone'
+p15
+(lp16
+V25406689
+p17
+aV 25372072
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VEmpire Wing, Eastern Express High Way, Wagle Industrial Estate, Thane West, Thane
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+aV Juice Parlours
+p27
+asg7
+g8
+sg9
+VSamudra Family Restaurant And Bar
+p28
+sg11
+Vhttp://mumbai.burrp.com/listing/samudra-family-restaurant-and-bar_wagle-industrial-estate_thane_restaurants-juice-parlours/15114872158
+p29
+sg13
+VWagle Industrial Estate
+p30
+sg15
+(lp31
+V25800073
+p32
+aV 25815102
+p33
+asg19
+V0
+p34
+sg21
+VSamudra Family Restaurant And Bar, Eastern Express Highway Service Road, Louise Wadi, Wagle Industrial Estate, Thane West, Thane
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VBars & Pubs
+p39
+aV Restaurants
+p40
+asg7
+g34
+sg9
+VAnugrah Hotel
+p41
+sg11
+Vhttp://mumbai.burrp.com/listing/anugrah-hotel_wagle-industrial-estate_thane_bars-pubs-restaurants/19314849316
+p42
+sg13
+VWagle Industrial Estate
+p43
+sg15
+(lp44
+V25807720
+p45
+asg19
+g34
+sg21
+VShop No 2, Shivaji Nagar, L B S Road, Wagle Industrial Estate, Thane West, Thane
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg7
+g34
+sg9
+VDeepika Restaurant & Bar
+p51
+sg11
+Vhttp://mumbai.burrp.com/listing/deepika-restaurant-bar_wagle-industrial-estate_thane_restaurants/12314851386
+p52
+sg13
+VWagle Industrial Estate
+p53
+sg15
+(lp54
+V25807397
+p55
+asg19
+g34
+sg21
+VIndira Nagar, Road No 22, Wagle Estate Police Station, Wagle Industrial Estate, Thane West, Thane
+p56
+sba(i__main__
+Place
+p57
+(dp58
+g3
+(lp59
+VRestaurants
+p60
+asg7
+g34
+sg9
+VHotel Anurag Bar & Restaurant
+p61
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-anurag-bar-restaurant_wagle-industrial-estate_thane_restaurants/15714854752
+p62
+sg13
+VWagle Industrial Estate
+p63
+sg15
+(lp64
+V25803379
+p65
+asg19
+g34
+sg21
+VShivaji Nagar, L B S Road, Wagle Industrial Estate, Thane West, Thane
+p66
+sba(i__main__
+Place
+p67
+(dp68
+g3
+(lp69
+VRestaurants
+p70
+asg7
+g34
+sg9
+VHotel Durga Punjab
+p71
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-durga-punjab_wagle-industrial-estate_thane_restaurants/15914854950
+p72
+sg13
+VWagle Industrial Estate
+p73
+sg15
+(lp74
+V25823714
+p75
+asg19
+g34
+sg21
+VKisan Nagar, Road No 16, Wagle Industrial Estate, Thane West, Thane
+p76
+sba(i__main__
+Place
+p77
+(dp78
+g3
+(lp79
+VRestaurants
+p80
+asg7
+g34
+sg9
+VHotel Vikrant
+p81
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-vikrant_wagle-industrial-estate_thane_restaurants/16314855346
+p82
+sg13
+VWagle Industrial Estate
+p83
+sg15
+(lp84
+V25832191
+p85
+asg19
+g34
+sg21
+VRoad No 22, Wagle Industrial Estate, Thane West, Thane
+p86
+sba(i__main__
+Place
+p87
+(dp88
+g3
+(lp89
+VRestaurants
+p90
+asg7
+g34
+sg9
+VIndian Swaad
+p91
+sg11
+Vhttp://mumbai.burrp.com/listing/indian-swaad_wagle-industrial-estate_thane_restaurants/12314869386
+p92
+sg13
+VWagle Industrial Estate
+p93
+sg15
+(lp94
+V25824342
+p95
+aV 25824345
+p96
+asg19
+g34
+sg21
+VShop No 5, DIC Building, LBS Marg, Wagle Industrial Estate, Thane West, Thane
+p97
+sba(i__main__
+Place
+p98
+(dp99
+g3
+(lp100
+VHotels
+p101
+aV Restaurants
+p102
+asg7
+g34
+sg9
+VDwarka Residency Hotel
+p103
+sg11
+Vhttp://mumbai.burrp.com/listing/dwarka-residency-hotel_wagle-industrial-estate_thane_hotels-restaurants/12714869782
+p104
+sg13
+VWagle Industrial Estate
+p105
+sg15
+(lp106
+V25822602
+p107
+aV 25826021
+p108
+aV 25834101
+p109
+asg19
+g34
+sg21
+VAnnapurna Bhavan, 16th Main Road, Wagle Industrial Estate, Thane West, Thane
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VRestaurants
+p114
+aV Dessert Shops
+p115
+aV Cafes
+p116
+asg7
+g34
+sg9
+VManeksar Enterprises
+p117
+sg11
+Vhttp://mumbai.burrp.com/listing/maneksar-enterprises_wagle-industrial-estate_thane_restaurants-dessert-shops-cafes/16114873148
+p118
+sg13
+VWagle Industrial Estate
+p119
+sg15
+(lp120
+V25321763
+p121
+aV 23825621
+p122
+asg19
+g34
+sg21
+V11/2 Jawahar Jyoti, Lewis St, Wagle Industrial Estate, Thane West, Thane
+p123
+sba(i__main__
+Place
+p124
+(dp125
+g3
+(lp126
+VRestaurants
+p127
+asg7
+g34
+sg9
+VVardhana Restaurant
+p128
+sg11
+Vhttp://mumbai.burrp.com/listing/vardhana-restaurant_wagle-industrial-estate_thane_restaurants/18914875920
+p129
+sg13
+VWagle Industrial Estate
+p130
+sg15
+(lp131
+V25825225
+p132
+asg19
+g34
+sg21
+VSharanam Hotel, Eastern Express Highway Service Rd, Near Rto, Wagle Industrial Estate, Thane West, Thane
+p133
+sba(i__main__
+Place
+p134
+(dp135
+g3
+(lp136
+VRestaurants
+p137
+asg7
+g34
+sg9
+VVikrant Hotel
+p138
+sg11
+Vhttp://mumbai.burrp.com/listing/vikrant-hotel_wagle-industrial-estate_thane_restaurants/19114876118
+p139
+sg13
+VWagle Industrial Estate
+p140
+sg15
+(lp141
+V25832191
+p142
+aV 9969082455
+p143
+aV 9969278440
+p144
+aV 9969434435
+p145
+asg19
+g34
+sg21
+VRoad No 22 Circle, Near State Bank Of India, Wagle Industrial Estate, Thane West, Thane
+p146
+sba(i__main__
+Place
+p147
+(dp148
+g3
+(lp149
+VRestaurants
+p150
+asg7
+g34
+sg9
+VPrashant Family Restaurant & Bar
+p151
+sg11
+Vhttp://mumbai.burrp.com/listing/prashant-family-restaurant-bar_wagle-industrial-estate_thane_restaurants/12114878188
+p152
+sg13
+VWagle Industrial Estate
+p153
+sg15
+(lp154
+V25814247
+p155
+aV 25822738
+p156
+asg19
+g34
+sg21
+VHighway Service Road, Near Riddhi Siddhi Building, Wagle Industrial Estate, Thane West, Thane
+p157
+sba.

@@ -1,0 +1,101 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VAdarsh Pure Veg Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/adarsh-pure-veg-restaurant_ranade-road_mumbai_restaurants/15723287752
+p11
+sS'region'
+p12
+VRanade Road
+p13
+sS'phone'
+p14
+(lp15
+V24303087
+p16
+asS'cost'
+p17
+V1
+p18
+sS'addr'
+p19
+VNakshatra Theatre, Ranade Road, Dadar West, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g7
+sg8
+VClassic Fast Food
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/classic-fast-food_ranade-road_mumbai_restaurants/13312746376
+p26
+sg12
+VRanade Road
+p27
+sg14
+(lp28
+V
+p29
+aV 9320066202
+p30
+asg17
+g7
+sg19
+VShop No 1 Popatlal Building, Ranade Road, Dadar West, Mumbai
+p31
+sba(i__main__
+Place
+p32
+(dp33
+g3
+(lp34
+VGymkhanas and Social Clubs
+p35
+aV Restaurants
+p36
+asg6
+g7
+sg8
+VCatch Restaurant
+p37
+sg10
+Vhttp://mumbai.burrp.com/listing/catch-restaurant_ranade-road_mumbai_gymkhanas-and-social-clubs-restaurants/14312747366
+p38
+sg12
+VRanade Road
+p39
+sg14
+(lp40
+g29
+aV 24143388
+p41
+asg17
+g7
+sg19
+VShivaji Park Seaface, Ranade Road Extn, Near Eurotech Showroom, Ranade Road, Dadar West, Mumbai
+p42
+sba.

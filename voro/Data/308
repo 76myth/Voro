@@ -1,0 +1,1988 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VGajalee Coastal Food Pvt. Ltd.
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/gajalee-coastal-food-pvt-ltd_vile-parle-east_mumbai_restaurants/181115128
+p11
+sS'region'
+p12
+VVile Parle East
+p13
+sS'phone'
+p14
+(lp15
+V26166470
+p16
+aV 26114093
+p17
+aV 66929592
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VKadamgiri Complex, Hanuman Road, Vile Parle East, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+g7
+sg8
+VThe Shack 
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/the-shack-_hanuman-road_mumbai_restaurants/1471308762
+p28
+sg12
+VHanuman Road
+p29
+sg14
+(lp30
+V26123773
+p31
+aV 9819651966
+p32
+asg19
+g20
+sg21
+VSangita's Nest, Ground Floor, Off Mahant Road, Prarthana Samaj Road, Hanuman Road, Vile Parle East, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g7
+sg8
+VBoulevard
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/boulevard_vile-parle-east_mumbai_restaurants/184106425
+p39
+sg12
+VVile Parle East
+p40
+sg14
+(lp41
+V26164040
+p42
+asg19
+g7
+sg21
+V70/C, Off Nehru Road, Vile Parle East, Mumbai
+p43
+sba(i__main__
+Place
+p44
+(dp45
+g3
+(lp46
+VRestaurants
+p47
+asg6
+g7
+sg8
+VNamak
+p48
+sg10
+Vhttp://mumbai.burrp.com/listing/namak_vile-parle-east_mumbai_restaurants/152751257
+p49
+sg12
+VVile Parle East
+p50
+sg14
+(lp51
+V39807444
+p52
+asg19
+g7
+sg21
+VVile Parle East, Mumbai
+p53
+sba(i__main__
+Place
+p54
+(dp55
+g3
+(lp56
+VCafes
+p57
+aV Bars & Pubs
+p58
+aV Restaurants
+p59
+asg6
+g7
+sg8
+VCafe Mailoo
+p60
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-mailoo_domestic-airport_mumbai_cafes-bars-pubs-restaurants/1415961168
+p61
+sg12
+VDomestic Airport
+p62
+sg14
+(lp63
+V26182092
+p64
+aV 26143047
+p65
+asg19
+g20
+sg21
+V7 Pratik Avenue, Nehru Road, Domestic Airport, Vile Parle East, Mumbai
+p66
+sba(i__main__
+Place
+p67
+(dp68
+g3
+(lp69
+VRestaurants
+p70
+asg6
+g7
+sg8
+VPurepur Kolhapur
+p71
+sg10
+Vhttp://mumbai.burrp.com/listing/purepur-kolhapur_vile-parle-east_mumbai_restaurants/1511291158
+p72
+sg12
+VVile Parle East
+p73
+sg14
+(lp74
+V26134569
+p75
+aV 26136181
+p76
+asg19
+g20
+sg21
+VShop No 1 & 2, Aditya Apt, Parleshwar Road, Vile Parle East, Mumbai
+p77
+sba(i__main__
+Place
+p78
+(dp79
+g3
+(lp80
+VRestaurants
+p81
+asg6
+V3
+p82
+sg8
+VTosa
+p83
+sg10
+Vhttp://mumbai.burrp.com/listing/tosa_vile-parle-east_mumbai_restaurants/196278613
+p84
+sg12
+VVile Parle East
+p85
+sg14
+(lp86
+V26103310
+p87
+aV 26103320
+p88
+asg19
+g20
+sg21
+VEastern Court Building, Junction of Tejpal Road and Parleshwar Road, Vile Parle East, Mumbai
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VRestaurants
+p93
+asg6
+g82
+sg8
+VThe Earth Plate
+p94
+sg10
+Vhttp://mumbai.burrp.com/listing/the-earth-plate_vile-parle-east_mumbai_restaurants/172870237
+p95
+sg12
+VVile Parle East
+p96
+sg14
+(lp97
+V39895000
+p98
+aV 39895001
+p99
+asg19
+g7
+sg21
+VLocated in Hotel Sahara Star , Vile Parle East, Mumbai
+p100
+sba(i__main__
+Place
+p101
+(dp102
+g3
+(lp103
+VRestaurants
+p104
+asg6
+g82
+sg8
+VMostly Grills
+p105
+sg10
+Vhttp://mumbai.burrp.com/listing/mostly-grills_vile-parle-east_mumbai_restaurants/154130455
+p106
+sg12
+VVile Parle East
+p107
+sg14
+(lp108
+V26164040
+p109
+aV 26164020
+p110
+aV 26164021
+p111
+asg19
+g82
+sg21
+V70/C, Off Nehru Road, Vile Parle East, Mumbai
+p112
+sba(i__main__
+Place
+p113
+(dp114
+g3
+(lp115
+VRestaurants
+p116
+aV Bars & Pubs
+p117
+asg6
+g82
+sg8
+VGreen House
+p118
+sg10
+Vhttp://mumbai.burrp.com/listing/green-house_vile-parle-east_mumbai_restaurants-bars-pubs/134146475
+p119
+sg12
+VVile Parle East
+p120
+sg14
+(lp121
+V26102593
+p122
+aV 26151104
+p123
+aV 26179712
+p124
+asg19
+g82
+sg21
+VRao Apartments, Nehru Road, Vile Parle East, Mumbai
+p125
+sba(i__main__
+Place
+p126
+(dp127
+g3
+(lp128
+VRestaurants
+p129
+asg6
+g7
+sg8
+VJashan Bar & Restaurant
+p130
+sg10
+Vhttp://mumbai.burrp.com/listing/jashan-bar-restaurant_vile-parle-east_mumbai_restaurants/165491544
+p131
+sg12
+VVile Parle East
+p132
+sg14
+(lp133
+V40714000
+p134
+aV 40714025
+p135
+asg19
+g82
+sg21
+VJayshree Hotel\u000a, 197, Dayaldas Road, Vile Parle East, Mumbai
+p136
+sba(i__main__
+Place
+p137
+(dp138
+g3
+(lp139
+VRestaurants
+p140
+aV Bars & Pubs
+p141
+asg6
+g82
+sg8
+VMabruk
+p142
+sg10
+Vhttp://mumbai.burrp.com/listing/mabruk_vile-parle-east_mumbai_restaurants-bars-pubs/169806940
+p143
+sg12
+VVile Parle East
+p144
+sg14
+(lp145
+V39895000
+p146
+asg19
+g7
+sg21
+VLocated in Hotel Sahara Star , Vile Parle East, Mumbai
+p147
+sba(i__main__
+Place
+p148
+(dp149
+g3
+(lp150
+VRestaurants
+p151
+asg6
+g7
+sg8
+VGeeta Refreshments
+p152
+sg10
+Vhttp://mumbai.burrp.com/listing/geeta-refreshments_vile-parle-east_mumbai_restaurants/184925425
+p153
+sg12
+VVile Parle East
+p154
+sg14
+(lp155
+V26143826
+p156
+aV 66951100
+p157
+asg19
+V1
+p158
+sg21
+VTejpal Road, Vile Parle East, Mumbai
+p159
+sba(i__main__
+Place
+p160
+(dp161
+g3
+(lp162
+VRestaurants
+p163
+asg6
+g7
+sg8
+VSummer Harvest
+p164
+sg10
+Vhttp://mumbai.burrp.com/listing/summer-harvest_domestic-airport_mumbai_restaurants/179438930
+p165
+sg12
+VDomestic Airport
+p166
+sg14
+(lp167
+V26133266
+p168
+aV 26128990
+p169
+asg19
+g20
+sg21
+VSharda Bhuvan, Nanda Patkar Road, Domestic Airport, Vile Parle East, Mumbai
+p170
+sba(i__main__
+Place
+p171
+(dp172
+g3
+(lp173
+VRestaurants
+p174
+aV Bars & Pubs
+p175
+asg6
+g7
+sg8
+VAafrein
+p176
+sg10
+Vhttp://mumbai.burrp.com/listing/aafrein_vile-parle-east_mumbai_restaurants-bars-pubs/123838386
+p177
+sg12
+VVile Parle East
+p178
+sg14
+(lp179
+V39895000
+p180
+asg19
+g7
+sg21
+VLocated in Hotel Sahara Star , Vile Parle (E), Vile Parle East, Mumbai
+p181
+sba(i__main__
+Place
+p182
+(dp183
+g3
+(lp184
+VRestaurants
+p185
+asg6
+g20
+sg8
+VShiv Sagar
+p186
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-sagar_vile-parle-east_mumbai_restaurants/183367326
+p187
+sg12
+VVile Parle East
+p188
+sg14
+(lp189
+V26150399
+p190
+aV 26153258
+p191
+asg19
+g20
+sg21
+VDharam Prem Apt, Nehru Rd, Vile Parle East, Mumbai
+p192
+sba(i__main__
+Place
+p193
+(dp194
+g3
+(lp195
+VRestaurants
+p196
+asg6
+V5
+p197
+sg8
+VOcean The Pan Asian Restaurant
+p198
+sg10
+Vhttp://mumbai.burrp.com/listing/ocean-the-pan-asian-restaurant_vile-parle-east_mumbai_restaurants/1791482930
+p199
+sg12
+VVile Parle East
+p200
+sg14
+(lp201
+V39807444
+p202
+aV 39895000
+p203
+asg19
+g82
+sg21
+VSahara Star, Located in Hotel Sahara Star , Vile Parle East, Mumbai
+p204
+sba(i__main__
+Place
+p205
+(dp206
+g3
+(lp207
+VRestaurants
+p208
+asg6
+g82
+sg8
+VSuburban's Motie Mahall \u2013 NX
+p209
+sg10
+Vhttp://mumbai.burrp.com/listing/suburbans-motie-mahall-nx_vile-parle-east_mumbai_restaurants/18118358128
+p210
+sg12
+VVile Parle East
+p211
+sg14
+(lp212
+V9820596274
+p213
+asg19
+V0
+p214
+sg21
+VC/o Hotel Jayshree, 197 Dayaldas Road, Vile Parle East, Mumbai
+p215
+sba(i__main__
+Place
+p216
+(dp217
+g3
+(lp218
+VRestaurants
+p219
+asg6
+g7
+sg8
+VShabri
+p220
+sg10
+Vhttp://mumbai.burrp.com/listing/shabri_vile-parle-east_mumbai_restaurants/1773507732
+p221
+sg12
+VVile Parle East
+p222
+sg14
+(lp223
+V26177777
+p224
+aV 26178888
+p225
+asg19
+g20
+sg21
+V148, Nehru Road, Opp HDFC Bank, Vile Parle (E), Vile Parle East, Mumbai
+p226
+sba(i__main__
+Place
+p227
+(dp228
+g3
+(lp229
+VRestaurants
+p230
+aV Cafes
+p231
+asg6
+g82
+sg8
+VThe Coffee Shop
+p232
+sg10
+Vhttp://mumbai.burrp.com/listing/the-coffee-shop_domestic-airport_mumbai_restaurants-cafes/1675742
+p233
+sg12
+VDomestic Airport
+p234
+sg14
+(lp235
+V26156660
+p236
+asg19
+g214
+sg21
+VSahara Star Airport Hotel, Vile Parle (E), Santacruz Airport, Vile Parle (E), Domestic Airport, Vile Parle East, Mumbai
+p237
+sba(i__main__
+Place
+p238
+(dp239
+g3
+(lp240
+VRestaurants
+p241
+aV Bars & Pubs
+p242
+asg6
+g82
+sg8
+VMerlin's
+p243
+sg10
+Vhttp://mumbai.burrp.com/listing/merlins_vile-parle-east_mumbai_restaurants-bars-pubs/158148851
+p244
+sg12
+VVile Parle East
+p245
+sg14
+(lp246
+V26164040
+p247
+aV 26164000
+p248
+asg19
+g214
+sg21
+V70/C, Off Nehru Road, Vile Parle East, Mumbai
+p249
+sba(i__main__
+Place
+p250
+(dp251
+g3
+(lp252
+VRestaurants
+p253
+asg6
+g20
+sg8
+VCrunchy Munchy
+p254
+sg10
+Vhttp://mumbai.burrp.com/listing/crunchy-munchy_vile-parle-east_mumbai_restaurants/16368346
+p255
+sg12
+VVile Parle East
+p256
+sg14
+(lp257
+V26151552
+p258
+aV 26155135
+p259
+asg19
+g214
+sg21
+VBelow Hotel Parle International, Agrawal Market, Vile Parle (E), Vile Parle East, Mumbai
+p260
+sba(i__main__
+Place
+p261
+(dp262
+g3
+(lp263
+VRestaurants
+p264
+asg6
+g20
+sg8
+VRasoee
+p265
+sg10
+Vhttp://mumbai.burrp.com/listing/rasoee_vile-parle-east_mumbai_restaurants/185925524
+p266
+sg12
+VVile Parle East
+p267
+sg14
+(lp268
+V26135445
+p269
+asg19
+g82
+sg21
+V7, Pratik Avenue, Nehru Road, Vile Parle (E), Vile Parle East, Mumbai
+p270
+sba(i__main__
+Place
+p271
+(dp272
+g3
+(lp273
+VCafes
+p274
+aV Restaurants
+p275
+aV Fast Food Shops
+p276
+asg6
+g197
+sg8
+VGrub Station
+p277
+sg10
+Vhttp://mumbai.burrp.com/listing/grub-station_vile-parle-east_mumbai_cafes-restaurants-fast-food-shops/15122585158
+p278
+sg12
+VVile Parle East
+p279
+sg14
+(lp280
+V9820637416
+p281
+aV 9619606070
+p282
+asg19
+g20
+sg21
+VShop No. 2, Rama Nivas, Hanuman Road, Vile Parle East, Mumbai
+p283
+sba(i__main__
+Place
+p284
+(dp285
+g3
+(lp286
+VRestaurants
+p287
+asg6
+g7
+sg8
+VSouth Of Vindhyas
+p288
+sg10
+Vhttp://mumbai.burrp.com/listing/south-of-vindhyas_vile-parle-east_mumbai_restaurants/1331496376
+p289
+sg12
+VVile Parle East
+p290
+sg14
+(lp291
+V26164040
+p292
+asg19
+g82
+sg21
+V70/C, Off Nehru Road, Vile Parle East, Mumbai
+p293
+sba(i__main__
+Place
+p294
+(dp295
+g3
+(lp296
+VRestaurants
+p297
+asg6
+g7
+sg8
+VK K Punjab
+p298
+sg10
+Vhttp://mumbai.burrp.com/listing/k-k-punjab_vile-parle-east_mumbai_restaurants/1905399019
+p299
+sg12
+VVile Parle East
+p300
+sg14
+(lp301
+V26141941
+p302
+asg19
+g214
+sg21
+VNehru Road , Vile Parle (E), Vile Parle East, Mumbai
+p303
+sba(i__main__
+Place
+p304
+(dp305
+g3
+(lp306
+VRestaurants
+p307
+aV Bars & Pubs
+p308
+asg6
+g82
+sg8
+VAtithi Hotel
+p309
+sg10
+Vhttp://mumbai.burrp.com/listing/atithi-hotel_vile-parle-east_mumbai_restaurants-bars-pubs/180142029
+p310
+sg12
+VVile Parle East
+p311
+sg14
+(lp312
+V26187941
+p313
+aV 26187943
+p314
+aV 26116124
+p315
+aV 26116125
+p316
+asg19
+g214
+sg21
+V77 A & B, Nehru Road, Vile Parle (E), Vile Parle East, Mumbai
+p317
+sba(i__main__
+Place
+p318
+(dp319
+g3
+(lp320
+VRestaurants
+p321
+aV Bars & Pubs
+p322
+asg6
+g20
+sg8
+VFoodies Bar
+p323
+sg10
+Vhttp://mumbai.burrp.com/listing/foodies-bar_domestic-airport_mumbai_restaurants-bars-pubs/1205743089
+p324
+sg12
+VDomestic Airport
+p325
+sg14
+(lp326
+V26156296
+p327
+asg19
+g20
+sg21
+VTerminal 1A, Ground Floor, Arrival Plaza, Santacruz Airport, Vile Parle (E), Domestic Airport, Vile Parle East, Mumbai
+p328
+sba(i__main__
+Place
+p329
+(dp330
+g3
+(lp331
+VRestaurants
+p332
+asg6
+g20
+sg8
+VRama Krishna Hotel
+p333
+sg10
+Vhttp://mumbai.burrp.com/listing/rama-krishna-hotel_vile-parle-east_mumbai_restaurants/1145382495
+p334
+sg12
+VVile Parle East
+p335
+sg14
+(lp336
+V26177777
+p337
+asg19
+g20
+sg21
+VNehru Road, Vile Parle (E), Vile Parle East, Mumbai
+p338
+sba(i__main__
+Place
+p339
+(dp340
+g3
+(lp341
+VRestaurants
+p342
+asg6
+g158
+sg8
+VNimantran
+p343
+sg10
+Vhttp://mumbai.burrp.com/listing/nimantran_vile-parle-east_mumbai_restaurants/178132831
+p344
+sg12
+VVile Parle East
+p345
+sg14
+(lp346
+V26102122
+p347
+asg19
+g214
+sg21
+VQuality Inn Parle International, BN Agrawal Commercial Complex, Vile Parle (E), Vile Parle East, Mumbai
+p348
+sba(i__main__
+Place
+p349
+(dp350
+g3
+(lp351
+VFood-court Stalls
+p352
+aV Juice Parlours
+p353
+aV Ice-cream Parlours
+p354
+aV Fast Food Shops
+p355
+aV Dessert Shops
+p356
+aV Take Away Shops
+p357
+aV Restaurants
+p358
+asg6
+g214
+sg8
+VChit Chat, the Mini Food-Court
+p359
+sg10
+Vhttp://mumbai.burrp.com/listing/chit-chat-the-mini-food-court_nehru-road_mumbai_food-court-stalls-juice-parlours-ice-cream-parlours/1575431752
+p360
+sg12
+VNehru Road
+p361
+sg14
+(lp362
+V32255220
+p363
+aV 32255221
+p364
+aV 9029011520
+p365
+asg19
+g20
+sg21
+V16, Nand Prem, Ram Mandir Road, Parle Book Depot Lane, Nehru Road, Vile Parle East, Mumbai
+p366
+sba(i__main__
+Place
+p367
+(dp368
+g3
+(lp369
+VCafes
+p370
+aV Canteens
+p371
+aV Delicatessens
+p372
+aV Outdoor Caterers
+p373
+aV Fast Food Shops
+p374
+aV Food-court Stalls
+p375
+aV Restaurants
+p376
+aV Take Away Shops
+p377
+asg6
+g214
+sg8
+VCrepeteria
+p378
+sg10
+Vhttp://mumbai.burrp.com/listing/crepeteria_vile-parle-east_mumbai_cafes-canteens-delicatessens/1345690475
+p379
+sg12
+VVile Parle East
+p380
+sg14
+(lp381
+V32221372
+p382
+aV 9699301637
+p383
+aV 9833346462
+p384
+asg19
+g20
+sg21
+VDeparture Terminal 1B, Mumbai Domestic Airport, Vile Parle (E), Vile Parle East, Mumbai
+p385
+sba(i__main__
+Place
+p386
+(dp387
+g3
+(lp388
+VRestaurants
+p389
+asg6
+g214
+sg8
+VHotel Ram Krishna
+p390
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-ram-krishna_vile-parle-east_mumbai_restaurants/18918232920
+p391
+sg12
+VVile Parle East
+p392
+sg14
+(lp393
+V26141868
+p394
+aV 26124721
+p395
+asg19
+g20
+sg21
+V51-A, Tejpal Road, Vile Parle East, Mumbai
+p396
+sba(i__main__
+Place
+p397
+(dp398
+g3
+(lp399
+VRestaurants
+p400
+asg6
+g158
+sg8
+VSiachen Family Restaurant & Bar
+p401
+sg10
+Vhttp://mumbai.burrp.com/listing/siachen-family-restaurant-bar_vile-parle-east_mumbai_restaurants/1441326465
+p402
+sg12
+VVile Parle East
+p403
+sg14
+(lp404
+V26108705
+p405
+aV 26108704
+p406
+aV 32562953
+p407
+aV 9867586669
+p408
+asg19
+g214
+sg21
+V344, Nanda Patkar Road, Vile Parle (E), Vile Parle East, Mumbai
+p409
+sba(i__main__
+Place
+p410
+(dp411
+g3
+(lp412
+VRestaurants
+p413
+asg6
+g214
+sg8
+VCascade
+p414
+sg10
+Vhttp://mumbai.burrp.com/listing/cascade_domestic-airport_mumbai_restaurants/1841339425
+p415
+sg12
+VDomestic Airport
+p416
+sg14
+(lp417
+V26164040
+p418
+asg19
+g82
+sg21
+VThe Orchid, 70 C, Nehru Road, Santacruz Airport, Vile Parle (E), Domestic Airport, Vile Parle East, Mumbai
+p419
+sba(i__main__
+Place
+p420
+(dp421
+g3
+(lp422
+VRestaurants
+p423
+aV Bars & Pubs
+p424
+asg6
+g214
+sg8
+VPoornima Restaurant & Bar
+p425
+sg10
+Vhttp://mumbai.burrp.com/listing/poornima-restaurant-bar_vile-parle-east_mumbai_restaurants-bars-pubs/1201360089
+p426
+sg12
+VVile Parle East
+p427
+sg14
+(lp428
+V26148591
+p429
+asg19
+g20
+sg21
+VVasant Niwas Nehru Road, Vile Parle East, Mumbai
+p430
+sba(i__main__
+Place
+p431
+(dp432
+g3
+(lp433
+VRestaurants
+p434
+asg6
+g214
+sg8
+VRoyal Palatte
+p435
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-palatte_vile-parle-east_mumbai_restaurants/1411425168
+p436
+sg12
+VVile Parle East
+p437
+sg14
+(lp438
+V26113636
+p439
+asg19
+g20
+sg21
+VHotel Bawa International, Nehru Road, Vile Parle (E), Vile Parle East, Mumbai
+p440
+sba(i__main__
+Place
+p441
+(dp442
+g3
+(lp443
+VRestaurants
+p444
+asg6
+g214
+sg8
+VThe Whitewoods Restaurant
+p445
+sg10
+Vhttp://mumbai.burrp.com/listing/the-whitewoods-restaurant_vile-parle-east_mumbai_restaurants/1491434960
+p446
+sg12
+VVile Parle East
+p447
+sg14
+(lp448
+V67267000
+p449
+asg19
+g20
+sg21
+V75, Off Nehru Road, Next to the Domestic Airport, Vile Parle (E), Vile Parle East, Mumbai
+p450
+sba(i__main__
+Place
+p451
+(dp452
+g3
+(lp453
+VRestaurants
+p454
+asg6
+g214
+sg8
+VFlute
+p455
+sg10
+Vhttp://mumbai.burrp.com/listing/flute_vile-parle-east_mumbai_restaurants/1801483029
+p456
+sg12
+VVile Parle East
+p457
+sg14
+(lp458
+V39807444
+p459
+asg19
+g7
+sg21
+VLocated in Hotel Sahara Star , Vile Parle (E), Vile Parle East, Mumbai
+p460
+sba(i__main__
+Place
+p461
+(dp462
+g3
+(lp463
+VRestaurants
+p464
+asg6
+g214
+sg8
+VGolden Swan City Club
+p465
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-swan-city-club_vile-parle-east_mumbai_restaurants/1264429683
+p466
+sg12
+VVile Parle East
+p467
+sg14
+(lp468
+V26175004
+p469
+aV 26175044
+p470
+asg19
+g214
+sg21
+VPlot No. 110, Service Road, Vile Parle (E), Vile Parle East, Mumbai
+p471
+sba(i__main__
+Place
+p472
+(dp473
+g3
+(lp474
+VRestaurants
+p475
+asg6
+g214
+sg8
+VPurapur pur kolapur
+p476
+sg10
+Vhttp://mumbai.burrp.com/listing/purapur-pur-kolapur_vile-parle-east_mumbai_restaurants/1844525425
+p477
+sg12
+VVile Parle East
+p478
+sg14
+(lp479
+V26134569
+p480
+aV 26136181
+p481
+asg19
+g214
+sg21
+VShop No. 1 & 2 , Aditya Apartment, Parleswar Road , Vile Parle (E), Vile Parle East, Mumbai
+p482
+sba(i__main__
+Place
+p483
+(dp484
+g3
+(lp485
+VRestaurants
+p486
+asg6
+g214
+sg8
+VSunder Veg. Restaurant
+p487
+sg10
+Vhttp://mumbai.burrp.com/listing/sunder-veg-restaurant_vile-parle-east_mumbai_restaurants/1365402673
+p488
+sg12
+VVile Parle East
+p489
+sg14
+(lp490
+V26148370
+p491
+aV 26112213
+p492
+asg19
+g214
+sg21
+VM G Road, Vile Parle (E), Vile Parle East, Mumbai
+p493
+sba(i__main__
+Place
+p494
+(dp495
+g3
+(lp496
+VRestaurants
+p497
+aV Bars & Pubs
+p498
+asg6
+g214
+sg8
+VBharat Hindu Hotel
+p499
+sg10
+Vhttp://mumbai.burrp.com/listing/bharat-hindu-hotel_vile-parle-east_mumbai_restaurants-bars-pubs/1455403564
+p500
+sg12
+VVile Parle East
+p501
+sg14
+(lp502
+V26122820
+p503
+aV 26179738
+p504
+asg19
+g20
+sg21
+VJani Villa Estate, Nehru Road, Vile Parle East, Mumbai
+p505
+sba(i__main__
+Place
+p506
+(dp507
+g3
+(lp508
+VRestaurants
+p509
+asg6
+g214
+sg8
+VShree Balaji Pure Veg
+p510
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-balaji-pure-veg_vile-parle-east_mumbai_restaurants/1696377940
+p511
+sg12
+VVile Parle East
+p512
+sg14
+(lp513
+V26151552
+p514
+asg19
+g214
+sg21
+VNo 1, Agarwal Market, Vile Parle (E), Vile Parle East, Mumbai
+p515
+sba(i__main__
+Place
+p516
+(dp517
+g3
+(lp518
+VRestaurants
+p519
+asg6
+g214
+sg8
+VSaptak Restaurant
+p520
+sg10
+Vhttp://mumbai.burrp.com/listing/saptak-restaurant_domestic-airport_mumbai_restaurants/1919395118
+p521
+sg12
+VDomestic Airport
+p522
+sg14
+(lp523
+V26116124
+p524
+aV 26116125
+p525
+aV 26187941
+p526
+asg19
+g214
+sg21
+VC/O Atithi Hotel, 77 A And B Nehru Road, Near Domestic Airport, Domestic Airport, Vile Parle East, Mumbai
+p527
+sba(i__main__
+Place
+p528
+(dp529
+g3
+(lp530
+VRestaurants
+p531
+asg6
+g214
+sg8
+VHotel Shree Ganesh
+p532
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shree-ganesh_hanuman-road_mumbai_restaurants/1639995346
+p533
+sg12
+VHanuman Road
+p534
+sg14
+(lp535
+V26179683
+p536
+asg19
+g214
+sg21
+VShop No 1, Yadav Niwas, Hanuman Road, Vile Parle East, Mumbai
+p537
+sba(i__main__
+Place
+p538
+(dp539
+g3
+(lp540
+VRestaurants
+p541
+aV Hotels
+p542
+asg6
+g214
+sg8
+VAtithi Hotel
+p543
+sg10
+Vhttp://mumbai.burrp.com/listing/atithi-hotel_vile-parle-east_mumbai_restaurants-hotels/12313312386
+p544
+sg12
+VVile Parle East
+p545
+sg14
+(lp546
+V26116424
+p547
+aV 26130874
+p548
+aV 26130875
+p549
+aV 26187941
+p550
+asg19
+g214
+sg21
+VPlot No 77 A/B, Nehru Road, Adjacent To Santacruz Airport, Vile Parle East, Mumbai
+p551
+sba(i__main__
+Place
+p552
+(dp553
+g3
+(lp554
+VRestaurants
+p555
+aV Bars & Pubs
+p556
+asg6
+g214
+sg8
+VHotel Ramkrishna
+p557
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-ramkrishna_vile-parle-east_mumbai_restaurants-bars-pubs/11713320792
+p558
+sg12
+VVile Parle East
+p559
+sg14
+(lp560
+V26124721
+p561
+aV 26141868
+p562
+asg19
+g214
+sg21
+VRoad No 51/A, Tejpal Road , Vile Parle East, Mumbai
+p563
+sba(i__main__
+Place
+p564
+(dp565
+g3
+(lp566
+VRestaurants
+p567
+aV Bars & Pubs
+p568
+asg6
+g214
+sg8
+VHotel Shree Krishna
+p569
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shree-krishna_vile-parle-east_mumbai_restaurants-bars-pubs/12113321188
+p570
+sg12
+VVile Parle East
+p571
+sg14
+(lp572
+V26111266
+p573
+asg19
+g214
+sg21
+VJani Villa, Nehru Road, Vile Parle East, Mumbai
+p574
+sba(i__main__
+Place
+p575
+(dp576
+g3
+(lp577
+VRestaurants
+p578
+asg6
+g214
+sg8
+VSatkar Restaurant & Bar
+p579
+sg10
+Vhttp://mumbai.burrp.com/listing/satkar-restaurant-bar_vile-parle-east_mumbai_restaurants/16513334544
+p580
+sg12
+VVile Parle East
+p581
+sg14
+(lp582
+V26152755
+p583
+aV 26177119
+p584
+asg19
+g214
+sg21
+VPitale House, Hanuman Road, Vile Parle East, Mumbai
+p585
+sba(i__main__
+Place
+p586
+(dp587
+g3
+(lp588
+VRestaurants
+p589
+aV Bars & Pubs
+p590
+asg6
+g214
+sg8
+VShri Laxmi Tea House
+p591
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-laxmi-tea-house_vile-parle-east_mumbai_restaurants-bars-pubs/19513337514
+p592
+sg12
+VVile Parle East
+p593
+sg14
+(lp594
+V26710047
+p595
+asg19
+g214
+sg21
+VVishwakarma Baug, Bajaj Rd, Vile Parle East, Mumbai
+p596
+sba(i__main__
+Place
+p597
+(dp598
+g3
+(lp599
+VHotels
+p600
+aV Restaurants
+p601
+asg6
+g214
+sg8
+VHotel Ramakrishna
+p602
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-ramakrishna_vile-parle-east_mumbai_hotels-restaurants/19713346712
+p603
+sg12
+VVile Parle East
+p604
+sg14
+(lp605
+V26177777
+p606
+aV 26178888
+p607
+asg19
+g214
+sg21
+V148, Nehru Road, Vile Parle East, Mumbai
+p608
+sba(i__main__
+Place
+p609
+(dp610
+g3
+(lp611
+VBars & Pubs
+p612
+aV Restaurants
+p613
+asg6
+g214
+sg8
+VRaman Janeya
+p614
+sg10
+Vhttp://mumbai.burrp.com/listing/raman-janeya_vile-parle-east_mumbai_bars-pubs-restaurants/11313347396
+p615
+sg12
+VVile Parle East
+p616
+sg14
+(lp617
+V26183775
+p618
+asg19
+g214
+sg21
+VGround Floor, Javari Building, V P Road, Vile Parle East, Mumbai
+p619
+sba(i__main__
+Place
+p620
+(dp621
+g3
+(lp622
+VRestaurants
+p623
+aV Hotels
+p624
+asg6
+g214
+sg8
+VRoyal Palate Restaurant
+p625
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-palate-restaurant_vile-parle-east_mumbai_restaurants-hotels/14913350960
+p626
+sg12
+VVile Parle East
+p627
+sg14
+(lp628
+V26113636
+p629
+aV 26113856
+p630
+asg19
+g214
+sg21
+VC/O Bawa International Hotel, Nehru Road Extension, Vile Parle East, Mumbai
+p631
+sba(i__main__
+Place
+p632
+(dp633
+g3
+(lp634
+VRestaurants
+p635
+asg6
+g214
+sg8
+VAafrein Restaurant
+p636
+sg10
+Vhttp://mumbai.burrp.com/listing/aafrein-restaurant_vile-parle-east_mumbai_restaurants/13113358178
+p637
+sg12
+VVile Parle East
+p638
+sg14
+(lp639
+V39805000
+p640
+aV 39807444
+p641
+aV 39807174
+p642
+aV 39895000
+p643
+asg19
+g214
+sg21
+VSahara Star Hotel, Nehru Road, Vile Parle East, Mumbai
+p644
+sba(i__main__
+Place
+p645
+(dp646
+g3
+(lp647
+VRestaurants
+p648
+asg6
+g214
+sg8
+VShiv Leela Restaurant And Bar
+p649
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-leela-restaurant-and-bar_vile-parle-east_mumbai_restaurants/18513381524
+p650
+sg12
+VVile Parle East
+p651
+sg14
+(lp652
+V26160276
+p653
+aV 26192700
+p654
+asg19
+g214
+sg21
+VNarayan Nagar Society, Hanuman Road, Vile Parle East, Mumbai
+p655
+sba(i__main__
+Place
+p656
+(dp657
+g3
+(lp658
+VRestaurants
+p659
+asg6
+g214
+sg8
+VPritam Hotel
+p660
+sg10
+Vhttp://mumbai.burrp.com/listing/pritam-hotel_vile-parle-east_mumbai_restaurants/13313385376
+p661
+sg12
+VVile Parle East
+p662
+sg14
+(lp663
+V26187290
+p664
+aV 8898940444
+p665
+aV 8898941444
+p666
+asg19
+g214
+sg21
+VAgarwal Market, M G Road, Vile Parle East, Mumbai
+p667
+sba(i__main__
+Place
+p668
+(dp669
+g3
+(lp670
+VRestaurants
+p671
+asg6
+g214
+sg8
+VSantosh Hotel
+p672
+sg10
+Vhttp://mumbai.burrp.com/listing/santosh-hotel_vile-parle-east_mumbai_restaurants/15113387158
+p673
+sg12
+VVile Parle East
+p674
+sg14
+(lp675
+V26131765
+p676
+asg19
+g214
+sg21
+VVeereshwar Prakash CHS, Nehru Road, Vile Parle East, Mumbai
+p677
+sba(i__main__
+Place
+p678
+(dp679
+g3
+(lp680
+VRestaurants
+p681
+asg6
+g214
+sg8
+VShri Durga Restaurant And Bar
+p682
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-durga-restaurant-and-bar_vile-parle-east_mumbai_restaurants/16513388544
+p683
+sg12
+VVile Parle East
+p684
+sg14
+(lp685
+V26140061
+p686
+aV 9819619622
+p687
+asg19
+g214
+sg21
+VKamdar Shopping Centre, V S Road, Near Girnar Tea Shop, Vile Parle East, Mumbai
+p688
+sba(i__main__
+Place
+p689
+(dp690
+g3
+(lp691
+VRestaurants
+p692
+asg6
+g214
+sg8
+VSwiggs Bar
+p693
+sg10
+Vhttp://mumbai.burrp.com/listing/swiggs-bar_vile-parle-east_mumbai_restaurants/17513389534
+p694
+sg12
+VVile Parle East
+p695
+sg14
+(lp696
+V26102122
+p697
+asg19
+g214
+sg21
+VParle International Hotel, B N Agarwal Commercial Complex, Vile Parle East, Mumbai
+p698
+sba(i__main__
+Place
+p699
+(dp700
+g3
+(lp701
+VRestaurants
+p702
+aV Bars & Pubs
+p703
+asg6
+g214
+sg8
+VCampus Restaurant & Bar
+p704
+sg10
+Vhttp://mumbai.burrp.com/listing/campus-restaurant-bar_vile-parle-east_mumbai_restaurants-bars-pubs/17113398138
+p705
+sg12
+VVile Parle East
+p706
+sg14
+(lp707
+V26174642
+p708
+aV 26174649
+p709
+asg19
+g214
+sg21
+VSaroj Sdn, Nehru Road, Vile Parle East, Mumbai
+p710
+sba(i__main__
+Place
+p711
+(dp712
+g3
+(lp713
+VRestaurants
+p714
+asg6
+g214
+sg8
+VHigh Stake Lounge Bar
+p715
+sg10
+Vhttp://mumbai.burrp.com/listing/high-stake-lounge-bar_vile-parle-east_mumbai_restaurants/11713401792
+p716
+sg12
+VVile Parle East
+p717
+sg14
+(lp718
+V26113636
+p719
+aV 26113771
+p720
+aV 26113856
+p721
+asg19
+g214
+sg21
+VC/O Bawa International Hotel, Nehru Road Extension, Opposite Orchid Hotel, Vile Parle East, Mumbai
+p722
+sba(i__main__
+Place
+p723
+(dp724
+g3
+(lp725
+VRestaurants
+p726
+asg6
+g214
+sg8
+VVithal Kamats Original Family Restaurant
+p727
+sg10
+Vhttp://mumbai.burrp.com/listing/vithal-kamats-original-family-restaurant_vile-parle-east_mumbai_restaurants/14713404762
+p728
+sg12
+VVile Parle East
+p729
+sg14
+(lp730
+V26164000
+p731
+aV 9004054050
+p732
+aV 9987573875
+p733
+asg19
+g214
+sg21
+VPlot No 70/C, Khil House, Nehru Road, Vile Parle East, Mumbai
+p734
+sba(i__main__
+Place
+p735
+(dp736
+g3
+(lp737
+VRestaurants
+p738
+asg6
+g214
+sg8
+VPoornima Restaurant & Bar
+p739
+sg10
+Vhttp://mumbai.burrp.com/listing/poornima-restaurant-bar_vile-parle-east_mumbai_restaurants/11713410792
+p740
+sg12
+VVile Parle East
+p741
+sg14
+(lp742
+V26148591
+p743
+asg19
+g214
+sg21
+VVasant Nivas, Nehru Road, Vile Parle East, Mumbai
+p744
+sba.

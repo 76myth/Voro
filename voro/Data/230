@@ -1,0 +1,413 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VBarbeque Nation
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/barbeque-nation_nerul-west_navi-mumbai_restaurants/1716909138
+p11
+sS'region'
+p12
+VNerul West
+p13
+sS'phone'
+p14
+(lp15
+V65934343
+p16
+aV 60600000
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VFirst Floor, Plot No.20, Beverley Park, Sector 6, Palm Beach Road, Nerul West, Navi Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V3
+p26
+sg8
+VBangali Mashi's Kitchen
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/bangali-mashis-kitchen_nerul-west_navi-mumbai_restaurants/189826920
+p28
+sg12
+VNerul West
+p29
+sg14
+(lp30
+V9987073114
+p31
+aV 9987073113
+p32
+aV 27706900
+p33
+asg18
+V2
+p34
+sg20
+VShop No.48, Shreeji Heights (Akshar), Sector 46/A, Seawoods, Off Palm Beach Road, Nerul West, Navi Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+g34
+sg8
+VBombay High
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/bombay-high_nerul-west_navi-mumbai_restaurants/1281324881
+p41
+sg12
+VNerul West
+p42
+sg14
+(lp43
+V32488182
+p44
+aV 32488183
+p45
+asg18
+g26
+sg20
+VBaba Heritage Sector 44, Off Palm Beach Road, Nerul West, Navi Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g34
+sg8
+VShanghai Family Restaurant
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/shanghai-family-restaurant_nerul-west_navi-mumbai_restaurants/1637016346
+p52
+sg12
+VNerul West
+p53
+sg14
+(lp54
+V27722256
+p55
+aV 65212499
+p56
+aV 7738196944
+p57
+asg18
+g34
+sg20
+VShop No.15/16, Plot No.35/36, Sector 42/A, Seawood (w), Nerul (W), Nerul West, Navi Mumbai
+p58
+sba(i__main__
+Place
+p59
+(dp60
+g3
+(lp61
+VRestaurants
+p62
+asg6
+V5
+p63
+sg8
+VIndian Spice Restaurant
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/indian-spice-restaurant_nerul-west_navi-mumbai_restaurants/18713822722
+p65
+sg12
+VNerul West
+p66
+sg14
+(lp67
+V27714444
+p68
+aV 27719922
+p69
+asg18
+g19
+sg20
+VNeighborhood Shopping Complex, Sector 4, Nerul West, Navi Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+asg6
+g19
+sg8
+VDada Boudir
+p75
+sg10
+Vhttp://mumbai.burrp.com/listing/dada-boudir_nerul-west_navi-mumbai_restaurants/19922499910
+p76
+sg12
+VNerul West
+p77
+sg14
+(lp78
+V27727500
+p79
+asg18
+g19
+sg20
+VShop No. 8 & 9, Ramtirth CHS, Sector-44A, Seawoods, Nerul West, Navi Mumbai
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VFast Food Shops
+p84
+aV Restaurants
+p85
+asg6
+g19
+sg8
+VPooja Food & Chinese Corner
+p86
+sg10
+Vhttp://mumbai.burrp.com/listing/pooja-food-chinese-corner_nerul-west_navi-mumbai_fast-food-shops-restaurants/14123763168
+p87
+sg12
+VNerul West
+p88
+sg14
+(lp89
+V65133141
+p90
+asg18
+g34
+sg20
+VSatnam Niwas, Plot No C/8, Shop No 3/4, Sector-20, Nerul West, Navi Mumbai
+p91
+sba(i__main__
+Place
+p92
+(dp93
+g3
+(lp94
+VRestaurants
+p95
+asg6
+g19
+sg8
+VMalwani Kinara
+p96
+sg10
+Vhttp://mumbai.burrp.com/listing/malwani-kinara_nerul-west_navi-mumbai_restaurants/1315942178
+p97
+sg12
+VNerul West
+p98
+sg14
+(lp99
+V8108222242
+p100
+aV 9820465424
+p101
+aV 2770501
+p102
+aV 2770502
+p103
+asg18
+g19
+sg20
+VSec. No.36, Karve Gaon, Nerul (W), Nerul West, Navi Mumbai
+p104
+sba(i__main__
+Place
+p105
+(dp106
+g3
+(lp107
+VRestaurants
+p108
+asg6
+g19
+sg8
+VChina Gate
+p109
+sg10
+Vhttp://mumbai.burrp.com/listing/china-gate_nerul-west_navi-mumbai_restaurants/1956389514
+p110
+sg12
+VNerul West
+p111
+sg14
+(lp112
+V9967301050
+p113
+asg18
+g34
+sg20
+VShop No. 3, Plot No. 396/417, Sai Ganesh Appartments, Palm Beach Road, Sector -6, Nerul (W), Nerul West, Navi Mumbai
+p114
+sba(i__main__
+Place
+p115
+(dp116
+g3
+(lp117
+VOutdoor Caterers
+p118
+aV Restaurants
+p119
+asg6
+g19
+sg8
+VShree Mejwani
+p120
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-mejwani_nerul-west_navi-mumbai_outdoor-caterers-restaurants/1577015752
+p121
+sg12
+VNerul West
+p122
+sg14
+(lp123
+V64114146
+p124
+aV 69941095
+p125
+aV 9920072219
+p126
+asg18
+g34
+sg20
+VB-11, Amrita Sadan, Plot No. 13/14, Ground Floor, Sector No. 22, Nerul West, Navi Mumbai
+p127
+sba(i__main__
+Place
+p128
+(dp129
+g3
+(lp130
+VRestaurants
+p131
+asg6
+g19
+sg8
+VHotel Prakash
+p132
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-prakash_nerul-west_navi-mumbai_restaurants/1817054128
+p133
+sg12
+VNerul West
+p134
+sg14
+(lp135
+V9819157642
+p136
+aV 9892855139
+p137
+asg18
+g19
+sg20
+VSai Siddhi Market, Sector 16 A, Nerul (W), Nerul West, Navi Mumbai
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VRestaurants
+p142
+asg6
+g19
+sg8
+VTandoori Nights Restaurant
+p143
+sg10
+Vhttp://mumbai.burrp.com/listing/tandoori-nights-restaurant_seawood-west_navi-mumbai_restaurants/18513867524
+p144
+sg12
+VSeawood West
+p145
+sg14
+(lp146
+V32000007
+p147
+asg18
+g19
+sg20
+VFlat No 16, Neel Kanth Apartment, Plot No 31, Sector No 42/A, Near Shreesha Hospital Bus Stop, Seawood West, Nerul West, Navi Mumbai
+p148
+sba(i__main__
+Place
+p149
+(dp150
+g3
+(lp151
+VOutdoor Caterers
+p152
+aV Restaurants
+p153
+asg6
+g19
+sg8
+VFusion Spice
+p154
+sg10
+Vhttp://mumbai.burrp.com/listing/fusion-spice_nerul-west_navi-mumbai_outdoor-caterers-restaurants/15523017554
+p155
+sg12
+VNerul West
+p156
+sg14
+(lp157
+V65907576
+p158
+aV 9867312356
+p159
+asg18
+g34
+sg20
+VPlot No. 26, Shop No. 67, Shelter Arcade , Sector 42, Seawood, Nerul West, Navi Mumbai
+p160
+sba.

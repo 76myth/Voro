@@ -1,0 +1,43 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VDessert Shops
+p5
+aV Restaurants
+p6
+aV Cafes
+p7
+asS'rating'
+p8
+V0
+p9
+sS'name'
+p10
+VPool Deck
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/pool-deck_dr-e-moses-road-worli_mumbai_dessert-shops-restaurants-cafes/1759402534
+p13
+sS'region'
+p14
+VDr E Moses Road-Worli
+p15
+sS'phone'
+p16
+(lp17
+V24818000
+p18
+asS'cost'
+p19
+g9
+sS'addr'
+p20
+VC/O, Four Seasons Hotel, 114, Dr E Moses Road, Dr E Moses Road-Worli, Worli, Mumbai
+p21
+sba.

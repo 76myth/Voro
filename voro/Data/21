@@ -1,0 +1,4160 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VGlobal Fusion
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/global-fusion_linking-road_mumbai_restaurants/1351208574
+p11
+sS'region'
+p12
+VLinking Road
+p13
+sS'phone'
+p14
+(lp15
+V26469002
+p16
+aV 26469001
+p17
+aV 26469111
+p18
+aV 26469222
+p19
+asS'cost'
+p20
+V3
+p21
+sS'addr'
+p22
+VFood Court, Link Square Mall, 3rd Floor, Linking Road, Bandra West, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg6
+g7
+sg8
+VMasalazone Bar & Kitchen
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/masalazone-bar-kitchen_bandra-reclamation_mumbai_restaurants/1831519326
+p29
+sg12
+VBandra Reclamation
+p30
+sg14
+(lp31
+V26452031
+p32
+aV 26439239
+p33
+aV 9820403111
+p34
+asg20
+V2
+p35
+sg22
+V21-B, Santhal ONGC Complex, Opposite Leelavati Hosptial, Bandra Reclamation, Bandra West, Mumbai
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VRestaurants
+p40
+asg6
+g7
+sg8
+VGostana
+p41
+sg10
+Vhttp://mumbai.burrp.com/listing/gostana_pali-naka_mumbai_restaurants/1663227643
+p42
+sg12
+VPali Naka
+p43
+sg14
+(lp44
+V64533359
+p45
+asg20
+g35
+sg22
+VFatima Villa, 29th Road, Bandra (W), Pali Naka, Bandra West, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+aV Outdoor Caterers
+p51
+asg6
+g7
+sg8
+VMunchkins Thai Ban
+p52
+sg10
+Vhttp://mumbai.burrp.com/listing/munchkins-thai-ban_bandra-west_mumbai_restaurants-outdoor-caterers/1645445
+p53
+sg12
+VBandra West
+p54
+sg14
+(lp55
+V26459775
+p56
+aV 26458176
+p57
+aV 9769091725
+p58
+asg20
+g35
+sg22
+VShop No 8/9, Gaspar Enclave, Junction of St. Johns & Pali Road, Pali Naka, Bandra West, Mumbai
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg6
+g7
+sg8
+VRay's Cafe & Pizzeria
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/rays-cafe-pizzeria_hill-road_mumbai_restaurants/1925039217
+p65
+sg12
+VHill Road
+p66
+sg14
+(lp67
+V26451414
+p68
+aV 26451616
+p69
+asg20
+g35
+sg22
+V133, Gazebo House, Hill Road, Bandra West, Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+aV Cafes
+p75
+asg6
+g7
+sg8
+VQuench
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/quench_bandra-reclamation_mumbai_restaurants-cafes/1605234049
+p77
+sg12
+VBandra Reclamation
+p78
+sg14
+(lp79
+V26400511
+p80
+asg20
+g35
+sg22
+VBandra Reclamation, Bandra West, Mumbai
+p81
+sba(i__main__
+Place
+p82
+(dp83
+g3
+(lp84
+VRestaurants
+p85
+asg6
+g7
+sg8
+VMainland China
+p86
+sg10
+Vhttp://mumbai.burrp.com/listing/mainland-china_linking-road_mumbai_restaurants/1114527198
+p87
+sg12
+VLinking Road
+p88
+sg14
+(lp89
+V32658852
+p90
+aV 32467902
+p91
+asg20
+g21
+sg22
+V6th Floor, Suburbia, Bandra (W), Linking Road, Bandra West, Mumbai
+p92
+sba(i__main__
+Place
+p93
+(dp94
+g3
+(lp95
+VRestaurants
+p96
+asg6
+g7
+sg8
+VChez Moi
+p97
+sg10
+Vhttp://mumbai.burrp.com/listing/chez-moi_bandra-reclamation_mumbai_restaurants/1316239178
+p98
+sg12
+VBandra Reclamation
+p99
+sg14
+(lp100
+V7738382407
+p101
+asg20
+g21
+sg22
+VHouse No.13, Candies Lane, Bandra Reclamation, Bandra West, Mumbai
+p102
+sba(i__main__
+Place
+p103
+(dp104
+g3
+(lp105
+VRestaurants
+p106
+asg6
+g21
+sg8
+V5 Spice
+p107
+sg10
+Vhttp://mumbai.burrp.com/listing/5-spice_bandra-west_mumbai_restaurants/13174178
+p108
+sg12
+VBandra West
+p109
+sg14
+(lp110
+V26421941
+p111
+aV 26421943
+p112
+aV 26421949
+p113
+aV 26421952
+p114
+asg20
+g35
+sg22
+V3/4, Dheeraj Pali Arcade, Dr Ambedkar Road, Pali Naka, Bandra (W), Bandra West, Mumbai
+p115
+sba(i__main__
+Place
+p116
+(dp117
+g3
+(lp118
+VRestaurants
+p119
+aV Bars & Pubs
+p120
+asg6
+g7
+sg8
+VSpice Tree Restaurant 
+p121
+sg10
+Vhttp://mumbai.burrp.com/listing/spice-tree-restaurant-_hill-road_mumbai_restaurants-bars-pubs/15658653
+p122
+sg12
+VHill Road
+p123
+sg14
+(lp124
+V26405053
+p125
+aV 26405161
+p126
+aV 26424308
+p127
+asg20
+g21
+sg22
+VFernandes Villa, 95 Hill Road, Hill Road, Bandra West, Mumbai
+p128
+sba(i__main__
+Place
+p129
+(dp130
+g3
+(lp131
+VCafes
+p132
+aV Restaurants
+p133
+asg6
+g7
+sg8
+VThe Coffee Bean & Tea Leaf
+p134
+sg10
+Vhttp://mumbai.burrp.com/listing/the-coffee-bean-tea-leaf_linking-road_mumbai_cafes-restaurants/1204987089
+p135
+sg12
+VLinking Road
+p136
+sg14
+(lp137
+V67424248
+p138
+asg20
+g21
+sg22
+VBlue Heaven, Linking Road, Bandra West, Mumbai
+p139
+sba(i__main__
+Place
+p140
+(dp141
+g3
+(lp142
+VRestaurants
+p143
+asg6
+g7
+sg8
+VRoyal China
+p144
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-china_turner-road_mumbai_restaurants/112162297
+p145
+sg12
+VTurner Road
+p146
+sg14
+(lp147
+V26425533
+p148
+aV 26425111
+p149
+aV 67049553
+p150
+aV 67049555
+p151
+asg20
+V0
+p152
+sg22
+V192, Turner Road, Bandra West, Mumbai
+p153
+sba(i__main__
+Place
+p154
+(dp155
+g3
+(lp156
+VRestaurants
+p157
+asg6
+g7
+sg8
+VLemon Grass
+p158
+sg10
+Vhttp://mumbai.burrp.com/listing/lemon-grass_turner-road_mumbai_restaurants/1165112693
+p159
+sg12
+VTurner Road
+p160
+sg14
+(lp161
+V26429193
+p162
+aV 26511217
+p163
+aV 26551291
+p164
+aV 32209193
+p165
+asg20
+g35
+sg22
+VCarlton Court, Junction of Turner Road and Pali Hill, Turner Road, Bandra West, Mumbai
+p166
+sba(i__main__
+Place
+p167
+(dp168
+g3
+(lp169
+VRestaurants
+p170
+aV Cafes
+p171
+aV Delicatessens
+p172
+asg6
+g21
+sg8
+VSalt Water Cafe
+p173
+sg10
+Vhttp://mumbai.burrp.com/listing/salt-water-cafe_bandra-reclamation_mumbai_restaurants-cafes-delicatessens/1151314594
+p174
+sg12
+VBandra Reclamation
+p175
+sg14
+(lp176
+V26434441
+p177
+aV 32710520
+p178
+asg20
+g21
+sg22
+VRose Minar Annexe, 87, Chapel Road, Next to Mount Carmel Church, Bandra Reclamation, Bandra West, Mumbai
+p179
+sba(i__main__
+Place
+p180
+(dp181
+g3
+(lp182
+VRestaurants
+p183
+aV Dessert Shops
+p184
+aV Take Away Shops
+p185
+aV Fast Food Shops
+p186
+aV Cafes
+p187
+aV Health Markets
+p188
+asg6
+g7
+sg8
+VOn The Go
+p189
+sg10
+Vhttp://mumbai.burrp.com/listing/on-the-go_bandra-west_mumbai_restaurants-dessert-shops-take-away-shops/12118676188
+p190
+sg12
+VBandra West
+p191
+sg14
+(lp192
+V65345999
+p193
+aV 7738230777
+p194
+aV 7738230999
+p195
+asg20
+g35
+sg22
+V1, Gloria Building, St. John Baptist Road, Mt. Mary Steps , Bandra West, Mumbai
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VRestaurants
+p200
+asg6
+g7
+sg8
+VCandies
+p201
+sg10
+Vhttp://mumbai.burrp.com/listing/candies_bandra-west_mumbai_restaurants/12937980
+p202
+sg12
+VBandra West
+p203
+sg14
+(lp204
+V26423512
+p205
+aV 26423513
+p206
+asg20
+V1
+p207
+sg22
+VONGC Complex, Bandra West, Mumbai
+p208
+sba(i__main__
+Place
+p209
+(dp210
+g3
+(lp211
+VBars & Pubs
+p212
+aV Lounges
+p213
+aV Restaurants
+p214
+asg6
+g21
+sg8
+VRed Box Café
+p215
+sg10
+Vhttp://mumbai.burrp.com/listing/red-box-cafe_waterfield-road_mumbai_bars-pubs-lounges-restaurants/13711772
+p216
+sg12
+VWaterfield Road
+p217
+sg14
+(lp218
+V26452600
+p219
+aV 26402256
+p220
+aV 26432570
+p221
+aV 26453581
+p222
+asg20
+g21
+sg22
+V155, Waterfield Road, Bandra West, Mumbai
+p223
+sba(i__main__
+Place
+p224
+(dp225
+g3
+(lp226
+VRestaurants
+p227
+asg6
+g21
+sg8
+VEat Around The Corner
+p228
+sg10
+Vhttp://mumbai.burrp.com/listing/eat-around-the-corner_bandra-west_mumbai_restaurants/172123237
+p229
+sg12
+VBandra West
+p230
+sg14
+(lp231
+V26006717
+p232
+aV 26002665
+p233
+aV 26006637
+p234
+asg20
+g35
+sg22
+VGround Floor, 110 Cyrus House, Junction of 24th and 30th Road, TPS III, Bandra West, Mumbai
+p235
+sba(i__main__
+Place
+p236
+(dp237
+g3
+(lp238
+VRestaurants
+p239
+asg6
+g7
+sg8
+VThe Urban Kitchen (TUK)
+p240
+sg10
+Vhttp://mumbai.burrp.com/listing/the-urban-kitchen-tuk_linking-road_mumbai_restaurants/14722674762
+p241
+sg12
+VLinking Road
+p242
+sg14
+(lp243
+V65371234
+p244
+asg20
+g35
+sg22
+VMangal Kunj Building, B Wing, Shop No. 2, Linking Road, Bandra West, Mumbai
+p245
+sba(i__main__
+Place
+p246
+(dp247
+g3
+(lp248
+VRestaurants
+p249
+asg6
+g21
+sg8
+VMia Cucina
+p250
+sg10
+Vhttp://mumbai.burrp.com/listing/mia-cucina_bandra-west_mumbai_restaurants/124757485
+p251
+sg12
+VBandra West
+p252
+sg14
+(lp253
+V66710158
+p254
+aV 66710159
+p255
+aV 67104000
+p256
+asg20
+g35
+sg22
+VShop No.16/17, Gasper Enclave, Bandra West, Mumbai
+p257
+sba(i__main__
+Place
+p258
+(dp259
+g3
+(lp260
+VRestaurants
+p261
+asg6
+g7
+sg8
+VSubway
+p262
+sg10
+Vhttp://mumbai.burrp.com/listing/subway_waterfield-road_mumbai_restaurants/16559544
+p263
+sg12
+VWaterfield Road
+p264
+sg14
+(lp265
+V26426879
+p266
+aV 26433897
+p267
+asg20
+g35
+sg22
+V248, Opposite National College, Off Linking Road, Bandra (W), Waterfield Road, Bandra West, Mumbai
+p268
+sba(i__main__
+Place
+p269
+(dp270
+g3
+(lp271
+VLounges
+p272
+aV Restaurants
+p273
+asg6
+g21
+sg8
+VBungalow 9
+p274
+sg10
+Vhttp://mumbai.burrp.com/listing/bungalow-9_bandra-west_mumbai_lounges-restaurants/1756117534
+p275
+sg12
+VBandra West
+p276
+sg14
+(lp277
+V61179999
+p278
+aV 8097809999
+p279
+asg20
+g21
+sg22
+V9, St. John Baptist Road, Towards Mount Mary Steps, Bandra West, Mumbai
+p280
+sba(i__main__
+Place
+p281
+(dp282
+g3
+(lp283
+VRestaurants
+p284
+asg6
+g21
+sg8
+VPali Village Cafe
+p285
+sg10
+Vhttp://mumbai.burrp.com/listing/pali-village-cafe_pali-naka_mumbai_restaurants/1645306445
+p286
+sg12
+VPali Naka
+p287
+sg14
+(lp288
+V26050401
+p289
+aV 26050402
+p290
+asg20
+g21
+sg22
+VPlot No.602, Ambedakar Road, Pali Naka, Bandra West, Mumbai
+p291
+sba(i__main__
+Place
+p292
+(dp293
+g3
+(lp294
+VBars & Pubs
+p295
+aV Restaurants
+p296
+asg6
+g7
+sg8
+VJanata Lunch Home Restaurant & Bar
+p297
+sg10
+Vhttp://mumbai.burrp.com/listing/janata-lunch-home-restaurant-bar_bandra-west_mumbai_bars-pubs-restaurants/146147663
+p298
+sg12
+VBandra West
+p299
+sg14
+(lp300
+V26005180
+p301
+aV 32515596
+p302
+aV 26004049
+p303
+asg20
+g207
+sg22
+V78 A, Dr Ambedkar Road, Pali Naka, Bandra West, Mumbai
+p304
+sba(i__main__
+Place
+p305
+(dp306
+g3
+(lp307
+VRestaurants
+p308
+asg6
+g21
+sg8
+VPebble Bay
+p309
+sg10
+Vhttp://mumbai.burrp.com/listing/pebble-bay_turner-road_mumbai_restaurants/1484953861
+p310
+sg12
+VTurner Road
+p311
+sg14
+(lp312
+V26425063
+p313
+aV 26425056
+p314
+asg20
+g35
+sg22
+V11/1, Kalpak Corner, Junction of SV & Linking Road, Bandra (W), Turner Road, Bandra West, Mumbai
+p315
+sba(i__main__
+Place
+p316
+(dp317
+g3
+(lp318
+VRestaurants
+p319
+asg6
+g7
+sg8
+VMogul Sarai
+p320
+sg10
+Vhttp://mumbai.burrp.com/listing/mogul-sarai_bandra-west_mumbai_restaurants/162734247
+p321
+sg12
+VBandra West
+p322
+sg14
+(lp323
+V26406262
+p324
+asg20
+g35
+sg22
+VNext to Bandra Bus Depot, Bandra (W), Bandra West, Mumbai
+p325
+sba(i__main__
+Place
+p326
+(dp327
+g3
+(lp328
+VRestaurants
+p329
+aV Cafes
+p330
+asg6
+g21
+sg8
+VCafé Basilico Bistro & Deli
+p331
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-basilico-bistro-deli_pali-naka_mumbai_restaurants-cafes/15213257
+p332
+sg12
+VPali Naka
+p333
+sg14
+(lp334
+V67039999
+p335
+aV 67100000
+p336
+asg20
+g21
+sg22
+VShop No 7, Gasper Enclave, St. John Road, Pali Naka, Bandra West, Mumbai
+p337
+sba(i__main__
+Place
+p338
+(dp339
+g3
+(lp340
+VRestaurants
+p341
+asg6
+g7
+sg8
+VOriental Palate
+p342
+sg10
+Vhttp://mumbai.burrp.com/listing/oriental-palate_hill-road_mumbai_restaurants/1435385366
+p343
+sg12
+VHill Road
+p344
+sg14
+(lp345
+V26431234
+p346
+aV 26431235
+p347
+asg20
+g35
+sg22
+VHotel Metro Palace, 355, Hill Road, Bandra West, Mumbai
+p348
+sba(i__main__
+Place
+p349
+(dp350
+g3
+(lp351
+VRestaurants
+p352
+asg6
+g21
+sg8
+VSheesha
+p353
+sg10
+Vhttp://mumbai.burrp.com/listing/sheesha_bandra-west_mumbai_restaurants/1302079
+p354
+sg12
+VBandra West
+p355
+sg14
+(lp356
+V66770555
+p357
+aV 66770666
+p358
+asg20
+g21
+sg22
+VRoof Top, Shopper's Stop, Linking Road, Bandra (W), Bandra West, Mumbai
+p359
+sba(i__main__
+Place
+p360
+(dp361
+g3
+(lp362
+VRestaurants
+p363
+asg6
+g21
+sg8
+VDa Vinci
+p364
+sg10
+Vhttp://mumbai.burrp.com/listing/da-vinci_bandra-west_mumbai_restaurants/153247356
+p365
+sg12
+VBandra West
+p366
+sg14
+(lp367
+V32486033
+p368
+asg20
+g35
+sg22
+VFatima Building, 29th Road, Off Pali Naka, Bandra (W), Bandra West, Mumbai
+p369
+sba(i__main__
+Place
+p370
+(dp371
+g3
+(lp372
+VRestaurants
+p373
+asg6
+g21
+sg8
+VChina Gate
+p374
+sg10
+Vhttp://mumbai.burrp.com/listing/china-gate_waterfield-road_mumbai_restaurants/134110475
+p375
+sg12
+VWaterfield Road
+p376
+sg14
+(lp377
+V26432570
+p378
+aV 26453581
+p379
+aV 26452600
+p380
+aV 26459711
+p381
+asg20
+g35
+sg22
+V155, Golden Orchid, Waterfield Road, Bandra West, Mumbai
+p382
+sba(i__main__
+Place
+p383
+(dp384
+g3
+(lp385
+VOutdoor Caterers
+p386
+aV Ice-cream Parlours
+p387
+aV Fast Food Shops
+p388
+aV Restaurants
+p389
+aV Juice Parlours
+p390
+asg6
+g21
+sg8
+VElco Restaurant & Catering Services
+p391
+sg10
+Vhttp://mumbai.burrp.com/listing/elco-restaurant-catering-services_hill-road_mumbai_outdoor-caterers-ice-cream-parlours-fast-food-shops/170114039
+p392
+sg12
+VHill Road
+p393
+sg14
+(lp394
+V65877171
+p395
+aV 26457677
+p396
+aV 26437206
+p397
+asg20
+g35
+sg22
+V2/A  Elco Arcade, 46 Hill Road, Bandra (W), Hill Road, Bandra West, Mumbai
+p398
+sba(i__main__
+Place
+p399
+(dp400
+g3
+(lp401
+VHotels
+p402
+aV Outdoor Caterers
+p403
+aV Restaurants
+p404
+asg6
+g21
+sg8
+VLucky 
+p405
+sg10
+Vhttp://mumbai.burrp.com/listing/lucky-_bandra-west_mumbai_hotels-outdoor-caterers-restaurants/111126198
+p406
+sg12
+VBandra West
+p407
+sg14
+(lp408
+V26442973
+p409
+aV 66843311
+p410
+aV 26516019
+p411
+asg20
+g35
+sg22
+VJn. of Station Road and SV Road, Bandra (W), Bandra West, Mumbai
+p412
+sba(i__main__
+Place
+p413
+(dp414
+g3
+(lp415
+VCafes
+p416
+aV Dessert Shops
+p417
+aV Take Away Shops
+p418
+aV Fast Food Shops
+p419
+aV Restaurants
+p420
+asg6
+g7
+sg8
+VPronto
+p421
+sg10
+Vhttp://mumbai.burrp.com/listing/pronto_hill-road_mumbai_cafes-dessert-shops-take-away-shops/1195382990
+p422
+sg12
+VHill Road
+p423
+sg14
+(lp424
+V26412651
+p425
+aV 26412661
+p426
+aV 64555101
+p427
+asg20
+g152
+sg22
+VShams Palace, 98 Hill Road, Hill Road, Bandra West, Mumbai
+p428
+sba(i__main__
+Place
+p429
+(dp430
+g3
+(lp431
+VRestaurants
+p432
+asg6
+g7
+sg8
+VGondola
+p433
+sg10
+Vhttp://mumbai.burrp.com/listing/gondola_pali-naka_mumbai_restaurants/12910980
+p434
+sg12
+VPali Naka
+p435
+sg14
+(lp436
+V26040046
+p437
+aV 26040294
+p438
+aV 65552152
+p439
+aV 26055826
+p440
+asg20
+g21
+sg22
+V4 Silver Croft, Pali Mala Road, Opposite Pali Market, Pali Naka, Bandra West, Mumbai
+p441
+sba(i__main__
+Place
+p442
+(dp443
+g3
+(lp444
+VRestaurants
+p445
+asg6
+g7
+sg8
+VMaroosh
+p446
+sg10
+Vhttp://mumbai.burrp.com/listing/maroosh_carter-road_mumbai_restaurants/132938277
+p447
+sg12
+VCarter Road
+p448
+sg14
+(lp449
+V26005584
+p450
+asg20
+g35
+sg22
+VA/6, Gagangiri Apartment, Bandra (W), Carter Road, Bandra West, Mumbai
+p451
+sba(i__main__
+Place
+p452
+(dp453
+g3
+(lp454
+VRestaurants
+p455
+asg6
+g21
+sg8
+VYellow Tree Cafe
+p456
+sg10
+Vhttp://mumbai.burrp.com/listing/yellow-tree-cafe_bandra-west_mumbai_restaurants/1374214772
+p457
+sg12
+VBandra West
+p458
+sg14
+(lp459
+V26487800
+p460
+aV 65287800
+p461
+asg20
+g35
+sg22
+V33, Ambedkar Road junction, Bandra West, Mumbai
+p462
+sba(i__main__
+Place
+p463
+(dp464
+g3
+(lp465
+VRestaurants
+p466
+asg6
+g21
+sg8
+VCaravan Serai
+p467
+sg10
+Vhttp://mumbai.burrp.com/listing/caravan-serai_waterfield-road_mumbai_restaurants/1159594
+p468
+sg12
+VWaterfield Road
+p469
+sg14
+(lp470
+V26432570
+p471
+aV 26453581
+p472
+aV 26452600
+p473
+aV 26459711
+p474
+asg20
+g21
+sg22
+VGolden Orchid, First Floor, 155, Bandra (W), Waterfield Road, Bandra West, Mumbai
+p475
+sba(i__main__
+Place
+p476
+(dp477
+g3
+(lp478
+VBars & Pubs
+p479
+aV Restaurants
+p480
+aV Lounges
+p481
+asg6
+g21
+sg8
+VBonobo
+p482
+sg10
+Vhttp://mumbai.burrp.com/listing/bonobo_linking-road_mumbai_bars-pubs-restaurants-lounges/1791311930
+p483
+sg12
+VLinking Road
+p484
+sg14
+(lp485
+V26055050
+p486
+aV 26055353
+p487
+asg20
+g21
+sg22
+VKenilworth Mall Phase 2, 2nd Floor, Off Linking Road, Linking Road, Bandra West, Mumbai
+p488
+sba(i__main__
+Place
+p489
+(dp490
+g3
+(lp491
+VRestaurants
+p492
+asg6
+g7
+sg8
+VJim-me's Kitchen
+p493
+sg10
+Vhttp://mumbai.burrp.com/listing/jim-mes-kitchen_bandra-west_mumbai_restaurants/110810099
+p494
+sg12
+VBandra West
+p495
+sg14
+(lp496
+V26426312
+p497
+aV 26436301
+p498
+aV 65048864
+p499
+asg20
+g35
+sg22
+V12 St. Peter Road, Bandra (W), Bandra (W), Bandra West, Mumbai
+p500
+sba(i__main__
+Place
+p501
+(dp502
+g3
+(lp503
+VBars & Pubs
+p504
+aV Cafes
+p505
+aV Restaurants
+p506
+asg6
+g21
+sg8
+VSteak House
+p507
+sg10
+Vhttp://mumbai.burrp.com/listing/steak-house_bandra-west_mumbai_bars-pubs-cafes-restaurants/162950247
+p508
+sg12
+VBandra West
+p509
+sg14
+(lp510
+V26000057
+p511
+aV 26000058
+p512
+asg20
+g35
+sg22
+VShop No. 5, Lourdes Heaven, Pali Naka, Bandra (W), Bandra West, Mumbai
+p513
+sba(i__main__
+Place
+p514
+(dp515
+g3
+(lp516
+VRestaurants
+p517
+asg6
+g7
+sg8
+VKhane Khas
+p518
+sg10
+Vhttp://mumbai.burrp.com/listing/khane-khas_bandra-west_mumbai_restaurants/185124524
+p519
+sg12
+VBandra West
+p520
+sg14
+(lp521
+V26006970
+p522
+aV 26004605
+p523
+aV 26004606
+p524
+asg20
+g152
+sg22
+VShop No 4, Silver Croft Building, Junction of 16th and 33rd Road, T.P.S.  III, Bandra West, Mumbai
+p525
+sba(i__main__
+Place
+p526
+(dp527
+g3
+(lp528
+VRestaurants
+p529
+aV Bars & Pubs
+p530
+aV Lounges
+p531
+asg6
+g21
+sg8
+VCafe Goa
+p532
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-goa_bandra-west_mumbai_restaurants-bars-pubs-lounges/14066069
+p533
+sg12
+VBandra West
+p534
+sg14
+(lp535
+V26483136
+p536
+asg20
+g35
+sg22
+VShop No.3/4, Prabhat Kunj, 24th Road, Bandra West, Mumbai
+p537
+sba(i__main__
+Place
+p538
+(dp539
+g3
+(lp540
+VRestaurants
+p541
+asg6
+g21
+sg8
+VPapa Pancho Da Dhaba
+p542
+sg10
+Vhttp://mumbai.burrp.com/listing/papa-pancho-da-dhaba_bandra-west_mumbai_restaurants/1931448316
+p543
+sg12
+VBandra West
+p544
+sg14
+(lp545
+V26518732
+p546
+aV 26518733
+p547
+aV 9920187059
+p548
+asg20
+g35
+sg22
+VShop No.12, Gaspar Enclave, Dr. Ambedkar Road, Opp HDFC Bank, Bandra West, Mumbai
+p549
+sba(i__main__
+Place
+p550
+(dp551
+g3
+(lp552
+VBars & Pubs
+p553
+aV Restaurants
+p554
+asg6
+g7
+sg8
+VSoul Fry
+p555
+sg10
+Vhttp://mumbai.burrp.com/listing/soul-fry_bandra-west_mumbai_bars-pubs-restaurants/15358356
+p556
+sg12
+VBandra West
+p557
+sg14
+(lp558
+V26046892
+p559
+asg20
+g35
+sg22
+VSilver Croft, Pali Mala Road, Bandra (W), Bandra West, Mumbai
+p560
+sba(i__main__
+Place
+p561
+(dp562
+g3
+(lp563
+VRestaurants
+p564
+asg6
+g21
+sg8
+VCrepe Station Cafe
+p565
+sg10
+Vhttp://mumbai.burrp.com/listing/crepe-station-cafe_carter-road_mumbai_restaurants/16268247
+p566
+sg12
+VCarter Road
+p567
+sg14
+(lp568
+V26554104
+p569
+aV 26053307
+p570
+aV 9930255927
+p571
+asg20
+g21
+sg22
+VB-9, 10, Gangangiri Apartments, Off Carter Road, Carter Road, Bandra West, Mumbai
+p572
+sba(i__main__
+Place
+p573
+(dp574
+g3
+(lp575
+VRestaurants
+p576
+asg6
+g21
+sg8
+VBombay Blue
+p577
+sg10
+Vhttp://mumbai.burrp.com/listing/bombay-blue_linking-road_mumbai_restaurants/18034029
+p578
+sg12
+VLinking Road
+p579
+sg14
+(lp580
+V26000444
+p581
+aV 26000888
+p582
+asg20
+g35
+sg22
+VSummer Ville, Junction of 14th and 33rd Road, Linking Road, Bandra West, Mumbai
+p583
+sba(i__main__
+Place
+p584
+(dp585
+g3
+(lp586
+VRestaurants
+p587
+asg6
+g7
+sg8
+VCandies
+p588
+sg10
+Vhttp://mumbai.burrp.com/listing/candies_bandra-west_mumbai_restaurants/117108792
+p589
+sg12
+VBandra West
+p590
+sg14
+(lp591
+V26481686
+p592
+asg20
+g35
+sg22
+VAshok Apartments, Union Park, Bandra West, Mumbai
+p593
+sba(i__main__
+Place
+p594
+(dp595
+g3
+(lp596
+VCafes
+p597
+aV Restaurants
+p598
+asg6
+g7
+sg8
+VThe Cafe
+p599
+sg10
+Vhttp://mumbai.burrp.com/listing/the-cafe_pali-hill_mumbai_cafes-restaurants/1552164554
+p600
+sg12
+VPali Hill
+p601
+sg14
+(lp602
+V66969000
+p603
+asg20
+g21
+sg22
+VSeventh Floor, 331, Dr. Ambedkar Road, Pali Hill, Bandra West, Mumbai
+p604
+sba(i__main__
+Place
+p605
+(dp606
+g3
+(lp607
+VRestaurants
+p608
+asg6
+g21
+sg8
+VShalimar Restaurant
+p609
+sg10
+Vhttp://mumbai.burrp.com/listing/shalimar-restaurant_bandra-west_mumbai_restaurants/11254297
+p610
+sg12
+VBandra West
+p611
+sg14
+(lp612
+V26439782
+p613
+aV 26434067
+p614
+aV 66940827
+p615
+aV 66940828
+p616
+asg20
+g152
+sg22
+V230 Ashoka Building, Linking Road, Bandra (W), Bandra (W), Bandra West, Mumbai
+p617
+sba(i__main__
+Place
+p618
+(dp619
+g3
+(lp620
+VRestaurants
+p621
+asg6
+g21
+sg8
+VPersian Darbar
+p622
+sg10
+Vhttp://mumbai.burrp.com/listing/persian-darbar_bandra-west_mumbai_restaurants/11445495
+p623
+sg12
+VBandra West
+p624
+sg14
+(lp625
+V26401326
+p626
+aV 26431741
+p627
+aV 66941326
+p628
+aV 39555750
+p629
+asg20
+g35
+sg22
+VMoray Mahal, Linking Road, Bandra (W), Bandra West, Mumbai
+p630
+sba(i__main__
+Place
+p631
+(dp632
+g3
+(lp633
+VRestaurants
+p634
+asg6
+g21
+sg8
+VMoti Mahal
+p635
+sg10
+Vhttp://mumbai.burrp.com/listing/moti-mahal_waterfield-road_mumbai_restaurants/156130653
+p636
+sg12
+VWaterfield Road
+p637
+sg14
+(lp638
+V26408577
+p639
+aV 65738806
+p640
+aV 26408988
+p641
+asg20
+g21
+sg22
+VPlot No.116, Junction of Guru Nanak Road and Waterfield Road, Waterfield Road, Bandra West, Mumbai
+p642
+sba(i__main__
+Place
+p643
+(dp644
+g3
+(lp645
+VRestaurants
+p646
+asg6
+g21
+sg8
+VHakkasan
+p647
+sg10
+Vhttp://mumbai.burrp.com/listing/hakkasan_waterfield-road_mumbai_restaurants/1136435396
+p648
+sg12
+VWaterfield Road
+p649
+sg14
+(lp650
+V26444444
+p651
+aV 26444445
+p652
+asg20
+g7
+sg22
+VKrystal Building, 206, Patkar Marg, Waterfield Road, Bandra West, Mumbai
+p653
+sba(i__main__
+Place
+p654
+(dp655
+g3
+(lp656
+VRestaurants
+p657
+asg6
+g21
+sg8
+VVista
+p658
+sg10
+Vhttp://mumbai.burrp.com/listing/vista_bandstand_mumbai_restaurants/19771712
+p659
+sg12
+VBandstand
+p660
+sg14
+(lp661
+V66681234
+p662
+asg20
+g21
+sg22
+VTaj Lands End, Bandstand, Bandra West, Mumbai
+p663
+sba(i__main__
+Place
+p664
+(dp665
+g3
+(lp666
+VBars & Pubs
+p667
+aV Restaurants
+p668
+asg6
+g7
+sg8
+VThe Coast
+p669
+sg10
+Vhttp://mumbai.burrp.com/listing/the-coast_bandra-west_mumbai_bars-pubs-restaurants/191827118
+p670
+sg12
+VBandra West
+p671
+sg14
+(lp672
+V42221111
+p673
+aV 42221144
+p674
+asg20
+g35
+sg22
+VFifth Floor, Crystal Paradise, Off Linking Road, Bandra West, Mumbai
+p675
+sba(i__main__
+Place
+p676
+(dp677
+g3
+(lp678
+VRestaurants
+p679
+asg6
+g7
+sg8
+VChina Town 
+p680
+sg10
+Vhttp://mumbai.burrp.com/listing/china-town-_linking-road_mumbai_restaurants/161149148
+p681
+sg12
+VLinking Road
+p682
+sg14
+(lp683
+V26044555
+p684
+aV 26044777
+p685
+asg20
+g152
+sg22
+VSummer Ville, Ground Floor, Junction of 14th & 33rd Road, Linking Road, Bandra West, Mumbai
+p686
+sba(i__main__
+Place
+p687
+(dp688
+g3
+(lp689
+VRestaurants
+p690
+aV Bakery Shops
+p691
+aV Cafes
+p692
+asg6
+g21
+sg8
+VMoshe's
+p693
+sg10
+Vhttp://mumbai.burrp.com/listing/moshes_hill-road_mumbai_restaurants-bakery-shops-cafes/1705739039
+p694
+sg12
+VHill Road
+p695
+sg14
+(lp696
+V26425555
+p697
+aV 26415555
+p698
+asg20
+g21
+sg22
+V133, Gazebo House, 1st Floor, Above Godrej's Nature's Basket, Above Godrej's Nature's Basket, Hill Road, Bandra West, Mumbai
+p699
+sba(i__main__
+Place
+p700
+(dp701
+g3
+(lp702
+VRestaurants
+p703
+asg6
+g21
+sg8
+VSahibaan
+p704
+sg10
+Vhttp://mumbai.burrp.com/listing/sahibaan_bandra-west_mumbai_restaurants/16550544
+p705
+sg12
+VBandra West
+p706
+sg14
+(lp707
+V26439936
+p708
+aV 30969618
+p709
+asg20
+g21
+sg22
+V3 Carlton Court, Turner Road, Bandra West, Mumbai
+p710
+sba(i__main__
+Place
+p711
+(dp712
+g3
+(lp713
+VRestaurants
+p714
+asg6
+g7
+sg8
+VSigdi
+p715
+sg10
+Vhttp://mumbai.burrp.com/listing/sigdi_waterfield-road_mumbai_restaurants/130902079
+p716
+sg12
+VWaterfield Road
+p717
+sg14
+(lp718
+V26557907
+p719
+asg20
+g35
+sg22
+V160/B Abbas Compound, 29th Road, Bandra (W), Waterfield Road, Bandra West, Mumbai
+p720
+sba(i__main__
+Place
+p721
+(dp722
+g3
+(lp723
+VRestaurants
+p724
+asg6
+g21
+sg8
+VSaayba
+p725
+sg10
+Vhttp://mumbai.burrp.com/listing/saayba_bandra-west_mumbai_restaurants/16250247
+p726
+sg12
+VBandra West
+p727
+sg14
+(lp728
+V26436620
+p729
+aV 66280764
+p730
+asg20
+g152
+sg22
+VShop No.1 & 2, Zarina Co-operative Society, SV Road, Opposite Masjid, Bandra (W), Bandra West, Mumbai
+p731
+sba(i__main__
+Place
+p732
+(dp733
+g3
+(lp734
+VFast Food Shops
+p735
+aV Restaurants
+p736
+asg6
+g21
+sg8
+VShiv Sagar
+p737
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-sagar_bandra-west_mumbai_fast-food-shops-restaurants/1463663
+p738
+sg12
+VBandra West
+p739
+sg14
+(lp740
+V26006318
+p741
+aV 26002666
+p742
+aV 26006894
+p743
+asg20
+g35
+sg22
+VShyam Kunj, Pali Naka, 16th Road, Bandra (W), Bandra West, Mumbai
+p744
+sba(i__main__
+Place
+p745
+(dp746
+g3
+(lp747
+VBars & Pubs
+p748
+aV Restaurants
+p749
+asg6
+g35
+sg8
+VFirangi Paani
+p750
+sg10
+Vhttp://mumbai.burrp.com/listing/firangi-paani_linking-road_mumbai_bars-pubs-restaurants/1981394811
+p751
+sg12
+VLinking Road
+p752
+sg14
+(lp753
+V67105105
+p754
+aV 67101101
+p755
+aV 9004614085
+p756
+asg20
+g21
+sg22
+VKenilworth Shopping Arcade, Corner of 33 Road, Bandra (W), Linking Road, Bandra West, Mumbai
+p757
+sba(i__main__
+Place
+p758
+(dp759
+g3
+(lp760
+VRestaurants
+p761
+aV Fast Food Shops
+p762
+aV Home Caterers
+p763
+aV Take Away Shops
+p764
+asg6
+g7
+sg8
+VMomo Station
+p765
+sg10
+Vhttp://mumbai.burrp.com/listing/momo-station_carter-road_mumbai_restaurants-fast-food-shops-home-caterers/1233997386
+p766
+sg12
+VCarter Road
+p767
+sg14
+(lp768
+V9833700318
+p769
+aV 9209372902
+p770
+aV 9223560000
+p771
+asg20
+g35
+sg22
+VGagan Giri Co-Op Housing Society, Near Amore Gelato, Bandra (W), Carter Road, Bandra West, Mumbai
+p772
+sba(i__main__
+Place
+p773
+(dp774
+g3
+(lp775
+VRestaurants
+p776
+asg6
+g7
+sg8
+VJai Hind Lunch Home
+p777
+sg10
+Vhttp://mumbai.burrp.com/listing/jai-hind-lunch-home_hill-road_mumbai_restaurants/1664226643
+p778
+sg12
+VHill Road
+p779
+sg14
+(lp780
+V26422974
+p781
+aV 26512821
+p782
+aV 26512822
+p783
+asg20
+g35
+sg22
+V10, Rizwi House, Ramdas Nayak Road, Hill Road, Bandra West, Mumbai
+p784
+sba(i__main__
+Place
+p785
+(dp786
+g3
+(lp787
+VRestaurants
+p788
+aV Fast Food Shops
+p789
+asg6
+g21
+sg8
+VMcDonald's
+p790
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_bandra-west_mumbai_restaurants-fast-food-shops/18043029
+p791
+sg12
+VBandra West
+p792
+sg14
+(lp793
+V66000666
+p794
+asg20
+g35
+sg22
+V532, Kadamba Kudpi House, Linking Road, Bandra West, Mumbai
+p795
+sba(i__main__
+Place
+p796
+(dp797
+g3
+(lp798
+VRestaurants
+p799
+asg6
+g21
+sg8
+VGreat Punjab Restaurant & Bar
+p800
+sg10
+Vhttp://mumbai.burrp.com/listing/great-punjab-restaurant-bar_bandra-west_mumbai_restaurants/15940950
+p801
+sg12
+VBandra West
+p802
+sg14
+(lp803
+V26413978
+p804
+aV 26408036
+p805
+aV 26429846
+p806
+asg20
+g35
+sg22
+V266 Linking Road, Bandra (W), Bandra West, Mumbai
+p807
+sba(i__main__
+Place
+p808
+(dp809
+g3
+(lp810
+VRestaurants
+p811
+asg6
+g21
+sg8
+VMing Yang
+p812
+sg10
+Vhttp://mumbai.burrp.com/listing/ming-yang_bandstand_mumbai_restaurants/146129663
+p813
+sg12
+VBandstand
+p814
+sg14
+(lp815
+V66681234
+p816
+aV 66687474
+p817
+asg20
+g7
+sg22
+V1st Floor, Bandstand, Bandra West, Mumbai
+p818
+sba(i__main__
+Place
+p819
+(dp820
+g3
+(lp821
+VRestaurants
+p822
+aV Bars & Pubs
+p823
+asg6
+g35
+sg8
+VZenzi
+p824
+sg10
+Vhttp://mumbai.burrp.com/listing/zenzi_waterfield-road_mumbai_restaurants-bars-pubs/12773782
+p825
+sg12
+VWaterfield Road
+p826
+sg14
+(lp827
+V66430670
+p828
+aV 66430671
+p829
+asg20
+g21
+sg22
+V183, Bandra (W), Waterfield Road, Bandra West, Mumbai
+p830
+sba(i__main__
+Place
+p831
+(dp832
+g3
+(lp833
+VRestaurants
+p834
+asg6
+g35
+sg8
+VStomach
+p835
+sg10
+Vhttp://mumbai.burrp.com/listing/stomach_waterfield-road_mumbai_restaurants/16759742
+p836
+sg12
+VWaterfield Road
+p837
+sg14
+(lp838
+V66960738
+p839
+aV 66960739
+p840
+aV 26431236
+p841
+asg20
+g35
+sg22
+V117, Bandra (W), Waterfield Road, Bandra West, Mumbai
+p842
+sba(i__main__
+Place
+p843
+(dp844
+g3
+(lp845
+VRestaurants
+p846
+asg6
+g35
+sg8
+VOpen Affair
+p847
+sg10
+Vhttp://mumbai.burrp.com/listing/open-affair_carter-road_mumbai_restaurants/114810495
+p848
+sg12
+VCarter Road
+p849
+sg14
+(lp850
+V26490999
+p851
+aV 26490888
+p852
+aV 65257474
+p853
+asg20
+g35
+sg22
+VA/10 Gagangiri Apts, Next To Crepe Station, Bandra (W), Carter Road, Bandra West, Mumbai
+p854
+sba(i__main__
+Place
+p855
+(dp856
+g3
+(lp857
+VRestaurants
+p858
+asg6
+g21
+sg8
+VSai Sagar
+p859
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-sagar_bandra-reclamation_mumbai_restaurants/17151138
+p860
+sg12
+VBandra Reclamation
+p861
+sg14
+(lp862
+V26413629
+p863
+aV 26424324
+p864
+aV 26518246
+p865
+asg20
+g35
+sg22
+VBandra (W), Bandra (W), Bandra Reclamation, Bandra West, Mumbai
+p866
+sba(i__main__
+Place
+p867
+(dp868
+g3
+(lp869
+VRestaurants
+p870
+asg6
+g21
+sg8
+VAdi's Restaurant
+p871
+sg10
+Vhttp://mumbai.burrp.com/listing/adis-restaurant_bandra-west_mumbai_restaurants/132101277
+p872
+sg12
+VBandra West
+p873
+sg14
+(lp874
+V26431321
+p875
+aV 26510032
+p876
+asg20
+g35
+sg22
+VPearl Haven, Chapel Road, Bandra (W), Bandra West, Mumbai
+p877
+sba(i__main__
+Place
+p878
+(dp879
+g3
+(lp880
+VRestaurants
+p881
+asg6
+g21
+sg8
+VMasala Bay
+p882
+sg10
+Vhttp://mumbai.burrp.com/listing/masala-bay_bandstand_mumbai_restaurants/135128574
+p883
+sg12
+VBandstand
+p884
+sg14
+(lp885
+V66681346
+p886
+asg20
+g7
+sg22
+VTaj Lands End, Bandstand, Bandra West, Mumbai
+p887
+sba(i__main__
+Place
+p888
+(dp889
+g3
+(lp890
+VOutdoor Caterers
+p891
+aV Cafes
+p892
+aV Dessert Shops
+p893
+aV Fast Food Shops
+p894
+aV Restaurants
+p895
+aV Delicatessens
+p896
+aV Bakery Shops
+p897
+asg6
+g7
+sg8
+VLancys Java Joy
+p898
+sg10
+Vhttp://mumbai.burrp.com/listing/lancys-java-joy_bandra-reclamation_mumbai_outdoor-caterers-cafes-dessert-shops/1635153346
+p899
+sg12
+VBandra Reclamation
+p900
+sg14
+(lp901
+V26432275
+p902
+asg20
+g35
+sg22
+VShop No.14, ONGC Complex, Near Lilavati Hospital, Bandra Reclamation, Bandra West, Mumbai
+p903
+sba(i__main__
+Place
+p904
+(dp905
+g3
+(lp906
+VRestaurants
+p907
+asg6
+g7
+sg8
+VJaihind Lunch Home
+p908
+sg10
+Vhttp://mumbai.burrp.com/listing/jaihind-lunch-home_bandra-west_mumbai_restaurants/1244447485
+p909
+sg12
+VBandra West
+p910
+sg14
+(lp911
+V26483381
+p912
+aV 32951482
+p913
+asg20
+g35
+sg22
+VDr. Ambedkar Road, Pali Naka, Bandra West, Mumbai
+p914
+sba(i__main__
+Place
+p915
+(dp916
+g3
+(lp917
+VRestaurants
+p918
+asg6
+g21
+sg8
+VYoko Sizzlers
+p919
+sg10
+Vhttp://mumbai.burrp.com/listing/yoko-sizzlers_hill-road_mumbai_restaurants/1511210158
+p920
+sg12
+VHill Road
+p921
+sg14
+(lp922
+V26401746
+p923
+aV 66779290
+p924
+asg20
+g35
+sg22
+VRizvi House, 34 Hill Road, Hill Road, Bandra West, Mumbai
+p925
+sba(i__main__
+Place
+p926
+(dp927
+g3
+(lp928
+VRestaurants
+p929
+asg6
+g21
+sg8
+VChina Blue (Suhail's)
+p930
+sg10
+Vhttp://mumbai.burrp.com/listing/china-blue-suhails_bandra-west_mumbai_restaurants/136371673
+p931
+sg12
+VBandra West
+p932
+sg14
+(lp933
+V26451786
+p934
+aV 26452786
+p935
+aV 26422786
+p936
+asg20
+g35
+sg22
+VRays Co-operating housing society, Shop No 8/9 New Kantwadi, Off Perry Rd, Bandra West, Mumbai
+p937
+sba(i__main__
+Place
+p938
+(dp939
+g3
+(lp940
+VRestaurants
+p941
+asg6
+g21
+sg8
+VZaika
+p942
+sg10
+Vhttp://mumbai.burrp.com/listing/zaika_waterfield-road_mumbai_restaurants/119828990
+p943
+sg12
+VWaterfield Road
+p944
+sg14
+(lp945
+V26441314
+p946
+aV 26442468
+p947
+asg20
+g35
+sg22
+V6/7 Hemkund, 116 Waterfield Road, Jn of Turner Road, Bandra (W), Waterfield Road, Bandra West, Mumbai
+p948
+sba(i__main__
+Place
+p949
+(dp950
+g3
+(lp951
+VLounges
+p952
+aV Restaurants
+p953
+aV Bars & Pubs
+p954
+asg6
+g35
+sg8
+VOne Above On Toes
+p955
+sg10
+Vhttp://mumbai.burrp.com/listing/one-above-on-toes_linking-road_mumbai_lounges-restaurants-bars-pubs/1393863970
+p956
+sg12
+VLinking Road
+p957
+sg14
+(lp958
+V26425411
+p959
+aV 26425412
+p960
+asg20
+g35
+sg22
+VV.N. Spehere, Junction of Turner & Linking Road, Linking Road, Bandra West, Mumbai
+p961
+sba(i__main__
+Place
+p962
+(dp963
+g3
+(lp964
+VRestaurants
+p965
+asg6
+g35
+sg8
+VHotel Tavaa
+p966
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-tavaa_turner-road_mumbai_restaurants/19062019
+p967
+sg12
+VTurner Road
+p968
+sg14
+(lp969
+V26406351
+p970
+aV 26510222
+p971
+aV 26510231
+p972
+asg20
+g35
+sg22
+VSaquib Building, Junction of  24th Turner Road, Turner Road, Bandra West, Mumbai
+p973
+sba(i__main__
+Place
+p974
+(dp975
+g3
+(lp976
+VRestaurants
+p977
+asg6
+g35
+sg8
+VKobe Sizzlers
+p978
+sg10
+Vhttp://mumbai.burrp.com/listing/kobe-sizzlers_hill-road_mumbai_restaurants/17142138
+p979
+sg12
+VHill Road
+p980
+sg14
+(lp981
+V26555656
+p982
+aV 26555757
+p983
+asg20
+g152
+sg22
+V95, Near St Andrew's Church, Bandra (W), Hill Road, Bandra West, Mumbai
+p984
+sba(i__main__
+Place
+p985
+(dp986
+g3
+(lp987
+VRestaurants
+p988
+asg6
+g21
+sg8
+VArby's
+p989
+sg10
+Vhttp://mumbai.burrp.com/listing/arbys_bandra-west_mumbai_restaurants/1915894118
+p990
+sg12
+VBandra West
+p991
+sg14
+(lp992
+V30633291
+p993
+aV 9819448482
+p994
+asg20
+g152
+sg22
+V259, Deccan Court, Shop No 1, Next To Movie Time, S V Road, Bandra (W), Bandra West, Mumbai
+p995
+sba(i__main__
+Place
+p996
+(dp997
+g3
+(lp998
+VRestaurants
+p999
+aV Shops
+p1000
+asg6
+g21
+sg8
+VPunjab Sweet House & Restaurant
+p1001
+sg10
+Vhttp://mumbai.burrp.com/listing/punjab-sweet-house-restaurant_bandra-west_mumbai_restaurants-shops/1784605831
+p1002
+sg12
+VBandra West
+p1003
+sg14
+(lp1004
+V26429647
+p1005
+asg20
+g207
+sg22
+VDhiraj Arcade, 84, Pali Naka, Bandra (W), Bandra West, Mumbai
+p1006
+sba(i__main__
+Place
+p1007
+(dp1008
+g3
+(lp1009
+VRestaurants
+p1010
+asg6
+g21
+sg8
+VWanton House
+p1011
+sg10
+Vhttp://mumbai.burrp.com/listing/wanton-house_bandra-west_mumbai_restaurants/11172198
+p1012
+sg12
+VBandra West
+p1013
+sg14
+(lp1014
+V26516314
+p1015
+aV 26426085
+p1016
+asg20
+g35
+sg22
+V98 Hill Road, Bandra West, Mumbai
+p1017
+sba(i__main__
+Place
+p1018
+(dp1019
+g3
+(lp1020
+VRestaurants
+p1021
+aV Bars & Pubs
+p1022
+aV Bakery Shops
+p1023
+aV Lounges
+p1024
+asg6
+g7
+sg8
+VRed Box Café
+p1025
+sg10
+Vhttp://mumbai.burrp.com/listing/red-box-cafe_turner-road_mumbai_restaurants-bars-pubs-bakery-shops/12724148782
+p1026
+sg12
+VTurner Road
+p1027
+sg14
+(lp1028
+V26557577
+p1029
+aV 9167666754
+p1030
+asg20
+g21
+sg22
+VNotan Classic, Ground Floor, Turner Road, Bandra West, Mumbai
+p1031
+sba(i__main__
+Place
+p1032
+(dp1033
+g3
+(lp1034
+VRestaurants
+p1035
+asg6
+g7
+sg8
+VBalaji Restaurants
+p1036
+sg10
+Vhttp://mumbai.burrp.com/listing/balaji-restaurants_hill-road_mumbai_restaurants/163104346
+p1037
+sg12
+VHill Road
+p1038
+sg14
+(lp1039
+V26423990
+p1040
+aV 26423763
+p1041
+aV 9867148027
+p1042
+asg20
+g35
+sg22
+V59, Mota Mansion , Hill Road, Bandra West, Mumbai
+p1043
+sba(i__main__
+Place
+p1044
+(dp1045
+g3
+(lp1046
+VRestaurants
+p1047
+asg6
+g7
+sg8
+VSiddhartha
+p1048
+sg10
+Vhttp://mumbai.burrp.com/listing/siddhartha_bandra-west_mumbai_restaurants/13556574
+p1049
+sg12
+VBandra West
+p1050
+sg14
+(lp1051
+V26428718
+p1052
+aV 66212865
+p1053
+asg20
+g152
+sg22
+V368, SV Road, Near Bandra Lake, Bandra (W), Bandra West, Mumbai
+p1054
+sba(i__main__
+Place
+p1055
+(dp1056
+g3
+(lp1057
+VRestaurants
+p1058
+asg6
+g35
+sg8
+VMini Punjab
+p1059
+sg10
+Vhttp://mumbai.burrp.com/listing/mini-punjab_bandra-west_mumbai_restaurants/17815831
+p1060
+sg12
+VBandra West
+p1061
+sg14
+(lp1062
+V26002164
+p1063
+aV 26004395
+p1064
+aV 26005206
+p1065
+asg20
+g152
+sg22
+VShop No 3, Kailash Shopping Center, Jn. Of 16th & 33rd Road, TPS Road, Bandra (W), Bandra West, Mumbai
+p1066
+sba(i__main__
+Place
+p1067
+(dp1068
+g3
+(lp1069
+VRestaurants
+p1070
+asg6
+g21
+sg8
+VGolden Orchid
+p1071
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-orchid_waterfield-road_mumbai_restaurants/114117495
+p1072
+sg12
+VWaterfield Road
+p1073
+sg14
+(lp1074
+V26402256
+p1075
+aV 26402257
+p1076
+asg20
+g152
+sg22
+V155, Bandra (W), Waterfield Road, Bandra West, Mumbai
+p1077
+sba(i__main__
+Place
+p1078
+(dp1079
+g3
+(lp1080
+VRestaurants
+p1081
+asg6
+g21
+sg8
+VCafe Sea Side
+p1082
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-sea-side_bandstand_mumbai_restaurants/114108495
+p1083
+sg12
+VBandstand
+p1084
+sg14
+(lp1085
+V26442708
+p1086
+asg20
+g35
+sg22
+VBandra (W), Bandstand, Bandra West, Mumbai
+p1087
+sba(i__main__
+Place
+p1088
+(dp1089
+g3
+(lp1090
+VRestaurants
+p1091
+asg6
+g21
+sg8
+VGood Luck Restaurant
+p1092
+sg10
+Vhttp://mumbai.burrp.com/listing/good-luck-restaurant_hill-road_mumbai_restaurants/118117891
+p1093
+sg12
+VHill Road
+p1094
+sg14
+(lp1095
+V26422250
+p1096
+aV 26408906
+p1097
+aV 26411389
+p1098
+asg20
+g152
+sg22
+V106, Opp Mehboob Studios, Bandra (W), Hill Road, Bandra West, Mumbai
+p1099
+sba(i__main__
+Place
+p1100
+(dp1101
+g3
+(lp1102
+VRestaurants
+p1103
+asg6
+g35
+sg8
+VZaza
+p1104
+sg10
+Vhttp://mumbai.burrp.com/listing/zaza_bandra-reclamation_mumbai_restaurants/1705442039
+p1105
+sg12
+VBandra Reclamation
+p1106
+sg14
+(lp1107
+V26455800
+p1108
+aV 26455801
+p1109
+asg20
+g152
+sg22
+V5/6 Geliki, ONGC Building No.2, Bandra Reclamation, Bandra West, Mumbai
+p1110
+sba(i__main__
+Place
+p1111
+(dp1112
+g3
+(lp1113
+VCafes
+p1114
+aV Lounges
+p1115
+aV Restaurants
+p1116
+asg6
+V5
+p1117
+sg8
+VCocoa Cafe Ristorante
+p1118
+sg10
+Vhttp://mumbai.burrp.com/listing/cocoa-cafe-ristorante_hill-road_mumbai_cafes-lounges-restaurants/14515339564
+p1119
+sg12
+VHill Road
+p1120
+sg14
+(lp1121
+V61322222
+p1122
+asg20
+g35
+sg22
+V164 Hill Road, Hill Road, Bandra West, Mumbai
+p1123
+sba(i__main__
+Place
+p1124
+(dp1125
+g3
+(lp1126
+VRestaurants
+p1127
+asg6
+g21
+sg8
+VAshmick's Snack Shack
+p1128
+sg10
+Vhttp://mumbai.burrp.com/listing/ashmicks-snack-shack_bandra-west_mumbai_restaurants/152103257
+p1129
+sg12
+VBandra West
+p1130
+sg14
+(lp1131
+V26005010
+p1132
+aV 26004022
+p1133
+asg20
+g207
+sg22
+VLourdes Heaven Shop No 2, Pali Junction, Bandra (W), Bandra West, Mumbai
+p1134
+sba(i__main__
+Place
+p1135
+(dp1136
+g3
+(lp1137
+VRestaurants
+p1138
+asg6
+g21
+sg8
+VMac Craig
+p1139
+sg10
+Vhttp://mumbai.burrp.com/listing/mac-craig_bandra-west_mumbai_restaurants/113126396
+p1140
+sg12
+VBandra West
+p1141
+sg14
+(lp1142
+V26411985
+p1143
+aV 26400094
+p1144
+asg20
+g35
+sg22
+VGaspar Enclave, Pali Naka, Bandra (W), Bandra West, Mumbai
+p1145
+sba(i__main__
+Place
+p1146
+(dp1147
+g3
+(lp1148
+VRestaurants
+p1149
+asg6
+g35
+sg8
+VPal's Fish Corner
+p1150
+sg10
+Vhttp://mumbai.burrp.com/listing/pals-fish-corner_bandra-west_mumbai_restaurants/112135297
+p1151
+sg12
+VBandra West
+p1152
+sg14
+(lp1153
+V26002995
+p1154
+aV 26004318
+p1155
+asg20
+g35
+sg22
+VKailash Shopping Centre, Shop No 8, Corner of 16th and 33rd Road, Bandra West, Mumbai
+p1156
+sba(i__main__
+Place
+p1157
+(dp1158
+g3
+(lp1159
+VRestaurants
+p1160
+aV Fast Food Shops
+p1161
+asg6
+g1117
+sg8
+VLiao's Chinese Kitchen
+p1162
+sg10
+Vhttp://mumbai.burrp.com/listing/liaos-chinese-kitchen_hill-road_mumbai_restaurants-fast-food-shops/1332072376
+p1163
+sg12
+VHill Road
+p1164
+sg14
+(lp1165
+V26552406
+p1166
+aV 9892597583
+p1167
+asg20
+g207
+sg22
+VHome Land, 55, Bandra (W), Hill Road, Bandra West, Mumbai
+p1168
+sba(i__main__
+Place
+p1169
+(dp1170
+g3
+(lp1171
+VRestaurants
+p1172
+asg6
+g1117
+sg8
+VSagar & Tikka
+p1173
+sg10
+Vhttp://mumbai.burrp.com/listing/sagar-tikka_bandra-west_mumbai_restaurants/1277768782
+p1174
+sg12
+VBandra West
+p1175
+sg14
+(lp1176
+V26005391
+p1177
+aV 26005521
+p1178
+aV 9324348718
+p1179
+asg20
+g152
+sg22
+VShop No 5, Louise Belle Building, Corner Of 16 & 30 Road, Pali Naka, Bandra West, Mumbai
+p1180
+sba(i__main__
+Place
+p1181
+(dp1182
+g3
+(lp1183
+VRestaurants
+p1184
+asg6
+g7
+sg8
+VCorniche
+p1185
+sg10
+Vhttp://mumbai.burrp.com/listing/corniche_bandra-west_mumbai_restaurants/12724643782
+p1186
+sg12
+VBandra West
+p1187
+sg14
+(lp1188
+V26460147
+p1189
+asg20
+g21
+sg22
+VB-15, Gagangiri Co-Operative Housing Society, Carter Road, Bandra West, Mumbai
+p1190
+sba(i__main__
+Place
+p1191
+(dp1192
+g3
+(lp1193
+VRestaurants
+p1194
+aV Bars & Pubs
+p1195
+asg6
+g7
+sg8
+VYacht Restaurant 
+p1196
+sg10
+Vhttp://mumbai.burrp.com/listing/yacht-restaurant-_hill-road_mumbai_restaurants-bars-pubs/1115373198
+p1197
+sg12
+VHill Road
+p1198
+sg14
+(lp1199
+V26422718
+p1200
+asg20
+g21
+sg22
+V116 Hill Road, Near St. Andrews Church, Bandra (W), Hill Road, Bandra West, Mumbai
+p1201
+sba(i__main__
+Place
+p1202
+(dp1203
+g3
+(lp1204
+VRestaurants
+p1205
+asg6
+g21
+sg8
+VSpice Lounge
+p1206
+sg10
+Vhttp://mumbai.burrp.com/listing/spice-lounge_bandra-west_mumbai_restaurants/1765739633
+p1207
+sg12
+VBandra West
+p1208
+sg14
+(lp1209
+V32227199
+p1210
+asg20
+g35
+sg22
+VKunj Vihar, Bandra Station Road, Bandra West, Mumbai
+p1211
+sba(i__main__
+Place
+p1212
+(dp1213
+g3
+(lp1214
+VOutdoor Caterers
+p1215
+aV Restaurants
+p1216
+asg6
+g21
+sg8
+VBlue Flame
+p1217
+sg10
+Vhttp://mumbai.burrp.com/listing/blue-flame_linking-road_mumbai_outdoor-caterers-restaurants/1635738346
+p1218
+sg12
+VLinking Road
+p1219
+sg14
+(lp1220
+V26052378
+p1221
+aV 26052379
+p1222
+aV 9768520094
+p1223
+asg20
+g35
+sg22
+Va/7, New Seven Star Premises, Shiv Darshan Bldg, 15th Road Junction, Off Linking Road, Linking Road, Bandra West, Mumbai
+p1224
+sba(i__main__
+Place
+p1225
+(dp1226
+g3
+(lp1227
+VRestaurants
+p1228
+asg6
+g21
+sg8
+VCrunchies
+p1229
+sg10
+Vhttp://mumbai.burrp.com/listing/crunchies_bandra-west_mumbai_restaurants/1671580742
+p1230
+sg12
+VBandra West
+p1231
+sg14
+(lp1232
+V32962351
+p1233
+aV 64268386
+p1234
+asg20
+g35
+sg22
+VNear Otters Club, Carter Road, Bandra (W), Bandra West, Mumbai
+p1235
+sba(i__main__
+Place
+p1236
+(dp1237
+g3
+(lp1238
+VRestaurants
+p1239
+asg6
+g21
+sg8
+VPali Presidency
+p1240
+sg10
+Vhttp://mumbai.burrp.com/listing/pali-presidency_bandra-west_mumbai_restaurants/111135198
+p1241
+sg12
+VBandra West
+p1242
+sg14
+(lp1243
+V26439726
+p1244
+aV 26413446
+p1245
+aV 66753941
+p1246
+aV 9819030341
+p1247
+asg20
+g21
+sg22
+VPali Naka, Pali Road, Bandra (W), Bandra West, Mumbai
+p1248
+sba(i__main__
+Place
+p1249
+(dp1250
+g3
+(lp1251
+VRestaurants
+p1252
+aV Fast Food Shops
+p1253
+asg6
+g21
+sg8
+VAmrut Sagar
+p1254
+sg10
+Vhttp://mumbai.burrp.com/listing/amrut-sagar_hill-road_mumbai_restaurants-fast-food-shops/153751356
+p1255
+sg12
+VHill Road
+p1256
+sg14
+(lp1257
+V66919118
+p1258
+aV 26406665
+p1259
+aV 26407665
+p1260
+asg20
+g207
+sg22
+V49, Nr Bata Showroom, Bandra (W), Hill Road, Bandra West, Mumbai
+p1261
+sba(i__main__
+Place
+p1262
+(dp1263
+g3
+(lp1264
+VRestaurants
+p1265
+asg6
+g21
+sg8
+VMasalacraft
+p1266
+sg10
+Vhttp://mumbai.burrp.com/listing/masalacraft_bandra-reclamation_mumbai_restaurants/1821519227
+p1267
+sg12
+VBandra Reclamation
+p1268
+sg14
+(lp1269
+V26452031
+p1270
+aV 26439239
+p1271
+aV 9820403111
+p1272
+asg20
+g35
+sg22
+V21-B, Santhal ONGC Complex, Opposite Leelavati Hosptial, Next to Candies, Bandra Reclamation, Bandra West, Mumbai
+p1273
+sba(i__main__
+Place
+p1274
+(dp1275
+g3
+(lp1276
+VRestaurants
+p1277
+asg6
+g21
+sg8
+VNew Sunrise Restaurant
+p1278
+sg10
+Vhttp://mumbai.burrp.com/listing/new-sunrise-restaurant_bandra-west_mumbai_restaurants/1897792920
+p1279
+sg12
+VBandra West
+p1280
+sg14
+(lp1281
+V26000310
+p1282
+asg20
+g207
+sg22
+V29, Nss Building, Pali Mala Road, Bandra West, Mumbai
+p1283
+sba(i__main__
+Place
+p1284
+(dp1285
+g3
+(lp1286
+VRestaurants
+p1287
+asg6
+g35
+sg8
+VBong Bong
+p1288
+sg10
+Vhttp://mumbai.burrp.com/listing/bong-bong_bandra-west_mumbai_restaurants/18722408722
+p1289
+sg12
+VBandra West
+p1290
+sg14
+(lp1291
+V65882574
+p1292
+aV 9769734697
+p1293
+asg20
+g35
+sg22
+VShop 1, Dheeraj Sneh, 30th Road, Pali Naka, Bandra West, Mumbai
+p1294
+sba(i__main__
+Place
+p1295
+(dp1296
+g3
+(lp1297
+VRestaurants
+p1298
+asg6
+g152
+sg8
+VFood Factory
+p1299
+sg10
+Vhttp://mumbai.burrp.com/listing/food-factory_bandra-west_mumbai_restaurants/13547574
+p1300
+sg12
+VBandra West
+p1301
+sg14
+(lp1302
+V66987770
+p1303
+asg20
+g152
+sg22
+VJunction of 15th and 33rd Road, Bandra (W), Bandra West, Mumbai
+p1304
+sba(i__main__
+Place
+p1305
+(dp1306
+g3
+(lp1307
+VRestaurants
+p1308
+asg6
+g152
+sg8
+VFalafel Kafe
+p1309
+sg10
+Vhttp://mumbai.burrp.com/listing/falafel-kafe_pali-hill_mumbai_restaurants/1752499534
+p1310
+sg12
+VPali Hill
+p1311
+sg14
+(lp1312
+V64210862
+p1313
+asg20
+g35
+sg22
+VShop No.7, Palimala Road, Bandra (W), Pali Hill, Bandra West, Mumbai
+p1314
+sba(i__main__
+Place
+p1315
+(dp1316
+g3
+(lp1317
+VRestaurants
+p1318
+asg6
+g152
+sg8
+VHash Sizzlers
+p1319
+sg10
+Vhttp://mumbai.burrp.com/listing/hash-sizzlers_bandra-west_mumbai_restaurants/1877873722
+p1320
+sg12
+VBandra West
+p1321
+sg14
+(lp1322
+V26408577
+p1323
+asg20
+g152
+sg22
+V1st Flr, Junction Of Guru Nanak & Water Field Rd, Above Moti Mahal Restaurant, Bandra West, Mumbai
+p1324
+sba(i__main__
+Place
+p1325
+(dp1326
+g3
+(lp1327
+VRestaurants
+p1328
+asg6
+g152
+sg8
+VCheznous Restaurant
+p1329
+sg10
+Vhttp://mumbai.burrp.com/listing/cheznous-restaurant_hill-road_mumbai_restaurants/13310028376
+p1330
+sg12
+VHill Road
+p1331
+sg14
+(lp1332
+V26422361
+p1333
+aV 26422362
+p1334
+aV 26422363
+p1335
+aV 26422365
+p1336
+asg20
+g152
+sg22
+VC/O C' Est La Vie Club, 164 Hill Road, Hill Road, Bandra West, Mumbai
+p1337
+sba(i__main__
+Place
+p1338
+(dp1339
+g3
+(lp1340
+VRestaurants
+p1341
+asg6
+g152
+sg8
+VThai Palate
+p1342
+sg10
+Vhttp://mumbai.burrp.com/listing/thai-palate_bandra-west_mumbai_restaurants/117270792
+p1343
+sg12
+VBandra West
+p1344
+sg14
+(lp1345
+V26441633
+p1346
+asg20
+g152
+sg22
+VKamat Building, Linking Road, Opp. National College, Bandra West, Mumbai
+p1347
+sba(i__main__
+Place
+p1348
+(dp1349
+g3
+(lp1350
+VRestaurants
+p1351
+asg6
+g152
+sg8
+VSoul Food
+p1352
+sg10
+Vhttp://mumbai.burrp.com/listing/soul-food_bandra-west_mumbai_restaurants/13922601970
+p1353
+sg12
+VBandra West
+p1354
+sg14
+(lp1355
+V26004520
+p1356
+aV 65003486
+p1357
+aV 9819145558
+p1358
+asg20
+g152
+sg22
+VSilver Croft, Shop No. 7, 16th and 33rd Road, Bandra West, Mumbai
+p1359
+sba(i__main__
+Place
+p1360
+(dp1361
+g3
+(lp1362
+VRestaurants
+p1363
+asg6
+g152
+sg8
+VMama's Restaurant
+p1364
+sg10
+Vhttp://mumbai.burrp.com/listing/mamas-restaurant_hill-road_mumbai_restaurants/1655544
+p1365
+sg12
+VHill Road
+p1366
+sg14
+(lp1367
+V66812271
+p1368
+aV 26453260
+p1369
+asg20
+g152
+sg22
+VSt. Peters Rd, Off Hill Road, Bandra (W), Hill Road, Bandra West, Mumbai
+p1370
+sba(i__main__
+Place
+p1371
+(dp1372
+g3
+(lp1373
+VRestaurants
+p1374
+asg6
+g152
+sg8
+VChefs Corner
+p1375
+sg10
+Vhttp://mumbai.burrp.com/listing/chefs-corner_bandra-west_mumbai_restaurants/1141449495
+p1376
+sg12
+VBandra West
+p1377
+sg14
+(lp1378
+V26002033
+p1379
+aV 9320522007
+p1380
+aV 9320522008
+p1381
+asg20
+g35
+sg22
+VShop No.B3, Gagangiri Apartments, Off Carter Road, Bandra (W), Bandra West, Mumbai
+p1382
+sba(i__main__
+Place
+p1383
+(dp1384
+g3
+(lp1385
+VRestaurants
+p1386
+asg6
+g152
+sg8
+VShri Amber Bar & Restaurant
+p1387
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-amber-bar-restaurant_bandra-west_mumbai_restaurants/1577771752
+p1388
+sg12
+VBandra West
+p1389
+sg14
+(lp1390
+V26436288
+p1391
+asg20
+g152
+sg22
+V9/10, Daulat House, Guru Nanak Road, Bandra West, Mumbai
+p1392
+sba(i__main__
+Place
+p1393
+(dp1394
+g3
+(lp1395
+VRestaurants
+p1396
+asg6
+g152
+sg8
+VFenix
+p1397
+sg10
+Vhttp://mumbai.burrp.com/listing/fenix_turner-road_mumbai_restaurants/13565574
+p1398
+sg12
+VTurner Road
+p1399
+sg14
+(lp1400
+V26423445
+p1401
+aV 9324381065
+p1402
+asg20
+g152
+sg22
+VCarlton Court, Junction of Turner Road & Pali Road, Bandra (W), Turner Road, Bandra West, Mumbai
+p1403
+sba(i__main__
+Place
+p1404
+(dp1405
+g3
+(lp1406
+VRestaurants
+p1407
+asg6
+g152
+sg8
+VBackyard
+p1408
+sg10
+Vhttp://mumbai.burrp.com/listing/backyard_bandra-west_mumbai_restaurants/156103653
+p1409
+sg12
+VBandra West
+p1410
+sg14
+(lp1411
+V66255750
+p1412
+aV 66255745
+p1413
+asg20
+g152
+sg22
+V230, Ashoka Apartments, Near Shopper's Stop, Linking Road, Bandra (W), Bandra West, Mumbai
+p1414
+sba(i__main__
+Place
+p1415
+(dp1416
+g3
+(lp1417
+VRestaurants
+p1418
+asg6
+g152
+sg8
+VFlying Rani
+p1419
+sg10
+Vhttp://mumbai.burrp.com/listing/flying-rani_bandra-west_mumbai_restaurants/180115029
+p1420
+sg12
+VBandra West
+p1421
+sg14
+(lp1422
+V26401943
+p1423
+asg20
+g152
+sg22
+VShop No.10, Gasper Enclave, Near HDFC Bank, Dr. Ambedkar Road, Pali Naka, Bandra (W), Bandra West, Mumbai
+p1424
+sba(i__main__
+Place
+p1425
+(dp1426
+g3
+(lp1427
+VBars & Pubs
+p1428
+aV Restaurants
+p1429
+asg6
+g152
+sg8
+VDhanraj
+p1430
+sg10
+Vhttp://mumbai.burrp.com/listing/dhanraj_bandra-west_mumbai_bars-pubs-restaurants/114144495
+p1431
+sg12
+VBandra West
+p1432
+sg14
+(lp1433
+V26423501
+p1434
+aV 26403081
+p1435
+asg20
+g152
+sg22
+V231, Linking Road, Bandra (W), Bandra West, Mumbai
+p1436
+sba(i__main__
+Place
+p1437
+(dp1438
+g3
+(lp1439
+VRestaurants
+p1440
+aV Bars & Pubs
+p1441
+asg6
+g152
+sg8
+VRobin Hood
+p1442
+sg10
+Vhttp://mumbai.burrp.com/listing/robin-hood_bandra-west_mumbai_restaurants-bars-pubs/194791415
+p1443
+sg12
+VBandra West
+p1444
+sg14
+(lp1445
+V67744555
+p1446
+asg20
+g21
+sg22
+VHotel Metro Palace, 355 Ramdas Nayak Road, Opposite Globus, Bandra (W), Bandra West, Mumbai
+p1447
+sba(i__main__
+Place
+p1448
+(dp1449
+g3
+(lp1450
+VRestaurants
+p1451
+aV Bars & Pubs
+p1452
+asg6
+g207
+sg8
+VBollywood Mischief
+p1453
+sg10
+Vhttp://mumbai.burrp.com/listing/bollywood-mischief_hill-road_mumbai_restaurants-bars-pubs/197818712
+p1454
+sg12
+VHill Road
+p1455
+sg14
+(lp1456
+V26453351
+p1457
+aV 26453352
+p1458
+asg20
+g21
+sg22
+VSuru Palace, Opposite Globus, Next to Matrix, Bandra (W), Hill Road, Bandra West, Mumbai
+p1459
+sba(i__main__
+Place
+p1460
+(dp1461
+g3
+(lp1462
+VRestaurants
+p1463
+asg6
+g152
+sg8
+VMount Mary Fast Food
+p1464
+sg10
+Vhttp://mumbai.burrp.com/listing/mount-mary-fast-food_bandra-west_mumbai_restaurants/1261351683
+p1465
+sg12
+VBandra West
+p1466
+sg14
+(lp1467
+V9820512591
+p1468
+aV 9920101851
+p1469
+aV 22985448
+p1470
+asg20
+g207
+sg22
+VShop No. 5, Gloriya Apartments, Rebello Road, Bandra (W), Bandra West, Mumbai
+p1471
+sba(i__main__
+Place
+p1472
+(dp1473
+g3
+(lp1474
+VRestaurants
+p1475
+asg6
+g152
+sg8
+VPahelvi Restaurant
+p1476
+sg10
+Vhttp://mumbai.burrp.com/listing/pahelvi-restaurant_turner-road_mumbai_restaurants/1991358910
+p1477
+sg12
+VTurner Road
+p1478
+sg14
+(lp1479
+V26515846
+p1480
+asg20
+g152
+sg22
+VGrd Floor Daulat House, Bandra (W), Turner Road, Bandra West, Mumbai
+p1481
+sba(i__main__
+Place
+p1482
+(dp1483
+g3
+(lp1484
+VRestaurants
+p1485
+asg6
+g152
+sg8
+VGazebo Restaurant
+p1486
+sg10
+Vhttp://mumbai.burrp.com/listing/gazebo-restaurant_linking-road_mumbai_restaurants/1131359396
+p1487
+sg12
+VLinking Road
+p1488
+sg14
+(lp1489
+V26000282
+p1490
+aV 26483106
+p1491
+asg20
+g152
+sg22
+V494, Bandra (W), Linking Road, Bandra West, Mumbai
+p1492
+sba(i__main__
+Place
+p1493
+(dp1494
+g3
+(lp1495
+VRestaurants
+p1496
+asg6
+g152
+sg8
+VGazebo Open Houserestaurant
+p1497
+sg10
+Vhttp://mumbai.burrp.com/listing/gazebo-open-houserestaurant_bandra-west_mumbai_restaurants/1174428792
+p1498
+sg12
+VBandra West
+p1499
+sg14
+(lp1500
+V26420388
+p1501
+aV 26426431
+p1502
+asg20
+g152
+sg22
+V133, Hill Road, Bandra (W), Bandra West, Mumbai
+p1503
+sba(i__main__
+Place
+p1504
+(dp1505
+g3
+(lp1506
+VRestaurants
+p1507
+asg6
+g152
+sg8
+VHotel Kohinoor Udipi
+p1508
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-kohinoor-udipi_bandra-west_mumbai_restaurants/1294438980
+p1509
+sg12
+VBandra West
+p1510
+sg14
+(lp1511
+V26435385
+p1512
+asg20
+g152
+sg22
+V162 - Ramdas Nayak Road, Hill Road, Bandra (W), Bandra West, Mumbai
+p1513
+sba(i__main__
+Place
+p1514
+(dp1515
+g3
+(lp1516
+VRestaurants
+p1517
+asg6
+g152
+sg8
+VVijay Provision Stores 
+p1518
+sg10
+Vhttp://mumbai.burrp.com/listing/vijay-provision-stores-_bandra-west_mumbai_restaurants/1804453029
+p1519
+sg12
+VBandra West
+p1520
+sg14
+(lp1521
+V26482606
+p1522
+aV 26499533 
+p1523
+asg20
+g152
+sg22
+VSilver Croft, Shop no. 12, Opp. Pali Market, Pali Mala Road , Bandra (W), Bandra West, Mumbai
+p1524
+sba(i__main__
+Place
+p1525
+(dp1526
+g3
+(lp1527
+VRestaurants
+p1528
+asg6
+g152
+sg8
+VTejani Convenient Stores 
+p1529
+sg10
+Vhttp://mumbai.burrp.com/listing/tejani-convenient-stores-_bandra-west_mumbai_restaurants/1664460643
+p1530
+sg12
+VBandra West
+p1531
+sg14
+(lp1532
+V26002844
+p1533
+aV 26005950 
+p1534
+asg20
+g152
+sg22
+VShop No. 1 & 2, Corner Viev CHS., 15th & 33th Road Junction, T.P.S. 3, Bandra (W), Bandra West, Mumbai
+p1535
+sba(i__main__
+Place
+p1536
+(dp1537
+g3
+(lp1538
+VRestaurants
+p1539
+asg6
+g152
+sg8
+VRoyal Dragon Oriental Cuisine 
+p1540
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-dragon-oriental-cuisine-_bandra-west_mumbai_restaurants/1604496049
+p1541
+sg12
+VBandra West
+p1542
+sg14
+(lp1543
+V65052401
+p1544
+aV 65052402
+p1545
+aV 26400787
+p1546
+asg20
+g152
+sg22
+VShop No.2 & 3, Chapel Avenue Complex, Chapel Road, Bandra (W), Bandra West, Mumbai
+p1547
+sba(i__main__
+Place
+p1548
+(dp1549
+g3
+(lp1550
+VRestaurants
+p1551
+asg6
+g152
+sg8
+VNew Riyaz Restaurant
+p1552
+sg10
+Vhttp://mumbai.burrp.com/listing/new-riyaz-restaurant_bandra-west_mumbai_restaurants/1884507821
+p1553
+sg12
+VBandra West
+p1554
+sg14
+(lp1555
+V26423132
+p1556
+aV 22921626
+p1557
+asg20
+g152
+sg22
+VPlot No 35, Station Road, Bandra West, Mumbai
+p1558
+sba.

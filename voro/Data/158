@@ -1,0 +1,46 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Banquet Halls
+p6
+aV Outdoor Caterers
+p7
+asS'rating'
+p8
+V3
+p9
+sS'name'
+p10
+VSpices
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/spices_kopar-khairane-e_navi-mumbai_restaurants-banquet-halls-outdoor-caterers/1245572485
+p13
+sS'region'
+p14
+VKopar Khairane (E)
+p15
+sS'phone'
+p16
+(lp17
+V27552727
+p18
+aV 27552437
+p19
+asS'cost'
+p20
+V0
+p21
+sS'addr'
+p22
+VNational Co-op. Housing Society, Plot No. 93, Sector 3, Kopar Khairane (E), Navi Mumbai
+p23
+sba.

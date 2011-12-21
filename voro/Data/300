@@ -1,0 +1,284 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+asS'rating'
+p7
+V3
+p8
+sS'name'
+p9
+VCelebrity Family Bar & Restaurant 
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/celebrity-family-bar-restaurant-_vasai-w_thane_restaurants-bars-pubs/1665414643
+p12
+sS'region'
+p13
+VVasai (W)
+p14
+sS'phone'
+p15
+(lp16
+V2339124 
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VEverest Building, Near Ambadi Bhaji Market, Vasai (W), Thane
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VBars & Pubs
+p25
+aV Restaurants
+p26
+asg7
+g8
+sg9
+VThe Status Restaurant & Bar
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/the-status-restaurant-bar_vasai-w_thane_bars-pubs-restaurants/1405043069
+p28
+sg13
+VVasai (W)
+p29
+sg15
+(lp30
+V2323934 
+p31
+aV 2326755 
+p32
+asg18
+g19
+sg20
+V7, Lake Garden , Next to Hotel the Grand Villa , Vasai (W), Thane
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg7
+g19
+sg9
+VVithal Kamat Restaurant
+p38
+sg11
+Vhttp://mumbai.burrp.com/listing/vithal-kamat-restaurant_vasai-w_thane_restaurants/18515217524
+p39
+sg13
+VVasai (W)
+p40
+sg15
+(lp41
+V9764115050
+p42
+aV 6454350
+p43
+asg18
+V0
+p44
+sg20
+VPlanet 50:50, Din Dayal Nagar, Vasai (W), Thane
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VLounges
+p49
+aV Restaurants
+p50
+asg7
+g44
+sg9
+VExotica - The Lounge
+p51
+sg11
+Vhttp://mumbai.burrp.com/listing/exotica---the-lounge_vasai-w_thane_lounges-restaurants/15522918554
+p52
+sg13
+VVasai (W)
+p53
+sg15
+(lp54
+V6050888
+p55
+aV 3294177
+p56
+asg18
+g19
+sg20
+VSai Anand Arcade, 1st Floor, Above Waman Hari Pethe Jewellers, Vasai (W), Thane
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg7
+g44
+sg9
+VTemptation 9 
+p62
+sg11
+Vhttp://mumbai.burrp.com/listing/temptation-9-_vasai-w_thane_restaurants/13332096376
+p63
+sg13
+VVasai (W)
+p64
+sg15
+(lp65
+V8433482575
+p66
+asg18
+g19
+sg20
+VAmbadi Road, Vasai (W), Thane
+p67
+sba(i__main__
+Place
+p68
+(dp69
+g3
+(lp70
+VRestaurants
+p71
+aV Bars & Pubs
+p72
+asg7
+g44
+sg9
+VGolden Rock 
+p73
+sg11
+Vhttp://mumbai.burrp.com/listing/golden-rock-_vasai-w_thane_restaurants-bars-pubs/1415043168
+p74
+sg13
+VVasai (W)
+p75
+sg15
+(lp76
+V2460128 
+p77
+aV 2463639 
+p78
+asg18
+g44
+sg20
+VA/11, Golden Co-Op Housing Society, Vasai (W), Thane
+p79
+sba(i__main__
+Place
+p80
+(dp81
+g3
+(lp82
+VRestaurants
+p83
+asg7
+g44
+sg9
+VAlmeida's Kitchen
+p84
+sg11
+Vhttp://mumbai.burrp.com/listing/almeidas-kitchen_vasai-w_thane_restaurants/1635414346
+p85
+sg13
+VVasai (W)
+p86
+sg15
+(lp87
+V2506557109
+p88
+asg18
+g19
+sg20
+VNear Papadi Telephone Exchange, Vasai(W), Vasai (W), Thane
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VRestaurants
+p93
+aV Bars & Pubs
+p94
+asg7
+g44
+sg9
+VBageecha Bar & Restaurant 
+p95
+sg11
+Vhttp://mumbai.burrp.com/listing/bageecha-bar-restaurant-_vasai-w_thane_restaurants-bars-pubs/1655414544
+p96
+sg13
+VVasai (W)
+p97
+sg15
+(lp98
+V2327159 
+p99
+asg18
+g19
+sg20
+VNear Gonsalo Garcia College, Behind Vasai Cricket Ground, Vasai (W), Thane
+p100
+sba(i__main__
+Place
+p101
+(dp102
+g3
+(lp103
+VRestaurants
+p104
+asg7
+V1
+p105
+sg9
+VMambos
+p106
+sg11
+Vhttp://mumbai.burrp.com/listing/mambos_vasai-w_thane_restaurants/1945723415
+p107
+sg13
+VVasai (W)
+p108
+sg15
+(lp109
+V6453078
+p110
+asg18
+g19
+sg20
+VStella, Vasai (W), Thane
+p111
+sba.

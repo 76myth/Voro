@@ -1,0 +1,142 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VKim Lin Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/kim-lin-restaurant_virar-w_thane_restaurants/15533484554
+p11
+sS'region'
+p12
+VVirar (W)
+p13
+sS'phone'
+p14
+(lp15
+V9323610623
+p16
+aV 8796139483
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VShop No 1, Yashwant Kunj, 100 SP Road, Virar (W), Thane
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VWoodstick Thai Chinese Restaurant 
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/woodstick-thai-chinese-restaurant-_virar-w_thane_restaurants/11733948792
+p27
+sg12
+VVirar (W)
+p28
+sg14
+(lp29
+V7875855333
+p30
+asg18
+g19
+sg20
+VAbrol Enclave, Nalasopara Road , Virar (W), Thane
+p31
+sba(i__main__
+Place
+p32
+(dp33
+g3
+(lp34
+VRestaurants
+p35
+asg6
+g7
+sg8
+VVrindavan Restaurant
+p36
+sg10
+Vhttp://mumbai.burrp.com/listing/vrindavan-restaurant_virar-w_thane_restaurants/11122284198
+p37
+sg12
+VVirar (W)
+p38
+sg14
+(lp39
+V2507045
+p40
+aV 6525265
+p41
+asg18
+g7
+sg20
+VNew Amba Krupa Housing Society, Jakat Naka, Virar (W), Thane
+p42
+sba(i__main__
+Place
+p43
+(dp44
+g3
+(lp45
+VWater Sport Facilities
+p46
+aV Adventure Sports Organizers
+p47
+aV Amusement Parks
+p48
+aV Swimming Pools
+p49
+aV Discotheques
+p50
+aV Summer Camp Organizers
+p51
+aV Beaches
+p52
+asg6
+g7
+sg8
+VGreen Paradise Resort, Arnala Beach
+p53
+sg10
+Vhttp://mumbai.burrp.com/listing/green-paradise-resort-arnala-beach_virar-w_thane_water-sport-facilities-adventure-sports-organizers-amusement-parks/1344745475
+p54
+sg12
+VVirar (W)
+p55
+sg14
+(lp56
+V9822473986
+p57
+aV 2585604
+p58
+asg18
+g19
+sg20
+Vgreen paradise resort arnala beach, Virar (W), Thane
+p59
+sba.

@@ -1,0 +1,1038 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Lounges
+p6
+asS'rating'
+p7
+V5
+p8
+sS'name'
+p9
+VExotic Flavors
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/exotic-flavors_mulund-west_mumbai_restaurants-lounges/1516412158
+p12
+sS'region'
+p13
+VMulund West
+p14
+sS'phone'
+p15
+(lp16
+V65808028
+p17
+aV 7738485299
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VD - Wing, Shop No. 2, Saidham, P. K. Road, Mulund West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+aV Bars & Pubs
+p27
+asg7
+V4
+p28
+sg9
+VPop Tate's
+p29
+sg11
+Vhttp://mumbai.burrp.com/listing/pop-tates_mulund-west_mumbai_restaurants-bars-pubs/1958514
+p30
+sg13
+VMulund West
+p31
+sg15
+(lp32
+V22929456
+p33
+asg19
+V3
+p34
+sg21
+V3rd Floor, 'R' Mall, LBS Marg, Mulund West, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg7
+g28
+sg9
+VUrban Tadka
+p40
+sg11
+Vhttp://mumbai.burrp.com/listing/urban-tadka_mulund-west_mumbai_restaurants/148255861
+p41
+sg13
+VMulund West
+p42
+sg15
+(lp43
+V22929457
+p44
+aV 21644473
+p45
+aV 21644475
+p46
+asg19
+g20
+sg21
+V3rd Floor, LBS Marg, Mulund West, Mumbai
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VBars & Pubs
+p51
+aV Banquet Halls
+p52
+aV Restaurants
+p53
+asg7
+g28
+sg9
+VDeepak Bar & Restaurant
+p54
+sg11
+Vhttp://mumbai.burrp.com/listing/deepak-bar-restaurant_mulund-west_mumbai_bars-pubs-banquet-halls-restaurants/1635855346
+p55
+sg13
+VMulund West
+p56
+sg15
+(lp57
+V25618050
+p58
+aV 25939134
+p59
+aV 25939405
+p60
+aV 9833243071
+p61
+asg19
+V1
+p62
+sg21
+VSai Jeevan, S.V.P. Road, Opp. Mulund Railway Station (West), Mulund West, Mumbai
+p63
+sba(i__main__
+Place
+p64
+(dp65
+g3
+(lp66
+VRestaurants
+p67
+asg7
+g34
+sg9
+VThai Chi
+p68
+sg11
+Vhttp://mumbai.burrp.com/listing/thai-chi_mulund-west_mumbai_restaurants/168437841
+p69
+sg13
+VMulund West
+p70
+sg15
+(lp71
+V25647733
+p72
+aV 32107441
+p73
+asg19
+g20
+sg21
+VUnit No. S-113B, 1st Floor, Mulund West, Mumbai
+p74
+sba(i__main__
+Place
+p75
+(dp76
+g3
+(lp77
+VRestaurants
+p78
+aV Lounges
+p79
+aV Cafes
+p80
+aV Outdoor Caterers
+p81
+asg7
+g34
+sg9
+VBistro Grill
+p82
+sg11
+Vhttp://mumbai.burrp.com/listing/bistro-grill_mulund-west_mumbai_restaurants-lounges-cafes/1152502594
+p83
+sg13
+VMulund West
+p84
+sg15
+(lp85
+V25930051
+p86
+aV 25930052
+p87
+asg19
+g20
+sg21
+VShop No. 113/A, 1st Floor, Mulund West, Mumbai
+p88
+sba(i__main__
+Place
+p89
+(dp90
+g3
+(lp91
+VRestaurants
+p92
+asg7
+g34
+sg9
+VRajdhani
+p93
+sg11
+Vhttp://mumbai.burrp.com/listing/rajdhani_mulund-west_mumbai_restaurants/13447475
+p94
+sg13
+VMulund West
+p95
+sg15
+(lp96
+V66432843
+p97
+aV 66432601
+p98
+aV 66432603
+p99
+asg19
+V0
+p100
+sg21
+VNirmal Lifestyle Mall, LBS Marg, Mulund (W), Mulund (W), Mulund West, Mumbai
+p101
+sba(i__main__
+Place
+p102
+(dp103
+g3
+(lp104
+VRestaurants
+p105
+asg7
+g34
+sg9
+VSpice Lane 
+p106
+sg11
+Vhttp://mumbai.burrp.com/listing/spice-lane-_mulund-west_mumbai_restaurants/1996632910
+p107
+sg13
+VMulund West
+p108
+sg15
+(lp109
+V67587671
+p110
+aV 67587672
+p111
+aV 67587673
+p112
+asg19
+g20
+sg21
+VRoyal Classic, Nahur Village Road, Mulund West, Mumbai
+p113
+sba(i__main__
+Place
+p114
+(dp115
+g3
+(lp116
+VRestaurants
+p117
+aV Cafes
+p118
+asg7
+g8
+sg9
+VKadam's Cafe
+p119
+sg11
+Vhttp://mumbai.burrp.com/listing/kadams-cafe_mulund-west_mumbai_restaurants-cafes/13332690376
+p120
+sg13
+VMulund West
+p121
+sg15
+(lp122
+V9004667788
+p123
+aV 7738667788
+p124
+asg19
+g20
+sg21
+VA-2 Shop no.20, Lok Kailash, J.S.D Road, Mulund West, Mumbai
+p125
+sba(i__main__
+Place
+p126
+(dp127
+g3
+(lp128
+VRestaurants
+p129
+aV Pool Table Facilities
+p130
+aV Cafes
+p131
+aV Lounges
+p132
+asg7
+g28
+sg9
+VCafe Cabana
+p133
+sg11
+Vhttp://mumbai.burrp.com/listing/cafe-cabana_mulund-west_mumbai_restaurants-pool-table-facilities-cafes/1435457366
+p134
+sg13
+VMulund West
+p135
+sg15
+(lp136
+V25624999
+p137
+aV 9819506333
+p138
+asg19
+g20
+sg21
+VOpposite Wockhart Hospital, Mulund-Goregaon Link Road, Mulund West, Mumbai
+p139
+sba(i__main__
+Place
+p140
+(dp141
+g3
+(lp142
+VRestaurants
+p143
+asg7
+g28
+sg9
+VVishwa Samrat
+p144
+sg11
+Vhttp://mumbai.burrp.com/listing/vishwa-samrat_mulund-west_mumbai_restaurants/19671613
+p145
+sg13
+VMulund West
+p146
+sg15
+(lp147
+V25600114
+p148
+aV 25675902
+p149
+aV 25908324
+p150
+asg19
+g100
+sg21
+VJunction of PK and NSB Road, Mulund (W), Mulund West, Mumbai
+p151
+sba(i__main__
+Place
+p152
+(dp153
+g3
+(lp154
+VRestaurants
+p155
+aV Bars & Pubs
+p156
+asg7
+g28
+sg9
+VNisarga Bar & Restaurant
+p157
+sg11
+Vhttp://mumbai.burrp.com/listing/nisarga-bar-restaurant_mulund-west_mumbai_restaurants-bars-pubs/186169623
+p158
+sg13
+VMulund West
+p159
+sg15
+(lp160
+V25613132
+p161
+asg19
+g100
+sg21
+V18 & 19, Runwal Towers, LBS Marg, Mulund (W), Mulund West, Mumbai
+p162
+sba(i__main__
+Place
+p163
+(dp164
+g3
+(lp165
+VRestaurants
+p166
+asg7
+g34
+sg9
+VFine Dining
+p167
+sg11
+Vhttp://mumbai.burrp.com/listing/fine-dining_mulund-west_mumbai_restaurants/157409752
+p168
+sg13
+VMulund West
+p169
+sg15
+(lp170
+V66432602
+p171
+aV 66413287
+p172
+aV 66888077
+p173
+asg19
+g20
+sg21
+V2nd Floor, Nirmal Lifestyle Mall, Above McDonalds, LBS Marg, Mulund (W), Mulund West, Mumbai
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VRestaurants
+p178
+aV Bars & Pubs
+p179
+asg7
+g28
+sg9
+VAtithi
+p180
+sg11
+Vhttp://mumbai.burrp.com/listing/atithi_mulund-west_mumbai_restaurants-bars-pubs/126946683
+p181
+sg13
+VMulund West
+p182
+sg15
+(lp183
+V25640123
+p184
+aV 25602588
+p185
+asg19
+g20
+sg21
+VJ.S. Dosa Road, Mulund West, Mumbai
+p186
+sba(i__main__
+Place
+p187
+(dp188
+g3
+(lp189
+VRestaurants
+p190
+asg7
+g28
+sg9
+VVishwa Bharati
+p191
+sg11
+Vhttp://mumbai.burrp.com/listing/vishwa-bharati_mulund-west_mumbai_restaurants/19571514
+p192
+sg13
+VMulund West
+p193
+sg15
+(lp194
+V25683438
+p195
+aV 25610193
+p196
+asg19
+g100
+sg21
+VOpposite Railway Station, Mulund (W), Mulund West, Mumbai
+p197
+sba(i__main__
+Place
+p198
+(dp199
+g3
+(lp200
+VRestaurants
+p201
+asg7
+g28
+sg9
+VAmantran
+p202
+sg11
+Vhttp://mumbai.burrp.com/listing/amantran_mulund-west_mumbai_restaurants/140102069
+p203
+sg13
+VMulund West
+p204
+sg15
+(lp205
+V25640122
+p206
+aV 25617467
+p207
+asg19
+g100
+sg21
+VMinerva Chambers, J N Road, Mulund (W), Mulund West, Mumbai
+p208
+sba(i__main__
+Place
+p209
+(dp210
+g3
+(lp211
+VRestaurants
+p212
+asg7
+g28
+sg9
+VWoodlands
+p213
+sg11
+Vhttp://mumbai.burrp.com/listing/woodlands_mulund-west_mumbai_restaurants/118279891
+p214
+sg13
+VMulund West
+p215
+sg15
+(lp216
+V25623755
+p217
+aV 25623455
+p218
+asg19
+g20
+sg21
+VDevi Dayal Road, (Meghal Industrial Estate), Mulund West, Mumbai
+p219
+sba(i__main__
+Place
+p220
+(dp221
+g3
+(lp222
+VDessert Shops
+p223
+aV Restaurants
+p224
+aV Cafes
+p225
+asg7
+g34
+sg9
+VAmruta Veg Restaurant
+p226
+sg11
+Vhttp://mumbai.burrp.com/listing/amruta-veg-restaurant_lbs-marg-mulund-west_mumbai_dessert-shops-restaurants-cafes/14911154960
+p227
+sg13
+VLBS Marg (Mulund West)
+p228
+sg15
+(lp229
+V25673438
+p230
+aV 25905152
+p231
+aV 25909495
+p232
+aV 25939720
+p233
+asg19
+g100
+sg21
+VShop No 1/2, Rumwal Heights Commercial Premises, LBS Marg (Mulund West), Mulund West, Mumbai
+p234
+sba(i__main__
+Place
+p235
+(dp236
+g3
+(lp237
+VRestaurants
+p238
+asg7
+g34
+sg9
+VApna Dhaba
+p239
+sg11
+Vhttp://mumbai.burrp.com/listing/apna-dhaba_mulund-west_mumbai_restaurants/17912201930
+p240
+sg13
+VMulund West
+p241
+sg15
+(lp242
+V25905839
+p243
+aV 32015120
+p244
+aV 32015123
+p245
+asg19
+g100
+sg21
+VHallmark Building, Ground Floor, L B S Marg, Mulund West, Mumbai
+p246
+sba(i__main__
+Place
+p247
+(dp248
+g3
+(lp249
+VRestaurants
+p250
+asg7
+g34
+sg9
+VRasoi
+p251
+sg11
+Vhttp://mumbai.burrp.com/listing/rasoi_mulund-west_mumbai_restaurants/1291360980
+p252
+sg13
+VMulund West
+p253
+sg15
+(lp254
+V25653277
+p255
+asg19
+g100
+sg21
+V5 Bodke Bldg, Station Road, Mulund (W), Mulund West, Mumbai
+p256
+sba(i__main__
+Place
+p257
+(dp258
+g3
+(lp259
+VRestaurants
+p260
+asg7
+g100
+sg9
+VShree Krishna Sagar
+p261
+sg11
+Vhttp://mumbai.burrp.com/listing/shree-krishna-sagar_mulund-west_mumbai_restaurants/17512255534
+p262
+sg13
+VMulund West
+p263
+sg15
+(lp264
+V25672574
+p265
+aV 25687853
+p266
+aV 25939529
+p267
+asg19
+g20
+sg21
+VShop No 1&2   Runwal Tower, LBS Marg, Mulund West, Mumbai
+p268
+sba(i__main__
+Place
+p269
+(dp270
+g3
+(lp271
+VRestaurants
+p272
+asg7
+g100
+sg9
+VShri Ram Pure Veg Family Restaurant
+p273
+sg11
+Vhttp://mumbai.burrp.com/listing/shri-ram-pure-veg-family-restaurant_mulund-west_mumbai_restaurants/12512178584
+p274
+sg13
+VMulund West
+p275
+sg15
+(lp276
+V25686738
+p277
+aV 25686739
+p278
+aV 25686740
+p279
+asg19
+g100
+sg21
+VSt Pius Shopping Centre, M M M Road, Mulund West, Mumbai
+p280
+sba(i__main__
+Place
+p281
+(dp282
+g3
+(lp283
+VRestaurants
+p284
+asg7
+g100
+sg9
+VPooja Family Restaurant And Bar
+p285
+sg11
+Vhttp://mumbai.burrp.com/listing/pooja-family-restaurant-and-bar_mulund-west_mumbai_restaurants/15312298356
+p286
+sg13
+VMulund West
+p287
+sg15
+(lp288
+V25910115
+p289
+aV 25929818
+p290
+aV 9819751374
+p291
+asg19
+g100
+sg21
+VShop No B/7, Vrundavan Society, Goregaon Mulund Link Road, Mulund West, Mumbai
+p292
+sba(i__main__
+Place
+p293
+(dp294
+g3
+(lp295
+VRestaurants
+p296
+asg7
+g62
+sg9
+VZaika
+p297
+sg11
+Vhttp://mumbai.burrp.com/listing/zaika_mulund-west_mumbai_restaurants/11923760990
+p298
+sg13
+VMulund West
+p299
+sg15
+(lp300
+V64522099
+p301
+aV 21641616
+p302
+asg19
+g20
+sg21
+VUnit No 18, 3rd Floor, Mulund West, Mumbai
+p303
+sba(i__main__
+Place
+p304
+(dp305
+g3
+(lp306
+VRestaurants
+p307
+asg7
+g100
+sg9
+VBombay Blues Restaurant
+p308
+sg11
+Vhttp://mumbai.burrp.com/listing/bombay-blues-restaurant_lbs-marg-mulund-west_mumbai_restaurants/16511156544
+p309
+sg13
+VLBS Marg (Mulund West)
+p310
+sg15
+(lp311
+V67551333
+p312
+aV 67551444
+p313
+asg19
+g100
+sg21
+V3rd Floor, Runwall Mall, LBS Marg (Mulund West), Mulund West, Mumbai
+p314
+sba(i__main__
+Place
+p315
+(dp316
+g3
+(lp317
+VRestaurants
+p318
+asg7
+g100
+sg9
+VSmokin' Joe's
+p319
+sg11
+Vhttp://mumbai.burrp.com/listing/smokin-joes_mulund-west_mumbai_restaurants/19717712
+p320
+sg13
+VMulund West
+p321
+sg15
+(lp322
+V65969488
+p323
+aV 65969489
+p324
+asg19
+g100
+sg21
+V1-2, Runwal Heights, LBS Marg, Mulund (W), Mulund West, Mumbai
+p325
+sba(i__main__
+Place
+p326
+(dp327
+g3
+(lp328
+VRestaurants
+p329
+asg7
+g100
+sg9
+VPizza Hut
+p330
+sg11
+Vhttp://mumbai.burrp.com/listing/pizza-hut_mulund-west_mumbai_restaurants/13047079
+p331
+sg13
+VMulund West
+p332
+sg15
+(lp333
+V65031969
+p334
+asg19
+g100
+sg21
+VNirmal Lifestyles, LBS Marg, Mulund (W), Mulund West, Mumbai
+p335
+sba(i__main__
+Place
+p336
+(dp337
+g3
+(lp338
+VCafes
+p339
+aV Food-court Stalls
+p340
+aV Restaurants
+p341
+asg7
+g100
+sg9
+VPizza Hut
+p342
+sg11
+Vhttp://mumbai.burrp.com/listing/pizza-hut_lbs-marg-mulund-west_mumbai_cafes-food-court-stalls-restaurants/19511159514
+p343
+sg13
+VLBS Marg (Mulund West)
+p344
+sg15
+(lp345
+V39883988
+p346
+aV 67031144
+p347
+aV 67550503
+p348
+asg19
+g100
+sg21
+VGround Floor, C/O Nirmal Lifestyle Mall, LBS Marg (Mulund West), Mulund West, Mumbai
+p349
+sba(i__main__
+Place
+p350
+(dp351
+g3
+(lp352
+VFood-court Stalls
+p353
+aV Fast Food Shops
+p354
+aV Restaurants
+p355
+aV Cafes
+p356
+asg7
+g100
+sg9
+VUnited Restaurent Pvt Ltd
+p357
+sg11
+Vhttp://mumbai.burrp.com/listing/united-restaurent-pvt-ltd_mulund-west_mumbai_food-court-stalls-fast-food-shops-restaurants/13512188574
+p358
+sg13
+VMulund West
+p359
+sg15
+(lp360
+V21641717
+p361
+aV 21646727
+p362
+aV 32557777
+p363
+asg19
+g100
+sg21
+VShop No 1/2, Ground Floor, Swapna Nagri, Vasant Garden, MCGN Building, Near Cafe Coffee Day Restaurent, Mulund West, Mumbai
+p364
+sba(i__main__
+Place
+p365
+(dp366
+g3
+(lp367
+VRestaurants
+p368
+asg7
+g100
+sg9
+VThai Chi Restaurant
+p369
+sg11
+Vhttp://mumbai.burrp.com/listing/thai-chi-restaurant_mulund-west_mumbai_restaurants/1485592861
+p370
+sg13
+VMulund West
+p371
+sg15
+(lp372
+V25647733
+p373
+aV 32107441
+p374
+asg19
+g20
+sg21
+VC/o Thaichi Oriental Cuisine, 113-B, First Floor, Nirmal Lifestyle, LBS Marg, Mulund (W), Mulund West, Mumbai
+p375
+sba(i__main__
+Place
+p376
+(dp377
+g3
+(lp378
+VRestaurants
+p379
+asg7
+g100
+sg9
+VJyoti Lunch Home
+p380
+sg11
+Vhttp://mumbai.burrp.com/listing/jyoti-lunch-home_mulund-west_mumbai_restaurants/1981223811
+p381
+sg13
+VMulund West
+p382
+sg15
+(lp383
+V6992145
+p384
+asg19
+g62
+sg21
+VLuv Kush Building, M. G. Road, Mulund (W), Mulund West, Mumbai
+p385
+sba(i__main__
+Place
+p386
+(dp387
+g3
+(lp388
+VRestaurants
+p389
+asg7
+g100
+sg9
+VShera Food Court
+p390
+sg11
+Vhttp://mumbai.burrp.com/listing/shera-food-court_mulund-west_mumbai_restaurants/18512256524
+p391
+sg13
+VMulund West
+p392
+sg15
+(lp393
+V25661842
+p394
+aV 25661859
+p395
+aV 25661928
+p396
+asg19
+g100
+sg21
+VLbs Marg, Opp Mayuresh Srishti Nr Asian Paint, Mulund West, Mumbai
+p397
+sba.

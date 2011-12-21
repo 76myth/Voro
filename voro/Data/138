@@ -1,0 +1,1134 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VFast Food Shops
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VYoko Sizzlers
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/yoko-sizzlers_kandivali-east_mumbai_fast-food-shops-restaurants/1421398267
+p12
+sS'region'
+p13
+VKandivali East
+p14
+sS'phone'
+p15
+(lp16
+V65250155
+p17
+aV 65250130
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VVishnu Shivam Mall, Thakur Village, Kandivali East, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg7
+V3
+p27
+sg9
+VUrban Tadka
+p28
+sg11
+Vhttp://mumbai.burrp.com/listing/urban-tadka_thakur-complex_mumbai_restaurants/1716138
+p29
+sg13
+VThakur complex
+p30
+sg15
+(lp31
+V28546083
+p32
+aV 28546084
+p33
+aV 28546085
+p34
+aV 22937312
+p35
+asg19
+g20
+sg21
+VC Wing, Gayatri Shivam Building, Asha Nagar, Thakur complex, Kandivali East, Mumbai
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VTake Away Shops
+p40
+aV Restaurants
+p41
+aV Outdoor Caterers
+p42
+aV Fast Food Shops
+p43
+aV Home Caterers
+p44
+asg7
+g8
+sg9
+VAmritsar Da Dhaba
+p45
+sg11
+Vhttp://mumbai.burrp.com/listing/amritsar-da-dhaba_kandivali-east_mumbai_take-away-shops-restaurants-outdoor-caterers/12318325386
+p46
+sg13
+VKandivali East
+p47
+sg15
+(lp48
+V28855622
+p49
+aV 28855623
+p50
+aV 7738477719
+p51
+aV 7738477720
+p52
+asg19
+g20
+sg21
+VThakur Village, Shiv Surbi , Shop No. 21, 22, Jivalapada , Kandivali East, Mumbai
+p53
+sba(i__main__
+Place
+p54
+(dp55
+g3
+(lp56
+VLounges
+p57
+aV Banquet Halls
+p58
+aV Bars & Pubs
+p59
+aV Restaurants
+p60
+asg7
+g27
+sg9
+VCascade
+p61
+sg11
+Vhttp://mumbai.burrp.com/listing/cascade_kandivali-east_mumbai_lounges-banquet-halls-bars-pubs/120109089
+p62
+sg13
+VKandivali East
+p63
+sg15
+(lp64
+V66257722
+p65
+aV 28846988
+p66
+aV 65252222
+p67
+asg19
+g20
+sg21
+VThe Village Avenue Residency, 1st Floor, Thakur Cinema Mall, Kandivali East, Mumbai
+p68
+sba(i__main__
+Place
+p69
+(dp70
+g3
+(lp71
+VRestaurants
+p72
+asg7
+g27
+sg9
+VTandoori Table
+p73
+sg11
+Vhttp://mumbai.burrp.com/listing/tandoori-table_kandivali-east_mumbai_restaurants/1101359099
+p74
+sg13
+VKandivali East
+p75
+sg15
+(lp76
+V65264443
+p77
+aV 65264445
+p78
+aV 28462599
+p79
+aV 28461789
+p80
+asg19
+g27
+sg21
+V3rd Flr, Vishnu Shivam Mall, Kandivali (E), Kandivali East, Mumbai
+p81
+sba(i__main__
+Place
+p82
+(dp83
+g3
+(lp84
+VBanquet Halls
+p85
+aV Restaurants
+p86
+aV Mithai & Farsan Shops
+p87
+asg7
+g8
+sg9
+VRamas Fast Food
+p88
+sg11
+Vhttp://mumbai.burrp.com/listing/ramas-fast-food_kandivali-east_mumbai_banquet-halls-restaurants-mithai-farsan-shops/1153033594
+p89
+sg13
+VKandivali East
+p90
+sg15
+(lp91
+V66435901
+p92
+aV 66435903
+p93
+aV 66435902
+p94
+aV 28466457
+p95
+asg19
+g20
+sg21
+VShop No. 51-52, Evershine Millenium Paradise, Building No. 54, Thakur Village, Kandivali East, Mumbai
+p96
+sba(i__main__
+Place
+p97
+(dp98
+g3
+(lp99
+VRestaurants
+p100
+asg7
+g8
+sg9
+VThe Avenue
+p101
+sg11
+Vhttp://mumbai.burrp.com/listing/the-avenue_kandivali-east_mumbai_restaurants/11163198
+p102
+sg13
+VKandivali East
+p103
+sg15
+(lp104
+V28540888
+p105
+aV 28700000
+p106
+aV 28709999
+p107
+asg19
+V0
+p108
+sg21
+VThe Avenue Hotels Pvt. Ltd, Western Express Highway, Thakur Complex, Kandivali (E), Kandivali East, Mumbai
+p109
+sba(i__main__
+Place
+p110
+(dp111
+g3
+(lp112
+VCafes
+p113
+aV Restaurants
+p114
+aV Fast Food Shops
+p115
+asg7
+V5
+p116
+sg9
+VBrowns The Cafe
+p117
+sg11
+Vhttp://mumbai.burrp.com/listing/browns-the-cafe_thakur-complex_mumbai_cafes-restaurants-fast-food-shops/19715056712
+p118
+sg13
+VThakur complex
+p119
+sg15
+(lp120
+V28705574
+p121
+aV 69977701
+p122
+asg19
+g20
+sg21
+VShop No B/5, Krishna Palace, Western Express Highway, Thakur complex, Kandivali East, Mumbai
+p123
+sba(i__main__
+Place
+p124
+(dp125
+g3
+(lp126
+VRestaurants
+p127
+asg7
+g27
+sg9
+VNirvana Restaurant
+p128
+sg11
+Vhttp://mumbai.burrp.com/listing/nirvana-restaurant_kandivali-east_mumbai_restaurants/1442523465
+p129
+sg13
+VKandivali East
+p130
+sg15
+(lp131
+V65922233
+p132
+aV 65922232
+p133
+aV 28851430
+p134
+asg19
+V1
+p135
+sg21
+V21/22/23, Halley 50, Evershine Millenium Paradise, F-Wing, 120 Feet Road, Thakur Village, Kandivali East, Mumbai
+p136
+sba(i__main__
+Place
+p137
+(dp138
+g3
+(lp139
+VRestaurants
+p140
+asg7
+g8
+sg9
+VMatsyagandha
+p141
+sg11
+Vhttp://mumbai.burrp.com/listing/matsyagandha_kandivali-east_mumbai_restaurants/1236985386
+p142
+sg13
+VKandivali East
+p143
+sg15
+(lp144
+V28704447
+p145
+aV 28704445
+p146
+aV 32583000
+p147
+asg19
+g135
+sg21
+VShop No 36/37/38, Building A/5, S.C.N Co-op Housing Society , Thakur Complex , Kandivali East, Mumbai
+p148
+sba(i__main__
+Place
+p149
+(dp150
+g3
+(lp151
+VOutdoor Caterers
+p152
+aV Banquet Halls
+p153
+aV Restaurants
+p154
+asg7
+g27
+sg9
+VBayLeaf  Veg
+p155
+sg11
+Vhttp://mumbai.burrp.com/listing/bayleaf-veg_thakur-complex_mumbai_outdoor-caterers-banquet-halls-restaurants/194359415
+p156
+sg13
+VThakur complex
+p157
+sg15
+(lp158
+V28704444
+p159
+aV 28706666
+p160
+aV 32584000
+p161
+asg19
+g135
+sg21
+VSaraf Choudhary Nagar, Thakur complex, Kandivali East, Mumbai
+p162
+sba(i__main__
+Place
+p163
+(dp164
+g3
+(lp165
+VRestaurants
+p166
+asg7
+g27
+sg9
+VSurbhi
+p167
+sg11
+Vhttp://mumbai.burrp.com/listing/surbhi_kandivali-east_mumbai_restaurants/18361326
+p168
+sg13
+VKandivali East
+p169
+sg15
+(lp170
+V28540000
+p171
+aV 28543333
+p172
+aV 28548464
+p173
+aV 28541011
+p174
+asg19
+g108
+sg21
+VShiv Sagar Bldg., 90 1/2 Feet Road. Asha Nagar, Near Polytechnic College, Kandivali East, Mumbai
+p175
+sba(i__main__
+Place
+p176
+(dp177
+g3
+(lp178
+VRestaurants
+p179
+asg7
+g8
+sg9
+VBM's Babumoshai
+p180
+sg11
+Vhttp://mumbai.burrp.com/listing/bms-babumoshai_kandivali-east_mumbai_restaurants/15919273950
+p181
+sg13
+VKandivali East
+p182
+sg15
+(lp183
+V65885830
+p184
+aV 65132504
+p185
+aV 9324889614
+p186
+aV 9930798883
+p187
+asg19
+g108
+sg21
+VShop No. 24, Rakhee Building of Vasant Utsav C. H. S., Thakur Village, Kandivali East, Mumbai
+p188
+sba(i__main__
+Place
+p189
+(dp190
+g3
+(lp191
+VRestaurants
+p192
+asg7
+g8
+sg9
+VHungry Eyez
+p193
+sg11
+Vhttp://mumbai.burrp.com/listing/hungry-eyez_kandivali-east_mumbai_restaurants/1375249772
+p194
+sg13
+VKandivali East
+p195
+sg15
+(lp196
+V64461079
+p197
+aV 64461089
+p198
+aV 9967800229
+p199
+aV 9967798567
+p200
+asg19
+g135
+sg21
+VGokul Horizon, D-22/23, Jivlapada Thakur Village, Kandivali (E), Kandivali East, Mumbai
+p201
+sba(i__main__
+Place
+p202
+(dp203
+g3
+(lp204
+VRestaurants
+p205
+asg7
+g20
+sg9
+VPizza Hut
+p206
+sg11
+Vhttp://mumbai.burrp.com/listing/pizza-hut_kandivali-east_mumbai_restaurants/12046089
+p207
+sg13
+VKandivali East
+p208
+sg15
+(lp209
+V28870700 
+p210
+aV 39883988
+p211
+asg19
+g20
+sg21
+VUnit No 1-7, Thakur Cinema and Welfare Centre, Thakur Village, Kandivali East, Mumbai
+p212
+sba(i__main__
+Place
+p213
+(dp214
+g3
+(lp215
+VRestaurants
+p216
+asg7
+g20
+sg9
+VThe Golden Chariot
+p217
+sg11
+Vhttp://mumbai.burrp.com/listing/the-golden-chariot_kandivali-east_mumbai_restaurants/1511228158
+p218
+sg13
+VKandivali East
+p219
+sg15
+(lp220
+V28547258
+p221
+aV 28547259
+p222
+asg19
+g27
+sg21
+VThakur Complex, Western Express Highway, Kandivali (E), Kandivali East, Mumbai
+p223
+sba(i__main__
+Place
+p224
+(dp225
+g3
+(lp226
+VRestaurants
+p227
+asg7
+g20
+sg9
+VNeelam-E-Punjab
+p228
+sg11
+Vhttp://mumbai.burrp.com/listing/neelam-e-punjab_thakur-complex_mumbai_restaurants/12522231584
+p229
+sg13
+VThakur complex
+p230
+sg15
+(lp231
+V28879595
+p232
+aV 28879596
+p233
+asg19
+g20
+sg21
+VKulraj Broadway Annex Mall, Nr. Prithvi Enclave, Off Western Express Highway no 8, Borivali East, Thakur complex, Kandivali East, Mumbai
+p234
+sba(i__main__
+Place
+p235
+(dp236
+g3
+(lp237
+VRestaurants
+p238
+asg7
+g20
+sg9
+VSouthern Treat
+p239
+sg11
+Vhttp://mumbai.burrp.com/listing/southern-treat_kandivali-east_mumbai_restaurants/180268029
+p240
+sg13
+VKandivali East
+p241
+sg15
+(lp242
+V28856564
+p243
+aV 28865588
+p244
+aV 28879205
+p245
+asg19
+g135
+sg21
+VRangoli Bldg., Shop No. 2, Vasant Utsav, Thakur Village, Kandivali (E), Kandivali East, Mumbai
+p246
+sba(i__main__
+Place
+p247
+(dp248
+g3
+(lp249
+VRestaurants
+p250
+aV Take Away Shops
+p251
+asg7
+g8
+sg9
+VHari Mirch
+p252
+sg11
+Vhttp://mumbai.burrp.com/listing/hari-mirch_kandivali-east_mumbai_restaurants-take-away-shops/15922261950
+p253
+sg13
+VKandivali East
+p254
+sg15
+(lp255
+V65503111
+p256
+aV 65502111
+p257
+asg19
+g20
+sg21
+VCentrium Mall, Shop No. 37, Ground Floor, Lokhandwala Township, Kandivali East, Mumbai
+p258
+sba(i__main__
+Place
+p259
+(dp260
+g3
+(lp261
+VRestaurants
+p262
+aV Banquet Halls
+p263
+asg7
+g8
+sg9
+VShivam Sundaram
+p264
+sg11
+Vhttp://mumbai.burrp.com/listing/shivam-sundaram_thakur-complex_mumbai_restaurants-banquet-halls/1511390158
+p265
+sg13
+VThakur complex
+p266
+sg15
+(lp267
+V28709777
+p268
+aV 28709222
+p269
+aV 28547346
+p270
+aV 28544207
+p271
+asg19
+g135
+sg21
+VMaruti Towers, Western Express Highway, Thakur complex, Kandivali East, Mumbai
+p272
+sba(i__main__
+Place
+p273
+(dp274
+g3
+(lp275
+VRestaurants
+p276
+asg7
+g8
+sg9
+VChola Restaurant
+p277
+sg11
+Vhttp://mumbai.burrp.com/listing/chola-restaurant_kandivali-east_mumbai_restaurants/12910540980
+p278
+sg13
+VKandivali East
+p279
+sg15
+(lp280
+V28842363
+p281
+aV 28842364
+p282
+asg19
+g108
+sg21
+VGokul Nagari 2, Dattani Park, Western Express Highway, Kandivali East, Mumbai
+p283
+sba(i__main__
+Place
+p284
+(dp285
+g3
+(lp286
+VRestaurants
+p287
+asg7
+g8
+sg9
+VDavat Restaurant
+p288
+sg11
+Vhttp://mumbai.burrp.com/listing/davat-restaurant_kandivali-east_mumbai_restaurants/17510590534
+p289
+sg13
+VKandivali East
+p290
+sg15
+(lp291
+V29658481
+p292
+aV 65856928
+p293
+aV 9819156200
+p294
+asg19
+g108
+sg21
+VShop No 67, Whispering Palms Shopping Centre, Lokhandwala Township, Kandivali East, Mumbai
+p295
+sba(i__main__
+Place
+p296
+(dp297
+g3
+(lp298
+VRestaurants
+p299
+asg7
+g108
+sg9
+VKabab Lucknow Wale
+p300
+sg11
+Vhttp://mumbai.burrp.com/listing/kabab-lucknow-wale_kandivali-east_mumbai_restaurants/13918875970
+p301
+sg13
+VKandivali East
+p302
+sg15
+(lp303
+V9223555180
+p304
+asg19
+g108
+sg21
+VLevel 3, Kandivali East, Mumbai
+p305
+sba(i__main__
+Place
+p306
+(dp307
+g3
+(lp308
+VRestaurants
+p309
+asg7
+g108
+sg9
+VKushal The Family Restaurant
+p310
+sg11
+Vhttp://mumbai.burrp.com/listing/kushal-the-family-restaurant_kandivali-east_mumbai_restaurants/18470425
+p311
+sg13
+VKandivali East
+p312
+sg15
+(lp313
+V28877418
+p314
+aV 28864950
+p315
+aV 28876033
+p316
+asg19
+g108
+sg21
+V5/6, Dattani Centre, Akurli Road, Kandivali East, Mumbai
+p317
+sba(i__main__
+Place
+p318
+(dp319
+g3
+(lp320
+VRestaurants
+p321
+asg7
+g108
+sg9
+VShubham Restaurant & Bar
+p322
+sg11
+Vhttp://mumbai.burrp.com/listing/shubham-restaurant-bar_kandivali-east_mumbai_restaurants/11110557198
+p323
+sg13
+VKandivali East
+p324
+sg15
+(lp325
+V28853457
+p326
+aV 28854105
+p327
+asg19
+g108
+sg21
+VShubh Building, Akurli Road, Kandivali East, Mumbai
+p328
+sba(i__main__
+Place
+p329
+(dp330
+g3
+(lp331
+VRestaurants
+p332
+asg7
+g108
+sg9
+VJumbo King
+p333
+sg11
+Vhttp://mumbai.burrp.com/listing/jumbo-king_kandivali-east_mumbai_restaurants/16141148
+p334
+sg13
+VKandivali East
+p335
+sg15
+(lp336
+V28875816
+p337
+asg19
+g108
+sg21
+VShop No 4, Panchal Niwas, Akurli Road, Kandivali (E), Kandivali East, Mumbai
+p338
+sba(i__main__
+Place
+p339
+(dp340
+g3
+(lp341
+VFast Food Shops
+p342
+aV Restaurants
+p343
+aV Outdoor Caterers
+p344
+asg7
+g135
+sg9
+VRasthal
+p345
+sg11
+Vhttp://mumbai.burrp.com/listing/rasthal_kandivali-east_mumbai_fast-food-shops-restaurants-outdoor-caterers/1423477267
+p346
+sg13
+VKandivali East
+p347
+sg15
+(lp348
+V66435901
+p349
+aV 66435902
+p350
+aV 66435903
+p351
+asg19
+g135
+sg21
+VShop No 50/51/52, Evershine Millenium Paradise, Thakur Village, Building No. 54, Kandivali (E), Kandivali East, Mumbai
+p352
+sba(i__main__
+Place
+p353
+(dp354
+g3
+(lp355
+VRestaurants
+p356
+asg7
+g108
+sg9
+VVijay Chinese & Fast Food
+p357
+sg11
+Vhttp://mumbai.burrp.com/listing/vijay-chinese-fast-food_kandivali-east_mumbai_restaurants/14310560366
+p358
+sg13
+VKandivali East
+p359
+sg15
+(lp360
+V28549330
+p361
+aV 66998260
+p362
+asg19
+g108
+sg21
+VShop No 1, Jasmin Poonam Complex, 90 Feet Road, Kandivali East, Mumbai
+p363
+sba(i__main__
+Place
+p364
+(dp365
+g3
+(lp366
+VFast Food Shops
+p367
+aV Restaurants
+p368
+asg7
+g108
+sg9
+VMcDonald's
+p369
+sg11
+Vhttp://mumbai.burrp.com/listing/mcdonalds_kandivali-east_mumbai_fast-food-shops-restaurants/15510606554
+p370
+sg13
+VKandivali East
+p371
+sg15
+(lp372
+V66000666
+p373
+asg19
+g108
+sg21
+VVishnu Shivam Mall, Thakur Village, Kandivali East, Mumbai
+p374
+sba(i__main__
+Place
+p375
+(dp376
+g3
+(lp377
+VRestaurants
+p378
+asg7
+g108
+sg9
+VGreat Wall
+p379
+sg11
+Vhttp://mumbai.burrp.com/listing/great-wall_kandivali-east_mumbai_restaurants/17069039
+p380
+sg13
+VKandivali East
+p381
+sg15
+(lp382
+V28708888
+p383
+aV 28709999
+p384
+aV 28700000
+p385
+aV 28862791
+p386
+aV  28862792
+p387
+aV  28868899
+p388
+asg19
+g108
+sg21
+VHotel Avenue, Thakur Complex. Westem Express Highway, Kandivali (E), Kandivali East, Mumbai
+p389
+sba(i__main__
+Place
+p390
+(dp391
+g3
+(lp392
+VRestaurants
+p393
+asg7
+g108
+sg9
+VHot and Juicy
+p394
+sg11
+Vhttp://mumbai.burrp.com/listing/hot-and-juicy_kandivali-east_mumbai_restaurants/138119871
+p395
+sg13
+VKandivali East
+p396
+sg15
+(lp397
+V28864625
+p398
+asg19
+g108
+sg21
+V1103/3 - B, Whispering Palms, Lokhandwala Township, Kandivali (E), Kandivali East, Mumbai
+p399
+sba(i__main__
+Place
+p400
+(dp401
+g3
+(lp402
+VBars & Pubs
+p403
+aV Restaurants
+p404
+asg7
+g108
+sg9
+VRajbhog
+p405
+sg11
+Vhttp://mumbai.burrp.com/listing/rajbhog_kandivali-east_mumbai_bars-pubs-restaurants/159139950
+p406
+sg13
+VKandivali East
+p407
+sg15
+(lp408
+V28700000
+p409
+aV 28708888
+p410
+aV 28709999
+p411
+aV 28542791
+p412
+asg19
+g108
+sg21
+VThe Avenue, Thakur Complex, Western Express Highway, Kandivali East, Mumbai
+p413
+sba(i__main__
+Place
+p414
+(dp415
+g3
+(lp416
+VRestaurants
+p417
+aV Bars & Pubs
+p418
+asg7
+g108
+sg9
+VXanadu Bar
+p419
+sg11
+Vhttp://mumbai.burrp.com/listing/xanadu-bar_kandivali-east_mumbai_restaurants-bars-pubs/116153693
+p420
+sg13
+VKandivali East
+p421
+sg15
+(lp422
+V28540888
+p423
+aV 28700000
+p424
+aV 28709999
+p425
+asg19
+g108
+sg21
+VThe Avenue Hotels Pvt. Ltd, Western Express Highway, Thakur Complex, Kandivali (E), Kandivali East, Mumbai
+p426
+sba(i__main__
+Place
+p427
+(dp428
+g3
+(lp429
+VRestaurants
+p430
+asg7
+g108
+sg9
+VSuruchi Veg Restaurant
+p431
+sg11
+Vhttp://mumbai.burrp.com/listing/suruchi-veg-restaurant_kandivali-east_mumbai_restaurants/120946089
+p432
+sg13
+VKandivali East
+p433
+sg15
+(lp434
+V28543747
+p435
+aV 28545972
+p436
+asg19
+g135
+sg21
+VAnant Apartments, Thakur Complex, Kandivali East, Mumbai
+p437
+sba.

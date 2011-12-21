@@ -1,0 +1,867 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VHindmata
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/hindmata_mumbai-central_mumbai_restaurants/135119574
+p11
+sS'region'
+p12
+VMumbai Central
+p13
+sS'phone'
+p14
+(lp15
+V23809955
+p16
+aV 23811483
+p17
+aV 23806501
+p18
+asS'cost'
+p19
+V0
+p20
+sS'addr'
+p21
+V335, Belassis Road, Near Bombay Central Station, Mumbai Central, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VFast Food Shops
+p26
+aV Restaurants
+p27
+asg6
+V3
+p28
+sg8
+VMcDonald's
+p29
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_mumbai-central_mumbai_fast-food-shops-restaurants/19444415
+p30
+sg12
+VMumbai Central
+p31
+sg14
+(lp32
+V32569050
+p33
+aV 23016570
+p34
+asg19
+V2
+p35
+sg21
+VIRCTC Food Plaza, Main Hall, Mumbai Central, Mumbai
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VRestaurants
+p40
+aV Bars & Pubs
+p41
+asg6
+g28
+sg8
+VYoyo's
+p42
+sg10
+Vhttp://mumbai.burrp.com/listing/yoyos_mumbai-central_mumbai_restaurants-bars-pubs/118153891
+p43
+sg12
+VMumbai Central
+p44
+sg14
+(lp45
+V66310741
+p46
+aV 66310742
+p47
+aV 65289941
+p48
+asg19
+g20
+sg21
+V15, AK Naik Marg, Near New Excelsior, Mumbai Central, Mumbai
+p49
+sba(i__main__
+Place
+p50
+(dp51
+g3
+(lp52
+VFast Food Shops
+p53
+aV Restaurants
+p54
+asg6
+g20
+sg8
+VMcDonald's
+p55
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_mumbai-central_mumbai_fast-food-shops-restaurants/1862500623
+p56
+sg12
+VMumbai Central
+p57
+sg14
+(lp58
+V32494374
+p59
+asg19
+g35
+sg21
+V273/275 Belasis Road, Near City Centre, Mumbai Central, Mumbai
+p60
+sba(i__main__
+Place
+p61
+(dp62
+g3
+(lp63
+VRestaurants
+p64
+asg6
+g20
+sg8
+VArabia Restaurant
+p65
+sg10
+Vhttp://mumbai.burrp.com/listing/arabia-restaurant_mumbai-central_mumbai_restaurants/12712313782
+p66
+sg12
+VMumbai Central
+p67
+sg14
+(lp68
+V23082870
+p69
+aV 23091006
+p70
+asg19
+g20
+sg21
+VLane No 272, Bellasis Road, Mumbai Central, Mumbai
+p71
+sba(i__main__
+Place
+p72
+(dp73
+g3
+(lp74
+VRestaurants
+p75
+asg6
+g20
+sg8
+VKalpana Veg Restaurant
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/kalpana-veg-restaurant_mumbai-central_mumbai_restaurants/14712333762
+p77
+sg12
+VMumbai Central
+p78
+sg14
+(lp79
+V23083251
+p80
+aV 23086258
+p81
+aV 23086279
+p82
+aV 23091932
+p83
+asg19
+g20
+sg21
+VS M Mansion, Dr D B Marg, Mumbai Central, Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg6
+V1
+p89
+sg8
+VShagun
+p90
+sg10
+Vhttp://mumbai.burrp.com/listing/shagun_mumbai-central_mumbai_restaurants/19953910
+p91
+sg12
+VMumbai Central
+p92
+sg14
+(lp93
+V23084444
+p94
+aV 23091515
+p95
+asg19
+g20
+sg21
+VM 61 Shivlal Motilal Mansion, D B Road, Mumbai Central Junction, Mumbai Central, Mumbai
+p96
+sba(i__main__
+Place
+p97
+(dp98
+g3
+(lp99
+VRestaurants
+p100
+asg6
+g20
+sg8
+VGama
+p101
+sg10
+Vhttp://mumbai.burrp.com/listing/gama_mumbai-central_mumbai_restaurants/183115326
+p102
+sg12
+VMumbai Central
+p103
+sg14
+(lp104
+V23053704
+p105
+asg19
+g20
+sg21
+V142, Razak Building, Near Ahmad Sailor School, Dimdimkar Road, Nagpada, Mumbai Central, Mumbai
+p106
+sba(i__main__
+Place
+p107
+(dp108
+g3
+(lp109
+VRestaurants
+p110
+asg6
+g20
+sg8
+VMumtaz
+p111
+sg10
+Vhttp://mumbai.burrp.com/listing/mumtaz_mumbai-central_mumbai_restaurants/164131445
+p112
+sg12
+VMumbai Central
+p113
+sg14
+(lp114
+V23081481
+p115
+aV 23081485
+p116
+asg19
+g20
+sg21
+V256, E. Bellasis Road, Opposite BEST Bus Depot, Mumbai Central, Mumbai
+p117
+sba(i__main__
+Place
+p118
+(dp119
+g3
+(lp120
+VRestaurants
+p121
+aV Cafes
+p122
+asg6
+g20
+sg8
+VMussafir \u2013 Restaurant & Coffeeshop
+p123
+sg10
+Vhttp://mumbai.burrp.com/listing/mussafir-restaurant-coffeeshop_mumbai-central_mumbai_restaurants-cafes/1541435455
+p124
+sg12
+VMumbai Central
+p125
+sg14
+(lp126
+V23081421
+p127
+aV 23096761
+p128
+asg19
+g35
+sg21
+VHotel Sahil, 292, J. B. Behram Marg, Mumbai Central, Mumbai
+p129
+sba(i__main__
+Place
+p130
+(dp131
+g3
+(lp132
+VRestaurants
+p133
+asg6
+g20
+sg8
+VTavern Restaurant
+p134
+sg10
+Vhttp://mumbai.burrp.com/listing/tavern-restaurant_mumbai-central_mumbai_restaurants/1551435554
+p135
+sg12
+VMumbai Central
+p136
+sg14
+(lp137
+V23081421
+p138
+aV 23096761
+p139
+asg19
+g35
+sg21
+VHotel Sahil, 292, J. B. Behram Marg, Mumbai Central, Mumbai
+p140
+sba(i__main__
+Place
+p141
+(dp142
+g3
+(lp143
+VRestaurants
+p144
+asg6
+g20
+sg8
+VAnna Leela Udipi
+p145
+sg10
+Vhttp://mumbai.burrp.com/listing/anna-leela-udipi_mumbai-central_mumbai_restaurants/1734407336
+p146
+sg12
+VMumbai Central
+p147
+sg14
+(lp148
+V23088888 
+p149
+aV 23099494
+p150
+asg19
+g20
+sg21
+V305, Shivlal Motilal Mansion, Bellasis Road, Mumbai Central, Mumbai
+p151
+sba(i__main__
+Place
+p152
+(dp153
+g3
+(lp154
+VRestaurants
+p155
+asg6
+g20
+sg8
+VRaj Restaurant 
+p156
+sg10
+Vhttp://mumbai.burrp.com/listing/raj-restaurant-_mumbai-central_mumbai_restaurants/1144500495
+p157
+sg12
+VMumbai Central
+p158
+sg14
+(lp159
+V23079015 
+p160
+asg19
+g20
+sg21
+V293, Bellasis Road, Mumbai Central, Mumbai
+p161
+sba(i__main__
+Place
+p162
+(dp163
+g3
+(lp164
+VRestaurants
+p165
+asg6
+g20
+sg8
+VLawa Sisa
+p166
+sg10
+Vhttp://mumbai.burrp.com/listing/lawa-sisa_mumbai-central_mumbai_restaurants/1156579594
+p167
+sg12
+VMumbai Central
+p168
+sg14
+(lp169
+V23022220
+p170
+asg19
+g35
+sg21
+VShop No.4A, Classic Tower, Ground Floor, Dr. Nair Road, Agripada, Mumbai Central, Mumbai
+p171
+sba(i__main__
+Place
+p172
+(dp173
+g3
+(lp174
+VRestaurants
+p175
+asg6
+g20
+sg8
+VChina Sea 
+p176
+sg10
+Vhttp://mumbai.burrp.com/listing/china-sea-_mumbai-central_mumbai_restaurants/1596646950
+p177
+sg12
+VMumbai Central
+p178
+sg14
+(lp179
+V23007851
+p180
+aV 23007859
+p181
+asg19
+g89
+sg21
+VShop No 4, AB, Baitulaman Co-Op, Society, Duncan Road, Nagpada Junction, Beside Sagar Hotel, Mumbai Central, Mumbai
+p182
+sba(i__main__
+Place
+p183
+(dp184
+g3
+(lp185
+VRestaurants
+p186
+asg6
+g20
+sg8
+VSadap Restaurant
+p187
+sg10
+Vhttp://mumbai.burrp.com/listing/sadap-restaurant_madanpura_mumbai_restaurants/13311270376
+p188
+sg12
+VMadanpura
+p189
+sg14
+(lp190
+V23083019
+p191
+aV 9619122185
+p192
+asg19
+g20
+sg21
+VShop No 195, M A Road, Madanpura, Mumbai Central, Mumbai
+p193
+sba(i__main__
+Place
+p194
+(dp195
+g3
+(lp196
+VGyms
+p197
+aV Swimming Pools
+p198
+aV Gymkhanas and Social Clubs
+p199
+aV Restaurants
+p200
+asg6
+g20
+sg8
+VYMCA International  House
+p201
+sg10
+Vhttp://mumbai.burrp.com/listing/ymca-international-house_mumbai-central_mumbai_gyms-swimming-pools-gymkhanas-and-social-clubs/16312308346
+p202
+sg12
+VMumbai Central
+p203
+sg14
+(lp204
+V23070601
+p205
+aV 23070602
+p206
+aV 23071564
+p207
+asg19
+g20
+sg21
+VBuilding No 18, YMCA Road, Mumbai Central, Mumbai
+p208
+sba(i__main__
+Place
+p209
+(dp210
+g3
+(lp211
+VRestaurants
+p212
+aV Bars & Pubs
+p213
+asg6
+g20
+sg8
+VLalit Lunch Home
+p214
+sg10
+Vhttp://mumbai.burrp.com/listing/lalit-lunch-home_mumbai-central_mumbai_restaurants-bars-pubs/17112309138
+p215
+sg12
+VMumbai Central
+p216
+sg14
+(lp217
+V23072418
+p218
+asg19
+g20
+sg21
+VGitanjali Bldg, 48 D B Road, Mumbai Central, Mumbai
+p219
+sba(i__main__
+Place
+p220
+(dp221
+g3
+(lp222
+VRestaurants
+p223
+asg6
+g20
+sg8
+VSamudra Restaurant And Bar
+p224
+sg10
+Vhttp://mumbai.burrp.com/listing/samudra-restaurant-and-bar_mumbai-central_mumbai_restaurants/13112323178
+p225
+sg12
+VMumbai Central
+p226
+sg14
+(lp227
+V23005011
+p228
+asg19
+g20
+sg21
+VBuilding No 15/C/301, Shivlal Motilal Mansion, B L C C  Road , Mumbai Central, Mumbai
+p229
+sba(i__main__
+Place
+p230
+(dp231
+g3
+(lp232
+VRestaurants
+p233
+asg6
+g20
+sg8
+VMidtown Restaurant
+p234
+sg10
+Vhttp://mumbai.burrp.com/listing/midtown-restaurant_mumbai-central_mumbai_restaurants/16312326346
+p235
+sg12
+VMumbai Central
+p236
+sg14
+(lp237
+V23099716
+p238
+asg19
+g20
+sg21
+V305, Belasis Road, Mumbai Central, Mumbai
+p239
+sba(i__main__
+Place
+p240
+(dp241
+g3
+(lp242
+VRestaurants
+p243
+aV Bars & Pubs
+p244
+asg6
+g20
+sg8
+VCafe Al Kausar
+p245
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-al-kausar_mumbai-central_mumbai_restaurants-bars-pubs/18512328524
+p246
+sg12
+VMumbai Central
+p247
+sg14
+(lp248
+V23082423
+p249
+asg19
+g20
+sg21
+VMaulana Saukat Ali Rd, Nr Two Tank, Mumbai Central, Mumbai
+p250
+sba(i__main__
+Place
+p251
+(dp252
+g3
+(lp253
+VRestaurants
+p254
+asg6
+g20
+sg8
+VCentral Bar
+p255
+sg10
+Vhttp://mumbai.burrp.com/listing/central-bar_mumbai-central_mumbai_restaurants/19312329316
+p256
+sg12
+VMumbai Central
+p257
+sg14
+(lp258
+V23081651
+p259
+asg19
+g20
+sg21
+V303, Shivalal Motilal Mansion, Bellasis Road, Mumbai Central, Mumbai
+p260
+sba(i__main__
+Place
+p261
+(dp262
+g3
+(lp263
+VRestaurants
+p264
+asg6
+g20
+sg8
+VPratiksha Restaurant & Bar
+p265
+sg10
+Vhttp://mumbai.burrp.com/listing/pratiksha-restaurant-bar_mumbai-central_mumbai_restaurants/16312335346
+p266
+sg12
+VMumbai Central
+p267
+sg14
+(lp268
+V23009471
+p269
+aV 23076440
+p270
+aV 9820175525
+p271
+asg19
+g20
+sg21
+VPlot No 139, R S Nimkar Road, Mumbai Central, Mumbai
+p272
+sba(i__main__
+Place
+p273
+(dp274
+g3
+(lp275
+VBars & Pubs
+p276
+aV Restaurants
+p277
+asg6
+g20
+sg8
+VCafe Paradise
+p278
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-paradise_nagpada_mumbai_bars-pubs-restaurants/19312347316
+p279
+sg12
+VNagpada
+p280
+sg14
+(lp281
+V23078214
+p282
+aV 23099276
+p283
+asg19
+g20
+sg21
+V78/82, Moulana Shoukatali, Nagpada, Mumbai Central, Mumbai
+p284
+sba(i__main__
+Place
+p285
+(dp286
+g3
+(lp287
+VRestaurants
+p288
+asg6
+g20
+sg8
+VPratiksha Bar And Restaurant
+p289
+sg10
+Vhttp://mumbai.burrp.com/listing/pratiksha-bar-and-restaurant_nagpada_mumbai_restaurants/16512353544
+p290
+sg12
+VNagpada
+p291
+sg14
+(lp292
+V23076440
+p293
+asg19
+g20
+sg21
+V139, R S Nimkar Marg, Nagpada, Mumbai Central, Mumbai
+p294
+sba(i__main__
+Place
+p295
+(dp296
+g3
+(lp297
+VJuice Parlours
+p298
+aV Restaurants
+p299
+asg6
+g20
+sg8
+VLight Of India Restaurant
+p300
+sg10
+Vhttp://mumbai.burrp.com/listing/light-of-india-restaurant_nagpada_mumbai_juice-parlours-restaurants/11112357198
+p301
+sg12
+VNagpada
+p302
+sg14
+(lp303
+V23078032
+p304
+asg19
+g20
+sg21
+VShroff Building, Shop No 123, Ground Floor, Mirza Ghalib Marg, Clare Road, Near Nagpada Circle, Nagpada, Mumbai Central, Mumbai
+p305
+sba(i__main__
+Place
+p306
+(dp307
+g3
+(lp308
+VRestaurants
+p309
+asg6
+g20
+sg8
+VSarvi Restaurant
+p310
+sg10
+Vhttp://mumbai.burrp.com/listing/sarvi-restaurant_nagpada_mumbai_restaurants/14712360762
+p311
+sg12
+VNagpada
+p312
+sg14
+(lp313
+V
+p314
+aV 9820142967
+p315
+aV 9820652295
+p316
+asg19
+g20
+sg21
+VRoad No 184/196, Dimtikar Road, Nagpada, Mumbai Central, Mumbai
+p317
+sba(i__main__
+Place
+p318
+(dp319
+g3
+(lp320
+VRestaurants
+p321
+asg6
+g20
+sg8
+VIqbal-E-Kamali
+p322
+sg10
+Vhttp://mumbai.burrp.com/listing/iqbal-e-kamali_madanpura_mumbai_restaurants/19518476514
+p323
+sg12
+VMadanpura
+p324
+sg14
+(lp325
+V23070848
+p326
+asg19
+g89
+sg21
+V146, Ayesh Apartments, Sankli Street Junction, Madanpura, Mumbai Central, Mumbai
+p327
+sba.

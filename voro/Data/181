@@ -1,0 +1,166 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VBiryani Tandoor & Roll
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/biryani-tandoor-roll_mahakali-caves-road_mumbai_restaurants/18332083326
+p11
+sS'region'
+p12
+VMahakali Caves Road
+p13
+sS'phone'
+p14
+(lp15
+V40153412
+p16
+aV 9619585197
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VShop no. 2, Kamlesh Apartments, Plot No. 368, Building no. 4, Sher-E-Punjab Co-operative Housing Society, Mahakali Caves Road, Andheri East, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+aV Hotels
+p26
+asg6
+g7
+sg8
+VSupremo Activity Centre
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/supremo-activity-centre_mahakali-caves-road_mumbai_restaurants-hotels/12711278782
+p28
+sg12
+VMahakali Caves Road
+p29
+sg14
+(lp30
+V28312727
+p31
+aV 28352727
+p32
+aV 9892715892
+p33
+asg18
+g7
+sg20
+VSaffron Eatery And Bar, Ground Floor, Jogeshwari Vikhroli Link Road, Near Matoshri Sports Club, Mahakali Caves Road, Andheri East, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg6
+g7
+sg8
+VShashi Restaurant & Bar
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/shashi-restaurant-bar_mahakali-caves-road_mumbai_restaurants/16111273148
+p40
+sg12
+VMahakali Caves Road
+p41
+sg14
+(lp42
+V28345153
+p43
+aV 9930239969
+p44
+aV 9987727516
+p45
+asg18
+g19
+sg20
+VShanti Nagar, Mahakali Caves Road, Andheri East, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g7
+sg8
+VJust Taste Kerala Restaurant
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/just-taste-kerala-restaurant_mahakali-caves-road_mumbai_restaurants/16711282742
+p52
+sg12
+VMahakali Caves Road
+p53
+sg14
+(lp54
+V28351313
+p55
+aV 9867312270
+p56
+asg18
+g7
+sg20
+VShop 3, Ratna Niwas, Mahakali Caves Rd, Opp Thomson Gas Services, Mahakali Caves Road, Andheri East, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g7
+sg8
+VRainbow Quick Bite
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/rainbow-quick-bite_mahakali-caves-road_mumbai_restaurants/15715511752
+p63
+sg12
+VMahakali Caves Road
+p64
+sg14
+(lp65
+V9869147705
+p66
+asg18
+g7
+sg20
+VDheeraj Vaibhav CHS Ltd., Shop No 1, PMGP Colony, Mahakali Caves Road, Andheri East, Mumbai
+p67
+sba.

@@ -1,0 +1,137 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VRed Indian Sizzlers
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/red-indian-sizzlers_mahavir-nagar_mumbai_restaurants/165248544
+p11
+sS'region'
+p12
+VMahavir Nagar
+p13
+sS'phone'
+p14
+(lp15
+V28084343
+p16
+aV 28090096
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VS.V. Road, Mahavir Nagar, Kandivali West, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VAmma's Kitchen
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/ammas-kitchen_mahavir-nagar_mumbai_restaurants/130281079
+p27
+sg12
+VMahavir Nagar
+p28
+sg14
+(lp29
+V9930084433
+p30
+aV 9619374433
+p31
+asg18
+g19
+sg20
+VShop No.31, Raj Garden Building, Near Pancholiya High School, Mahavir Nagar, Kandivali West, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+aV Outdoor Caterers
+p37
+aV Home Caterers
+p38
+asg6
+V0
+p39
+sg8
+VPunjab Da Mela
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/punjab-da-mela_mahavir-nagar_mumbai_restaurants-outdoor-caterers-home-caterers/18318322326
+p41
+sg12
+VMahavir Nagar
+p42
+sg14
+(lp43
+V65114020
+p44
+aV 65164020
+p45
+asg18
+g19
+sg20
+V65 , Raj Arcade, Mahavir Nagar, Kandivali West, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g39
+sg8
+VSukh Sagar Restaurant
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/sukh-sagar-restaurant_mahavir-nagar_mumbai_restaurants/14311298366
+p52
+sg12
+VMahavir Nagar
+p53
+sg14
+(lp54
+V28068718
+p55
+aV 28068737
+p56
+asg18
+g39
+sg20
+VShop No 11, Shubhkamna ApPartment, Mahavir Nagar, Kandivali West, Mumbai
+p57
+sba.

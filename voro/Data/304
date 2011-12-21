@@ -1,0 +1,1196 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VBanana Leaf
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/banana-leaf_versova_mumbai_restaurants/150814059
+p11
+sS'region'
+p12
+VVersova
+p13
+sS'phone'
+p14
+(lp15
+V26289999
+p16
+aV 26709999
+p17
+aV 26289090
+p18
+aV 9930488080
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VSubham CHS, Opposite Vikram Petrol Pump, Versova, Andheri West, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg6
+V4
+p28
+sg8
+VLegacy Of China
+p29
+sg10
+Vhttp://mumbai.burrp.com/listing/legacy-of-china_versova_mumbai_restaurants/110126099
+p30
+sg12
+VVersova
+p31
+sg14
+(lp32
+V26368223
+p33
+aV 26311332
+p34
+aV 26312061
+p35
+asg20
+g7
+sg22
+VTirupati Towers, JP Road, Andheri (W), Versova, Andheri West, Mumbai
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VRestaurants
+p40
+aV Bars & Pubs
+p41
+asg6
+g7
+sg8
+VPop Tate's
+p42
+sg10
+Vhttp://mumbai.burrp.com/listing/pop-tates_versova_mumbai_restaurants-bars-pubs/138137871
+p43
+sg12
+VVersova
+p44
+sg14
+(lp45
+V26345664
+p46
+aV 26345666
+p47
+aV 65283036
+p48
+aV 26342890
+p49
+asg20
+V0
+p50
+sg22
+VShiv Shopping Centre, 5 1/2 Bungalows, J.P. Road, Andheri (W), Versova, Andheri West, Mumbai
+p51
+sba(i__main__
+Place
+p52
+(dp53
+g3
+(lp54
+VRestaurants
+p55
+asg6
+g28
+sg8
+VDimSum&more
+p56
+sg10
+Vhttp://mumbai.burrp.com/listing/dimsummore_versova_mumbai_restaurants/1576988752
+p57
+sg12
+VVersova
+p58
+sg14
+(lp59
+V26373057
+p60
+aV 9167995551
+p61
+aV 9167995552
+p62
+aV 9167995553
+p63
+asg20
+g21
+sg22
+VShop No. 6, Gold Crown Building, J.P Road, Versova, Andheri West, Mumbai
+p64
+sba(i__main__
+Place
+p65
+(dp66
+g3
+(lp67
+VRestaurants
+p68
+asg6
+g28
+sg8
+VMalwani Kkalwan
+p69
+sg10
+Vhttp://mumbai.burrp.com/listing/malwani-kkalwan_versova_mumbai_restaurants/1213178188
+p70
+sg12
+VVersova
+p71
+sg14
+(lp72
+V65220404
+p73
+aV 65220505
+p74
+aV 9870370399
+p75
+aV 9870770799
+p76
+asg20
+g21
+sg22
+V77-A, Om Cottage, J.P. Road, Versova, Andheri West, Mumbai
+p77
+sba(i__main__
+Place
+p78
+(dp79
+g3
+(lp80
+VRestaurants
+p81
+aV Lounges
+p82
+asg6
+g28
+sg8
+VEnigma The Lounge
+p83
+sg10
+Vhttp://mumbai.burrp.com/listing/enigma-the-lounge_versova_mumbai_restaurants-lounges/123145386
+p84
+sg12
+VVersova
+p85
+sg14
+(lp86
+V26312061
+p87
+aV 26311332
+p88
+aV 26368223
+p89
+asg20
+g21
+sg22
+V6 1/2 Bungalow, Legacy of China, Tirupati Towers, JP Road, Versova, Andheri West, Mumbai
+p90
+sba(i__main__
+Place
+p91
+(dp92
+g3
+(lp93
+VBars & Pubs
+p94
+aV Restaurants
+p95
+asg6
+g7
+sg8
+VCafe Ivy Bar & Bistro
+p96
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-ivy-bar-bistro_versova_mumbai_bars-pubs-restaurants/121829188
+p97
+sg12
+VVersova
+p98
+sg14
+(lp99
+V65260829
+p100
+aV 26395995
+p101
+asg20
+g21
+sg22
+VGala No. 2, Aaram Nagar Part - 1, J. P. Road, Versova, Andheri West, Mumbai
+p102
+sba(i__main__
+Place
+p103
+(dp104
+g3
+(lp105
+VRestaurants
+p106
+asg6
+g7
+sg8
+VMia Cucina
+p107
+sg10
+Vhttp://mumbai.burrp.com/listing/mia-cucina_versova_mumbai_restaurants/1595908950
+p108
+sg12
+VVersova
+p109
+sg14
+(lp110
+V42414000
+p111
+asg20
+g21
+sg22
+VJewel Shopping Centre, JP Road, Versova, Andheri West, Mumbai
+p112
+sba(i__main__
+Place
+p113
+(dp114
+g3
+(lp115
+VTake Away Shops
+p116
+aV Restaurants
+p117
+asg6
+g28
+sg8
+VThe Hideaway Beach
+p118
+sg10
+Vhttp://mumbai.burrp.com/listing/the-hideaway-beach_versova_mumbai_take-away-shops-restaurants/1575755752
+p119
+sg12
+VVersova
+p120
+sg14
+(lp121
+V26332929
+p122
+aV 9923653015
+p123
+asg20
+g21
+sg22
+VNew Neelam Apartments, J P Road, Versova, Andheri West, Mumbai
+p124
+sba(i__main__
+Place
+p125
+(dp126
+g3
+(lp127
+VRestaurants
+p128
+asg6
+g7
+sg8
+VStomach II
+p129
+sg10
+Vhttp://mumbai.burrp.com/listing/stomach-ii_versova_mumbai_restaurants/16459445
+p130
+sg12
+VVersova
+p131
+sg14
+(lp132
+V26343300
+p133
+aV 26341978
+p134
+aV 26341141
+p135
+aV 26342301
+p136
+asg20
+g50
+sg22
+VSea Green Apartments, Raheja Complex, Versova, Andheri West, Mumbai
+p137
+sba(i__main__
+Place
+p138
+(dp139
+g3
+(lp140
+VRestaurants
+p141
+aV Fast Food Shops
+p142
+asg6
+g7
+sg8
+VCrepe Station Resto Bar
+p143
+sg10
+Vhttp://mumbai.burrp.com/listing/crepe-station-resto-bar_versova_mumbai_restaurants-fast-food-shops/1895272920
+p144
+sg12
+VVersova
+p145
+sg14
+(lp146
+V26302334 
+p147
+aV 26314158
+p148
+asg20
+g50
+sg22
+VTirupati Towers, 7 Bungalows, J. P Road , Versova, Andheri West, Mumbai
+p149
+sba(i__main__
+Place
+p150
+(dp151
+g3
+(lp152
+VRestaurants
+p153
+asg6
+g28
+sg8
+VChina Suburb - 1
+p154
+sg10
+Vhttp://mumbai.burrp.com/listing/china-suburb---1_versova_mumbai_restaurants/138110871
+p155
+sg12
+VVersova
+p156
+sg14
+(lp157
+V26351090
+p158
+aV 26335033
+p159
+aV 65852008
+p160
+aV 9820514917
+p161
+asg20
+g21
+sg22
+VShop 1, Beach Apartments, Picnic Cottage, Versova, Andheri West, Mumbai
+p162
+sba(i__main__
+Place
+p163
+(dp164
+g3
+(lp165
+VRestaurants
+p166
+asg6
+V5
+p167
+sg8
+VMelody Cafe
+p168
+sg10
+Vhttp://mumbai.burrp.com/listing/melody-cafe_versova_mumbai_restaurants/1224465287
+p169
+sg12
+VVersova
+p170
+sg14
+(lp171
+V9664384296
+p172
+asg20
+g21
+sg22
+V2, Corner View, Off Yari Road, Near Bianca Tower, Andheri (W), Versova, Andheri West, Mumbai
+p173
+sba(i__main__
+Place
+p174
+(dp175
+g3
+(lp176
+VBars & Pubs
+p177
+aV Restaurants
+p178
+asg6
+g167
+sg8
+VMadhuban Garden Restaurant & Bar
+p179
+sg10
+Vhttp://mumbai.burrp.com/listing/madhuban-garden-restaurant-bar_versova_mumbai_bars-pubs-restaurants/1635711346
+p180
+sg12
+VVersova
+p181
+sg14
+(lp182
+V26379713
+p183
+aV 26360742
+p184
+asg20
+g21
+sg22
+VMadhuban Apartment, Yari Road, Andheri (W), Versova, Andheri West, Mumbai
+p185
+sba(i__main__
+Place
+p186
+(dp187
+g3
+(lp188
+VLounges
+p189
+aV Restaurants
+p190
+asg6
+g21
+sg8
+VDhuan Coffee & Grill
+p191
+sg10
+Vhttp://mumbai.burrp.com/listing/dhuan-coffee-grill_versova_mumbai_lounges-restaurants/178267831
+p192
+sg12
+VVersova
+p193
+sg14
+(lp194
+V26316350
+p195
+aV 26332379
+p196
+aV 40166907
+p197
+aV 65225344
+p198
+aV  9819834826
+p199
+asg20
+g7
+sg22
+V9 A/B, Aram Nagar II, J P Road, Versova, Andheri West, Mumbai
+p200
+sba(i__main__
+Place
+p201
+(dp202
+g3
+(lp203
+VRestaurants
+p204
+asg6
+g21
+sg8
+VChai-Coffi
+p205
+sg10
+Vhttp://mumbai.burrp.com/listing/chai-coffi_versova_mumbai_restaurants/1376653772
+p206
+sg12
+VVersova
+p207
+sg14
+(lp208
+V66714141
+p209
+aV 66369999
+p210
+asg20
+g50
+sg22
+VShop No. 1 & 2, Beach Queen CHSL,  J.P. Road, Versova, Andheri West, Mumbai
+p211
+sba(i__main__
+Place
+p212
+(dp213
+g3
+(lp214
+VRestaurants
+p215
+asg6
+g21
+sg8
+VKareem's
+p216
+sg10
+Vhttp://mumbai.burrp.com/listing/kareems_versova_mumbai_restaurants/165851544
+p217
+sg12
+VVersova
+p218
+sg14
+(lp219
+V26280674
+p220
+aV 26280675
+p221
+asg20
+g21
+sg22
+VShubham Bldg, Juhu Versova Linking Road, Versova, Andheri West, Mumbai
+p222
+sba(i__main__
+Place
+p223
+(dp224
+g3
+(lp225
+VRestaurants
+p226
+aV Lounges
+p227
+asg6
+g21
+sg8
+VRio the Met Lounge
+p228
+sg10
+Vhttp://mumbai.burrp.com/listing/rio-the-met-lounge_versova_mumbai_restaurants-lounges/183376326
+p229
+sg12
+VVersova
+p230
+sg14
+(lp231
+V65021389
+p232
+aV 65021390
+p233
+aV 65249753
+p234
+asg20
+g21
+sg22
+V7/11 Meera Apts, Juhu Versova Link Rd, Seven Bunglows, Versova, Andheri West, Mumbai
+p235
+sba(i__main__
+Place
+p236
+(dp237
+g3
+(lp238
+VRestaurants
+p239
+asg6
+g7
+sg8
+VRice Bowl
+p240
+sg10
+Vhttp://mumbai.burrp.com/listing/rice-bowl_versova_mumbai_restaurants/188934821
+p241
+sg12
+VVersova
+p242
+sg14
+(lp243
+V2634010
+p244
+aV 26343638
+p245
+aV 26352111
+p246
+asg20
+g21
+sg22
+VNo. 3, Shiv Shoping Centre, 7 Bunglows J.P. road, Versova, Andheri West, Mumbai
+p247
+sba(i__main__
+Place
+p248
+(dp249
+g3
+(lp250
+VRestaurants
+p251
+asg6
+V1
+p252
+sg8
+VNonsense
+p253
+sg10
+Vhttp://mumbai.burrp.com/listing/nonsense_versova_mumbai_restaurants/1776765732
+p254
+sg12
+VVersova
+p255
+sg14
+(lp256
+V65233056
+p257
+asg20
+g7
+sg22
+VHetkunj Building, Andheri (W), Versova, Andheri West, Mumbai
+p258
+sba(i__main__
+Place
+p259
+(dp260
+g3
+(lp261
+VRestaurants
+p262
+asg6
+g252
+sg8
+VSubway
+p263
+sg10
+Vhttp://mumbai.burrp.com/listing/subway_versova_mumbai_restaurants/125910584
+p264
+sg12
+VVersova
+p265
+sg14
+(lp266
+V26352244
+p267
+asg20
+g21
+sg22
+VShops No. 3 & 4, Darya Darshan CHS Ltd., JP Road Seaface, Andheri (W), Versova, Andheri West, Mumbai
+p268
+sba(i__main__
+Place
+p269
+(dp270
+g3
+(lp271
+VRestaurants
+p272
+asg6
+g167
+sg8
+VRaafae's Route 61
+p273
+sg10
+Vhttp://mumbai.burrp.com/listing/raafaes-route-61_versova_mumbai_restaurants/1755136534
+p274
+sg12
+VVersova
+p275
+sg14
+(lp276
+V26363431
+p277
+aV 26363432
+p278
+asg20
+g21
+sg22
+VShop no C-12, Zohra Aghadi Nagar , Yari Road , Andheri (W), Versova, Andheri West, Mumbai
+p279
+sba(i__main__
+Place
+p280
+(dp281
+g3
+(lp282
+VRestaurants
+p283
+asg6
+g28
+sg8
+VNawab Seekh Paratha
+p284
+sg10
+Vhttp://mumbai.burrp.com/listing/nawab-seekh-paratha_versova_mumbai_restaurants/1351433574
+p285
+sg12
+VVersova
+p286
+sg14
+(lp287
+V26324116
+p288
+aV 26358975
+p289
+aV 26333483
+p290
+aV 9867915786
+p291
+asg20
+g21
+sg22
+VA Wing, Shop No.8, Mangal Orchid Soc., Off Yari Road, Andheri (W), Versova, Andheri West, Mumbai
+p292
+sba(i__main__
+Place
+p293
+(dp294
+g3
+(lp295
+VRestaurants
+p296
+asg6
+g28
+sg8
+VFire Bowl
+p297
+sg10
+Vhttp://mumbai.burrp.com/listing/fire-bowl_versova_mumbai_restaurants/1971385712
+p298
+sg12
+VVersova
+p299
+sg14
+(lp300
+V26315497
+p301
+aV 65742005
+p302
+aV 26392941
+p303
+asg20
+g21
+sg22
+VA/1, Mangal Orchid Bldg., Off Yari Road, Versova, Andheri West, Mumbai
+p304
+sba(i__main__
+Place
+p305
+(dp306
+g3
+(lp307
+VRestaurants
+p308
+asg6
+g252
+sg8
+VPizza Casa
+p309
+sg10
+Vhttp://mumbai.burrp.com/listing/pizza-casa_versova_mumbai_restaurants/129847980
+p310
+sg12
+VVersova
+p311
+sg14
+(lp312
+V26323819
+p313
+aV 26347238
+p314
+aV 26322563
+p315
+aV 66784566
+p316
+asg20
+g21
+sg22
+VShop No 6, Savera Building, 7 Bungalows, JP Road, Versova, Andheri West, Mumbai
+p317
+sba(i__main__
+Place
+p318
+(dp319
+g3
+(lp320
+VRestaurants
+p321
+asg6
+g50
+sg8
+VCuben Smoke
+p322
+sg10
+Vhttp://mumbai.burrp.com/listing/cuben-smoke_versova_mumbai_restaurants/16568544
+p323
+sg12
+VVersova
+p324
+sg14
+(lp325
+V66014341
+p326
+aV 65745974
+p327
+asg20
+g50
+sg22
+VS - 4, Fantasy Premises, Next to Sancha's Ice Cream, J.P. Road, 7 Bunglows, Versova, Andheri West, Mumbai
+p328
+sba(i__main__
+Place
+p329
+(dp330
+g3
+(lp331
+VTake Away Shops
+p332
+aV Restaurants
+p333
+asg6
+g50
+sg8
+VPunjabi Chula
+p334
+sg10
+Vhttp://mumbai.burrp.com/listing/punjabi-chula_versova_mumbai_take-away-shops-restaurants/1655513544
+p335
+sg12
+VVersova
+p336
+sg14
+(lp337
+V9320172950
+p338
+aV 9320172961
+p339
+asg20
+g21
+sg22
+VAvni Apartments, Shop No-5, Panch Marg, Off Yari Road, Andheri (W), Versova, Andheri West, Mumbai
+p340
+sba(i__main__
+Place
+p341
+(dp342
+g3
+(lp343
+VJuice Parlours
+p344
+aV Restaurants
+p345
+asg6
+g50
+sg8
+VCorrect Eating Place
+p346
+sg10
+Vhttp://mumbai.burrp.com/listing/correct-eating-place_versova_mumbai_juice-parlours-restaurants/154760455
+p347
+sg12
+VVersova
+p348
+sg14
+(lp349
+V26361234
+p350
+asg20
+g21
+sg22
+VShop No. 7, Atlantis Apartment, JP Road, Andheri (W), Versova, Andheri West, Mumbai
+p351
+sba(i__main__
+Place
+p352
+(dp353
+g3
+(lp354
+VRestaurants
+p355
+asg6
+g50
+sg8
+VChina Hut
+p356
+sg10
+Vhttp://mumbai.burrp.com/listing/china-hut_versova_mumbai_restaurants/135110574
+p357
+sg12
+VVersova
+p358
+sg14
+(lp359
+V26313226
+p360
+asg20
+g50
+sg22
+VAvni Villa, Off Yari Road, Opposite Panchvati Tower, Andheri (W), Versova, Andheri West, Mumbai
+p361
+sba(i__main__
+Place
+p362
+(dp363
+g3
+(lp364
+VRestaurants
+p365
+asg6
+g50
+sg8
+VRotiwala
+p366
+sg10
+Vhttp://mumbai.burrp.com/listing/rotiwala_versova_mumbai_restaurants/1221423287
+p367
+sg12
+VVersova
+p368
+sg14
+(lp369
+V26329508
+p370
+aV 9819864991
+p371
+asg20
+g21
+sg22
+VJubilee Manor, Fisheries Road, Andheri (W), Versova, Andheri West, Mumbai
+p372
+sba(i__main__
+Place
+p373
+(dp374
+g3
+(lp375
+VRestaurants
+p376
+asg6
+g50
+sg8
+VFarhaad Restaurant
+p377
+sg10
+Vhttp://mumbai.burrp.com/listing/farhaad-restaurant_versova_mumbai_restaurants/1411434168
+p378
+sg12
+VVersova
+p379
+sg14
+(lp380
+V26325974
+p381
+aV 26350744
+p382
+aV 26379645
+p383
+asg20
+g21
+sg22
+VEmpress Apartment, Yari Road, Andheri (W), Versova, Andheri West, Mumbai
+p384
+sba(i__main__
+Place
+p385
+(dp386
+g3
+(lp387
+VRestaurants
+p388
+asg6
+g50
+sg8
+VNini-Da-Dhaba
+p389
+sg10
+Vhttp://mumbai.burrp.com/listing/nini-da-dhaba_versova_mumbai_restaurants/1221441287
+p390
+sg12
+VVersova
+p391
+sg14
+(lp392
+V9322131377
+p393
+aV 9892116167
+p394
+aV 9324223768
+p395
+asg20
+g50
+sg22
+VJuhu Versova Link Rd, Opp: Viniit Towers, 7 Bungalows, Andheri (W), Versova, Andheri West, Mumbai
+p396
+sba(i__main__
+Place
+p397
+(dp398
+g3
+(lp399
+VRestaurants
+p400
+asg6
+g252
+sg8
+VChandni Chowk
+p401
+sg10
+Vhttp://mumbai.burrp.com/listing/chandni-chowk_versova_mumbai_restaurants/1241441485
+p402
+sg12
+VVersova
+p403
+sg14
+(lp404
+V26379386
+p405
+aV 64263360
+p406
+aV 9769324118
+p407
+aV 9769324119
+p408
+asg20
+g21
+sg22
+VShop No1, Parvati Housing Society, Near Mandir - Masjid Yari Rd, Andheri (W), Versova, Andheri West, Mumbai
+p409
+sba(i__main__
+Place
+p410
+(dp411
+g3
+(lp412
+VRestaurants
+p413
+asg6
+g50
+sg8
+VShankari Restaurant & Bar
+p414
+sg10
+Vhttp://mumbai.burrp.com/listing/shankari-restaurant-bar_versova_mumbai_restaurants/14113260168
+p415
+sg12
+VVersova
+p416
+sg14
+(lp417
+V26250807
+p418
+aV 26252481
+p419
+asg20
+g50
+sg22
+VJuhu Kapaswadi, Juhu Versova Link Road, Versova, Andheri West, Mumbai
+p420
+sba(i__main__
+Place
+p421
+(dp422
+g3
+(lp423
+VBars & Pubs
+p424
+aV Restaurants
+p425
+asg6
+g50
+sg8
+VKareem's 
+p426
+sg10
+Vhttp://mumbai.burrp.com/listing/kareems-_versova_mumbai_bars-pubs-restaurants/19313265316
+p427
+sg12
+VVersova
+p428
+sg14
+(lp429
+V26280674
+p430
+aV 26280675
+p431
+asg20
+g50
+sg22
+VShubham Bldg, Juhu Versova Linking Road, Versova, Andheri West, Mumbai
+p432
+sba(i__main__
+Place
+p433
+(dp434
+g3
+(lp435
+VCafes
+p436
+aV Restaurants
+p437
+asg6
+g50
+sg8
+VTurning Point Restaurant
+p438
+sg10
+Vhttp://mumbai.burrp.com/listing/turning-point-restaurant_versova_mumbai_cafes-restaurants/11313266396
+p439
+sg12
+VVersova
+p440
+sg14
+(lp441
+V26311576
+p442
+aV 9820256079
+p443
+asg20
+g50
+sg22
+VShop No 10, Everest Bldg, J P Rd, Opp Ganga Bhawan Versova, Versova, Andheri West, Mumbai
+p444
+sba(i__main__
+Place
+p445
+(dp446
+g3
+(lp447
+VRestaurants
+p448
+asg6
+g50
+sg8
+VEarthen Pot
+p449
+sg10
+Vhttp://mumbai.burrp.com/listing/earthen-pot_versova_mumbai_restaurants/13718488772
+p450
+sg12
+VVersova
+p451
+sg14
+(lp452
+V26332379
+p453
+aV 26316350
+p454
+aV 9819834826
+p455
+asg20
+g50
+sg22
+V9, Aram Nagar II, J.P.Road, Versova, Andheri West, Mumbai
+p456
+sba.

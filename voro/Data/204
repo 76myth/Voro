@@ -1,0 +1,433 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Cafes
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VCafe Tuba
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/cafe-tuba_dongri_mumbai_restaurants-cafes/1359398574
+p12
+sS'region'
+p13
+VDongri
+p14
+sS'phone'
+p15
+(lp16
+V23454100
+p17
+aV 23454119
+p18
+aV 9869143789
+p19
+asS'cost'
+p20
+g8
+sS'addr'
+p21
+V269/271, Ruby Building, SVP Road, Dongri, Mazgaon, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg7
+g8
+sg9
+VUdipi Restaurant
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/udipi-restaurant_mazgaon_mumbai_restaurants/12112052188
+p28
+sg13
+VMazgaon
+p29
+sg15
+(lp30
+V23728903
+p31
+asg20
+g8
+sg21
+V5/6/7/8, T G Mills Compound, Quary Street, Mazgaon, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+asg7
+g8
+sg9
+VAfzal Restaurant
+p37
+sg11
+Vhttp://mumbai.burrp.com/listing/afzal-restaurant_mazgaon_mumbai_restaurants/15912055950
+p38
+sg13
+VMazgaon
+p39
+sg15
+(lp40
+V23776405
+p41
+aV 9892192727
+p42
+asg20
+g8
+sg21
+VShop No 9/A, Shivdas Champsi Marg, Tulsiwadi, Mazgaon, Mumbai
+p43
+sba(i__main__
+Place
+p44
+(dp45
+g3
+(lp46
+VJuice Parlours
+p47
+aV Restaurants
+p48
+asg7
+g8
+sg9
+VSainath Restaurant
+p49
+sg11
+Vhttp://mumbai.burrp.com/listing/sainath-restaurant_mazgaon_mumbai_juice-parlours-restaurants/14912063960
+p50
+sg13
+VMazgaon
+p51
+sg15
+(lp52
+V23708826
+p53
+aV 23735697
+p54
+asg20
+g8
+sg21
+VYusuf Rangwala Building , 40, Nawab Tank Road, Mazgaon, Mumbai
+p55
+sba(i__main__
+Place
+p56
+(dp57
+g3
+(lp58
+VRestaurants
+p59
+asg7
+g8
+sg9
+VSwagat Lunch Home
+p60
+sg11
+Vhttp://mumbai.burrp.com/listing/swagat-lunch-home_mazgaon_mumbai_restaurants/16112065148
+p61
+sg13
+VMazgaon
+p62
+sg15
+(lp63
+V23724574
+p64
+aV 23749220
+p65
+asg20
+g8
+sg21
+VGround Floor, Sher Mansion, Sheth Motishah Lane No 96, Near Love Lane, Mazgaon, Mumbai
+p66
+sba(i__main__
+Place
+p67
+(dp68
+g3
+(lp69
+VRestaurants
+p70
+aV Bars & Pubs
+p71
+asg7
+g8
+sg9
+VModern Bar & Restaurant
+p72
+sg11
+Vhttp://mumbai.burrp.com/listing/modern-bar-restaurant_mazgaon_mumbai_restaurants-bars-pubs/17712066732
+p73
+sg13
+VMazgaon
+p74
+sg15
+(lp75
+V23708844
+p76
+aV 23719864
+p77
+asg20
+g8
+sg21
+V271, P D Mello Road, Near Star Cinema, Mazgaon, Mumbai
+p78
+sba(i__main__
+Place
+p79
+(dp80
+g3
+(lp81
+VRestaurants
+p82
+asg7
+g8
+sg9
+VQueens Mary Restaurant
+p83
+sg11
+Vhttp://mumbai.burrp.com/listing/queens-mary-restaurant_mazgaon_mumbai_restaurants/18512067524
+p84
+sg13
+VMazgaon
+p85
+sg15
+(lp86
+V23718248
+p87
+aV 23738431
+p88
+aV 9892025444
+p89
+asg20
+g8
+sg21
+VGround Floor, Farkar Tower, 50 Netbit Road, Near Burhani College, Mazgaon, Mumbai
+p90
+sba(i__main__
+Place
+p91
+(dp92
+g3
+(lp93
+VRestaurants
+p94
+asg7
+g8
+sg9
+VVasant Lunch Home
+p95
+sg11
+Vhttp://mumbai.burrp.com/listing/vasant-lunch-home_mazgaon_mumbai_restaurants/19912068910
+p96
+sg13
+VMazgaon
+p97
+sg15
+(lp98
+V23743552
+p99
+asg20
+g8
+sg21
+VShop No 131, Dhule Mansion, Madar Pakodi Road, Mazgaon, Mumbai
+p100
+sba(i__main__
+Place
+p101
+(dp102
+g3
+(lp103
+VRestaurants
+p104
+asg7
+g8
+sg9
+VSweetheart Snack Bar
+p105
+sg11
+Vhttp://mumbai.burrp.com/listing/sweetheart-snack-bar_mazgaon_mumbai_restaurants/12712070782
+p106
+sg13
+VMazgaon
+p107
+sg15
+(lp108
+V23775227
+p109
+asg20
+g8
+sg21
+VTarwadi, Sait Marys Raod, Mazgaon, Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VBars & Pubs
+p114
+aV Restaurants
+p115
+asg7
+g8
+sg9
+VPizza House
+p116
+sg11
+Vhttp://mumbai.burrp.com/listing/pizza-house_mazgaon_mumbai_bars-pubs-restaurants/13312071376
+p117
+sg13
+VMazgaon
+p118
+sg15
+(lp119
+V23702527
+p120
+aV 9930335969
+p121
+asg20
+g8
+sg21
+VShp#10a Gr Flr A Wing Crystal Residency, Dockyard Rd, Nr Sales TAX Office, Mazgaon, Mumbai
+p122
+sba(i__main__
+Place
+p123
+(dp124
+g3
+(lp125
+VRestaurants
+p126
+asg7
+g8
+sg9
+VReal Restaurant
+p127
+sg11
+Vhttp://mumbai.burrp.com/listing/real-restaurant_reay-road_mumbai_restaurants/13912755970
+p128
+sg13
+VReay Road
+p129
+sg15
+(lp130
+V23727948
+p131
+asg20
+g8
+sg21
+V180, Jaffery Building, Barrister Nathpai Road, Reay Road, Mazgaon, Mumbai
+p132
+sba(i__main__
+Place
+p133
+(dp134
+g3
+(lp135
+VRestaurants
+p136
+asg7
+g8
+sg9
+VRajmahal Hotel
+p137
+sg11
+Vhttp://mumbai.burrp.com/listing/rajmahal-hotel_reay-road_mumbai_restaurants/14112756168
+p138
+sg13
+VReay Road
+p139
+sg15
+(lp140
+V23703353
+p141
+asg20
+g8
+sg21
+VShop No 210, Quay Street, Darukhana, Reay Road, Mazgaon, Mumbai
+p142
+sba(i__main__
+Place
+p143
+(dp144
+g3
+(lp145
+VRestaurants
+p146
+asg7
+g8
+sg9
+VAnand Vihar Restaurant
+p147
+sg11
+Vhttp://mumbai.burrp.com/listing/anand-vihar-restaurant_reay-road_mumbai_restaurants/14312756366
+p148
+sg13
+VReay Road
+p149
+sg15
+(lp150
+V23708702
+p151
+aV 23721565
+p152
+aV 23746945
+p153
+asg20
+g8
+sg21
+VSignal Hill Avenue, Reay Road, Mazgaon, Mumbai
+p154
+sba(i__main__
+Place
+p155
+(dp156
+g3
+(lp157
+VRestaurants
+p158
+asg7
+g8
+sg9
+VHotel Sudarshan Veg. Restaurant
+p159
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-sudarshan-veg-restaurant_dongri_mumbai_restaurants/12124175188
+p160
+sg13
+VDongri
+p161
+sg15
+(lp162
+V9321091976
+p163
+asg20
+g8
+sg21
+V12-17, Baghdad Mansion, 5, Nawroji Hill Road, Dongri, Mazgaon, Mumbai
+p164
+sba.

@@ -1,0 +1,345 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VMasala Mantar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/masala-mantar_4-bungalows_mumbai_restaurants/132389277
+p11
+sS'region'
+p12
+V4 Bungalows
+p13
+sS'phone'
+p14
+(lp15
+V26396032
+p16
+aV 26396033
+p17
+aV 65028944
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+V1st Floor, Mohid Heights, Lokhandwala Road, 4 Bungalows, Andheri West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VCafes
+p26
+aV Restaurants
+p27
+aV Bars & Pubs
+p28
+asg6
+g7
+sg8
+VSome Like It Hot
+p29
+sg10
+Vhttp://mumbai.burrp.com/listing/some-like-it-hot_4-bungalows_mumbai_cafes-restaurants-bars-pubs/1285527881
+p30
+sg12
+V4 Bungalows
+p31
+sg14
+(lp32
+V26396003
+p33
+aV 26396004
+p34
+asg19
+g20
+sg21
+V1st Floor, Mohid Heights, Lokhandwala Road, Versova, 4 Bungalows, Andheri West, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+V3
+p40
+sg8
+VKhaugalli
+p41
+sg10
+Vhttp://mumbai.burrp.com/listing/khaugalli_4-bungalows_mumbai_restaurants/1115184198
+p42
+sg12
+V4 Bungalows
+p43
+sg14
+(lp44
+V42225252
+p45
+asg19
+g20
+sg21
+VVersova Shree Darshan Co-Op Hsg Society, 4 Bungalows, Andheri West, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+aV Banquet Halls
+p51
+aV Outdoor Caterers
+p52
+asg6
+g7
+sg8
+VGoa Portuguesa
+p53
+sg10
+Vhttp://mumbai.burrp.com/listing/goa-portuguesa_4-bungalows_mumbai_restaurants-banquet-halls-outdoor-caterers/14314997366
+p54
+sg12
+V4 Bungalows
+p55
+sg14
+(lp56
+V26313222
+p57
+aV 26313777
+p58
+aV 26313999
+p59
+aV 9619961818
+p60
+asg19
+g40
+sg21
+VSVP Nagar, Lokhandwala Road, 4 Bungalows, Andheri West, Mumbai
+p61
+sba(i__main__
+Place
+p62
+(dp63
+g3
+(lp64
+VRestaurants
+p65
+asg6
+V5
+p66
+sg8
+VQuarter Deck Restaurant
+p67
+sg10
+Vhttp://mumbai.burrp.com/listing/quarter-deck-restaurant_4-bungalows_mumbai_restaurants/1897207920
+p68
+sg12
+V4 Bungalows
+p69
+sg14
+(lp70
+V26355932
+p71
+aV 26355933
+p72
+aV 9892957191
+p73
+asg19
+V0
+p74
+sg21
+VShop No 1, Ground Floor, Ratan Nagar, 4 Bungalows, Andheri West, Mumbai
+p75
+sba(i__main__
+Place
+p76
+(dp77
+g3
+(lp78
+VHome Caterers
+p79
+aV Fast Food Shops
+p80
+aV Restaurants
+p81
+aV Take Away Shops
+p82
+aV Tiffin Services
+p83
+asg6
+g66
+sg8
+VMega Bites
+p84
+sg10
+Vhttp://mumbai.burrp.com/listing/mega-bites_4-bungalows_mumbai_home-caterers-fast-food-shops-restaurants/15924907950
+p85
+sg12
+V4 Bungalows
+p86
+sg14
+(lp87
+V26327025
+p88
+asg19
+g20
+sg21
+VD2/ 94, SVP Nagar, Mhada, 4 Bungalows, Andheri West, Mumbai
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VRestaurants
+p93
+asg6
+g7
+sg8
+VGettogether
+p94
+sg10
+Vhttp://mumbai.burrp.com/listing/gettogether_4-bungalows_mumbai_restaurants/1395546970
+p95
+sg12
+V4 Bungalows
+p96
+sg14
+(lp97
+V26353392
+p98
+aV 26353112
+p99
+aV 8828005862
+p100
+asg19
+g20
+sg21
+VShop No. 12, Bldg. No 1 , 4 Bungalows, Andheri West, Mumbai
+p101
+sba(i__main__
+Place
+p102
+(dp103
+g3
+(lp104
+VOutdoor Caterers
+p105
+aV Restaurants
+p106
+asg6
+g40
+sg8
+VShan-e-Punjab Family Restaurant
+p107
+sg10
+Vhttp://mumbai.burrp.com/listing/shan-e-punjab-family-restaurant_4-bungalows_mumbai_outdoor-caterers-restaurants/146255663
+p108
+sg12
+V4 Bungalows
+p109
+sg14
+(lp110
+V26353112
+p111
+aV 26353392
+p112
+asg19
+g20
+sg21
+VGuru Nagar Bldg. No. 1, Shop No. 12, Andheri (W), 4 Bungalows, Andheri West, Mumbai
+p113
+sba(i__main__
+Place
+p114
+(dp115
+g3
+(lp116
+VRestaurants
+p117
+asg6
+g74
+sg8
+VBollywood Kitchen
+p118
+sg10
+Vhttp://mumbai.burrp.com/listing/bollywood-kitchen_4-bungalows_mumbai_restaurants/1713300138
+p119
+sg12
+V4 Bungalows
+p120
+sg14
+(lp121
+V26315434
+p122
+aV 9820255066
+p123
+aV 9321678508
+p124
+asg19
+g20
+sg21
+VMHADA, Andheri (W), 4 Bungalows, Andheri West, Mumbai
+p125
+sba(i__main__
+Place
+p126
+(dp127
+g3
+(lp128
+VRestaurants
+p129
+asg6
+g74
+sg8
+VDakshin Culture Curry
+p130
+sg10
+Vhttp://mumbai.burrp.com/listing/dakshin-culture-curry_4-bungalows_mumbai_restaurants/14514997564
+p131
+sg12
+V4 Bungalows
+p132
+sg14
+(lp133
+V26313222
+p134
+aV 26313777
+p135
+aV 26313999
+p136
+aV 9619961818
+p137
+asg19
+g74
+sg21
+VSVP Nagar, Lokhandwala Road, 4 Bungalows, Andheri West, Mumbai
+p138
+sba.

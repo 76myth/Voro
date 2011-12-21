@@ -1,0 +1,289 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBanquet Halls
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V5
+p8
+sS'name'
+p9
+VZaika
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/zaika_bhayandar-w_thane_banquet-halls-restaurants/1465061663
+p12
+sS'region'
+p13
+VBhayandar (W)
+p14
+sS'phone'
+p15
+(lp16
+V28171718
+p17
+aV 28171719
+p18
+aV 8080372281
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+V1st Floor, Govind Mall, Salasar Brij Bhoomi, 150 Feet Road, Temba Hospital Road, Bhayandar (W), Thane
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VBars & Pubs
+p27
+aV Restaurants
+p28
+asg7
+V3
+p29
+sg9
+VUltimate Paradise
+p30
+sg11
+Vhttp://mumbai.burrp.com/listing/ultimate-paradise_bhayandar-w_thane_bars-pubs-restaurants/199152910
+p31
+sg13
+VBhayandar (W)
+p32
+sg15
+(lp33
+V28450664
+p34
+asg20
+V0
+p35
+sg22
+VAnand Nagar, Uttar Dongri Rd, Bhayander (W), Bhayandar (W), Thane
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VOutdoor Caterers
+p40
+aV Ice-cream Parlours
+p41
+aV Fast Food Shops
+p42
+aV Take Away Shops
+p43
+aV Banquet Halls
+p44
+aV Restaurants
+p45
+aV Food-court Stalls
+p46
+asg7
+g35
+sg9
+VMasala Station
+p47
+sg11
+Vhttp://mumbai.burrp.com/listing/masala-station_bhayandar-w_thane_outdoor-caterers-ice-cream-parlours-fast-food-shops/1956794514
+p48
+sg13
+VBhayandar (W)
+p49
+sg15
+(lp50
+V8652442452
+p51
+aV 9167727536
+p52
+aV 9167727542
+p53
+asg20
+g21
+sg22
+V2nd Floor, Maxus Mall, Temba Road, Bhayandar (W), Thane
+p54
+sba(i__main__
+Place
+p55
+(dp56
+g3
+(lp57
+VRestaurants
+p58
+asg7
+g35
+sg9
+VVeg Saagar Family Restaurant
+p59
+sg11
+Vhttp://mumbai.burrp.com/listing/veg-saagar-family-restaurant_bhayandar-w_thane_restaurants/19315614316
+p60
+sg13
+VBhayandar (W)
+p61
+sg15
+(lp62
+V32210600 
+p63
+aV 32990600 
+p64
+aV 28040500 
+p65
+aV 28040600
+p66
+asg20
+V1
+p67
+sg22
+V150 Feet Road, Close To Maxus Mall , Bhayandar (W), Thane
+p68
+sba(i__main__
+Place
+p69
+(dp70
+g3
+(lp71
+VRestaurants
+p72
+asg7
+g35
+sg9
+VShree Nidhi Pure Veg Restaurant
+p73
+sg11
+Vhttp://mumbai.burrp.com/listing/shree-nidhi-pure-veg-restaurant_bhayandar-w_thane_restaurants/16914117940
+p74
+sg13
+VBhayandar (W)
+p75
+sg15
+(lp76
+V28151242
+p77
+aV 28163535
+p78
+aV 28163636
+p79
+asg20
+g35
+sg22
+VShop No.14, Janki Heritage, 150 Feet Road, Bhayandar (W), Thane
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VRestaurants
+p84
+asg7
+g35
+sg9
+VShagun Pure Veg
+p85
+sg11
+Vhttp://mumbai.burrp.com/listing/shagun-pure-veg_bhayandar-w_thane_restaurants/12314122386
+p86
+sg13
+VBhayandar (W)
+p87
+sg15
+(lp88
+V28151181
+p89
+aV 28151182
+p90
+aV 28151183
+p91
+aV 28151190
+p92
+asg20
+g35
+sg22
+VGorund Floor, Maxus Mall, Temba Road, Bhayandar (W), Thane
+p93
+sba(i__main__
+Place
+p94
+(dp95
+g3
+(lp96
+VRestaurants
+p97
+aV Cafes
+p98
+asg7
+g35
+sg9
+VGreen Avenue
+p99
+sg11
+Vhttp://mumbai.burrp.com/listing/green-avenue_bhayandar-w_thane_restaurants-cafes/14914115960
+p100
+sg13
+VBhayandar (W)
+p101
+sg15
+(lp102
+V28043888
+p103
+aV 28146777
+p104
+aV 28193803
+p105
+asg20
+g21
+sg22
+V60 Feet Road Corner, Pathak Road, Bhayandar (W), Thane
+p106
+sba(i__main__
+Place
+p107
+(dp108
+g3
+(lp109
+VRestaurants
+p110
+asg7
+g35
+sg9
+VMirchii Restaurant
+p111
+sg11
+Vhttp://mumbai.burrp.com/listing/mirchii-restaurant_bhayandar-w_thane_restaurants/1516160158
+p112
+sg13
+VBhayandar (W)
+p113
+sg15
+(lp114
+V28450757
+p115
+aV 65103061
+p116
+aV 9820184386
+p117
+asg20
+g21
+sg22
+VLocated in Golden Toff Resort, Bhayandar (W), Thane
+p118
+sba.

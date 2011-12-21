@@ -1,0 +1,173 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+aV Hotels
+p7
+asS'rating'
+p8
+V2
+p9
+sS'name'
+p10
+VHotel Mayur
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/hotel-mayur_ulhasnagar-3_thane_restaurants-bars-pubs-hotels/18714740722
+p13
+sS'region'
+p14
+VUlhasnagar 3
+p15
+sS'phone'
+p16
+(lp17
+V2732352
+p18
+aV 2732353
+p19
+aV 2732354
+p20
+aV 2732355
+p21
+asS'cost'
+p22
+V3
+p23
+sS'addr'
+p24
+VCentral Hospital Road , Ulhasnagar 3, Ulhasnagar, Thane
+p25
+sba(i__main__
+Place
+p26
+(dp27
+g3
+(lp28
+VBars & Pubs
+p29
+aV Restaurants
+p30
+asg8
+V0
+p31
+sg10
+VSupper Point Family Restaurant & Bar
+p32
+sg12
+Vhttp://mumbai.burrp.com/listing/supper-point-family-restaurant-bar_ulhasnagar_thane_bars-pubs-restaurants/11723607792
+p33
+sg14
+VUlhasnagar
+p34
+sg16
+(lp35
+V2567707
+p36
+asg22
+g9
+sg24
+VNear State Bank, Section 17, Kalyan - Ambernath Road, Ulhasnagar, Thane
+p37
+sba(i__main__
+Place
+p38
+(dp39
+g3
+(lp40
+VRestaurants
+p41
+asg8
+g31
+sg10
+VKarachi Hindu Hotel
+p42
+sg12
+Vhttp://mumbai.burrp.com/listing/karachi-hindu-hotel_ulhasnagar-3_thane_restaurants/16523612544
+p43
+sg14
+VUlhasnagar 3
+p44
+sg16
+(lp45
+V2730396
+p46
+aV 2701396
+p47
+asg22
+g9
+sg24
+VShop No.668, Shivaji Chowk, Ulhasnagar 3, Ulhasnagar, Thane
+p48
+sba(i__main__
+Place
+p49
+(dp50
+g3
+(lp51
+VRestaurants
+p52
+asg8
+g31
+sg10
+VKamal Lodge
+p53
+sg12
+Vhttp://mumbai.burrp.com/listing/kamal-lodge_ulhasnagar-1_thane_restaurants/18514722524
+p54
+sg14
+VUlhasnagar 1
+p55
+sg16
+(lp56
+V2561164
+p57
+aV 8080142227
+p58
+asg22
+g31
+sg24
+VBirla Gate Chowk, Ulhasnagar 1, Ulhasnagar, Thane
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg8
+g31
+sg10
+VMaha Samrat Pure Veg
+p64
+sg12
+Vhttp://mumbai.burrp.com/listing/maha-samrat-pure-veg_ulhasnagar_thane_restaurants/11923598990
+p65
+sg14
+VUlhasnagar
+p66
+sg16
+(lp67
+V9226611208
+p68
+aV 6968307
+p69
+aV 6973613
+p70
+asg22
+g9
+sg24
+VShivaji Chowk, Opp. Band Box, Kalyan-Ambernath Road, Ulhasnagar, Thane
+p71
+sba.

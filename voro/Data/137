@@ -1,0 +1,42 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VHotel Sai Garden 
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/hotel-sai-garden-_kanamwar-nagar_mumbai_restaurants/14123538168
+p11
+sS'region'
+p12
+VKanamwar Nagar
+p13
+sS'phone'
+p14
+(lp15
+V32694799
+p16
+aV 9870569369
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VSai Baba Shopping Center, Janta Market, Kanamwar Nagar-2, Kanamwar Nagar, Vikhroli East, Mumbai
+p21
+sba.

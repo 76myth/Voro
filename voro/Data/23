@@ -1,0 +1,69 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VTrushna Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/trushna-restaurant_bangur-nagar_mumbai_restaurants/1897900920
+p11
+sS'region'
+p12
+VBangur Nagar
+p13
+sS'phone'
+p14
+(lp15
+V28781260
+p16
+aV 9892023364
+p17
+asS'cost'
+p18
+g7
+sS'addr'
+p19
+VNew Mitha Nagar, M G Road, Bangur Nagar, Goregaon West, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g7
+sg8
+VBrothers Kitchen
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/brothers-kitchen_bangur-nagar_mumbai_restaurants/1177902792
+p26
+sg12
+VBangur Nagar
+p27
+sg14
+(lp28
+V28735007
+p29
+asg18
+g7
+sg19
+VRamdas Chowk, M G Road, Link Road Junction, Bangur Nagar, Goregaon West, Mumbai
+p30
+sba.

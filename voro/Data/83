@@ -1,0 +1,165 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VGippetto's Pizza
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/gippettos-pizza_dombivli-e_thane_restaurants/1205788089
+p11
+sS'region'
+p12
+VDombivli (E)
+p13
+sS'phone'
+p14
+(lp15
+V3233848
+p16
+aV 3230387
+p17
+aV 3231031
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VShops No. 1 & 2, 
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+V4
+p27
+sg8
+VNew Modern Cafe
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/new-modern-cafe_dombivli-e_thane_restaurants/13114159178
+p29
+sg12
+VDombivli (E)
+p30
+sg14
+(lp31
+V2434593
+p32
+aV 2800154
+p33
+asg19
+V0
+p34
+sg21
+VShop No.1, Chirag Cooperative Housing Society, Phadke Road, Dombivli (E), Thane
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+g34
+sg8
+VClassik Restaurant
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/classik-restaurant_dombivli-e_thane_restaurants/17515216534
+p41
+sg12
+VDombivli (E)
+p42
+sg14
+(lp43
+V2874747
+p44
+asg19
+V1
+p45
+sg21
+VManpada Road, Dombivli (E), Thane
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g34
+sg8
+VJaishree Restaurant
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/jaishree-restaurant_dombivli-e_thane_restaurants/12115571188
+p52
+sg12
+VDombivli (E)
+p53
+sg14
+(lp54
+V2861224
+p55
+aV 9987530007
+p56
+asg19
+g45
+sg21
+V6/7, Viji Prabha Complex   , Patkar Road , Dombivli (E), Thane
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+aV Banquet Halls
+p62
+asg6
+g34
+sg8
+VGoga Pure Veg
+p63
+sg10
+Vhttp://mumbai.burrp.com/listing/goga-pure-veg_dombivli-e_thane_restaurants-banquet-halls/14322458366
+p64
+sg12
+VDombivli (E)
+p65
+sg14
+(lp66
+V6516238
+p67
+asg19
+g34
+sg21
+VBuilding No.14, 1st Floor, Ambika Residency, Regency Estate, Dombivli (E), Thane
+p68
+sba.

@@ -1,0 +1,42 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VShree Thakker Bhojanalay
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/shree-thakker-bhojanalay_dadiseth-agiary-lane_mumbai_restaurants/13456475
+p11
+sS'region'
+p12
+VDadiseth Agiary Lane
+p13
+sS'phone'
+p14
+(lp15
+V22011232
+p16
+aV 22088035
+p17
+asS'cost'
+p18
+V1
+p19
+sS'addr'
+p20
+V31, Dadiseth Agiary Lane, Kalbadevi, Mumbai
+p21
+sba.

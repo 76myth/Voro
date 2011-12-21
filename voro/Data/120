@@ -1,0 +1,126 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VHotel Shiv Punjab
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/hotel-shiv-punjab_jacob-circle_mumbai_restaurants/13123789178
+p11
+sS'region'
+p12
+VJacob Circle
+p13
+sS'phone'
+p14
+(lp15
+V64260158
+p16
+aV 23088351
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VMala Building, Saat Rasta, Jacob Circle, Mahalaxmi, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VBharat Restaurant Mumbai Central
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/bharat-restaurant-mumbai-central_jacob-circle_mumbai_restaurants/17110104138
+p27
+sg12
+VJacob Circle
+p28
+sg14
+(lp29
+V23087661
+p30
+asg18
+g7
+sg20
+VD V Chawl, Kesharao Khadge Marg No 42 , Jacob Circle, Mahalaxmi, Mumbai
+p31
+sba(i__main__
+Place
+p32
+(dp33
+g3
+(lp34
+VRestaurants
+p35
+asg6
+g7
+sg8
+VSwagat Restaurant
+p36
+sg10
+Vhttp://mumbai.burrp.com/listing/swagat-restaurant_jacob-circle_mumbai_restaurants/15310102356
+p37
+sg12
+VJacob Circle
+p38
+sg14
+(lp39
+V23082149
+p40
+asg18
+g7
+sg20
+VShop No 76/78, Mala Building, Jacob Circle, Mahalaxmi, Mumbai
+p41
+sba(i__main__
+Place
+p42
+(dp43
+g3
+(lp44
+VRestaurants
+p45
+asg6
+g7
+sg8
+VNeo Rush
+p46
+sg10
+Vhttp://mumbai.burrp.com/listing/neo-rush_jacob-circle_mumbai_restaurants/11124246198
+p47
+sg12
+VJacob Circle
+p48
+sg14
+(lp49
+V23000421
+p50
+asg18
+g7
+sg20
+V 10, Prabhat Building, R. B Chandorkar Marg, Near Jai Hind Hotel, opp Agripada Police Station, Jacob Circle, Mahalaxmi, Mumbai
+p51
+sba.

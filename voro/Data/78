@@ -1,0 +1,71 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Fast Food Shops
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VHotel Internartional
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/hotel-internartional_deonar_mumbai_restaurants-fast-food-shops/1399353970
+p12
+sS'region'
+p13
+VDeonar
+p14
+sS'phone'
+p15
+(lp16
+V25514762
+p17
+aV 9819940709
+p18
+asS'cost'
+p19
+g8
+sS'addr'
+p20
+VCheeta Camp, G Sector, M G R Road, Sion Trombay Road, Deonar, Govandi, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg7
+g8
+sg9
+VAmba Bhuvan
+p26
+sg11
+Vhttp://mumbai.burrp.com/listing/amba-bhuvan_deonar_mumbai_restaurants/1719357138
+p27
+sg13
+VDeonar
+p28
+sg15
+(lp29
+V25569937
+p30
+asg19
+g8
+sg20
+V18, Stn Rd, Deonar, Govandi, Mumbai
+p31
+sba.

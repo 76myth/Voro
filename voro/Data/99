@@ -1,0 +1,78 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Outdoor Caterers
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VStatus Restaurant Pure Veg
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/status-restaurant-pure-veg_gorai_mumbai_restaurants-outdoor-caterers/1278236782
+p12
+sS'region'
+p13
+VGorai
+p14
+sS'phone'
+p15
+(lp16
+V28695464
+p17
+aV 28679726
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VShop No. 3, Plot No. 16, R.D.P. 1, Gorai Shree Ashtavinayak Co-Op Housing Society, Gorai, Borivali West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VBars & Pubs
+p26
+aV Restaurants
+p27
+asg7
+g8
+sg9
+VBay View Restaurant And Bar
+p28
+sg11
+Vhttp://mumbai.burrp.com/listing/bay-view-restaurant-and-bar_gorai_mumbai_bars-pubs-restaurants/1899700920
+p29
+sg13
+VGorai
+p30
+sg15
+(lp31
+V28679256
+p32
+aV 9930610123
+p33
+aV 28678234
+p34
+asg19
+g8
+sg21
+VGorai Road, Gorai, Borivali West, Mumbai
+p35
+sba.

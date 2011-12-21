@@ -1,0 +1,82 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Fast Food Shops
+p6
+aV Home Caterers
+p7
+aV Take Away Shops
+p8
+asS'rating'
+p9
+V5
+p10
+sS'name'
+p11
+VItalian Pizzas
+p12
+sS'url'
+p13
+Vhttp://mumbai.burrp.com/listing/italian-pizzas_bandra-kurla-complex_mumbai_restaurants-fast-food-shops-home-caterers/17515558534
+p14
+sS'region'
+p15
+VBandra Kurla Complex
+p16
+sS'phone'
+p17
+(lp18
+V65666777
+p19
+aV 26511088
+p20
+aV 26511077
+p21
+asS'cost'
+p22
+V2
+p23
+sS'addr'
+p24
+VShop No. 24, Aashapura Housing Co-Operative, Indira Nagar, Bandra Kurla Complex, Bandra East, Mumbai
+p25
+sba(i__main__
+Place
+p26
+(dp27
+g3
+(lp28
+VRestaurants
+p29
+asg9
+V4
+p30
+sg11
+VYauatcha 
+p31
+sg13
+Vhttp://mumbai.burrp.com/listing/yauatcha-_bandra-kurla-complex_mumbai_restaurants/11732481792
+p32
+sg15
+VBandra Kurla Complex
+p33
+sg17
+(lp34
+V26448888
+p35
+aV 26442600
+p36
+asg22
+V3
+p37
+sg24
+VRaheja Tower , Bandra Kurla Complex, Bandra East, Mumbai
+p38
+sba.

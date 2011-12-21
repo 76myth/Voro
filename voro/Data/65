@@ -1,0 +1,789 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VZaffran
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/zaffran_crawford-market_mumbai_restaurants/12673683
+p11
+sS'region'
+p12
+VCrawford Market
+p13
+sS'phone'
+p14
+(lp15
+V23442690
+p16
+aV 23401976
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VB Block, Dr DN Road, Sitaram Building, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VBadshah
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/badshah_crawford-market_mumbai_restaurants/158103851
+p27
+sg12
+VCrawford Market
+p28
+sg14
+(lp29
+V23421943
+p30
+aV 23449316
+p31
+aV 23425950
+p32
+asg18
+V0
+p33
+sg20
+V152/156, LT Marg, Opposite Crawford Market, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg6
+V3
+p39
+sg8
+VHowrah Bengali Restaurant
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/howrah-bengali-restaurant_crawford-market_mumbai_restaurants/148120861
+p41
+sg12
+VCrawford Market
+p42
+sg14
+(lp43
+V23401951
+p44
+aV 23401976
+p45
+asg18
+g33
+sg20
+V81C Sitaram Building, DN Road, Opposite Police Commissioner's Office, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g7
+sg8
+VArabian Blues
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/arabian-blues_crawford-market_mumbai_restaurants/1465745663
+p52
+sg12
+VCrawford Market
+p53
+sg14
+(lp54
+V22014444
+p55
+aV 9819265123
+p56
+asg18
+g19
+sg20
+V246, Yusuf Bldg, Opp Ashoka Shopping Centre, LT Marg , Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g39
+sg8
+VHotel Sadanand
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sadanand_crawford-market_mumbai_restaurants/147120762
+p63
+sg12
+VCrawford Market
+p64
+sg14
+(lp65
+V66333360
+p66
+asg18
+g19
+sg20
+Vlokmanya Tilak Marg, Opposite Crawford Market, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p67
+sba(i__main__
+Place
+p68
+(dp69
+g3
+(lp70
+VRestaurants
+p71
+asg6
+g7
+sg8
+VGulshan-E-Iran
+p72
+sg10
+Vhttp://mumbai.burrp.com/listing/gulshan-e-iran_crawford-market_mumbai_restaurants/17569534
+p73
+sg12
+VCrawford Market
+p74
+sg14
+(lp75
+V22615183
+p76
+aV 22610748
+p77
+asg18
+g33
+sg20
+V15 Palton Road, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p78
+sba(i__main__
+Place
+p79
+(dp80
+g3
+(lp81
+VRestaurants
+p82
+asg6
+g7
+sg8
+VBawarchi
+p83
+sg10
+Vhttp://mumbai.burrp.com/listing/bawarchi_crawford-market_mumbai_restaurants/170105039
+p84
+sg12
+VCrawford Market
+p85
+sg14
+(lp86
+V22080578
+p87
+aV 22060704
+p88
+asg18
+g33
+sg20
+V250, Lokmanya Tilak Road, Opposite G T Hospital, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VRestaurants
+p93
+asg6
+g7
+sg8
+VRevival - Indian Thali
+p94
+sg10
+Vhttp://mumbai.burrp.com/listing/revival---indian-thali_crawford-market_mumbai_restaurants/16915071940
+p95
+sg12
+VCrawford Market
+p96
+sg14
+(lp97
+V23449014
+p98
+aV 23426919
+p99
+aV 23696990
+p100
+asg18
+g19
+sg20
+V361, Sheikh Memon Street, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p101
+sba(i__main__
+Place
+p102
+(dp103
+g3
+(lp104
+VRestaurants
+p105
+asg6
+g19
+sg8
+VCafe Firdos
+p106
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-firdos_crawford-market_mumbai_restaurants/196107613
+p107
+sg12
+VCrawford Market
+p108
+sg14
+(lp109
+V23424781
+p110
+aV 23429267
+p111
+asg18
+g33
+sg20
+V154 Sarang Street, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p112
+sba(i__main__
+Place
+p113
+(dp114
+g3
+(lp115
+VRestaurants
+p116
+asg6
+g33
+sg8
+VFirst Floor Bistro
+p117
+sg10
+Vhttp://mumbai.burrp.com/listing/first-floor-bistro_crawford-market_mumbai_restaurants/1358867574
+p118
+sg12
+VCrawford Market
+p119
+sg14
+(lp120
+V23442690
+p121
+aV 23401976
+p122
+asg18
+g33
+sg20
+VB-Block, Sitaram Building, Dr. D N Road, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p123
+sba(i__main__
+Place
+p124
+(dp125
+g3
+(lp126
+VBars & Pubs
+p127
+aV Restaurants
+p128
+asg6
+g33
+sg8
+VChetan
+p129
+sg10
+Vhttp://mumbai.burrp.com/listing/chetan_crawford-market_mumbai_bars-pubs-restaurants/1975390712
+p130
+sg12
+VCrawford Market
+p131
+sg14
+(lp132
+V23433079
+p133
+asg18
+g33
+sg20
+VDhoble Bhuvan , L. T. Road, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p134
+sba(i__main__
+Place
+p135
+(dp136
+g3
+(lp137
+VRestaurants
+p138
+asg6
+g33
+sg8
+VBenzy Restaurant
+p139
+sg10
+Vhttp://mumbai.burrp.com/listing/benzy-restaurant_crawford-market_mumbai_restaurants/1538869356
+p140
+sg12
+VCrawford Market
+p141
+sg14
+(lp142
+V23415599
+p143
+aV 30012238
+p144
+aV 9819688672
+p145
+asg18
+g33
+sg20
+VGround Floor, Plot No 62, Janjikar Street, Near Patel Hotel, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p146
+sba(i__main__
+Place
+p147
+(dp148
+g3
+(lp149
+VRestaurants
+p150
+asg6
+g33
+sg8
+VAlmadini Fast Food
+p151
+sg10
+Vhttp://mumbai.burrp.com/listing/almadini-fast-food_crawford-market_mumbai_restaurants/138101871
+p152
+sg12
+VCrawford Market
+p153
+sg14
+(lp154
+V
+p155
+asg18
+g33
+sg20
+VMinara Masjid, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p156
+sba(i__main__
+Place
+p157
+(dp158
+g3
+(lp159
+VRestaurants
+p160
+asg6
+g33
+sg8
+VDulux Restaurant
+p161
+sg10
+Vhttp://mumbai.burrp.com/listing/dulux-restaurant_crawford-market_mumbai_restaurants/1418868168
+p162
+sg12
+VCrawford Market
+p163
+sg14
+(lp164
+V22042351
+p165
+asg18
+g33
+sg20
+VBuilding No 10/A, Pitha Street, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p166
+sba(i__main__
+Place
+p167
+(dp168
+g3
+(lp169
+VRestaurants
+p170
+asg6
+g33
+sg8
+VAbhiruchi Restaurant
+p171
+sg10
+Vhttp://mumbai.burrp.com/listing/abhiruchi-restaurant_crawford-market_mumbai_restaurants/181169128
+p172
+sg12
+VCrawford Market
+p173
+sg14
+(lp174
+V22615732
+p175
+asg18
+g33
+sg20
+VCSM Market, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p176
+sba(i__main__
+Place
+p177
+(dp178
+g3
+(lp179
+VRestaurants
+p180
+asg6
+g33
+sg8
+VShanti Bhavan
+p181
+sg10
+Vhttp://mumbai.burrp.com/listing/shanti-bhavan_crawford-market_mumbai_restaurants/1115391198
+p182
+sg12
+VCrawford Market
+p183
+sg14
+(lp184
+V23443596
+p185
+aV 23443597
+p186
+asg18
+g19
+sg20
+V23/B Block, Sitaram building, D. N. Road, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p187
+sba(i__main__
+Place
+p188
+(dp189
+g3
+(lp190
+VRestaurants
+p191
+asg6
+g33
+sg8
+VHotel Grant House
+p192
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-grant-house_crawford-market_mumbai_restaurants/1657097544
+p193
+sg12
+VCrawford Market
+p194
+sg14
+(lp195
+V22617059
+p196
+asg18
+g19
+sg20
+VCrawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p197
+sba(i__main__
+Place
+p198
+(dp199
+g3
+(lp200
+VRestaurants
+p201
+asg6
+g33
+sg8
+VAkbarali & Co.
+p202
+sg10
+Vhttp://mumbai.burrp.com/listing/akbarali-co_crawford-market_mumbai_restaurants/1638834346
+p203
+sg12
+VCrawford Market
+p204
+sg14
+(lp205
+V23459069
+p206
+aV 23462704
+p207
+aV 23443759
+p208
+asg18
+g33
+sg20
+V358, E R Road, Bhendi Bazar, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p209
+sba(i__main__
+Place
+p210
+(dp211
+g3
+(lp212
+VRestaurants
+p213
+asg6
+g33
+sg8
+VHotel Benzy
+p214
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-benzy_crawford-market_mumbai_restaurants/1698843940
+p215
+sg12
+VCrawford Market
+p216
+sg14
+(lp217
+V23415599
+p218
+asg18
+g33
+sg20
+V62, Janjikar Street, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p219
+sba(i__main__
+Place
+p220
+(dp221
+g3
+(lp222
+VRestaurants
+p223
+asg6
+g33
+sg8
+VMarket Hotel
+p224
+sg10
+Vhttp://mumbai.burrp.com/listing/market-hotel_crawford-market_mumbai_restaurants/1378849772
+p225
+sg12
+VCrawford Market
+p226
+sg14
+(lp227
+V23445217
+p228
+asg18
+g33
+sg20
+VPaltan Road, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p229
+sba(i__main__
+Place
+p230
+(dp231
+g3
+(lp232
+VRestaurants
+p233
+asg6
+g33
+sg8
+VSharda Pure Veg Restaurant
+p234
+sg10
+Vhttp://mumbai.burrp.com/listing/sharda-pure-veg-restaurant_crawford-market_mumbai_restaurants/1258857584
+p235
+sg12
+VCrawford Market
+p236
+sg14
+(lp237
+V23425760
+p238
+aV 23448173
+p239
+asg18
+g33
+sg20
+V123/125, Dayamandir, Mumbadevi Road, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p240
+sba(i__main__
+Place
+p241
+(dp242
+g3
+(lp243
+VRestaurants
+p244
+asg6
+g33
+sg8
+VYadgar Restaurant
+p245
+sg10
+Vhttp://mumbai.burrp.com/listing/yadgar-restaurant_crawford-market_mumbai_restaurants/1758862534
+p246
+sg12
+VCrawford Market
+p247
+sg14
+(lp248
+V23424324
+p249
+asg18
+g33
+sg20
+V58, Carnac Road, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p250
+sba(i__main__
+Place
+p251
+(dp252
+g3
+(lp253
+VRestaurants
+p254
+asg6
+g33
+sg8
+VUsmaniya Hotel
+p255
+sg10
+Vhttp://mumbai.burrp.com/listing/usmaniya-hotel_crawford-market_mumbai_restaurants/1938864316
+p256
+sg12
+VCrawford Market
+p257
+sg14
+(lp258
+V22610121
+p259
+aV 22615185
+p260
+aV 66589499
+p261
+asg18
+g33
+sg20
+VShop No 9 D, Madina Building , B Block, S S Musafir Khana Road, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p262
+sba(i__main__
+Place
+p263
+(dp264
+g3
+(lp265
+VRestaurants
+p266
+asg6
+g33
+sg8
+VRoyal Smoke
+p267
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-smoke_crawford-market_mumbai_restaurants/1118865198
+p268
+sg12
+VCrawford Market
+p269
+sg14
+(lp270
+g155
+aV 9819807028
+p271
+aV 9820537378
+p272
+asg18
+g33
+sg20
+VShop No 325, 326 & 327, MJP Market, Opposite Sadanand Hotel, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p273
+sba(i__main__
+Place
+p274
+(dp275
+g3
+(lp276
+VRestaurants
+p277
+asg6
+g33
+sg8
+VSuvidhas Collection
+p278
+sg10
+Vhttp://mumbai.burrp.com/listing/suvidhas-collection_crawford-market_mumbai_restaurants/1678870742
+p279
+sg12
+VCrawford Market
+p280
+sg14
+(lp281
+V23437806
+p282
+aV 23444150
+p283
+asg18
+g33
+sg20
+VShop No 329/338/339 , Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p284
+sba(i__main__
+Place
+p285
+(dp286
+g3
+(lp287
+VCafes
+p288
+aV Restaurants
+p289
+asg6
+g33
+sg8
+VCafe Janata Restaurant
+p290
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-janata-restaurant_crawford-market_mumbai_cafes-restaurants/1158874594
+p291
+sg12
+VCrawford Market
+p292
+sg14
+(lp293
+V23426718
+p294
+asg18
+g33
+sg20
+V64/72, Carnac Road, Crawford Market, Chhatrapati Shivaji Terminus (VT), Mumbai
+p295
+sba.

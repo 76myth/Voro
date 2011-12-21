@@ -1,0 +1,46 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Juice Parlours
+p6
+asS'rating'
+p7
+V3
+p8
+sS'name'
+p9
+VShabri Chinese Restaurant
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/shabri-chinese-restaurant_jekegram_thane_restaurants-juice-parlours/18314209326
+p12
+sS'region'
+p13
+VJekegram
+p14
+sS'phone'
+p15
+(lp16
+V32492943
+p17
+aV 32492944
+p18
+aV 67992945
+p19
+asS'cost'
+p20
+V0
+p21
+sS'addr'
+p22
+VShop No 1, Mrunal Plaza, Pokhran Road, Jekegram, Thane West, Thane
+p23
+sba.

@@ -1,0 +1,648 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VEast
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/east_kemps-corner_mumbai_restaurants/199269910
+p11
+sS'region'
+p12
+VKemps Corner
+p13
+sS'phone'
+p14
+(lp15
+V23811010
+p16
+aV 23821010
+p17
+asS'cost'
+p18
+V3
+p19
+sS'addr'
+p20
+V76 Nidhi, August Kranti Marg, Off Kemps Corner, Near Gowalia Tank, Kemps Corner, Cumballa Hill, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g19
+sg8
+VChina Garden 
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/china-garden-_kemps-corner_mumbai_restaurants/133110376
+p27
+sg12
+VKemps Corner
+p28
+sg14
+(lp29
+V23630841
+p30
+aV 23630842
+p31
+aV 23628266
+p32
+aV 23625584
+p33
+asg18
+g19
+sg20
+V201, Om Chambers, 123, August Kranti Marg, Kemps Corner, Cumballa Hill, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+aV Bars & Pubs
+p39
+asg6
+g7
+sg8
+VThe Ghetto
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/the-ghetto_bhulabhai-desai-road_mumbai_restaurants-bars-pubs/130146079
+p41
+sg12
+VBhulabhai Desai Road
+p42
+sg14
+(lp43
+V23538418
+p44
+asg18
+V2
+p45
+sg20
+VNext to Shobha Restaurant, 30 B, Bhulabhai Desai Road, Cumballa Hill, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g7
+sg8
+VSymphony Restaurant
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/symphony-restaurant_kemps-corner_mumbai_restaurants/18761722
+p52
+sg12
+VKemps Corner
+p53
+sg14
+(lp54
+V23862231
+p55
+aV 23876238
+p56
+asg18
+g45
+sg20
+V72, Sheredon House, August Kranti Marg, Kemps Corner, Cumballa Hill, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g19
+sg8
+VTulips
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/tulips_kemps-corner_mumbai_restaurants/1654973544
+p63
+sg12
+VKemps Corner
+p64
+sg14
+(lp65
+V23683655
+p66
+aV 23683656
+p67
+aV 9820929773
+p68
+asg18
+V0
+p69
+sg20
+VDhun-Abad, Ground Floor, 106 Bhulabhai Desai Road, Kemps Corner, Cumballa Hill, Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+asg6
+g69
+sg8
+VPizza Palette
+p75
+sg10
+Vhttp://mumbai.burrp.com/listing/pizza-palette_kemps-corner_mumbai_restaurants/1674280742
+p76
+sg12
+VKemps Corner
+p77
+sg14
+(lp78
+V65231002
+p79
+aV 65231003
+p80
+aV 65231004
+p81
+aV 65231005
+p82
+asg18
+g69
+sg20
+V44/A, Indira Niwas, Forjett Street, Kemps Corner, Cumballa Hill, Mumbai
+p83
+sba(i__main__
+Place
+p84
+(dp85
+g3
+(lp86
+VRestaurants
+p87
+aV Lounges
+p88
+asg6
+g69
+sg8
+VPisces A Fine Dining Sea Food Cuisine
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/pisces-a-fine-dining-sea-food-cuisine_kemps-corner_mumbai_restaurants-lounges/14310821366
+p90
+sg12
+VKemps Corner
+p91
+sg14
+(lp92
+V23636482
+p93
+aV 23804367
+p94
+aV 23805247
+p95
+aV 23805886
+p96
+asg18
+g69
+sg20
+V29/33 Golden Crown, August Kranti Marg, Gowalia Tank, Nanachowk, Kemps Corner, Cumballa Hill, Mumbai
+p97
+sba(i__main__
+Place
+p98
+(dp99
+g3
+(lp100
+VRestaurants
+p101
+asg6
+g69
+sg8
+VShiv Sagar
+p102
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-sagar_kemps-corner_mumbai_restaurants/12855881
+p103
+sg12
+VKemps Corner
+p104
+sg14
+(lp105
+V23804541
+p106
+aV 23803267
+p107
+asg18
+g69
+sg20
+V97-98, A. Marshall Apartment, August Kranti Marg, Kemps Corner, Cumballa Hill, Mumbai
+p108
+sba(i__main__
+Place
+p109
+(dp110
+g3
+(lp111
+VRestaurants
+p112
+asg6
+g69
+sg8
+VBistro @ Coffee Break
+p113
+sg10
+Vhttp://mumbai.burrp.com/listing/bistro-coffee-break_bhulabhai-desai-road_mumbai_restaurants/16933953940
+p114
+sg12
+VBhulabhai Desai Road
+p115
+sg14
+(lp116
+V32255420
+p117
+asg18
+g45
+sg20
+VNext To Tata Garden, Bhulabhai Desai Road, Cumballa Hill, Mumbai
+p118
+sba(i__main__
+Place
+p119
+(dp120
+g3
+(lp121
+VRestaurants
+p122
+asg6
+g69
+sg8
+VKwality
+p123
+sg10
+Vhttp://mumbai.burrp.com/listing/kwality_kemps-corner_mumbai_restaurants/12719782
+p124
+sg12
+VKemps Corner
+p125
+sg14
+(lp126
+V23864991
+p127
+asg18
+g69
+sg20
+VIndia House, Kemps Corner, Cumballa Hill, Mumbai
+p128
+sba(i__main__
+Place
+p129
+(dp130
+g3
+(lp131
+VRestaurants
+p132
+asg6
+g69
+sg8
+VChina Town
+p133
+sg10
+Vhttp://mumbai.burrp.com/listing/china-town_breach-candy_mumbai_restaurants/139110970
+p134
+sg12
+VBreach Candy
+p135
+sg14
+(lp136
+V23805436
+p137
+aV 23806194
+p138
+aV 23806647
+p139
+asg18
+g69
+sg20
+V99, August Kranti Marg, Kemp's Corner, Breach Candy, Cumballa Hill, Mumbai
+p140
+sba(i__main__
+Place
+p141
+(dp142
+g3
+(lp143
+VRestaurants
+p144
+asg6
+g69
+sg8
+VChinese Room
+p145
+sg10
+Vhttp://mumbai.burrp.com/listing/chinese-room_kemps-corner_mumbai_restaurants/144111465
+p146
+sg12
+VKemps Corner
+p147
+sg14
+(lp148
+V23806771
+p149
+aV 23805268
+p150
+aV 23864991
+p151
+asg18
+g69
+sg20
+VKwality House, Kemps Comer, Kemps Corner, Cumballa Hill, Mumbai
+p152
+sba(i__main__
+Place
+p153
+(dp154
+g3
+(lp155
+VRestaurants
+p156
+asg6
+g69
+sg8
+VGolden Crown
+p157
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-crown_kemps-corner_mumbai_restaurants/199116910
+p158
+sg12
+VKemps Corner
+p159
+sg14
+(lp160
+V23804367
+p161
+aV 23805886
+p162
+asg18
+g69
+sg20
+V29/33 August Kranti Marg, Gowalia Tank, Nana Chowk, Kemps Corner, Cumballa Hill, Mumbai
+p163
+sba(i__main__
+Place
+p164
+(dp165
+g3
+(lp166
+VRestaurants
+p167
+asg6
+g69
+sg8
+VNew Ideal Restaurant and Store
+p168
+sg10
+Vhttp://mumbai.burrp.com/listing/new-ideal-restaurant-and-store_kemps-corner_mumbai_restaurants/174132435
+p169
+sg12
+VKemps Corner
+p170
+sg14
+(lp171
+V23864810
+p172
+aV 66643813
+p173
+asg18
+g69
+sg20
+V66 / B, Motiwala Mansion, A.K. Marg, Kemps Corner, Cumballa Hill, Mumbai
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VRestaurants
+p178
+aV Bars & Pubs
+p179
+asg6
+g69
+sg8
+VSpring Restaurant and Bar
+p180
+sg10
+Vhttp://mumbai.burrp.com/listing/spring-restaurant-and-bar_breach-candy_mumbai_restaurants-bars-pubs/186151623
+p181
+sg12
+VBreach Candy
+p182
+sg14
+(lp183
+V23692116
+p184
+asg18
+g69
+sg20
+V25 Warden Road, Breach Candy, Cumballa Hill, Mumbai
+p185
+sba(i__main__
+Place
+p186
+(dp187
+g3
+(lp188
+VRestaurants
+p189
+asg6
+g69
+sg8
+VLazeez Darbar Restaurant
+p190
+sg10
+Vhttp://mumbai.burrp.com/listing/lazeez-darbar-restaurant_kemps-corner_mumbai_restaurants/187367722
+p191
+sg12
+VKemps Corner
+p192
+sg14
+(lp193
+V23819341
+p194
+aV 23819895
+p195
+asg18
+g45
+sg20
+V39 Tenker Vila, Gowalia Tank Rd, Nana Chowk, Kemps Corner, Cumballa Hill, Mumbai
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VDessert Shops
+p200
+aV Cafes
+p201
+aV Bakery Shops
+p202
+aV Restaurants
+p203
+asg6
+g69
+sg8
+VWARDEN BAKERY
+p204
+sg10
+Vhttp://mumbai.burrp.com/listing/warden-bakery_august-kranti-marg_mumbai_dessert-shops-cafes-bakery-shops/1897684920
+p205
+sg12
+VAugust Kranti Marg
+p206
+sg14
+(lp207
+V23861580
+p208
+aV 23876558
+p209
+asg18
+g69
+sg20
+VTAJ BUILDING COMPOUND, GOWALIA TANK ROAD, August Kranti Marg, Cumballa Hill, Mumbai
+p210
+sba(i__main__
+Place
+p211
+(dp212
+g3
+(lp213
+VRestaurants
+p214
+asg6
+g69
+sg8
+VShoba Refreshments
+p215
+sg10
+Vhttp://mumbai.burrp.com/listing/shoba-refreshments_bhulabhai-desai-road_mumbai_restaurants/1377994772
+p216
+sg12
+VBhulabhai Desai Road
+p217
+sg14
+(lp218
+V23519553
+p219
+asg18
+g69
+sg20
+V30/B, Bhulabhai Desai Road, Cumballa Hill, Mumbai
+p220
+sba(i__main__
+Place
+p221
+(dp222
+g3
+(lp223
+VFast Food Shops
+p224
+aV Juice Parlours
+p225
+aV Cafes
+p226
+aV Ice-cream Parlours
+p227
+aV Restaurants
+p228
+aV Dessert Shops
+p229
+asg6
+g69
+sg8
+VB R K Canteen
+p230
+sg10
+Vhttp://mumbai.burrp.com/listing/b-r-k-canteen_breach-candy_mumbai_fast-food-shops-juice-parlours-cafes/1338309376
+p231
+sg12
+VBreach Candy
+p232
+sg14
+(lp233
+V22987210
+p234
+aV 69503775
+p235
+aV 9869524664
+p236
+asg18
+g69
+sg20
+VB D Road, Sophia College Lane, Next To Raymond Showroom, Off Peddar Road, Breach Candy, Cumballa Hill, Mumbai
+p237
+sba(i__main__
+Place
+p238
+(dp239
+g3
+(lp240
+VRestaurants
+p241
+aV Gymkhanas and Social Clubs
+p242
+asg6
+g69
+sg8
+VPar Pavilion
+p243
+sg10
+Vhttp://mumbai.burrp.com/listing/par-pavilion_breach-candy_mumbai_restaurants-gymkhanas-and-social-clubs/1898314920
+p244
+sg12
+VBreach Candy
+p245
+sg14
+(lp246
+V23693158
+p247
+aV 23694902
+p248
+asg18
+g69
+sg20
+VC/O Breachcandy Bath, Near Breach Candy  Hospital, Breach Candy, Cumballa Hill, Mumbai
+p249
+sba.

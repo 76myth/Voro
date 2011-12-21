@@ -1,0 +1,108 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VCafes
+p5
+aV Bars & Pubs
+p6
+aV Restaurants
+p7
+asS'rating'
+p8
+V4
+p9
+sS'name'
+p10
+VCafe Mailoo
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/cafe-mailoo_domestic-airport_mumbai_cafes-bars-pubs-restaurants/1415961168
+p13
+sS'region'
+p14
+VDomestic Airport
+p15
+sS'phone'
+p16
+(lp17
+V26182092
+p18
+aV 26143047
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+V7 Pratik Avenue, Nehru Road, Domestic Airport, Vile Parle East, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg8
+g9
+sg10
+VSummer Harvest
+p28
+sg12
+Vhttp://mumbai.burrp.com/listing/summer-harvest_domestic-airport_mumbai_restaurants/179438930
+p29
+sg14
+VDomestic Airport
+p30
+sg16
+(lp31
+V26133266
+p32
+aV 26128990
+p33
+asg20
+g21
+sg22
+VSharda Bhuvan, Nanda Patkar Road, Domestic Airport, Vile Parle East, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+aV Cafes
+p39
+asg8
+V3
+p40
+sg10
+VThe Coffee Shop
+p41
+sg12
+Vhttp://mumbai.burrp.com/listing/the-coffee-shop_domestic-airport_mumbai_restaurants-cafes/1675742
+p42
+sg14
+VDomestic Airport
+p43
+sg16
+(lp44
+V26156660
+p45
+asg20
+V0
+p46
+sg22
+VSahara Star Airport Hotel, Vile Parle (E), Santacruz Airport, Vile Parle (E), Domestic Airport, Vile Parle East, Mumbai
+p47
+sba.

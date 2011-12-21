@@ -1,0 +1,77 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VShree Krishna Family Restaurant And Bar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/shree-krishna-family-restaurant-and-bar_kalamboli_navi-mumbai_restaurants/17113722138
+p11
+sS'region'
+p12
+VKalamboli
+p13
+sS'phone'
+p14
+(lp15
+V65160044
+p16
+aV 65160088
+p17
+aV 9920012039
+p18
+asS'cost'
+p19
+g7
+sS'addr'
+p20
+VShop No 16, Krishna Building, Sector 11, Kamothe, Kalamboli, Navi Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VJuice Parlours
+p25
+aV Restaurants
+p26
+asg6
+g7
+sg8
+VShree Devi Restaurant
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-devi-restaurant_kalamboli_navi-mumbai_juice-parlours-restaurants/16913721940
+p28
+sg12
+VKalamboli
+p29
+sg14
+(lp30
+V27422742
+p31
+aV 9224657419
+p32
+aV 9702004629
+p33
+asg19
+g7
+sg20
+VShop No 11, Building No F/3, Sector No 3/E, Next To Abhuyudaya Co Operative Bank , Kalamboli, Navi Mumbai
+p34
+sba.

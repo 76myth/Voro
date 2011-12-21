@@ -1,0 +1,499 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VTake Away Shops
+p5
+aV Restaurants
+p6
+aV Outdoor Caterers
+p7
+asS'rating'
+p8
+V3
+p9
+sS'name'
+p10
+VZenzibu Orientals 
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/zenzibu-orientals-_wadala_mumbai_take-away-shops-restaurants-outdoor-caterers/113801396
+p13
+sS'region'
+p14
+VWadala
+p15
+sS'phone'
+p16
+(lp17
+V65126858
+p18
+aV 65206223
+p19
+aV 9892654384
+p20
+asS'cost'
+p21
+V1
+p22
+sS'addr'
+p23
+VBhakti Park, Wadala, Mumbai
+p24
+sba(i__main__
+Place
+p25
+(dp26
+g3
+(lp27
+VFast Food Shops
+p28
+aV Ice-cream Parlours
+p29
+aV Tiffin Services
+p30
+aV Take Away Shops
+p31
+aV Outdoor Caterers
+p32
+aV Cafes
+p33
+aV Restaurants
+p34
+aV Juice Parlours
+p35
+asg8
+g9
+sg10
+VBig Bite
+p36
+sg12
+Vhttp://mumbai.burrp.com/listing/big-bite_wadala_mumbai_fast-food-shops-ice-cream-parlours-tiffin-services/1105409099
+p37
+sg14
+VWadala
+p38
+sg16
+(lp39
+V9967775636
+p40
+aV 9967775257
+p41
+asg21
+V2
+p42
+sg23
+V234, Om Niwas, Shop No.13, Wadala, Mumbai
+p43
+sba(i__main__
+Place
+p44
+(dp45
+g3
+(lp46
+VRestaurants
+p47
+aV Bars & Pubs
+p48
+asg8
+V4
+p49
+sg10
+VSuyog Restaurant & Bar
+p50
+sg12
+Vhttp://mumbai.burrp.com/listing/suyog-restaurant-bar_wadala_mumbai_restaurants-bars-pubs/191152118
+p51
+sg14
+VWadala
+p52
+sg16
+(lp53
+V24131879
+p54
+aV 24189221
+p55
+asg21
+V0
+p56
+sg23
+VKatrak Road, Wadala, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VBars & Pubs
+p61
+aV Restaurants
+p62
+asg8
+g56
+sg10
+VHariyalli
+p63
+sg12
+Vhttp://mumbai.burrp.com/listing/hariyalli_wadala_mumbai_bars-pubs-restaurants/13515365574
+p64
+sg14
+VWadala
+p65
+sg16
+(lp66
+V24123869
+p67
+aV 24121074
+p68
+asg21
+g42
+sg23
+VBarkatali Dargah Road, Wadala (E), Wadala, Mumbai
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VHome Caterers
+p73
+aV Restaurants
+p74
+aV Take Away Shops
+p75
+asg8
+g56
+sg10
+VZendesi Aroma Of Indian Flavours
+p76
+sg12
+Vhttp://mumbai.burrp.com/listing/zendesi-aroma-of-indian-flavours_wadala_mumbai_home-caterers-restaurants-take-away-shops/1416609168
+p77
+sg14
+VWadala
+p78
+sg16
+(lp79
+V65126858
+p80
+aV 65206223
+p81
+aV 9892654384
+p82
+asg21
+g56
+sg23
+VLocated in Imax Big Cinemas, Wadala, Mumbai
+p83
+sba(i__main__
+Place
+p84
+(dp85
+g3
+(lp86
+VRestaurants
+p87
+asg8
+g56
+sg10
+VMom's Kitchen
+p88
+sg12
+Vhttp://mumbai.burrp.com/listing/moms-kitchen_wadala_mumbai_restaurants/11515228594
+p89
+sg14
+VWadala
+p90
+sg16
+(lp91
+V24161000
+p92
+aV 24160005
+p93
+asg21
+g42
+sg23
+VB-019, Antop Hill Ware Housing, VIT College Road, Wadala, Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VRestaurants
+p98
+asg8
+g56
+sg10
+VSarson Da Sag Restaurant
+p99
+sg12
+Vhttp://mumbai.burrp.com/listing/sarson-da-sag-restaurant_wadala_mumbai_restaurants/136281673
+p100
+sg14
+VWadala
+p101
+sg16
+(lp102
+V24036606
+p103
+aV 24036463
+p104
+asg21
+g42
+sg23
+VIMAX Adlab, Anik Wadala Link Rd, Wadala, Mumbai
+p105
+sba(i__main__
+Place
+p106
+(dp107
+g3
+(lp108
+VRestaurants
+p109
+asg8
+g56
+sg10
+VCafe Vjti
+p110
+sg12
+Vhttp://mumbai.burrp.com/listing/cafe-vjti_wadala_mumbai_restaurants/13313493376
+p111
+sg14
+VWadala
+p112
+sg16
+(lp113
+V24179945
+p114
+aV 24185628
+p115
+asg21
+g56
+sg23
+VPlot No 191, Pushkraj Sadan, Station Road, Wadala, Mumbai
+p116
+sba(i__main__
+Place
+p117
+(dp118
+g3
+(lp119
+VRestaurants
+p120
+aV Bars & Pubs
+p121
+aV Shops
+p122
+aV Dessert Shops
+p123
+asg8
+g56
+sg10
+VGuru Refreshment
+p124
+sg12
+Vhttp://mumbai.burrp.com/listing/guru-refreshment_wadala_mumbai_restaurants-bars-pubs-shops/16513496544
+p125
+sg14
+VWadala
+p126
+sg16
+(lp127
+V24039399
+p128
+asg21
+g56
+sg23
+VShop No B1, 19/20, Kalpak Estate, Sm Road, Wadala, Mumbai
+p129
+sba(i__main__
+Place
+p130
+(dp131
+g3
+(lp132
+VRestaurants
+p133
+asg8
+g56
+sg10
+VHaryali Restaurant & Bar
+p134
+sg12
+Vhttp://mumbai.burrp.com/listing/haryali-restaurant-bar_wadala_mumbai_restaurants/16913496940
+p135
+sg14
+VWadala
+p136
+sg16
+(lp137
+V24123869
+p138
+aV 28948642
+p139
+asg21
+g56
+sg23
+VBarkat Ali Dargah Road, Wadala, Mumbai
+p140
+sba(i__main__
+Place
+p141
+(dp142
+g3
+(lp143
+VRestaurants
+p144
+asg8
+g56
+sg10
+VSatkar Veg Restaurant
+p145
+sg12
+Vhttp://mumbai.burrp.com/listing/satkar-veg-restaurant_wadala_mumbai_restaurants/17313497336
+p146
+sg14
+VWadala
+p147
+sg16
+(lp148
+V24123167
+p149
+aV 24184782
+p150
+aV 9833117978
+p151
+asg21
+g56
+sg23
+VBharatiya Krida Mandir, Sahakar Nagar, Next To Talwalkar Gym, Wadala, Mumbai
+p152
+sba(i__main__
+Place
+p153
+(dp154
+g3
+(lp155
+VRestaurants
+p156
+asg8
+g56
+sg10
+VUtsav Restaurant  And Bar
+p157
+sg12
+Vhttp://mumbai.burrp.com/listing/utsav-restaurant-and-bar_wadala_mumbai_restaurants/17313506336
+p158
+sg14
+VWadala
+p159
+sg16
+(lp160
+V24182233
+p161
+asg21
+g56
+sg23
+VFeruden Terrace, Shop No 4, Ground Floor, 676, Katrak Road, Wadala East, Wadala, Mumbai
+p162
+sba(i__main__
+Place
+p163
+(dp164
+g3
+(lp165
+VRestaurants
+p166
+asg8
+g56
+sg10
+VSwagat Hotel
+p167
+sg12
+Vhttp://mumbai.burrp.com/listing/swagat-hotel_wadala_mumbai_restaurants/11513518594
+p168
+sg14
+VWadala
+p169
+sg16
+(lp170
+V24127377
+p171
+aV 24165760
+p172
+aV 9821053190
+p173
+asg21
+g56
+sg23
+VPlot No 210, Krishna Niwas, R A K Road, Wadala, Mumbai
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VRestaurants
+p178
+asg8
+g56
+sg10
+VCafe Farmer Store & Restaurant
+p179
+sg12
+Vhttp://mumbai.burrp.com/listing/cafe-farmer-store-restaurant_wadala_mumbai_restaurants/14313521366
+p180
+sg14
+VWadala
+p181
+sg16
+(lp182
+V24123541
+p183
+asg21
+g56
+sg23
+V676, Gr Flr, Fradon Terrace, Katrak Road, Opp Bank Of India, Wadala, Mumbai
+p184
+sba(i__main__
+Place
+p185
+(dp186
+g3
+(lp187
+VRestaurants
+p188
+asg8
+g56
+sg10
+VHotel Laxmi
+p189
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-laxmi_wadala_mumbai_restaurants/18315235326
+p190
+sg14
+VWadala
+p191
+sg16
+(lp192
+V24179004
+p193
+aV 24169653
+p194
+asg21
+g22
+sg23
+VBarkatali Dargah Road, Near Wadala Flyover, Wadala, Mumbai
+p195
+sba.

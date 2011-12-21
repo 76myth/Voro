@@ -1,0 +1,174 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VAcross D Coast
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/across-d-coast_jp-road_mumbai_restaurants/1736585336
+p11
+sS'region'
+p12
+VJP Road
+p13
+sS'phone'
+p14
+(lp15
+V26731945
+p16
+aV 26731946
+p17
+aV 26731947
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VAzad Nagar No.2, Veera Desai Road, J.P. Road, Andheri (W), JP Road, Andheri West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+aV Cafes
+p27
+aV Bakery Shops
+p28
+asg6
+g7
+sg8
+VScrumptious
+p29
+sg10
+Vhttp://mumbai.burrp.com/listing/scrumptious_jp-road_mumbai_restaurants-cafes-bakery-shops/133821376
+p30
+sg12
+VJP Road
+p31
+sg14
+(lp32
+V26311576
+p33
+aV 9324153255
+p34
+aV 32952187
+p35
+aV 9820772452
+p36
+asg19
+V1
+p37
+sg21
+VShop No. 9 & 10, Everest Apt, Versova, JP Road, Andheri West, Mumbai
+p38
+sba(i__main__
+Place
+p39
+(dp40
+g3
+(lp41
+VRestaurants
+p42
+asg6
+g7
+sg8
+VShalimar
+p43
+sg10
+Vhttp://mumbai.burrp.com/listing/shalimar_jp-road_mumbai_restaurants/11923031990
+p44
+sg12
+VJP Road
+p45
+sg14
+(lp46
+V26719910
+p47
+aV 26719911
+p48
+aV 26719912
+p49
+asg19
+g20
+sg21
+VJP Road, Andheri West, Mumbai
+p50
+sba(i__main__
+Place
+p51
+(dp52
+g3
+(lp53
+VRestaurants
+p54
+asg6
+V0
+p55
+sg8
+VChinese Castle Restaurant
+p56
+sg10
+Vhttp://mumbai.burrp.com/listing/chinese-castle-restaurant_jp-road_mumbai_restaurants/17310230336
+p57
+sg12
+VJP Road
+p58
+sg14
+(lp59
+V26346667
+p60
+aV 26365926
+p61
+asg19
+g55
+sg21
+V16, Shiv Shopping Centre, JP Road, Andheri West, Mumbai
+p62
+sba(i__main__
+Place
+p63
+(dp64
+g3
+(lp65
+VRestaurants
+p66
+asg6
+g55
+sg8
+VHouse Of Food Restaurant & Bar
+p67
+sg10
+Vhttp://mumbai.burrp.com/listing/house-of-food-restaurant-bar_jp-road_mumbai_restaurants/17510230534
+p68
+sg12
+VJP Road
+p69
+sg14
+(lp70
+V26233970
+p71
+asg19
+g55
+sg21
+VUniversal Industrial Estate, Dhake Colony, JP Road, Andheri West, Mumbai
+p72
+sba.

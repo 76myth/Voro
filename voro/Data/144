@@ -1,0 +1,537 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VEast
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/east_kemps-corner_mumbai_restaurants/199269910
+p11
+sS'region'
+p12
+VKemps Corner
+p13
+sS'phone'
+p14
+(lp15
+V23811010
+p16
+aV 23821010
+p17
+asS'cost'
+p18
+V3
+p19
+sS'addr'
+p20
+V76 Nidhi, August Kranti Marg, Off Kemps Corner, Near Gowalia Tank, Kemps Corner, Cumballa Hill, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g19
+sg8
+VChina Garden 
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/china-garden-_kemps-corner_mumbai_restaurants/133110376
+p27
+sg12
+VKemps Corner
+p28
+sg14
+(lp29
+V23630841
+p30
+aV 23630842
+p31
+aV 23628266
+p32
+aV 23625584
+p33
+asg18
+g19
+sg20
+V201, Om Chambers, 123, August Kranti Marg, Kemps Corner, Cumballa Hill, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg6
+g7
+sg8
+VSymphony Restaurant
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/symphony-restaurant_kemps-corner_mumbai_restaurants/18761722
+p40
+sg12
+VKemps Corner
+p41
+sg14
+(lp42
+V23862231
+p43
+aV 23876238
+p44
+asg18
+V2
+p45
+sg20
+V72, Sheredon House, August Kranti Marg, Kemps Corner, Cumballa Hill, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g19
+sg8
+VTulips
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/tulips_kemps-corner_mumbai_restaurants/1654973544
+p52
+sg12
+VKemps Corner
+p53
+sg14
+(lp54
+V23683655
+p55
+aV 23683656
+p56
+aV 9820929773
+p57
+asg18
+V0
+p58
+sg20
+VDhun-Abad, Ground Floor, 106 Bhulabhai Desai Road, Kemps Corner, Cumballa Hill, Mumbai
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg6
+g7
+sg8
+VGulmurg
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/gulmurg_kemps-corner_mumbai_restaurants/17469435
+p65
+sg12
+VKemps Corner
+p66
+sg14
+(lp67
+V66641000
+p68
+asg18
+g58
+sg20
+VShalimar Hotel, August Kranti Marg, Kemps Corner, Cumballa Hill, Mumbai
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VRestaurants
+p73
+asg6
+V5
+p74
+sg8
+VGrand Centre
+p75
+sg10
+Vhttp://mumbai.burrp.com/listing/grand-centre_kemps-corner_mumbai_restaurants/123118386
+p76
+sg12
+VKemps Corner
+p77
+sg14
+(lp78
+V23805775
+p79
+aV 23804787
+p80
+asg18
+g58
+sg20
+VPlot No.71, Kalakdina Terrace, A K Marg, Gowalia Tank Area, Nana Chowk, Kemps Corner, Cumballa Hill, Mumbai
+p81
+sba(i__main__
+Place
+p82
+(dp83
+g3
+(lp84
+VRestaurants
+p85
+asg6
+g7
+sg8
+VLagoon
+p86
+sg10
+Vhttp://mumbai.burrp.com/listing/lagoon_kemps-corner_mumbai_restaurants/18370326
+p87
+sg12
+VKemps Corner
+p88
+sg14
+(lp89
+V23805240
+p90
+aV 23802783
+p91
+asg18
+g58
+sg20
+V51, Tanker Villa Bldg, Shop No. 20 / 62, August Kranti Marg, Next to Gowalia Tank Maidan, Kemps Corner, Cumballa Hill, Mumbai
+p92
+sba(i__main__
+Place
+p93
+(dp94
+g3
+(lp95
+VRestaurants
+p96
+asg6
+g45
+sg8
+VGulmarg
+p97
+sg10
+Vhttp://mumbai.burrp.com/listing/gulmarg_kemps-corner_mumbai_restaurants/15914944950
+p98
+sg12
+VKemps Corner
+p99
+sg14
+(lp100
+V66641000
+p101
+asg18
+g58
+sg20
+VKemps Corner, Cumballa Hill, Mumbai
+p102
+sba(i__main__
+Place
+p103
+(dp104
+g3
+(lp105
+VRestaurants
+p106
+asg6
+g58
+sg8
+VCG '83
+p107
+sg10
+Vhttp://mumbai.burrp.com/listing/cg-83_kemps-corner_mumbai_restaurants/134164475
+p108
+sg12
+VKemps Corner
+p109
+sg14
+(lp110
+V23630841
+p111
+aV 23630842
+p112
+asg18
+g19
+sg20
+VOm Chambers, Kemp's Corner, Kemps Corner, Cumballa Hill, Mumbai
+p113
+sba(i__main__
+Place
+p114
+(dp115
+g3
+(lp116
+VRestaurants
+p117
+asg6
+g58
+sg8
+VPizza Palette
+p118
+sg10
+Vhttp://mumbai.burrp.com/listing/pizza-palette_kemps-corner_mumbai_restaurants/1674280742
+p119
+sg12
+VKemps Corner
+p120
+sg14
+(lp121
+V65231002
+p122
+aV 65231003
+p123
+aV 65231004
+p124
+aV 65231005
+p125
+asg18
+g58
+sg20
+V44/A, Indira Niwas, Forjett Street, Kemps Corner, Cumballa Hill, Mumbai
+p126
+sba(i__main__
+Place
+p127
+(dp128
+g3
+(lp129
+VRestaurants
+p130
+aV Lounges
+p131
+asg6
+g58
+sg8
+VPisces A Fine Dining Sea Food Cuisine
+p132
+sg10
+Vhttp://mumbai.burrp.com/listing/pisces-a-fine-dining-sea-food-cuisine_kemps-corner_mumbai_restaurants-lounges/14310821366
+p133
+sg12
+VKemps Corner
+p134
+sg14
+(lp135
+V23636482
+p136
+aV 23804367
+p137
+aV 23805247
+p138
+aV 23805886
+p139
+asg18
+g58
+sg20
+V29/33 Golden Crown, August Kranti Marg, Gowalia Tank, Nanachowk, Kemps Corner, Cumballa Hill, Mumbai
+p140
+sba(i__main__
+Place
+p141
+(dp142
+g3
+(lp143
+VRestaurants
+p144
+asg6
+g58
+sg8
+VShiv Sagar
+p145
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-sagar_kemps-corner_mumbai_restaurants/12855881
+p146
+sg12
+VKemps Corner
+p147
+sg14
+(lp148
+V23804541
+p149
+aV 23803267
+p150
+asg18
+g58
+sg20
+V97-98, A. Marshall Apartment, August Kranti Marg, Kemps Corner, Cumballa Hill, Mumbai
+p151
+sba(i__main__
+Place
+p152
+(dp153
+g3
+(lp154
+VRestaurants
+p155
+asg6
+g58
+sg8
+VKwality
+p156
+sg10
+Vhttp://mumbai.burrp.com/listing/kwality_kemps-corner_mumbai_restaurants/12719782
+p157
+sg12
+VKemps Corner
+p158
+sg14
+(lp159
+V23864991
+p160
+asg18
+g58
+sg20
+VIndia House, Kemps Corner, Cumballa Hill, Mumbai
+p161
+sba(i__main__
+Place
+p162
+(dp163
+g3
+(lp164
+VRestaurants
+p165
+asg6
+g58
+sg8
+VChinese Room
+p166
+sg10
+Vhttp://mumbai.burrp.com/listing/chinese-room_kemps-corner_mumbai_restaurants/144111465
+p167
+sg12
+VKemps Corner
+p168
+sg14
+(lp169
+V23806771
+p170
+aV 23805268
+p171
+aV 23864991
+p172
+asg18
+g58
+sg20
+VKwality House, Kemps Comer, Kemps Corner, Cumballa Hill, Mumbai
+p173
+sba(i__main__
+Place
+p174
+(dp175
+g3
+(lp176
+VRestaurants
+p177
+asg6
+g58
+sg8
+VGolden Crown
+p178
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-crown_kemps-corner_mumbai_restaurants/199116910
+p179
+sg12
+VKemps Corner
+p180
+sg14
+(lp181
+V23804367
+p182
+aV 23805886
+p183
+asg18
+g58
+sg20
+V29/33 August Kranti Marg, Gowalia Tank, Nana Chowk, Kemps Corner, Cumballa Hill, Mumbai
+p184
+sba(i__main__
+Place
+p185
+(dp186
+g3
+(lp187
+VRestaurants
+p188
+asg6
+g58
+sg8
+VNew Ideal Restaurant and Store
+p189
+sg10
+Vhttp://mumbai.burrp.com/listing/new-ideal-restaurant-and-store_kemps-corner_mumbai_restaurants/174132435
+p190
+sg12
+VKemps Corner
+p191
+sg14
+(lp192
+V23864810
+p193
+aV 66643813
+p194
+asg18
+g58
+sg20
+V66 / B, Motiwala Mansion, A.K. Marg, Kemps Corner, Cumballa Hill, Mumbai
+p195
+sba(i__main__
+Place
+p196
+(dp197
+g3
+(lp198
+VRestaurants
+p199
+asg6
+g58
+sg8
+VLazeez Darbar Restaurant
+p200
+sg10
+Vhttp://mumbai.burrp.com/listing/lazeez-darbar-restaurant_kemps-corner_mumbai_restaurants/187367722
+p201
+sg12
+VKemps Corner
+p202
+sg14
+(lp203
+V23819341
+p204
+aV 23819895
+p205
+asg18
+g45
+sg20
+V39 Tenker Vila, Gowalia Tank Rd, Nana Chowk, Kemps Corner, Cumballa Hill, Mumbai
+p206
+sba.

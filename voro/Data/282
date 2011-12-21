@@ -1,0 +1,220 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VUrban Tadka
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/urban-tadka_thakur-complex_mumbai_restaurants/1716138
+p11
+sS'region'
+p12
+VThakur complex
+p13
+sS'phone'
+p14
+(lp15
+V28546083
+p16
+aV 28546084
+p17
+aV 28546085
+p18
+aV 22937312
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VC Wing, Gayatri Shivam Building, Asha Nagar, Thakur complex, Kandivali East, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VCafes
+p27
+aV Restaurants
+p28
+aV Fast Food Shops
+p29
+asg6
+V5
+p30
+sg8
+VBrowns The Cafe
+p31
+sg10
+Vhttp://mumbai.burrp.com/listing/browns-the-cafe_thakur-complex_mumbai_cafes-restaurants-fast-food-shops/19715056712
+p32
+sg12
+VThakur complex
+p33
+sg14
+(lp34
+V28705574
+p35
+aV 69977701
+p36
+asg20
+g21
+sg22
+VShop No B/5, Krishna Palace, Western Express Highway, Thakur complex, Kandivali East, Mumbai
+p37
+sba(i__main__
+Place
+p38
+(dp39
+g3
+(lp40
+VOutdoor Caterers
+p41
+aV Banquet Halls
+p42
+aV Restaurants
+p43
+asg6
+g7
+sg8
+VBayLeaf  Veg
+p44
+sg10
+Vhttp://mumbai.burrp.com/listing/bayleaf-veg_thakur-complex_mumbai_outdoor-caterers-banquet-halls-restaurants/194359415
+p45
+sg12
+VThakur complex
+p46
+sg14
+(lp47
+V28704444
+p48
+aV 28706666
+p49
+aV 32584000
+p50
+asg20
+V1
+p51
+sg22
+VSaraf Choudhary Nagar, Thakur complex, Kandivali East, Mumbai
+p52
+sba(i__main__
+Place
+p53
+(dp54
+g3
+(lp55
+VRestaurants
+p56
+asg6
+g21
+sg8
+VNeelam-E-Punjab
+p57
+sg10
+Vhttp://mumbai.burrp.com/listing/neelam-e-punjab_thakur-complex_mumbai_restaurants/12522231584
+p58
+sg12
+VThakur complex
+p59
+sg14
+(lp60
+V28879595
+p61
+aV 28879596
+p62
+asg20
+g21
+sg22
+VKulraj Broadway Annex Mall, Nr. Prithvi Enclave, Off Western Express Highway no 8, Borivali East, Thakur complex, Kandivali East, Mumbai
+p63
+sba(i__main__
+Place
+p64
+(dp65
+g3
+(lp66
+VRestaurants
+p67
+aV Banquet Halls
+p68
+asg6
+V4
+p69
+sg8
+VShivam Sundaram
+p70
+sg10
+Vhttp://mumbai.burrp.com/listing/shivam-sundaram_thakur-complex_mumbai_restaurants-banquet-halls/1511390158
+p71
+sg12
+VThakur complex
+p72
+sg14
+(lp73
+V28709777
+p74
+aV 28709222
+p75
+aV 28547346
+p76
+aV 28544207
+p77
+asg20
+g51
+sg22
+VMaruti Towers, Western Express Highway, Thakur complex, Kandivali East, Mumbai
+p78
+sba(i__main__
+Place
+p79
+(dp80
+g3
+(lp81
+VRestaurants
+p82
+aV Outdoor Caterers
+p83
+asg6
+V0
+p84
+sg8
+VSadanand Sagar
+p85
+sg10
+Vhttp://mumbai.burrp.com/listing/sadanand-sagar_thakur-complex_mumbai_restaurants-outdoor-caterers/17322632336
+p86
+sg12
+VThakur complex
+p87
+sg14
+(lp88
+V28540880
+p89
+aV 28540881
+p90
+aV 7738173255
+p91
+asg20
+g51
+sg22
+VShop No. 14 & 15, Building No. A/2, Saraf Chodhary Nagar, Thakur complex, Kandivali East, Mumbai
+p92
+sba.

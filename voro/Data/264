@@ -1,0 +1,940 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBars & Pubs
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+V5 The Restaurant
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/5-the-restaurant_santacruz-west_mumbai_bars-pubs-restaurants/13274277
+p12
+sS'region'
+p13
+VSantacruz West
+p14
+sS'phone'
+p15
+(lp16
+V26000367
+p17
+aV 66939919
+p18
+asS'cost'
+p19
+V3
+p20
+sS'addr'
+p21
+V25, D. Willingdon Catholic Colony, Catholic Colony, Santacruz West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg7
+g8
+sg9
+VYoko Sizzlers
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/yoko-sizzlers_santacruz-west_mumbai_restaurants/12573584
+p28
+sg13
+VSantacruz West
+p29
+sg15
+(lp30
+V2492313
+p31
+aV 26395852
+p32
+asg19
+V2
+p33
+sg21
+V10/11 West View 309, S.V. Road, Santacruz (W), Santacruz West, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg7
+g8
+sg9
+VFat Kong
+p39
+sg11
+Vhttp://mumbai.burrp.com/listing/fat-kong_santacruz-west_mumbai_restaurants/146750663
+p40
+sg13
+VSantacruz West
+p41
+sg15
+(lp42
+V26043736
+p43
+aV 26464298
+p44
+asg19
+V1
+p45
+sg21
+VShop # 9, S.V. Road, Santacruz West, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg7
+g20
+sg9
+VDynasty
+p51
+sg11
+Vhttp://mumbai.burrp.com/listing/dynasty_santacruz-west_mumbai_restaurants/169113940
+p52
+sg13
+VSantacruz West
+p53
+sg15
+(lp54
+V26487436
+p55
+aV 67306541
+p56
+asg19
+g20
+sg21
+VGeetika Co-op Housing Society, 85 SV Road, Santacruz West, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg7
+g8
+sg9
+VKocum Curry
+p62
+sg11
+Vhttp://mumbai.burrp.com/listing/kocum-curry_santacruz-west_mumbai_restaurants/18661623
+p63
+sg13
+VSantacruz West
+p64
+sg15
+(lp65
+V26614792
+p66
+asg19
+V0
+p67
+sg21
+VShop No.3, Sujata Building, Opposite Santacruz Police Station, Juhu Tara Road, Santacruz (W), Santacruz West, Mumbai
+p68
+sba(i__main__
+Place
+p69
+(dp70
+g3
+(lp71
+VRestaurants
+p72
+aV Take Away Shops
+p73
+asg7
+g8
+sg9
+VWai Yu Mun Ching
+p74
+sg11
+Vhttp://mumbai.burrp.com/listing/wai-yu-mun-ching_santacruz-west_mumbai_restaurants-take-away-shops/1313674178
+p75
+sg13
+VSantacruz West
+p76
+sg15
+(lp77
+V32094944
+p78
+aV 32094922
+p79
+asg19
+g33
+sg21
+VShop No. 6A, Chinoy Compund, Opposite Juhu Apts, Revdandkar Rd, Santacruz (W), Santacruz West, Mumbai
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VRestaurants
+p84
+asg7
+V5
+p85
+sg9
+VShabari
+p86
+sg11
+Vhttp://mumbai.burrp.com/listing/shabari_santacruz-west_mumbai_restaurants/19753712
+p87
+sg13
+VSantacruz West
+p88
+sg15
+(lp89
+V26490129
+p90
+aV 26481859
+p91
+asg19
+g33
+sg21
+VBalaji Darshan, Tilak Road, Santacruz West, Mumbai
+p92
+sba(i__main__
+Place
+p93
+(dp94
+g3
+(lp95
+VRestaurants
+p96
+asg7
+g85
+sg9
+VAll Spice
+p97
+sg11
+Vhttp://mumbai.burrp.com/listing/all-spice_santacruz-west_mumbai_restaurants/1565242653
+p98
+sg13
+VSantacruz West
+p99
+sg15
+(lp100
+V26488820
+p101
+aV 9869480012
+p102
+asg19
+g33
+sg21
+V6th, Ahiya Apts, Junction  of 16th Road & Main Avenue, Santacruz (W), Santacruz West, Mumbai
+p103
+sba(i__main__
+Place
+p104
+(dp105
+g3
+(lp106
+VRestaurants
+p107
+asg7
+g8
+sg9
+VFood Inn
+p108
+sg11
+Vhttp://mumbai.burrp.com/listing/food-inn_santacruz-west_mumbai_restaurants/1794983930
+p109
+sg13
+VSantacruz West
+p110
+sg15
+(lp111
+V26600244
+p112
+aV 26600319
+p113
+asg19
+g33
+sg21
+VOpp SNDT College, Santacruz West, Mumbai
+p114
+sba(i__main__
+Place
+p115
+(dp116
+g3
+(lp117
+VRestaurants
+p118
+asg7
+g8
+sg9
+VMayur
+p119
+sg11
+Vhttp://mumbai.burrp.com/listing/mayur_santacruz-west_mumbai_restaurants/138128871
+p120
+sg13
+VSantacruz West
+p121
+sg15
+(lp122
+V26490654
+p123
+aV 26495666
+p124
+aV 65700795
+p125
+asg19
+g67
+sg21
+VGautam Apartments, Juhu Road, Near Police Station, Santacruz (W), Santacruz West, Mumbai
+p126
+sba(i__main__
+Place
+p127
+(dp128
+g3
+(lp129
+VRestaurants
+p130
+asg7
+g85
+sg9
+VShiv Mahal
+p131
+sg11
+Vhttp://mumbai.burrp.com/listing/shiv-mahal_santacruz-west_mumbai_restaurants/1164491693
+p132
+sg13
+VSantacruz West
+p133
+sg15
+(lp134
+V26163076
+p135
+aV 26143794
+p136
+aV 26139405
+p137
+asg19
+g33
+sg21
+VTilak Road, Santacruz West, Mumbai
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VRestaurants
+p142
+asg7
+g45
+sg9
+VJai Bhavani Shankar
+p143
+sg11
+Vhttp://mumbai.burrp.com/listing/jai-bhavani-shankar_santacruz-west_mumbai_restaurants/1752769534
+p144
+sg13
+VSantacruz West
+p145
+sg15
+(lp146
+V26124472
+p147
+aV 26124473
+p148
+asg19
+g20
+sg21
+VJuhu Chowpatty, Santacruz West, Mumbai
+p149
+sba(i__main__
+Place
+p150
+(dp151
+g3
+(lp152
+VIce-cream Parlours
+p153
+aV Restaurants
+p154
+asg7
+g67
+sg9
+VFlamin China Hotel
+p155
+sg11
+Vhttp://mumbai.burrp.com/listing/flamin-china-hotel_santacruz-west_mumbai_ice-cream-parlours-restaurants/15312928356
+p156
+sg13
+VSantacruz West
+p157
+sg15
+(lp158
+V26046761
+p159
+aV 26481521
+p160
+aV 32478905
+p161
+asg19
+g67
+sg21
+VShop No 8, Ahiya Apartments, Junction Of 16th Road, Santacruz West, Mumbai
+p162
+sba(i__main__
+Place
+p163
+(dp164
+g3
+(lp165
+VRestaurants
+p166
+asg7
+g67
+sg9
+VFood Search (Anjali Palace)
+p167
+sg11
+Vhttp://mumbai.burrp.com/listing/food-search-anjali-palace_santacruz-west_mumbai_restaurants/1137020396
+p168
+sg13
+VSantacruz West
+p169
+sg15
+(lp170
+V26142835
+p171
+aV 26124144
+p172
+aV 26192113
+p173
+asg19
+g33
+sg21
+VS.V.Road, Santacruz (W), Santacruz West, Mumbai
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VRestaurants
+p178
+asg7
+g67
+sg9
+VSummer Garden Restaurant And Bar
+p179
+sg11
+Vhttp://mumbai.burrp.com/listing/summer-garden-restaurant-and-bar_santacruz-west_mumbai_restaurants/17512957534
+p180
+sg13
+VSantacruz West
+p181
+sg15
+(lp182
+V26139057
+p183
+asg19
+g67
+sg21
+VSushila Sadan, Tilak Road, Santacruz West, Mumbai
+p184
+sba(i__main__
+Place
+p185
+(dp186
+g3
+(lp187
+VDessert Shops
+p188
+aV Cafes
+p189
+aV Restaurants
+p190
+asg7
+g67
+sg9
+VSarang Restaurant And Bar
+p191
+sg11
+Vhttp://mumbai.burrp.com/listing/sarang-restaurant-and-bar_santacruz-west_mumbai_dessert-shops-cafes-restaurants/18912967920
+p192
+sg13
+VSantacruz West
+p193
+sg15
+(lp194
+V26126801
+p195
+aV 9819497228
+p196
+asg19
+g67
+sg21
+VShop No 23, Ground Floor, Rizvi Nagar Building, S V Road, Near Milan Cinema, Santacruz West, Mumbai
+p197
+sba(i__main__
+Place
+p198
+(dp199
+g3
+(lp200
+VBars & Pubs
+p201
+aV Restaurants
+p202
+asg7
+g67
+sg9
+VSalona Bar
+p203
+sg11
+Vhttp://mumbai.burrp.com/listing/salona-bar_santacruz-west_mumbai_bars-pubs-restaurants/177150732
+p204
+sg13
+VSantacruz West
+p205
+sg15
+(lp206
+V26117517
+p207
+aV 26147666
+p208
+asg19
+g67
+sg21
+VHotel Milan International, 1st Road, Near Milan Subway, Santacruz (W), Santacruz West, Mumbai
+p209
+sba(i__main__
+Place
+p210
+(dp211
+g3
+(lp212
+VRestaurants
+p213
+asg7
+g67
+sg9
+VNavratna Deluxe Family Restaurant
+p214
+sg11
+Vhttp://mumbai.burrp.com/listing/navratna-deluxe-family-restaurant_santacruz-west_mumbai_restaurants/1694505940
+p215
+sg13
+VSantacruz West
+p216
+sg15
+(lp217
+V26048096
+p218
+aV 26058175
+p219
+asg19
+g33
+sg21
+VStation Road, Fashqua Shopping Centre, Santacruz (W), Santacruz West, Mumbai
+p220
+sba(i__main__
+Place
+p221
+(dp222
+g3
+(lp223
+VRestaurants
+p224
+asg7
+g67
+sg9
+VSridevi Restaurant
+p225
+sg11
+Vhttp://mumbai.burrp.com/listing/sridevi-restaurant_santacruz-west_mumbai_restaurants/1356896574
+p226
+sg13
+VSantacruz West
+p227
+sg15
+(lp228
+V26613482
+p229
+aV 26614908
+p230
+aV 9619855217
+p231
+asg19
+g33
+sg21
+VShop No.15, Rizvi Park, S.V.Road, Santacruz (W), Santacruz West, Mumbai
+p232
+sba(i__main__
+Place
+p233
+(dp234
+g3
+(lp235
+VRestaurants
+p236
+asg7
+g67
+sg9
+VNational Bar & Restaurant
+p237
+sg11
+Vhttp://mumbai.burrp.com/listing/national-bar-restaurant_khira-nagar_mumbai_restaurants/11111016198
+p238
+sg13
+VKhira Nagar
+p239
+sg15
+(lp240
+V26110926
+p241
+aV 26150547
+p242
+asg19
+g67
+sg21
+VShop No 123, Rameshwar Society, S V Road, Khira Nagar, Santacruz West, Mumbai
+p243
+sba(i__main__
+Place
+p244
+(dp245
+g3
+(lp246
+VRestaurants
+p247
+asg7
+g67
+sg9
+VHotel National
+p248
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-national_santacruz-west_mumbai_restaurants/14312882366
+p249
+sg13
+VSantacruz West
+p250
+sg15
+(lp251
+V26110926
+p252
+aV 26150547
+p253
+asg19
+g67
+sg21
+VRameshwar Building , S V Road, Santacruz West, Mumbai
+p254
+sba(i__main__
+Place
+p255
+(dp256
+g3
+(lp257
+VRestaurants
+p258
+asg7
+g67
+sg9
+VBalaji Restaurant
+p259
+sg11
+Vhttp://mumbai.burrp.com/listing/balaji-restaurant_santacruz-west_mumbai_restaurants/19512896514
+p260
+sg13
+VSantacruz West
+p261
+sg15
+(lp262
+V28113744
+p263
+aV 28113745
+p264
+aV 9594131116
+p265
+asg19
+g67
+sg21
+VGreen Avenue Plaza, Shanti Park, Santacruz West, Mumbai
+p266
+sba(i__main__
+Place
+p267
+(dp268
+g3
+(lp269
+VRestaurants
+p270
+asg7
+g67
+sg9
+VFood Inn Restaurant
+p271
+sg11
+Vhttp://mumbai.burrp.com/listing/food-inn-restaurant_santacruz-west_mumbai_restaurants/13912899970
+p272
+sg13
+VSantacruz West
+p273
+sg15
+(lp274
+V26600244
+p275
+aV 26600319
+p276
+asg19
+g67
+sg21
+VLido Cinema Extension Building, Juhu Road, Santacruz West, Mumbai
+p277
+sba(i__main__
+Place
+p278
+(dp279
+g3
+(lp280
+VRestaurants
+p281
+asg7
+g67
+sg9
+VRoyal Restaurant
+p282
+sg11
+Vhttp://mumbai.burrp.com/listing/royal-restaurant_santacruz-west_mumbai_restaurants/17912912930
+p283
+sg13
+VSantacruz West
+p284
+sg15
+(lp285
+V26048096
+p286
+aV 26058175
+p287
+asg19
+g67
+sg21
+VStation Road, Santacruz West, Mumbai
+p288
+sba(i__main__
+Place
+p289
+(dp290
+g3
+(lp291
+VRestaurants
+p292
+asg7
+g67
+sg9
+VAshra Lunch Home
+p293
+sg11
+Vhttp://mumbai.burrp.com/listing/ashra-lunch-home_santacruz-west_mumbai_restaurants/15912919950
+p294
+sg13
+VSantacruz West
+p295
+sg15
+(lp296
+V26147794
+p297
+aV 26179160
+p298
+aV 9594065849
+p299
+asg19
+g67
+sg21
+VS V Road, Khira Nagar, Opposite ACME Mall, Santacruz West, Mumbai
+p300
+sba(i__main__
+Place
+p301
+(dp302
+g3
+(lp303
+VRestaurants
+p304
+asg7
+g67
+sg9
+VSantacruz Restaurant And Bar
+p305
+sg11
+Vhttp://mumbai.burrp.com/listing/santacruz-restaurant-and-bar_santacruz-west_mumbai_restaurants/14712963762
+p306
+sg13
+VSantacruz West
+p307
+sg15
+(lp308
+V26494782
+p309
+asg19
+g67
+sg21
+V41 Station Road, Santacruz West, Mumbai
+p310
+sba(i__main__
+Place
+p311
+(dp312
+g3
+(lp313
+VRestaurants
+p314
+asg7
+g67
+sg9
+VCafe Jumbo Hotel
+p315
+sg11
+Vhttp://mumbai.burrp.com/listing/cafe-jumbo-hotel_santacruz-west_mumbai_restaurants/19112986118
+p316
+sg13
+VSantacruz West
+p317
+sg15
+(lp318
+V26613182
+p319
+aV 32474278
+p320
+asg19
+g67
+sg21
+VShop No 7, J K Industrial Estate, Extent Linking Road, Shastri Nagar, Santacruz West, Mumbai
+p321
+sba(i__main__
+Place
+p322
+(dp323
+g3
+(lp324
+VRestaurants
+p325
+aV Hotels
+p326
+asg7
+g67
+sg9
+VVelvett Country
+p327
+sg11
+Vhttp://mumbai.burrp.com/listing/velvett-country_santacruz-west_mumbai_restaurants-hotels/18512994524
+p328
+sg13
+VSantacruz West
+p329
+sg15
+(lp330
+V26615842
+p331
+aV 66779836
+p332
+aV 66779837
+p333
+aV 66939333
+p334
+asg19
+g67
+sg21
+V106, Vikas Centre, 2nd Floor, S V Road, Santacruz West, Mumbai
+p335
+sba(i__main__
+Place
+p336
+(dp337
+g3
+(lp338
+VRestaurants
+p339
+asg7
+g67
+sg9
+VCoffee Day Express
+p340
+sg11
+Vhttp://mumbai.burrp.com/listing/coffee-day-express_santacruz-west_mumbai_restaurants/13724068772
+p341
+sg13
+VSantacruz West
+p342
+sg15
+(lp343
+V28526414
+p344
+asg19
+g67
+sg21
+V1, Ground Floor, Sneh Sadan, 35-D, Main Avenue Road, Santacruz West, Mumbai
+p345
+sba(i__main__
+Place
+p346
+(dp347
+g3
+(lp348
+VRestaurants
+p349
+asg7
+g67
+sg9
+VCafe Pakeezah
+p350
+sg11
+Vhttp://mumbai.burrp.com/listing/cafe-pakeezah_santacruz-west_mumbai_restaurants/19724317712
+p351
+sg13
+VSantacruz West
+p352
+sg15
+(lp353
+V26600682
+p354
+aV 65026038
+p355
+asg19
+g67
+sg21
+VShop No 6 & 7, G/11, Pioneer Heritage Residency, Chunabatti, Santacruz West, Mumbai
+p356
+sba.

@@ -1,0 +1,45 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VAakash Sagar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/aakash-sagar_ramwadi_mumbai_restaurants/18712733722
+p11
+sS'region'
+p12
+VRamwadi
+p13
+sS'phone'
+p14
+(lp15
+V22003311
+p16
+aV 22090689
+p17
+aV 9321021050
+p18
+aV 9869000233
+p19
+asS'cost'
+p20
+g7
+sS'addr'
+p21
+VBuildingg No 25 , Kalbadevi Road, Marine Lines  , Ramwadi, Kalbadevi, Mumbai
+p22
+sba.

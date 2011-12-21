@@ -1,0 +1,259 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VRoyal Rasoi
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/royal-rasoi_kharghar-w_navi-mumbai_restaurants/1201468089
+p11
+sS'region'
+p12
+VKharghar (W)
+p13
+sS'phone'
+p14
+(lp15
+V27745588
+p16
+aV 27745599
+p17
+aV 9223316655
+p18
+aV 9769696653
+p19
+asS'cost'
+p20
+g7
+sS'addr'
+p21
+VPlot No 10, Sec No 2, Vighnaharta CHS, Off Mumbai-Pune Highway, Kharghar (W), Navi Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+V4
+p27
+sg8
+VPapaji Da Dhaba
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/papaji-da-dhaba_kharghar-w_navi-mumbai_restaurants/121730188
+p29
+sg12
+VKharghar (W)
+p30
+sg14
+(lp31
+V32073969
+p32
+aV 9324812782
+p33
+asg20
+V2
+p34
+sg21
+VPlot No. E-36, Sector 12, Shivaji Chowk, Near State Bank of Hyderabad, Kharghar (W), Navi Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+g27
+sg8
+VSpice N' Grill
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/spice-n-grill_kharghar-w_navi-mumbai_restaurants/1691256940
+p41
+sg12
+VKharghar (W)
+p42
+sg14
+(lp43
+V32027766
+p44
+asg20
+g34
+sg21
+VSai Savali, Sector 20, Kharghar (W), Navi Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g7
+sg8
+VPranaam
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/pranaam_kharghar-w_navi-mumbai_restaurants/117864792
+p51
+sg12
+VKharghar (W)
+p52
+sg14
+(lp53
+V65253286
+p54
+aV 65253279
+p55
+asg20
+g34
+sg21
+V Sector 12, Main road, Kharghar, Kharghar (W), Navi Mumbai
+p56
+sba(i__main__
+Place
+p57
+(dp58
+g3
+(lp59
+VRestaurants
+p60
+asg6
+V0
+p61
+sg8
+VCafe Bagdadi
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-bagdadi_kharghar-w_navi-mumbai_restaurants/1763300633
+p63
+sg12
+VKharghar (W)
+p64
+sg14
+(lp65
+V27744476
+p66
+aV 9892435361
+p67
+aV 9773727382
+p68
+aV 9768812372
+p69
+asg20
+g34
+sg21
+VShop No 18, Therwani Heritage, Sector 7, Plot No 24, Kharghar (W), Navi Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+asg6
+V1
+p75
+sg8
+VJassi Da Dhaba
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/jassi-da-dhaba_kharghar-w_navi-mumbai_restaurants/1956038514
+p77
+sg12
+VKharghar (W)
+p78
+sg14
+(lp79
+V9967382757
+p80
+aV 9323860838
+p81
+asg20
+g61
+sg21
+V1, Shree Ganesh Complex, Plot No. E-5, Sector 3, Belpada, Kharghar (W), Navi Mumbai
+p82
+sba(i__main__
+Place
+p83
+(dp84
+g3
+(lp85
+VRestaurants
+p86
+asg6
+g75
+sg8
+VVithal Kamats
+p87
+sg10
+Vhttp://mumbai.burrp.com/listing/vithal-kamats_kharghar-w_navi-mumbai_restaurants/1496483960
+p88
+sg12
+VKharghar (W)
+p89
+sg14
+(lp90
+V9987573806
+p91
+asg20
+g61
+sg21
+VShiv Krupa Building, Plot No. E 68, Sector 3, Belpada, Kharghar (W), Navi Mumbai
+p92
+sba(i__main__
+Place
+p93
+(dp94
+g3
+(lp95
+VRestaurants
+p96
+asg6
+g61
+sg8
+VGovindji Agri Family Restaurant
+p97
+sg10
+Vhttp://mumbai.burrp.com/listing/govindji-agri-family-restaurant_kharghar-w_navi-mumbai_restaurants/1676566742
+p98
+sg12
+VKharghar (W)
+p99
+sg14
+(lp100
+V9321126662
+p101
+aV 9322657140
+p102
+asg20
+g34
+sg21
+VS.N.Park, Shop No 27, Opp Kharghar Railway Station, Kharghar (W), Navi Mumbai
+p103
+sba.

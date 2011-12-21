@@ -1,0 +1,1174 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VCrystal
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/crystal_chowpatty-girgaon_mumbai_restaurants/16468445
+p11
+sS'region'
+p12
+VChowpatty (Girgaon)
+p13
+sS'phone'
+p14
+(lp15
+V23691482
+p16
+asS'cost'
+p17
+V1
+p18
+sS'addr'
+p19
+V19, Chowpatty Seaface, Near Wilson College, Chowpatty (Girgaon), Girgaon, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+V4
+p25
+sg8
+VCream Centre
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/cream-centre_chowpatty-girgaon_mumbai_restaurants/16168148
+p27
+sg12
+VChowpatty (Girgaon)
+p28
+sg14
+(lp29
+V23679222
+p30
+aV 23679333
+p31
+asg17
+V0
+p32
+sg19
+V25, Fulchand Niwas, Chowpatty (Girgaon), Girgaon, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g25
+sg8
+VSukh Sagar
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/sukh-sagar_chowpatty-girgaon_mumbai_restaurants/11818891
+p39
+sg12
+VChowpatty (Girgaon)
+p40
+sg14
+(lp41
+V23633523
+p42
+aV 23636856
+p43
+aV 23679614
+p44
+asg17
+V2
+p45
+sg19
+VMarine Mansion, SVP Road, Chowpatty, Girgaum, Chowpatty (Girgaon), Girgaon, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+V3
+p51
+sg8
+VSoam Pure Vegetarian
+p52
+sg10
+Vhttp://mumbai.burrp.com/listing/soam-pure-vegetarian_chowpatty-girgaon_mumbai_restaurants/14857861
+p53
+sg12
+VChowpatty (Girgaon)
+p54
+sg14
+(lp55
+V23698080
+p56
+asg17
+g45
+sg19
+VSadguru Sadan, Ground Floor, Chowpatty (Girgaon), Girgaon, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g25
+sg8
+VNew Yorker
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/new-yorker_chowpatty-girgaon_mumbai_restaurants/173132336
+p63
+sg12
+VChowpatty (Girgaon)
+p64
+sg14
+(lp65
+V66283338
+p66
+aV 23677500
+p67
+aV 23677502
+p68
+asg17
+g32
+sg19
+V25, Fulchand Niwas, Chowpatty Seaface, Chowpatty (Girgaon), Girgaon, Mumbai
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VDessert Shops
+p73
+aV Bakery Shops
+p74
+aV Restaurants
+p75
+asg6
+g25
+sg8
+VGovinda's Restaurant
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/govindas-restaurant_chowpatty-girgaon_mumbai_dessert-shops-bakery-shops-restaurants/1695099940
+p77
+sg12
+VChowpatty (Girgaon)
+p78
+sg14
+(lp79
+V23665567
+p80
+aV 23665566
+p81
+aV 32428660
+p82
+aV 9322754646
+p83
+asg17
+g45
+sg19
+V7 K M Munshi Rd, Chowpatty, Girgaum, Chowpatty (Girgaon), Girgaon, Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg6
+g25
+sg8
+VThackers
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/thackers_chowpatty-girgaon_mumbai_restaurants/19862811
+p90
+sg12
+VChowpatty (Girgaon)
+p91
+sg14
+(lp92
+V23649300
+p93
+aV 23649301
+p94
+aV 23649305
+p95
+asg17
+g32
+sg19
+VBirla Kreeda Kendra, Chowpatty, Chowpatty (Girgaon), Girgaon, Mumbai
+p96
+sba(i__main__
+Place
+p97
+(dp98
+g3
+(lp99
+VRestaurants
+p100
+asg6
+g25
+sg8
+VVinay Health Home
+p101
+sg10
+Vhttp://mumbai.burrp.com/listing/vinay-health-home_cp-tank_mumbai_restaurants/19271217
+p102
+sg12
+VCP Tank
+p103
+sg14
+(lp104
+V22081211
+p105
+asg17
+g18
+sg19
+V71183, Jawahar Mansion, Fanaswadi Corner, CP Tank, Girgaon, Mumbai
+p106
+sba(i__main__
+Place
+p107
+(dp108
+g3
+(lp109
+VRestaurants
+p110
+asg6
+g25
+sg8
+VCafe Ideal
+p111
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-ideal_chowpatty-girgaon_mumbai_restaurants/198107811
+p112
+sg12
+VChowpatty (Girgaon)
+p113
+sg14
+(lp114
+V23630943
+p115
+aV 9819153864
+p116
+asg17
+g45
+sg19
+VShop No. 5, Fulchand Nivas, Chowpatty (Girgaon), Girgaon, Mumbai
+p117
+sba(i__main__
+Place
+p118
+(dp119
+g3
+(lp120
+VRestaurants
+p121
+asg6
+g51
+sg8
+VKobe Sizzlers
+p122
+sg10
+Vhttp://mumbai.burrp.com/listing/kobe-sizzlers_chowpatty-girgaon_mumbai_restaurants/189124920
+p123
+sg12
+VChowpatty (Girgaon)
+p124
+sg14
+(lp125
+V23632174
+p126
+aV 23696982
+p127
+asg17
+g51
+sg19
+V12/13, Sukh Sagar, Hughes Road, Chowpatty (Girgaon), Girgaon, Mumbai
+p128
+sba(i__main__
+Place
+p129
+(dp130
+g3
+(lp131
+VRestaurants
+p132
+aV Lounges
+p133
+asg6
+g7
+sg8
+VWaterpipe - Italian Bistro and Sheesha Lounge
+p134
+sg10
+Vhttp://mumbai.burrp.com/listing/waterpipe---italian-bistro-and-sheesha-lounge_chowpatty-girgaon_mumbai_restaurants-lounges/1937172316
+p135
+sg12
+VChowpatty (Girgaon)
+p136
+sg14
+(lp137
+V23623131
+p138
+aV 23633131
+p139
+asg17
+g18
+sg19
+V392, Dadi Seth Cross Lane, Loyalka Marg, Bombay Garage Road, Chowpatty (Girgaon), Girgaon, Mumbai
+p140
+sba(i__main__
+Place
+p141
+(dp142
+g3
+(lp143
+VRestaurants
+p144
+asg6
+g25
+sg8
+VPanshikar Aahaar
+p145
+sg10
+Vhttp://mumbai.burrp.com/listing/panshikar-aahaar_girgaon_mumbai_restaurants/118135891
+p146
+sg12
+VGirgaon
+p147
+sg14
+(lp148
+V23861211
+p149
+aV 56340941
+p150
+asg17
+g32
+sg19
+VShop No. 2, Gordhandas Building, J.S.S. Road, Girgaon, Mumbai
+p151
+sba(i__main__
+Place
+p152
+(dp153
+g3
+(lp154
+VOutdoor Caterers
+p155
+aV Restaurants
+p156
+asg6
+g25
+sg8
+VLeb Mex
+p157
+sg10
+Vhttp://mumbai.burrp.com/listing/leb-mex_chowpatty-girgaon_mumbai_outdoor-caterers-restaurants/15324889356
+p158
+sg12
+VChowpatty (Girgaon)
+p159
+sg14
+(lp160
+V23688000
+p161
+asg17
+g45
+sg19
+VGround Floor, Sukh Sagar , Chowpatty (Girgaon), Girgaon, Mumbai
+p162
+sba(i__main__
+Place
+p163
+(dp164
+g3
+(lp165
+VRestaurants
+p166
+asg6
+g25
+sg8
+VKhichdi Samrat
+p167
+sg10
+Vhttp://mumbai.burrp.com/listing/khichdi-samrat_cp-tank_mumbai_restaurants/187124722
+p168
+sg12
+VCP Tank
+p169
+sg14
+(lp170
+V22420344
+p171
+aV 66381332
+p172
+asg17
+g18
+sg19
+V44 / 46, VP Road, CP Tank, Girgaon, Mumbai
+p173
+sba(i__main__
+Place
+p174
+(dp175
+g3
+(lp176
+VRestaurants
+p177
+asg6
+g51
+sg8
+VGolden Wheel
+p178
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-wheel_girgaon_mumbai_restaurants/197116712
+p179
+sg12
+VGirgaon
+p180
+sg14
+(lp181
+V23861850
+p182
+aV 23879378
+p183
+aV 66365590
+p184
+aV 66365591
+p185
+asg17
+g32
+sg19
+VJSS Road, Next to Majestic Shopping Centre, Girgaum, Girgaon, Mumbai
+p186
+sba(i__main__
+Place
+p187
+(dp188
+g3
+(lp189
+VRestaurants
+p190
+asg6
+g7
+sg8
+VTambe Upahar Graha
+p191
+sg10
+Vhttp://mumbai.burrp.com/listing/tambe-upahar-graha_girgaon_mumbai_restaurants/184376425
+p192
+sg12
+VGirgaon
+p193
+sg14
+(lp194
+V23899009
+p195
+aV 23864223
+p196
+asg17
+g18
+sg19
+V277 Mapala Mahal, JS Road, Near Vaman Hari Pethe Jewellers, Girgaum, Girgaon, Mumbai
+p197
+sba(i__main__
+Place
+p198
+(dp199
+g3
+(lp200
+VRestaurants
+p201
+asg6
+g25
+sg8
+VParamount
+p202
+sg10
+Vhttp://mumbai.burrp.com/listing/paramount_girgaon_mumbai_restaurants/1392594970
+p203
+sg12
+VGirgaon
+p204
+sg14
+(lp205
+V9821084988
+p206
+asg17
+g45
+sg19
+VChowpatty Seaface, Grant Road, Girgaon, Mumbai
+p207
+sba(i__main__
+Place
+p208
+(dp209
+g3
+(lp210
+VRestaurants
+p211
+asg6
+g32
+sg8
+VVoice Of India Restaurant
+p212
+sg10
+Vhttp://mumbai.burrp.com/listing/voice-of-india-restaurant_girgaon_mumbai_restaurants/1559688554
+p213
+sg12
+VGirgaon
+p214
+sg14
+(lp215
+V23632708
+p216
+aV 9820288121
+p217
+asg17
+g32
+sg19
+V114, Jss Road, Next To Central Plaza, Near Girgaon Church, Girgaon, Mumbai
+p218
+sba(i__main__
+Place
+p219
+(dp220
+g3
+(lp221
+VBars & Pubs
+p222
+aV Restaurants
+p223
+asg6
+g32
+sg8
+VGolden Chimney
+p224
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-chimney_girgaon_mumbai_bars-pubs-restaurants/132146277
+p225
+sg12
+VGirgaon
+p226
+sg14
+(lp227
+V23861811
+p228
+aV 23885395
+p229
+asg17
+g45
+sg19
+V369, Ground Floor, Satyabhama Niwas, VP Road, Girgaon, Mumbai
+p230
+sba(i__main__
+Place
+p231
+(dp232
+g3
+(lp233
+VRestaurants
+p234
+asg6
+g32
+sg8
+VNityanand
+p235
+sg10
+Vhttp://mumbai.burrp.com/listing/nityanand_girgaon_mumbai_restaurants/179132930
+p236
+sg12
+VGirgaon
+p237
+sg14
+(lp238
+V22357182
+p239
+aV 23809614
+p240
+asg17
+g32
+sg19
+V273, V.P. Road, Prarthana Sama, Corner, Girgaum, Girgaon, Mumbai
+p241
+sba(i__main__
+Place
+p242
+(dp243
+g3
+(lp244
+VRestaurants
+p245
+asg6
+g32
+sg8
+VKolhapuri Chiwda
+p246
+sg10
+Vhttp://mumbai.burrp.com/listing/kolhapuri-chiwda_girgaon_mumbai_restaurants/1779690732
+p247
+sg12
+VGirgaon
+p248
+sg14
+(lp249
+V23893912
+p250
+aV 9833275919
+p251
+asg17
+g32
+sg19
+V239, Naik Building, Girgaon Mangal Wadi, Girgaon, Mumbai
+p252
+sba(i__main__
+Place
+p253
+(dp254
+g3
+(lp255
+VRestaurants
+p256
+asg6
+g32
+sg8
+VShri Ram
+p257
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-ram_girgaon_mumbai_restaurants/13356376
+p258
+sg12
+VGirgaon
+p259
+sg14
+(lp260
+V23866017
+p261
+aV 23892967
+p262
+asg17
+g32
+sg19
+V434, Shri Ram Mansion, Prarthana Samaj, Girgaon, Mumbai
+p263
+sba(i__main__
+Place
+p264
+(dp265
+g3
+(lp266
+VRestaurants
+p267
+asg6
+g32
+sg8
+VMezbaan
+p268
+sg10
+Vhttp://mumbai.burrp.com/listing/mezbaan_girgaon_mumbai_restaurants/1352574
+p269
+sg12
+VGirgaon
+p270
+sg14
+(lp271
+V6524584
+p272
+asg17
+g32
+sg19
+V79A, Near Municipal School, M. P. Marg, Girgaon, Mumbai
+p273
+sba(i__main__
+Place
+p274
+(dp275
+g3
+(lp276
+VRestaurants
+p277
+asg6
+g32
+sg8
+VMini Malvan
+p278
+sg10
+Vhttp://mumbai.burrp.com/listing/mini-malvan_girgaon_mumbai_restaurants/147129762
+p279
+sg12
+VGirgaon
+p280
+sg14
+(lp281
+V23857171
+p282
+aV 23862030
+p283
+aV 23865555
+p284
+asg17
+g32
+sg19
+VJai Foundation, 247, Chogle House, JSS Road, Opp. Mangal Wadi, Girgaum, Girgaon, Mumbai
+p285
+sba(i__main__
+Place
+p286
+(dp287
+g3
+(lp288
+VRestaurants
+p289
+aV Home Caterers
+p290
+asg6
+g32
+sg8
+VJamnagri Sweet & Farsan Mart
+p291
+sg10
+Vhttp://mumbai.burrp.com/listing/jamnagri-sweet-farsan-mart_girgaon_mumbai_restaurants-home-caterers/186376623
+p292
+sg12
+VGirgaon
+p293
+sg14
+(lp294
+V23893515
+p295
+aV 22088638
+p296
+asg17
+g18
+sg19
+V205, Khadlikare Road, Kandewadi, Girgaum, Girgaon, Mumbai
+p297
+sba(i__main__
+Place
+p298
+(dp299
+g3
+(lp300
+VRestaurants
+p301
+asg6
+g32
+sg8
+VAshraya Vegrestaurant
+p302
+sg10
+Vhttp://mumbai.burrp.com/listing/ashraya-vegrestaurant_girgaon_mumbai_restaurants/1464404663
+p303
+sg12
+VGirgaon
+p304
+sg14
+(lp305
+V23872651
+p306
+aV 23889669
+p307
+asg17
+g32
+sg19
+VShop No. 4, Govardhandas Khatao Bldg, J.S.S. Marg., Girgaum, Girgaon, Mumbai
+p308
+sba(i__main__
+Place
+p309
+(dp310
+g3
+(lp311
+VRestaurants
+p312
+asg6
+g32
+sg8
+VRaja Refreshment 
+p313
+sg10
+Vhttp://mumbai.burrp.com/listing/raja-refreshment-_girgaon_mumbai_restaurants/1244501485
+p314
+sg12
+VGirgaon
+p315
+sg14
+(lp316
+V23854786 
+p317
+asg17
+g32
+sg19
+V134, J. S. S Road, Girgaum, Girgaon, Mumbai
+p318
+sba(i__main__
+Place
+p319
+(dp320
+g3
+(lp321
+VRestaurants
+p322
+asg6
+g32
+sg8
+VSadguru Sadan
+p323
+sg10
+Vhttp://mumbai.burrp.com/listing/sadguru-sadan_girgaon_mumbai_restaurants/1574522752
+p324
+sg12
+VGirgaon
+p325
+sg14
+(lp326
+V23698080
+p327
+asg17
+g32
+sg19
+VGrd flr, Chowpatty, Girgaum, Girgaon, Mumbai
+p328
+sba(i__main__
+Place
+p329
+(dp330
+g3
+(lp331
+VRestaurants
+p332
+aV Hotels
+p333
+asg6
+g32
+sg8
+VSwapna Veg Restaurant
+p334
+sg10
+Vhttp://mumbai.burrp.com/listing/swapna-veg-restaurant_girgaon_mumbai_restaurants-hotels/1178406792
+p335
+sg12
+VGirgaon
+p336
+sg14
+(lp337
+V23822861
+p338
+aV 69532962
+p339
+asg17
+g32
+sg19
+VPlot No 117, Mantri Building, J S S Road, Girgaon, Mumbai
+p340
+sba(i__main__
+Place
+p341
+(dp342
+g3
+(lp343
+VRestaurants
+p344
+asg6
+g32
+sg8
+VDelhiwale Ka Bhojnalay
+p345
+sg10
+Vhttp://mumbai.burrp.com/listing/delhiwale-ka-bhojnalay_cp-tank_mumbai_restaurants/1638825346
+p346
+sg12
+VCP Tank
+p347
+sg14
+(lp348
+V22420997
+p349
+aV 9820888887
+p350
+asg17
+g32
+sg19
+VGround Floor, Ananth Terrace Buliding, V P Road, CP Tank, Girgaon, Mumbai
+p351
+sba(i__main__
+Place
+p352
+(dp353
+g3
+(lp354
+VRestaurants
+p355
+asg6
+g32
+sg8
+VYadgari Punjab Restaurant
+p356
+sg10
+Vhttp://mumbai.burrp.com/listing/yadgari-punjab-restaurant_cp-tank_mumbai_restaurants/1298830980
+p357
+sg12
+VCP Tank
+p358
+sg14
+(lp359
+V65781193
+p360
+aV 9820380338
+p361
+asg17
+g32
+sg19
+V189 Patthe Baburao Marg, Nxt To Delhi Darbar Restaurant, CP Tank, Girgaon, Mumbai
+p362
+sba(i__main__
+Place
+p363
+(dp364
+g3
+(lp365
+VRestaurants
+p366
+asg6
+g32
+sg8
+VAshirwad Restaurant & Bar
+p367
+sg10
+Vhttp://mumbai.burrp.com/listing/ashirwad-restaurant-bar_fanaswadi_mumbai_restaurants/1319416178
+p368
+sg12
+VFanaswadi
+p369
+sg14
+(lp370
+V22081953
+p371
+asg17
+g32
+sg19
+VShop No 35, Fanaswadi, Girgaon, Mumbai
+p372
+sba(i__main__
+Place
+p373
+(dp374
+g3
+(lp375
+VRestaurants
+p376
+asg6
+g32
+sg8
+VGovind Ashram Hotel
+p377
+sg10
+Vhttp://mumbai.burrp.com/listing/govind-ashram-hotel_girgaon_mumbai_restaurants/1779663732
+p378
+sg12
+VGirgaon
+p379
+sg14
+(lp380
+V23800482
+p381
+aV 95201928
+p382
+aV 9324703250
+p383
+asg17
+g32
+sg19
+VShop No 241, Keshav Bhavan, JSS Road, Girgaon, Mumbai
+p384
+sba(i__main__
+Place
+p385
+(dp386
+g3
+(lp387
+VRestaurants
+p388
+asg6
+g32
+sg8
+VNew Yazdani & Company
+p389
+sg10
+Vhttp://mumbai.burrp.com/listing/new-yazdani-company_girgaon_mumbai_restaurants/1119666198
+p390
+sg12
+VGirgaon
+p391
+sg14
+(lp392
+V23823322
+p393
+asg17
+g32
+sg19
+VSafari Building, Raja Rammohan Roy Road, Girgaon, Mumbai
+p394
+sba(i__main__
+Place
+p395
+(dp396
+g3
+(lp397
+VRestaurants
+p398
+aV Hotels
+p399
+aV Bars & Pubs
+p400
+asg6
+g32
+sg8
+VRailway Hotel
+p401
+sg10
+Vhttp://mumbai.burrp.com/listing/railway-hotel_girgaon_mumbai_restaurants-hotels-bars-pubs/1199666990
+p402
+sg12
+VGirgaon
+p403
+sg14
+(lp404
+V23821028
+p405
+aV 23852035
+p406
+aV 23895855
+p407
+asg17
+g32
+sg19
+VBuilding No 15/17, Raja Ram Mohan Roy Road, Girgaon, Mumbai
+p408
+sba(i__main__
+Place
+p409
+(dp410
+g3
+(lp411
+VRestaurants
+p412
+asg6
+g32
+sg8
+VNekzad Restaurant
+p413
+sg10
+Vhttp://mumbai.burrp.com/listing/nekzad-restaurant_girgaon_mumbai_restaurants/1619671148
+p414
+sg12
+VGirgaon
+p415
+sg14
+(lp416
+V23808627
+p417
+aV 23823631
+p418
+asg17
+g32
+sg19
+V185/187, Bariya Building, Play House, Girgaon, Mumbai
+p419
+sba(i__main__
+Place
+p420
+(dp421
+g3
+(lp422
+VRestaurants
+p423
+aV Bars & Pubs
+p424
+asg6
+g32
+sg8
+VIndiana Restaurant
+p425
+sg10
+Vhttp://mumbai.burrp.com/listing/indiana-restaurant_girgaon_mumbai_restaurants-bars-pubs/1879673722
+p426
+sg12
+VGirgaon
+p427
+sg14
+(lp428
+V23858857
+p429
+aV 23889769
+p430
+asg17
+g32
+sg19
+VLelinwala Hse, 200 J S S Road, Girgaum Gaiwadi, Girgaon, Mumbai
+p431
+sba(i__main__
+Place
+p432
+(dp433
+g3
+(lp434
+VRestaurants
+p435
+asg6
+g32
+sg8
+VSamarth Bhojanalaya Restaurant
+p436
+sg10
+Vhttp://mumbai.burrp.com/listing/samarth-bhojanalaya-restaurant_girgaon_mumbai_restaurants/1779681732
+p437
+sg12
+VGirgaon
+p438
+sg14
+(lp439
+V23885087
+p440
+asg17
+g32
+sg19
+VBuilding No 22/ B, Rele Building, Krantiveer Rajguru Marg, Girgaon, Mumbai
+p441
+sba.

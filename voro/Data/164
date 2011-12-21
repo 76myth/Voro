@@ -1,0 +1,258 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Outdoor Caterers
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VTaste of Nawab's
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/taste-of-nawabs_lbs-marg-bhandup-west_mumbai_restaurants-outdoor-caterers/19923543910
+p12
+sS'region'
+p13
+VLBS Marg (Bhandup West)
+p14
+sS'phone'
+p15
+(lp16
+V65131400
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VDreams The Mall, Food Court, Near Bhandup Railway Station, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+aV Outdoor Caterers
+p26
+asg7
+g8
+sg9
+VTaste of Nawab's
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/taste-of-nawabs_lbs-marg-bhandup-west_mumbai_restaurants-outdoor-caterers/11723544792
+p28
+sg13
+VLBS Marg (Bhandup West)
+p29
+sg15
+(lp30
+V65131400
+p31
+asg18
+g19
+sg20
+VDreams The Mall, Food Court, Near Bhandup Railway Station, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+asg7
+g8
+sg9
+VSai Prasad Pure Veg & Family Restaurant
+p37
+sg11
+Vhttp://mumbai.burrp.com/listing/sai-prasad-pure-veg-family-restaurant_lbs-marg-bhandup-west_mumbai_restaurants/18923362920
+p38
+sg13
+VLBS Marg (Bhandup West)
+p39
+sg15
+(lp40
+V25662685
+p41
+aV 9167268834
+p42
+asg18
+g19
+sg20
+VNityanand Mansion, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p43
+sba(i__main__
+Place
+p44
+(dp45
+g3
+(lp46
+VRestaurants
+p47
+asg7
+g8
+sg9
+VAditya Pure Veg Restaurant
+p48
+sg11
+Vhttp://mumbai.burrp.com/listing/aditya-pure-veg-restaurant_lbs-marg-bhandup-west_mumbai_restaurants/15111146158
+p49
+sg13
+VLBS Marg (Bhandup West)
+p50
+sg15
+(lp51
+V25968078
+p52
+aV 56869663
+p53
+asg18
+g8
+sg20
+VMayuresh Shristi Complex, Opp Asian Paints, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p54
+sba(i__main__
+Place
+p55
+(dp56
+g3
+(lp57
+VRestaurants
+p58
+asg7
+g8
+sg9
+VBageecha Restaurant
+p59
+sg11
+Vhttp://mumbai.burrp.com/listing/bageecha-restaurant_lbs-marg-bhandup-west_mumbai_restaurants/15511146554
+p60
+sg13
+VLBS Marg (Bhandup West)
+p61
+sg15
+(lp62
+V25665251
+p63
+aV 9820260717
+p64
+aV 9867799730
+p65
+aV 9967106106
+p66
+asg18
+g8
+sg20
+VShop No 20/21 , Bhandup Station Plaza, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p67
+sba(i__main__
+Place
+p68
+(dp69
+g3
+(lp70
+VRestaurants
+p71
+asg7
+g8
+sg9
+VSuraj Restaurant And Bar
+p72
+sg11
+Vhttp://mumbai.burrp.com/listing/suraj-restaurant-and-bar_lbs-marg-bhandup-west_mumbai_restaurants/15711146752
+p73
+sg13
+VLBS Marg (Bhandup West)
+p74
+sg15
+(lp75
+V25645812
+p76
+aV 25949643
+p77
+aV 25951755
+p78
+aV 9821093426
+p79
+asg18
+g8
+sg20
+VSuraj Restaurant And Bar              , LBS Marg (Bhandup West), Bhandup West, Mumbai
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VRestaurants
+p84
+asg7
+g8
+sg9
+VSadguru Restaurant & Bar
+p85
+sg11
+Vhttp://mumbai.burrp.com/listing/sadguru-restaurant-bar_lbs-marg-bhandup-west_mumbai_restaurants/15911146950
+p86
+sg13
+VLBS Marg (Bhandup West)
+p87
+sg15
+(lp88
+V25940289
+p89
+asg18
+g8
+sg20
+VShop No 15, Quarry Road, Maharashtra Nager, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p90
+sba(i__main__
+Place
+p91
+(dp92
+g3
+(lp93
+VRestaurants
+p94
+asg7
+g8
+sg9
+VAbhiruchi Juice & Snacks
+p95
+sg11
+Vhttp://mumbai.burrp.com/listing/abhiruchi-juice-snacks_lbs-marg-bhandup-west_mumbai_restaurants/18923596920
+p96
+sg13
+VLBS Marg (Bhandup West)
+p97
+sg15
+(lp98
+V64169729
+p99
+aV 32634849
+p100
+asg18
+g19
+sg20
+V1/A, Chandra Nagar, Opp Dreams Mall, LBS Marg (Bhandup West), Bhandup West, Mumbai
+p101
+sba.

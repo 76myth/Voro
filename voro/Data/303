@@ -1,0 +1,309 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VBhagat Tarachand
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/bhagat-tarachand_vashi-w_navi-mumbai_restaurants/166167643
+p11
+sS'region'
+p12
+VVashi (W)
+p13
+sS'phone'
+p14
+(lp15
+V65115360
+p16
+asS'cost'
+p17
+V2
+p18
+sS'addr'
+p19
+VAPMC Market, Vashi (W), Navi Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+V3
+p25
+sg8
+VAsian Kitchen 
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/asian-kitchen-_vashi-w_navi-mumbai_restaurants/1444530465
+p27
+sg12
+VVashi (W)
+p28
+sg14
+(lp29
+V27817777
+p30
+asg17
+g25
+sg19
+VVashi (W), Navi Mumbai
+p31
+sba(i__main__
+Place
+p32
+(dp33
+g3
+(lp34
+VRestaurants
+p35
+aV Fast Food Shops
+p36
+asg6
+g7
+sg8
+VMcDonald's
+p37
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_vashi-w_navi-mumbai_restaurants-fast-food-shops/1902501019
+p38
+sg12
+VVashi (W)
+p39
+sg14
+(lp40
+V32550993
+p41
+asg17
+g18
+sg19
+VPalm Beach Galleria, Plot 18, Sector 19/D, Vashi (W), Navi Mumbai
+p42
+sba(i__main__
+Place
+p43
+(dp44
+g3
+(lp45
+VRestaurants
+p46
+asg6
+g25
+sg8
+VSky Grill 
+p47
+sg10
+Vhttp://mumbai.burrp.com/listing/sky-grill-_vashi-w_navi-mumbai_restaurants/1184545891
+p48
+sg12
+VVashi (W)
+p49
+sg14
+(lp50
+V27817777 
+p51
+asg17
+g18
+sg19
+VVashi (W), Navi Mumbai
+p52
+sba(i__main__
+Place
+p53
+(dp54
+g3
+(lp55
+VFast Food Shops
+p56
+aV Restaurants
+p57
+aV Food-court Stalls
+p58
+asg6
+V0
+p59
+sg8
+VNectar
+p60
+sg10
+Vhttp://mumbai.burrp.com/listing/nectar_vashi-w_navi-mumbai_fast-food-shops-restaurants-food-court-stalls/12722087782
+p61
+sg12
+VVashi (W)
+p62
+sg14
+(lp63
+V64482249
+p64
+aV 64482249
+p65
+asg17
+V1
+p66
+sg19
+VKiosk No 10/B, Forecourt Area, Sector 30, Vashi (W), Navi Mumbai
+p67
+sba(i__main__
+Place
+p68
+(dp69
+g3
+(lp70
+VFast Food Shops
+p71
+aV Restaurants
+p72
+asg6
+g59
+sg8
+VMcDonald's
+p73
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_vashi-w_navi-mumbai_fast-food-shops-restaurants/1912501118
+p74
+sg12
+VVashi (W)
+p75
+sg14
+(lp76
+V32568952
+p77
+asg17
+g18
+sg19
+VMansarovar CHS L, Plot No.14, Sector 17, Vashi (W), Navi Mumbai
+p78
+sba(i__main__
+Place
+p79
+(dp80
+g3
+(lp81
+VRestaurants
+p82
+asg6
+g59
+sg8
+VShabri
+p83
+sg10
+Vhttp://mumbai.burrp.com/listing/shabri_vashi-w_navi-mumbai_restaurants/166158643
+p84
+sg12
+VVashi (W)
+p85
+sg14
+(lp86
+V27882820
+p87
+aV 27882830
+p88
+asg17
+g18
+sg19
+VF-1, Shop 15 & 16, Sector 9, Vashi (W), Navi Mumbai
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VRestaurants
+p93
+asg6
+g59
+sg8
+VRed Hot Chilly Pepper
+p94
+sg10
+Vhttp://mumbai.burrp.com/listing/red-hot-chilly-pepper_vashi-w_navi-mumbai_restaurants/14148168
+p95
+sg12
+VVashi (W)
+p96
+sg14
+(lp97
+V27867134
+p98
+asg17
+g59
+sg19
+VPlot No 17, Sector 28, Vashi (W), Navi Mumbai
+p99
+sba(i__main__
+Place
+p100
+(dp101
+g3
+(lp102
+VRestaurants
+p103
+asg6
+g59
+sg8
+VThe Roof Top Grill Restaurant
+p104
+sg10
+Vhttp://mumbai.burrp.com/listing/the-roof-top-grill-restaurant_vashi-w_navi-mumbai_restaurants/1215230188
+p105
+sg12
+VVashi (W)
+p106
+sg14
+(lp107
+V67736773
+p108
+aV 67736774
+p109
+asg17
+g18
+sg19
+VHotel Yogi Executive, Plot No 31/A, Sector 24, opp Mafco Market, APMC Road, Vashi (W), Navi Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VRestaurants
+p114
+asg6
+g59
+sg8
+VGolden Chariot
+p115
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-chariot_vashi-w_navi-mumbai_restaurants/1735703336
+p116
+sg12
+VVashi (W)
+p117
+sg14
+(lp118
+V27814162
+p119
+asg17
+g59
+sg19
+VThird Level, Raghuleela Arcade, Plot Number 34-35 S30A, Vashi (W), Navi Mumbai
+p120
+sba.

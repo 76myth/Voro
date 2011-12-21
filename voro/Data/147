@@ -1,0 +1,235 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VKhanabadosh
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/khanabadosh_kharghar_navi-mumbai_restaurants/14924276960
+p11
+sS'region'
+p12
+VKharghar
+p13
+sS'phone'
+p14
+(lp15
+V8097003925
+p16
+aV 27744748
+p17
+aV 9820046213
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VGreen Heritage, Shop no 37/38, Between Jal Vayu Vihar, and Central park, Kharghar, Navi Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+V3
+p27
+sg8
+VCinnamon Tree
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/cinnamon-tree_kharghar_navi-mumbai_restaurants/14522386564
+p29
+sg12
+VKharghar
+p30
+sg14
+(lp31
+V9820870775
+p32
+asg19
+V0
+p33
+sg21
+VShop n0.7 Bhoomi Heights, Sector 8, Kharghar, Navi Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VCafes
+p38
+aV Restaurants
+p39
+aV Food-court Stalls
+p40
+aV Fast Food Shops
+p41
+asg6
+g33
+sg8
+VIce & Spice Restaurants
+p42
+sg10
+Vhttp://mumbai.burrp.com/listing/ice-spice-restaurants_kharghar_navi-mumbai_cafes-restaurants-food-court-stalls/12113726188
+p43
+sg12
+VKharghar
+p44
+sg14
+(lp45
+V64269780
+p46
+aV 9820520743
+p47
+asg19
+g33
+sg21
+V6, Tulsi Gagan, Plot  28/29 , Sector 21, Kharghar, Navi Mumbai
+p48
+sba(i__main__
+Place
+p49
+(dp50
+g3
+(lp51
+VRestaurants
+p52
+asg6
+g33
+sg8
+VJass Da Dhaba
+p53
+sg10
+Vhttp://mumbai.burrp.com/listing/jass-da-dhaba_kharghar_navi-mumbai_restaurants/11313734396
+p54
+sg12
+VKharghar
+p55
+sg14
+(lp56
+V65105809
+p57
+aV 9820083631
+p58
+asg19
+g33
+sg21
+VPlot No 3, Omkar Apartment, Nilkant Co Operative Housing Society, Sector 12, Kharghar, Navi Mumbai
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg6
+g33
+sg8
+VBimal Paratha House
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/bimal-paratha-house_kharghar_navi-mumbai_restaurants/13313727376
+p65
+sg12
+VKharghar
+p66
+sg14
+(lp67
+V27562094
+p68
+aV 27744046
+p69
+aV 9892485911
+p70
+asg19
+g33
+sg21
+V31/32, Crystal Plaza, Hiranandani, Sector 7, Kharghar, Navi Mumbai
+p71
+sba(i__main__
+Place
+p72
+(dp73
+g3
+(lp74
+VRestaurants
+p75
+asg6
+g33
+sg8
+VClassic Restaurants
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/classic-restaurants_kharghar_navi-mumbai_restaurants/18313732326
+p77
+sg12
+VKharghar
+p78
+sg14
+(lp79
+V27565046
+p80
+aV 27744046
+p81
+asg19
+g33
+sg21
+VShop No 31, Plot No 832, Crystal Plaza, Sector 7, Kharghar, Navi Mumbai
+p82
+sba(i__main__
+Place
+p83
+(dp84
+g3
+(lp85
+VRestaurants
+p86
+asg6
+g33
+sg8
+VPravin's Kitchen
+p87
+sg10
+Vhttp://mumbai.burrp.com/listing/pravins-kitchen_kharghar_navi-mumbai_restaurants/12518235584
+p88
+sg12
+VKharghar
+p89
+sg14
+(lp90
+V32106500 
+p91
+aV 65129999 
+p92
+aV 9892271046
+p93
+asg19
+V1
+p94
+sg21
+VAvanish Building, Shop No.6, Plot No.225 , Shilp Chowk, Sector 13 , Kharghar, Navi Mumbai
+p95
+sba.

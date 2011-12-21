@@ -1,0 +1,136 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Cafes
+p6
+aV Lounges
+p7
+asS'rating'
+p8
+V0
+p9
+sS'name'
+p10
+VGoofa The Era
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/goofa-the-era_dockyard-road_mumbai_restaurants-cafes-lounges/15315304356
+p13
+sS'region'
+p14
+VDockyard Road
+p15
+sS'phone'
+p16
+(lp17
+V66347860
+p18
+aV 9768057210
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+V38/42, Gramodyog Buildng, Ground Floor, Dockyard Road, Mazgaon, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg8
+g9
+sg10
+VBharat Bhavan Hotel
+p28
+sg12
+Vhttp://mumbai.burrp.com/listing/bharat-bhavan-hotel_dockyard-road_mumbai_restaurants/1719393138
+p29
+sg14
+VDockyard Road
+p30
+sg16
+(lp31
+V23755610
+p32
+aV 9821364854
+p33
+asg20
+g9
+sg22
+VNoori Chawl, Reay Road, Darukhana, Opposite Britania Hotel, Dockyard Road, Mazgaon, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VBars & Pubs
+p38
+aV Restaurants
+p39
+asg8
+g9
+sg10
+VShapur Restaurant
+p40
+sg12
+Vhttp://mumbai.burrp.com/listing/shapur-restaurant_dockyard-road_mumbai_bars-pubs-restaurants/1739393336
+p41
+sg14
+VDockyard Road
+p42
+sg16
+(lp43
+V23782689
+p44
+asg20
+g9
+sg22
+V287, Nr Rly Station, Dockyard Road, Mazgaon, Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+aV Juice Parlours
+p50
+asg8
+g9
+sg10
+VKinara Bar And Restaurant
+p51
+sg12
+Vhttp://mumbai.burrp.com/listing/kinara-bar-and-restaurant_dockyard-road_mumbai_restaurants-juice-parlours/1819394128
+p52
+sg14
+VDockyard Road
+p53
+sg16
+(lp54
+V23713128
+p55
+asg20
+g9
+sg22
+VShop No 10, B P T Building, Mallet Bunder Road, Ferry Wharf Masjid, Dockyard Road, Mazgaon, Mumbai
+p56
+sba.

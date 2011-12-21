@@ -1,0 +1,3414 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VAurus
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/aurus_juhu_mumbai_restaurants/116252693
+p11
+sS'region'
+p12
+VJuhu
+p13
+sS'phone'
+p14
+(lp15
+V67106666
+p16
+aV 67106667
+p17
+asS'cost'
+p18
+g7
+sS'addr'
+p19
+VGround Floor, Nichani Kutir, Juhu Tara Road, Juhu, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g7
+sg8
+VDon Giovanni
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/don-giovanni_juhu_mumbai_restaurants/1864174623
+p26
+sg12
+VJuhu
+p27
+sg14
+(lp28
+V67426770
+p29
+aV 67426771
+p30
+aV 67426772
+p31
+aV 67426774
+p32
+asg18
+V3
+p33
+sg19
+VBehind Kings International Hotel, Juhu Tara Road, Juhu, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+aV Bars & Pubs
+p39
+asg6
+g7
+sg8
+VMelting Pot
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/melting-pot_juhu_mumbai_restaurants-bars-pubs/1211297188
+p41
+sg12
+VJuhu
+p42
+sg14
+(lp43
+V67834949
+p44
+aV 26134949
+p45
+asg18
+g33
+sg19
+VJuhu Residency, Juhu Tara Road, Previously J49, Juhu, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g7
+sg8
+VThe Class
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/the-class_juhu_mumbai_restaurants/12710782
+p52
+sg12
+VJuhu
+p53
+sg14
+(lp54
+V26181410
+p55
+aV 26181350
+p56
+asg18
+V2
+p57
+sg19
+V9, Standard House, Opp. J. W. Marriott Hotel, Juhu, Mumbai
+p58
+sba(i__main__
+Place
+p59
+(dp60
+g3
+(lp61
+VBars & Pubs
+p62
+aV Restaurants
+p63
+asg6
+g7
+sg8
+VArthur's Theme
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/arthurs-theme_juhu_mumbai_bars-pubs-restaurants/1536079356
+p65
+sg12
+VJuhu
+p66
+sg14
+(lp67
+V66980760
+p68
+aV 65704869
+p69
+aV 9920748631
+p70
+asg18
+g57
+sg19
+VTian, Level 3, 48, Gulmohar Road, Juhu, Mumbai
+p71
+sba(i__main__
+Place
+p72
+(dp73
+g3
+(lp74
+VRestaurants
+p75
+asg6
+g7
+sg8
+VLittle Italy
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/little-italy_juhu_mumbai_restaurants/198125811
+p77
+sg12
+VJuhu
+p78
+sg14
+(lp79
+V26608815
+p80
+aV 26608885
+p81
+aV 66923266
+p82
+asg18
+g33
+sg19
+V18-B, Hotel Atlantic, Near Maneckji Cooper School, Juhu Tara Road, Vile Parle (W), Juhu, Mumbai
+p83
+sba(i__main__
+Place
+p84
+(dp85
+g3
+(lp86
+VDiscotheques
+p87
+aV Restaurants
+p88
+asg6
+g33
+sg8
+VVie Lounge and Deck
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/vie-lounge-and-deck_juhu_mumbai_discotheques-restaurants/19171118
+p90
+sg12
+VJuhu
+p91
+sg14
+(lp92
+V26603003
+p93
+aV 26604884
+p94
+asg18
+g33
+sg19
+V102, Roop Leela Bungalow, Juhu Tara Road, Juhu, Mumbai
+p95
+sba(i__main__
+Place
+p96
+(dp97
+g3
+(lp98
+VRestaurants
+p99
+aV Bars & Pubs
+p100
+asg6
+g7
+sg8
+VOn The Rocks
+p101
+sg10
+Vhttp://mumbai.burrp.com/listing/on-the-rocks_juhu_mumbai_restaurants-bars-pubs/13311376
+p102
+sg12
+VJuhu
+p103
+sg14
+(lp104
+V26607839
+p105
+aV 26610552
+p106
+asg18
+g57
+sg19
+V8/9, Basant Bahar Co-Operative Housing Society, Juhu Tara Road, Juhu, Mumbai
+p107
+sba(i__main__
+Place
+p108
+(dp109
+g3
+(lp110
+VRestaurants
+p111
+aV Bars & Pubs
+p112
+asg6
+g33
+sg8
+VAlfredo's
+p113
+sg10
+Vhttp://mumbai.burrp.com/listing/alfredos_juhu_mumbai_restaurants-bars-pubs/135101574
+p114
+sg12
+VJuhu
+p115
+sg14
+(lp116
+V66922222
+p117
+aV 26184381
+p118
+asg18
+g57
+sg19
+V5, Juhu Tara Road, Juhu, Mumbai
+p119
+sba(i__main__
+Place
+p120
+(dp121
+g3
+(lp122
+VRestaurants
+p123
+aV Lounges
+p124
+asg6
+g7
+sg8
+VPetra Lounge
+p125
+sg10
+Vhttp://mumbai.burrp.com/listing/petra-lounge_juhu_mumbai_restaurants-lounges/1414485168
+p126
+sg12
+VJuhu
+p127
+sg14
+(lp128
+V61427505
+p129
+aV 9870126666
+p130
+asg18
+g57
+sg19
+V48, First Floor, Gulmohar Road, Juhu, Mumbai
+p131
+sba(i__main__
+Place
+p132
+(dp133
+g3
+(lp134
+VRestaurants
+p135
+asg6
+g7
+sg8
+VOpa
+p136
+sg10
+Vhttp://mumbai.burrp.com/listing/opa_juhu_mumbai_restaurants/19122265118
+p137
+sg12
+VJuhu
+p138
+sg14
+(lp139
+V66919800
+p140
+asg18
+V0
+p141
+sg19
+VJuhu, Mumbai
+p142
+sba(i__main__
+Place
+p143
+(dp144
+g3
+(lp145
+VLounges
+p146
+aV Restaurants
+p147
+asg6
+g33
+sg8
+VPenne
+p148
+sg10
+Vhttp://mumbai.burrp.com/listing/penne_juhu_mumbai_lounges-restaurants/131371178
+p149
+sg12
+VJuhu
+p150
+sg14
+(lp151
+V26255713
+p152
+aV 26255706
+p153
+asg18
+g33
+sg19
+V14 Silver Beach Estate, AB Nair Road, Opposite Juhu Post Office, Juhu, Mumbai
+p154
+sba(i__main__
+Place
+p155
+(dp156
+g3
+(lp157
+VRestaurants
+p158
+aV Lounges
+p159
+aV Cafes
+p160
+aV Outdoor Caterers
+p161
+asg6
+g7
+sg8
+VBistro Grill - Authentic Arabic Cuisine - Juhu
+p162
+sg10
+Vhttp://mumbai.burrp.com/listing/bistro-grill---authentic-arabic-cuisine---juhu_juhu_mumbai_restaurants-lounges-cafes/180106029
+p163
+sg12
+VJuhu
+p164
+sg14
+(lp165
+V32108585
+p166
+aV 32109595
+p167
+aV 9833611365
+p168
+asg18
+g57
+sg19
+VJuhu Tara Road, Juhu, Mumbai
+p169
+sba(i__main__
+Place
+p170
+(dp171
+g3
+(lp172
+VRestaurants
+p173
+asg6
+g7
+sg8
+VSpices
+p174
+sg10
+Vhttp://mumbai.burrp.com/listing/spices_juhu_mumbai_restaurants/15758752
+p175
+sg12
+VJuhu
+p176
+sg14
+(lp177
+V66933290
+p178
+aV 66933000
+p179
+asg18
+g33
+sg19
+VLocated in JW Marriott Hotel, Juhu, Mumbai
+p180
+sba(i__main__
+Place
+p181
+(dp182
+g3
+(lp183
+VRestaurants
+p184
+aV Bars & Pubs
+p185
+asg6
+g33
+sg8
+VMahesh Lunch Home
+p186
+sg10
+Vhttp://mumbai.burrp.com/listing/mahesh-lunch-home_juhu_mumbai_restaurants-bars-pubs/17442435
+p187
+sg12
+VJuhu
+p188
+sg14
+(lp189
+V66955554
+p190
+aV 66955559
+p191
+aV 65720059
+p192
+aV 66945498
+p193
+asg18
+g33
+sg19
+VNext to Tulip Star Hotel, Juhu Tara Road, Juhu, Mumbai
+p194
+sba(i__main__
+Place
+p195
+(dp196
+g3
+(lp197
+VLounges
+p198
+aV Restaurants
+p199
+asg6
+g33
+sg8
+VBalthazar
+p200
+sg10
+Vhttp://mumbai.burrp.com/listing/balthazar_juhu_mumbai_lounges-restaurants/1375591772
+p201
+sg12
+VJuhu
+p202
+sg14
+(lp203
+V9930999930
+p204
+aV 26609292
+p205
+aV 26603956
+p206
+aV 26603947
+p207
+asg18
+g33
+sg19
+VSea View Building, Juhu Tara Road, Juhu, Mumbai
+p208
+sba(i__main__
+Place
+p209
+(dp210
+g3
+(lp211
+VRestaurants
+p212
+asg6
+g7
+sg8
+VGovinda's
+p213
+sg10
+Vhttp://mumbai.burrp.com/listing/govindas_juhu_mumbai_restaurants/120118089
+p214
+sg12
+VJuhu
+p215
+sg14
+(lp216
+V26200337
+p217
+aV 26206860
+p218
+aV 9987786411
+p219
+asg18
+g57
+sg19
+VISKCON Hare Krishna Temple, Juhu, Mumbai
+p220
+sba(i__main__
+Place
+p221
+(dp222
+g3
+(lp223
+VLounges
+p224
+aV Restaurants
+p225
+aV Bars & Pubs
+p226
+asg6
+g7
+sg8
+V49 Grills
+p227
+sg10
+Vhttp://mumbai.burrp.com/listing/49-grills_juhu_mumbai_lounges-restaurants-bars-pubs/1131377396
+p228
+sg12
+VJuhu
+p229
+sg14
+(lp230
+V26134949
+p231
+aV 67834949
+p232
+asg18
+g33
+sg19
+V148-B Juhu Residency, Juhu Tara Road, Juhu, Mumbai
+p233
+sba(i__main__
+Place
+p234
+(dp235
+g3
+(lp236
+VRestaurants
+p237
+asg6
+g7
+sg8
+VGajalee
+p238
+sg10
+Vhttp://mumbai.burrp.com/listing/gajalee_juhu_mumbai_restaurants/1284591881
+p239
+sg12
+VJuhu
+p240
+sg14
+(lp241
+V26107040
+p242
+asg18
+g57
+sg19
+VHotel Jaltarang Pvt Ltd, Amrapali Shopping Centre, JVPD Scheme, V.L.M Marg, Juhu, Mumbai
+p243
+sba(i__main__
+Place
+p244
+(dp245
+g3
+(lp246
+VRestaurants
+p247
+asg6
+g33
+sg8
+VOlio
+p248
+sg10
+Vhttp://mumbai.burrp.com/listing/olio_juhu_mumbai_restaurants/1602579049
+p249
+sg12
+VJuhu
+p250
+sg14
+(lp251
+V66934444
+p252
+asg18
+g33
+sg19
+VBalraj Sahani Marg, Juhu, Mumbai
+p253
+sba(i__main__
+Place
+p254
+(dp255
+g3
+(lp256
+VRestaurants
+p257
+asg6
+g33
+sg8
+VShiv Sagar
+p258
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-sagar_juhu_mumbai_restaurants/12755782
+p259
+sg12
+VJuhu
+p260
+sg14
+(lp261
+V26183585
+p262
+aV 26120370
+p263
+aV 26117906
+p264
+asg18
+g57
+sg19
+VOpposite Hotel Palm Grove, Juhu Beach, Juhu, Mumbai
+p265
+sba(i__main__
+Place
+p266
+(dp267
+g3
+(lp268
+VRestaurants
+p269
+asg6
+g33
+sg8
+VLotus Cafe
+p270
+sg10
+Vhttp://mumbai.burrp.com/listing/lotus-cafe_juhu_mumbai_restaurants/197125712
+p271
+sg12
+VJuhu
+p272
+sg14
+(lp273
+V66933276
+p274
+aV 66933277
+p275
+aV 66933000
+p276
+asg18
+g33
+sg19
+VLocated in JW Marriott Hotel, Juhu, Mumbai
+p277
+sba(i__main__
+Place
+p278
+(dp279
+g3
+(lp280
+VRestaurants
+p281
+aV Bars & Pubs
+p282
+asg6
+V5
+p283
+sg8
+VClub Lounge
+p284
+sg10
+Vhttp://mumbai.burrp.com/listing/club-lounge_juhu_mumbai_restaurants-bars-pubs/110144099
+p285
+sg12
+VJuhu
+p286
+sg14
+(lp287
+V66933624
+p288
+aV 66933000
+p289
+asg18
+g141
+sg19
+VJW Marriott, Juhu Tara Road, Vile Parle (W), Juhu, Mumbai
+p290
+sba(i__main__
+Place
+p291
+(dp292
+g3
+(lp293
+VRestaurants
+p294
+asg6
+g33
+sg8
+VMezzo Mezzo
+p295
+sg10
+Vhttp://mumbai.burrp.com/listing/mezzo-mezzo_juhu_mumbai_restaurants/143129366
+p296
+sg12
+VJuhu
+p297
+sg14
+(lp298
+V66933220
+p299
+aV 66933000
+p300
+asg18
+g7
+sg19
+VLocated in JW Marriott Hotel, Juhu, Mumbai
+p301
+sba(i__main__
+Place
+p302
+(dp303
+g3
+(lp304
+VRestaurants
+p305
+asg6
+g33
+sg8
+VBanana Leaf
+p306
+sg10
+Vhttp://mumbai.burrp.com/listing/banana-leaf_juhu_mumbai_restaurants/1415448168
+p307
+sg12
+VJuhu
+p308
+sg14
+(lp309
+V67423780
+p310
+aV 9820417128
+p311
+aV 9702123438
+p312
+aV 9702123430
+p313
+asg18
+g141
+sg19
+V1st Level, Vaishali Shopping Centre, JVPD Scheme, Juhu, Mumbai
+p314
+sba(i__main__
+Place
+p315
+(dp316
+g3
+(lp317
+VRestaurants
+p318
+asg6
+g7
+sg8
+VSalt 'n' Pepper
+p319
+sg10
+Vhttp://mumbai.burrp.com/listing/salt-n-pepper_juhu_mumbai_restaurants/17551534
+p320
+sg12
+VJuhu
+p321
+sg14
+(lp322
+V65720058
+p323
+aV 26178262
+p324
+aV 26191452
+p325
+aV 26191453
+p326
+aV  26109831
+p327
+asg18
+g141
+sg19
+VOpposite Tulip Star Hotel, Juhu Tara Road, Juhu, Mumbai
+p328
+sba(i__main__
+Place
+p329
+(dp330
+g3
+(lp331
+VRestaurants
+p332
+aV Lounges
+p333
+asg6
+g33
+sg8
+VAzok
+p334
+sg10
+Vhttp://mumbai.burrp.com/listing/azok_juhu_mumbai_restaurants-lounges/1625117247
+p335
+sg12
+VJuhu
+p336
+sg14
+(lp337
+V66238894
+p338
+aV 66238888
+p339
+aV 66238662
+p340
+asg18
+g7
+sg19
+VOakwood Premier Rooftop, 29/1, JR Mhatre Road, Juhu, Mumbai
+p341
+sba(i__main__
+Place
+p342
+(dp343
+g3
+(lp344
+VRestaurants
+p345
+aV Bars & Pubs
+p346
+asg6
+g33
+sg8
+VOn Toes
+p347
+sg10
+Vhttp://mumbai.burrp.com/listing/on-toes_juhu_mumbai_restaurants-bars-pubs/197134712
+p348
+sg12
+VJuhu
+p349
+sg14
+(lp350
+V26144274
+p351
+aV 26153173
+p352
+asg18
+g57
+sg19
+V7, Mithila Shopping Centre, V Mehta Road, JVPD Scheme, Juhu, Mumbai
+p353
+sba(i__main__
+Place
+p354
+(dp355
+g3
+(lp356
+VCafes
+p357
+aV Restaurants
+p358
+asg6
+g33
+sg8
+VHometown Cafe
+p359
+sg10
+Vhttp://mumbai.burrp.com/listing/hometown-cafe_juhu_mumbai_cafes-restaurants/17322407336
+p360
+sg12
+VJuhu
+p361
+sg14
+(lp362
+V26112211
+p363
+aV 26112212
+p364
+asg18
+g33
+sg19
+VJuhu Tara Road, Juhu, Mumbai
+p365
+sba(i__main__
+Place
+p366
+(dp367
+g3
+(lp368
+VRestaurants
+p369
+asg6
+g33
+sg8
+VAqua
+p370
+sg10
+Vhttp://mumbai.burrp.com/listing/aqua_juhu_mumbai_restaurants/148102861
+p371
+sg12
+VJuhu
+p372
+sg14
+(lp373
+V66938888
+p374
+asg18
+g57
+sg19
+V39, Juhu Beach, Juhu, Mumbai
+p375
+sba(i__main__
+Place
+p376
+(dp377
+g3
+(lp378
+VRestaurants
+p379
+asg6
+g33
+sg8
+VThe Square
+p380
+sg10
+Vhttp://mumbai.burrp.com/listing/the-square_juhu_mumbai_restaurants/1482577861
+p381
+sg12
+VJuhu
+p382
+sg14
+(lp383
+V66934444
+p384
+aV 66934343
+p385
+asg18
+g33
+sg19
+VJuhu, Mumbai
+p386
+sba(i__main__
+Place
+p387
+(dp388
+g3
+(lp389
+VRestaurants
+p390
+asg6
+g33
+sg8
+VIt's Mirchi
+p391
+sg10
+Vhttp://mumbai.burrp.com/listing/its-mirchi_juhu_mumbai_restaurants/186160623
+p392
+sg12
+VJuhu
+p393
+sg14
+(lp394
+V66935555
+p395
+asg18
+g33
+sg19
+V462, A.B. Nair Road, Juhu, Mumbai
+p396
+sba(i__main__
+Place
+p397
+(dp398
+g3
+(lp399
+VRestaurants
+p400
+asg6
+g7
+sg8
+VSaffron
+p401
+sg10
+Vhttp://mumbai.burrp.com/listing/saffron_juhu_mumbai_restaurants/16150148
+p402
+sg12
+VJuhu
+p403
+sg14
+(lp404
+V66933225
+p405
+aV 66933000
+p406
+asg18
+g7
+sg19
+VLocated in JW Marriott Hotel, Vile Parle (W), Juhu, Mumbai
+p407
+sba(i__main__
+Place
+p408
+(dp409
+g3
+(lp410
+VRestaurants
+p411
+asg6
+g7
+sg8
+VSilver Beach Cafe
+p412
+sg10
+Vhttp://mumbai.burrp.com/listing/silver-beach-cafe_juhu_mumbai_restaurants/11118864198
+p413
+sg12
+VJuhu
+p414
+sg14
+(lp415
+V9820417128
+p416
+asg18
+g141
+sg19
+VJaldarshan Building, Gandhigram Road, Juhu, Mumbai
+p417
+sba(i__main__
+Place
+p418
+(dp419
+g3
+(lp420
+VRestaurants
+p421
+asg6
+g57
+sg8
+VTemple Flower
+p422
+sg10
+Vhttp://mumbai.burrp.com/listing/temple-flower_juhu_mumbai_restaurants/19562514
+p423
+sg12
+VJuhu
+p424
+sg14
+(lp425
+V65703033
+p426
+aV 66922222
+p427
+asg18
+g57
+sg19
+V5, Juhu Tara Road, Juhu, Mumbai
+p428
+sba(i__main__
+Place
+p429
+(dp430
+g3
+(lp431
+VLounges
+p432
+aV Discotheques
+p433
+aV Restaurants
+p434
+asg6
+g33
+sg8
+VTwist  Lounge & Fine Dine
+p435
+sg10
+Vhttp://mumbai.burrp.com/listing/twist-lounge-fine-dine_juhu_mumbai_lounges-discotheques-restaurants/1144455495
+p436
+sg12
+VJuhu
+p437
+sg14
+(lp438
+V67305278
+p439
+asg18
+g33
+sg19
+VPlot No.30, Janardan Mahatre Road, Juhu, Mumbai
+p440
+sba(i__main__
+Place
+p441
+(dp442
+g3
+(lp443
+VRestaurants
+p444
+asg6
+g33
+sg8
+VCrepe Coffee & Conversation
+p445
+sg10
+Vhttp://mumbai.burrp.com/listing/crepe-coffee-conversation_juhu_mumbai_restaurants/189898920
+p446
+sg12
+VJuhu
+p447
+sg14
+(lp448
+V26705208
+p449
+aV 26705308
+p450
+asg18
+g33
+sg19
+VAshiyana Apartments, Shop # 3 & 4, Vile Parle (W), Juhu, Mumbai
+p451
+sba(i__main__
+Place
+p452
+(dp453
+g3
+(lp454
+VRestaurants
+p455
+asg6
+g33
+sg8
+VSampan
+p456
+sg10
+Vhttp://mumbai.burrp.com/listing/sampan_juhu_mumbai_restaurants/1652579544
+p457
+sg12
+VJuhu
+p458
+sg14
+(lp459
+V66934444
+p460
+asg18
+g33
+sg19
+VJuhu, Mumbai
+p461
+sba(i__main__
+Place
+p462
+(dp463
+g3
+(lp464
+VRestaurants
+p465
+asg6
+g33
+sg8
+VPuranmal
+p466
+sg10
+Vhttp://mumbai.burrp.com/listing/puranmal_juhu_mumbai_restaurants/1856586524
+p467
+sg12
+VJuhu
+p468
+sg14
+(lp469
+V26716939
+p470
+asg18
+g141
+sg19
+VBharat  Bhavan, Near Mithibai College, Juhu, Mumbai
+p471
+sba(i__main__
+Place
+p472
+(dp473
+g3
+(lp474
+VRestaurants
+p475
+asg6
+g33
+sg8
+VKareem's
+p476
+sg10
+Vhttp://mumbai.burrp.com/listing/kareems_juhu_mumbai_restaurants/183124326
+p477
+sg12
+VJuhu
+p478
+sg14
+(lp479
+V26280674
+p480
+aV 26280675
+p481
+asg18
+g141
+sg19
+VShivam, Shop No. 2 & 3, Juhu Versova, Link Road, Andheri (W), Juhu, Mumbai
+p482
+sba(i__main__
+Place
+p483
+(dp484
+g3
+(lp485
+VRestaurants
+p486
+asg6
+g33
+sg8
+VThe Princess Lounge
+p487
+sg10
+Vhttp://mumbai.burrp.com/listing/the-princess-lounge_juhu_mumbai_restaurants/1124464297
+p488
+sg12
+VJuhu
+p489
+sg14
+(lp490
+V26611111
+p491
+aV 26469500
+p492
+aV 66924455
+p493
+asg18
+g33
+sg19
+V969, Juhu Beach, Juhu, Mumbai
+p494
+sba(i__main__
+Place
+p495
+(dp496
+g3
+(lp497
+VRestaurants
+p498
+asg6
+g7
+sg8
+VHotel Sea View
+p499
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sea-view_juhu_mumbai_restaurants/1981277811
+p500
+sg12
+VJuhu
+p501
+sg14
+(lp502
+V26605942
+p503
+aV 26602922
+p504
+asg18
+g57
+sg19
+VJuhu Beach, Next to Citizen Hotel, Vile Parle (W), Juhu, Mumbai
+p505
+sba(i__main__
+Place
+p506
+(dp507
+g3
+(lp508
+VRestaurants
+p509
+aV Bars & Pubs
+p510
+asg6
+g57
+sg8
+VHungamma Sports Bar
+p511
+sg10
+Vhttp://mumbai.burrp.com/listing/hungamma-sports-bar_juhu_mumbai_restaurants-bars-pubs/1381334871
+p512
+sg12
+VJuhu
+p513
+sg14
+(lp514
+V26236333
+p515
+aV 26236319
+p516
+aV 26236324
+p517
+aV 32479348
+p518
+asg18
+g57
+sg19
+VAnna Building, 13th Road, JVPD Scheme, Vile Parle (W), Juhu, Mumbai
+p519
+sba(i__main__
+Place
+p520
+(dp521
+g3
+(lp522
+VRestaurants
+p523
+asg6
+g33
+sg8
+VLe Monde
+p524
+sg10
+Vhttp://mumbai.burrp.com/listing/le-monde_juhu_mumbai_restaurants/11324048396
+p525
+sg12
+VJuhu
+p526
+sg14
+(lp527
+V26207788
+p528
+aV 9820737427
+p529
+asg18
+g57
+sg19
+VAB Nair Road, Near Juhu Post Office, Juhu, Mumbai
+p530
+sba(i__main__
+Place
+p531
+(dp532
+g3
+(lp533
+VRestaurants
+p534
+asg6
+g33
+sg8
+VDakshinayan
+p535
+sg10
+Vhttp://mumbai.burrp.com/listing/dakshinayan_juhu_mumbai_restaurants/17915702930
+p536
+sg12
+VJuhu
+p537
+sg14
+(lp538
+V26208812
+p539
+aV 26210502
+p540
+asg18
+g57
+sg19
+VJuhu, Mumbai
+p541
+sba(i__main__
+Place
+p542
+(dp543
+g3
+(lp544
+VRestaurants
+p545
+asg6
+g283
+sg8
+VPebbles
+p546
+sg10
+Vhttp://mumbai.burrp.com/listing/pebbles_juhu_mumbai_restaurants/1784272831
+p547
+sg12
+VJuhu
+p548
+sg14
+(lp549
+V67834949
+p550
+asg18
+g33
+sg19
+VJuhu, Mumbai
+p551
+sba(i__main__
+Place
+p552
+(dp553
+g3
+(lp554
+VRestaurants
+p555
+aV Lounges
+p556
+asg6
+g33
+sg8
+VBlue Octane
+p557
+sg10
+Vhttp://mumbai.burrp.com/listing/blue-octane_juhu_mumbai_restaurants-lounges/1195166990
+p558
+sg12
+VJuhu
+p559
+sg14
+(lp560
+V9320109654
+p561
+aV 9769062460
+p562
+asg18
+g57
+sg19
+VOpposite Juhu Gymkhana, Juhu Church Road, Vile Parle (W), Juhu, Mumbai
+p563
+sba(i__main__
+Place
+p564
+(dp565
+g3
+(lp566
+VRestaurants
+p567
+asg6
+g7
+sg8
+VPatio
+p568
+sg10
+Vhttp://mumbai.burrp.com/listing/patio_juhu_mumbai_restaurants/125136584
+p569
+sg12
+VJuhu
+p570
+sg14
+(lp571
+V66960902
+p572
+aV 26107042
+p573
+asg18
+g141
+sg19
+VAmrapali Shopping Centre, V. L. Mehta Marg, Vile Parle (W), Juhu, Mumbai
+p574
+sba(i__main__
+Place
+p575
+(dp576
+g3
+(lp577
+VRestaurants
+p578
+asg6
+g7
+sg8
+VShamiana Bar and Restaurant
+p579
+sg10
+Vhttp://mumbai.burrp.com/listing/shamiana-bar-and-restaurant_juhu_mumbai_restaurants/11554594
+p580
+sg12
+VJuhu
+p581
+sg14
+(lp582
+V26613825
+p583
+aV 66823825
+p584
+asg18
+g141
+sg19
+VSujata Building, Juhu Road, Santacruz (W), Juhu, Mumbai
+p585
+sba(i__main__
+Place
+p586
+(dp587
+g3
+(lp588
+VRestaurants
+p589
+asg6
+g7
+sg8
+VUtsav
+p590
+sg10
+Vhttp://mumbai.burrp.com/listing/utsav_juhu_mumbai_restaurants/1179792
+p591
+sg12
+VJuhu
+p592
+sg14
+(lp593
+V26111244
+p594
+aV 66939387
+p595
+asg18
+g141
+sg19
+VMithila, Near Sahakari Bhandar, V. M. Road, Vile Parle (W), Juhu, Mumbai
+p596
+sba(i__main__
+Place
+p597
+(dp598
+g3
+(lp599
+VRestaurants
+p600
+asg6
+g57
+sg8
+VNew Yorker
+p601
+sg10
+Vhttp://mumbai.burrp.com/listing/new-yorker_juhu_mumbai_restaurants/11145198
+p602
+sg12
+VJuhu
+p603
+sg14
+(lp604
+V26246049
+p605
+aV 26246049
+p606
+asg18
+g141
+sg19
+VGrace Apartments, North South Rd No. 13, Vile Parle, Juhu, Mumbai
+p607
+sba(i__main__
+Place
+p608
+(dp609
+g3
+(lp610
+VRestaurants
+p611
+asg6
+V1
+p612
+sg8
+VSubway
+p613
+sg10
+Vhttp://mumbai.burrp.com/listing/subway_juhu_mumbai_restaurants/142282267
+p614
+sg12
+VJuhu
+p615
+sg14
+(lp616
+V26129922
+p617
+aV 9920196215
+p618
+asg18
+g33
+sg19
+VShop No.1, Kings Appt, Juhu Tara Road, Next to Tulip Star Hotel, Vile Parle (W), Juhu, Mumbai
+p619
+sba(i__main__
+Place
+p620
+(dp621
+g3
+(lp622
+VRestaurants
+p623
+asg6
+g283
+sg8
+VThai Wok
+p624
+sg10
+Vhttp://mumbai.burrp.com/listing/thai-wok_juhu_mumbai_restaurants/1817128
+p625
+sg12
+VJuhu
+p626
+sg14
+(lp627
+V26101845
+p628
+asg18
+g141
+sg19
+V5 Juhu Tara Road, Vile Parle (W), Juhu, Mumbai
+p629
+sba(i__main__
+Place
+p630
+(dp631
+g3
+(lp632
+VRestaurants
+p633
+asg6
+g283
+sg8
+VShagun
+p634
+sg10
+Vhttp://mumbai.burrp.com/listing/shagun_juhu_mumbai_restaurants/1964481613
+p635
+sg12
+VJuhu
+p636
+sg14
+(lp637
+V26469500
+p638
+aV 26611111
+p639
+aV 66924455
+p640
+asg18
+g33
+sg19
+V969, Juhu Tara Road, Juhu, Mumbai
+p641
+sba(i__main__
+Place
+p642
+(dp643
+g3
+(lp644
+VBars & Pubs
+p645
+aV Restaurants
+p646
+aV Banquet Halls
+p647
+asg6
+g7
+sg8
+VFusion Wongs Restaurant
+p648
+sg10
+Vhttp://mumbai.burrp.com/listing/fusion-wongs-restaurant_juhu_mumbai_bars-pubs-restaurants-banquet-halls/18918241920
+p649
+sg12
+VJuhu
+p650
+sg14
+(lp651
+V26202290
+p652
+aV 67100500
+p653
+aV 67100501
+p654
+asg18
+g57
+sg19
+VJuhu, Mumbai
+p655
+sba(i__main__
+Place
+p656
+(dp657
+g3
+(lp658
+VBars & Pubs
+p659
+aV Restaurants
+p660
+asg6
+g7
+sg8
+VRhythm and Blues
+p661
+sg10
+Vhttp://mumbai.burrp.com/listing/rhythm-and-blues_juhu_mumbai_bars-pubs-restaurants/14948960
+p662
+sg12
+VJuhu
+p663
+sg14
+(lp664
+V66935555
+p665
+asg18
+g33
+sg19
+VRamee Guestline Hotel, 452, A.B. Nair Road, Juhu, Mumbai
+p666
+sba(i__main__
+Place
+p667
+(dp668
+g3
+(lp669
+VRestaurants
+p670
+asg6
+g7
+sg8
+VGringo Sizzlers
+p671
+sg10
+Vhttp://mumbai.burrp.com/listing/gringo-sizzlers_juhu_mumbai_restaurants/17369336
+p672
+sg12
+VJuhu
+p673
+sg14
+(lp674
+V26152165
+p675
+aV 26631441
+p676
+asg18
+g141
+sg19
+VHotel Four Seasons, Juhu Tara Road, Juhu, Mumbai
+p677
+sba(i__main__
+Place
+p678
+(dp679
+g3
+(lp680
+VCafes
+p681
+aV Restaurants
+p682
+asg6
+g33
+sg8
+VCafe Oregano
+p683
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-oregano_juhu_mumbai_cafes-restaurants/14315231366
+p684
+sg12
+VJuhu
+p685
+sg14
+(lp686
+V66935555
+p687
+aV 67159200
+p688
+asg18
+g33
+sg19
+V462, A.B. Nair Road, Juhu, Mumbai
+p689
+sba(i__main__
+Place
+p690
+(dp691
+g3
+(lp692
+VCafes
+p693
+aV Restaurants
+p694
+asg6
+g57
+sg8
+VLe Soleil
+p695
+sg10
+Vhttp://mumbai.burrp.com/listing/le-soleil_juhu_mumbai_cafes-restaurants/1856847524
+p696
+sg12
+VJuhu
+p697
+sg14
+(lp698
+V26100202
+p699
+aV 26100203
+p700
+asg18
+g33
+sg19
+VB-IV, Kapole Co-op, JVPD Scheme, Vile Parle (W), Juhu, Mumbai
+p701
+sba(i__main__
+Place
+p702
+(dp703
+g3
+(lp704
+VRestaurants
+p705
+asg6
+g141
+sg8
+VNew Yorker
+p706
+sg10
+Vhttp://mumbai.burrp.com/listing/new-yorker_juhu_mumbai_restaurants/17510266534
+p707
+sg12
+VJuhu
+p708
+sg14
+(lp709
+V26246047
+p710
+aV 26246049
+p711
+asg18
+g141
+sg19
+VShop No 3/4, Grace Apartments, Juhu Gymkhana Road, Juhu, Mumbai
+p712
+sba(i__main__
+Place
+p713
+(dp714
+g3
+(lp715
+VRestaurants
+p716
+asg6
+g141
+sg8
+VRain Forest
+p717
+sg10
+Vhttp://mumbai.burrp.com/listing/rain-forest_juhu_mumbai_restaurants/1281360881
+p718
+sg12
+VJuhu
+p719
+sg14
+(lp720
+V65590048
+p721
+aV 65590300
+p722
+asg18
+g141
+sg19
+VNear Chandan Chowki, Juhu, Mumbai
+p723
+sba(i__main__
+Place
+p724
+(dp725
+g3
+(lp726
+VRestaurants
+p727
+aV Hotels
+p728
+asg6
+g141
+sg8
+VSun N Sand Hotel
+p729
+sg10
+Vhttp://mumbai.burrp.com/listing/sun-n-sand-hotel_juhu_mumbai_restaurants-hotels/17110257138
+p730
+sg12
+VJuhu
+p731
+sg14
+(lp732
+V26201811
+p733
+aV 66938888
+p734
+aV 26202170
+p735
+asg18
+g57
+sg19
+V39, Balraj Sahani Marg, Juhu Beach, Juhu, Mumbai
+p736
+sba(i__main__
+Place
+p737
+(dp738
+g3
+(lp739
+VCafes
+p740
+aV Food-court Stalls
+p741
+aV Restaurants
+p742
+asg6
+g141
+sg8
+VGarcias Famous Pizza
+p743
+sg10
+Vhttp://mumbai.burrp.com/listing/garcias-famous-pizza_juhu_mumbai_cafes-food-court-stalls-restaurants/19310304316
+p744
+sg12
+VJuhu
+p745
+sg14
+(lp746
+V65162206
+p747
+aV 65162207
+p748
+aV 65162208
+p749
+aV 65162209
+p750
+asg18
+g141
+sg19
+VPlot No U/13, Juhu Vile Parle Scheme, Road No 13, Juhu, Mumbai
+p751
+sba(i__main__
+Place
+p752
+(dp753
+g3
+(lp754
+VRestaurants
+p755
+asg6
+g141
+sg8
+VOriental Bowl Restaurant 
+p756
+sg10
+Vhttp://mumbai.burrp.com/listing/oriental-bowl-restaurant-_juhu_mumbai_restaurants/195134514
+p757
+sg12
+VJuhu
+p758
+sg14
+(lp759
+V26112323
+p760
+aV 67371600
+p761
+asg18
+g141
+sg19
+VJuhu, Mumbai
+p762
+sba(i__main__
+Place
+p763
+(dp764
+g3
+(lp765
+VRestaurants
+p766
+asg6
+g141
+sg8
+VOrient
+p767
+sg10
+Vhttp://mumbai.burrp.com/listing/orient_juhu_mumbai_restaurants/16310265346
+p768
+sg12
+VJuhu
+p769
+sg14
+(lp770
+V26611111
+p771
+aV 66924455
+p772
+aV 26611144
+p773
+asg18
+g141
+sg19
+VHotel Sea Princess, Juhu Beach, Vile Parle (W), Juhu, Mumbai
+p774
+sba(i__main__
+Place
+p775
+(dp776
+g3
+(lp777
+VCafes
+p778
+aV Restaurants
+p779
+asg6
+g141
+sg8
+VTangerine Cafe
+p780
+sg10
+Vhttp://mumbai.burrp.com/listing/tangerine-cafe_juhu_mumbai_cafes-restaurants/19362316
+p781
+sg12
+VJuhu
+p782
+sg14
+(lp783
+V26112323
+p784
+aV 67371600
+p785
+asg18
+g7
+sg19
+VJuhu, Mumbai
+p786
+sba(i__main__
+Place
+p787
+(dp788
+g3
+(lp789
+VRestaurants
+p790
+asg6
+g141
+sg8
+VAl Fresco
+p791
+sg10
+Vhttp://mumbai.burrp.com/listing/al-fresco_juhu_mumbai_restaurants/192251217
+p792
+sg12
+VJuhu
+p793
+sg14
+(lp794
+V66935555
+p795
+asg18
+g141
+sg19
+VHotel Ramee Guestline, 452 A B Nair Road, Near Centaur, Vile Parle (W), Juhu, Mumbai
+p796
+sba(i__main__
+Place
+p797
+(dp798
+g3
+(lp799
+VBars & Pubs
+p800
+aV Restaurants
+p801
+asg6
+g141
+sg8
+VTIG's Pub
+p802
+sg10
+Vhttp://mumbai.burrp.com/listing/tigs-pub_juhu_mumbai_bars-pubs-restaurants/1211188
+p803
+sg12
+VJuhu
+p804
+sg14
+(lp805
+V9819308426
+p806
+asg18
+g141
+sg19
+V48, Gulmohar Road, Vile Parle (W), Juhu, Mumbai
+p807
+sba(i__main__
+Place
+p808
+(dp809
+g3
+(lp810
+VRestaurants
+p811
+asg6
+g612
+sg8
+VTeppanyaki
+p812
+sg10
+Vhttp://mumbai.burrp.com/listing/teppanyaki_juhu_mumbai_restaurants/1221287
+p813
+sg12
+VJuhu
+p814
+sg14
+(lp815
+V66914425
+p816
+asg18
+g141
+sg19
+V48, Gulmohur Road, Juhu, Mumbai
+p817
+sba(i__main__
+Place
+p818
+(dp819
+g3
+(lp820
+VRestaurants
+p821
+asg6
+g141
+sg8
+VRangoli
+p822
+sg10
+Vhttp://mumbai.burrp.com/listing/rangoli_juhu_mumbai_restaurants/14048069
+p823
+sg12
+VJuhu
+p824
+sg14
+(lp825
+V26607878
+p826
+asg18
+g141
+sg19
+VHotel Ajanta, 8, Juhu Tara Road, Vile Parle (W), Juhu, Mumbai
+p827
+sba(i__main__
+Place
+p828
+(dp829
+g3
+(lp830
+VRestaurants
+p831
+asg6
+g141
+sg8
+VSapphire Restaurant & Bar
+p832
+sg10
+Vhttp://mumbai.burrp.com/listing/sapphire-restaurant-bar_juhu_mumbai_restaurants/18752722
+p833
+sg12
+VJuhu
+p834
+sg14
+(lp835
+V67144000
+p836
+asg18
+g57
+sg19
+VJuhu, Mumbai
+p837
+sba(i__main__
+Place
+p838
+(dp839
+g3
+(lp840
+VRestaurants
+p841
+asg6
+g141
+sg8
+VSunset Room
+p842
+sg10
+Vhttp://mumbai.burrp.com/listing/sunset-room_juhu_mumbai_restaurants/17860831
+p843
+sg12
+VJuhu
+p844
+sg14
+(lp845
+V66938888
+p846
+asg18
+g33
+sg19
+VJuhu, Mumbai
+p847
+sba(i__main__
+Place
+p848
+(dp849
+g3
+(lp850
+VRestaurants
+p851
+asg6
+g141
+sg8
+VBaisakhi
+p852
+sg10
+Vhttp://mumbai.burrp.com/listing/baisakhi_juhu_mumbai_restaurants/162104247
+p853
+sg12
+VJuhu
+p854
+sg14
+(lp855
+V26184381
+p856
+aV 26184384
+p857
+asg18
+g57
+sg19
+V5, Juhu Tara Road, Juhu, Mumbai
+p858
+sba(i__main__
+Place
+p859
+(dp860
+g3
+(lp861
+VRestaurants
+p862
+asg6
+g141
+sg8
+VBeach House
+p863
+sg10
+Vhttp://mumbai.burrp.com/listing/beach-house_juhu_mumbai_restaurants/174105435
+p864
+sg12
+VJuhu
+p865
+sg14
+(lp866
+V66938230
+p867
+aV 26184014
+p868
+asg18
+g141
+sg19
+VJuhu Hotel Pvt. Ltd, Juhu Tara Road, Juhu, Mumbai
+p869
+sba(i__main__
+Place
+p870
+(dp871
+g3
+(lp872
+VRestaurants
+p873
+asg6
+g141
+sg8
+VOrient
+p874
+sg10
+Vhttp://mumbai.burrp.com/listing/orient_juhu_mumbai_restaurants/193134316
+p875
+sg12
+VJuhu
+p876
+sg14
+(lp877
+V26611111
+p878
+aV 66924455
+p879
+asg18
+g141
+sg19
+VHotel Sea Princess, Juhu Beach, Vile Parle (W), Juhu, Mumbai
+p880
+sba(i__main__
+Place
+p881
+(dp882
+g3
+(lp883
+VRestaurants
+p884
+aV Bars & Pubs
+p885
+asg6
+g141
+sg8
+VWillows
+p886
+sg10
+Vhttp://mumbai.burrp.com/listing/willows_juhu_mumbai_restaurants-bars-pubs/114153495
+p887
+sg12
+VJuhu
+p888
+sg14
+(lp889
+V26104271
+p890
+asg18
+g141
+sg19
+VGolden Manor, Opp. Juhu Church, Juhu, Mumbai
+p891
+sba(i__main__
+Place
+p892
+(dp893
+g3
+(lp894
+VRestaurants
+p895
+aV Bars & Pubs
+p896
+asg6
+g141
+sg8
+VWong's Rest And Bar
+p897
+sg10
+Vhttp://mumbai.burrp.com/listing/wongs-rest-and-bar_juhu_mumbai_restaurants-bars-pubs/115153594
+p898
+sg12
+VJuhu
+p899
+sg14
+(lp900
+V26202290
+p901
+aV 26914831
+p902
+asg18
+g141
+sg19
+V39/2, Sea Side Hotel, Next to Sun 'n' Sand, Juhu Beach, Juhu, Mumbai
+p903
+sba(i__main__
+Place
+p904
+(dp905
+g3
+(lp906
+VRestaurants
+p907
+asg6
+g141
+sg8
+VTutkuks Chinese Restaurant
+p908
+sg10
+Vhttp://mumbai.burrp.com/listing/tutkuks-chinese-restaurant_juhu_mumbai_restaurants/174168435
+p909
+sg12
+VJuhu
+p910
+sg14
+(lp911
+V26204129
+p912
+aV 26282241
+p913
+asg18
+g141
+sg19
+VA/12, Tutkuks House, J.R. Mahatre Road, Opp Tris Park, Juhu, Mumbai
+p914
+sba(i__main__
+Place
+p915
+(dp916
+g3
+(lp917
+VRestaurants
+p918
+asg6
+g141
+sg8
+VArafa Restaurant
+p919
+sg10
+Vhttp://mumbai.burrp.com/listing/arafa-restaurant_juhu_mumbai_restaurants/1411371168
+p920
+sg12
+VJuhu
+p921
+sg14
+(lp922
+V26249351
+p923
+aV 26207344
+p924
+asg18
+g612
+sg19
+VShop No.1, House No.G15, Opp Juhu Church Bus Depot, Juhu, Mumbai
+p925
+sba(i__main__
+Place
+p926
+(dp927
+g3
+(lp928
+VRestaurants
+p929
+asg6
+g141
+sg8
+VKabab Hut
+p930
+sg10
+Vhttp://mumbai.burrp.com/listing/kabab-hut_juhu_mumbai_restaurants/1621427247
+p931
+sg12
+VJuhu
+p932
+sg14
+(lp933
+V66938888
+p934
+aV 26201811
+p935
+asg18
+g33
+sg19
+V39, Juhu Beach, Juhu, Mumbai
+p936
+sba(i__main__
+Place
+p937
+(dp938
+g3
+(lp939
+VRestaurants
+p940
+asg6
+g141
+sg8
+VRoyal Dragon Oriental Cuisine 
+p941
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-dragon-oriental-cuisine-_juhu_mumbai_restaurants/1574495752
+p942
+sg12
+VJuhu
+p943
+sg14
+(lp944
+V65162206
+p945
+aV 65162207
+p946
+aV 65162208
+p947
+aV 65162209 
+p948
+asg18
+g141
+sg19
+VPlot no. U-13, Juhu Vile Parle Scheme, Road no.13, Juhu, Mumbai
+p949
+sba(i__main__
+Place
+p950
+(dp951
+g3
+(lp952
+VRestaurants
+p953
+asg6
+g141
+sg8
+VPunjabi Rasoi 
+p954
+sg10
+Vhttp://mumbai.burrp.com/listing/punjabi-rasoi-_juhu_mumbai_restaurants/1454503564
+p955
+sg12
+VJuhu
+p956
+sg14
+(lp957
+V32519115
+p958
+aV 65052467 
+p959
+asg18
+g141
+sg19
+VShop no.1/N/S, Road no.13, Juhu, Mumbai
+p960
+sba(i__main__
+Place
+p961
+(dp962
+g3
+(lp963
+VRestaurants
+p964
+asg6
+g141
+sg8
+VBageecha
+p965
+sg10
+Vhttp://mumbai.burrp.com/listing/bageecha_juhu_mumbai_restaurants/1174734792
+p966
+sg12
+VJuhu
+p967
+sg14
+(lp968
+V66934444 
+p969
+asg18
+g33
+sg19
+VJuhu, Mumbai
+p970
+sba(i__main__
+Place
+p971
+(dp972
+g3
+(lp973
+VFast Food Shops
+p974
+aV Restaurants
+p975
+asg6
+g141
+sg8
+VPark Side
+p976
+sg10
+Vhttp://mumbai.burrp.com/listing/park-side_juhu_mumbai_fast-food-shops-restaurants/1705010039
+p977
+sg12
+VJuhu
+p978
+sg14
+(lp979
+V64506868
+p980
+aV 64506969
+p981
+asg18
+g612
+sg19
+VOpp. Juhu Sahakari Bhandar, V. M. Road, Vile Parle (W), Juhu, Mumbai
+p982
+sba(i__main__
+Place
+p983
+(dp984
+g3
+(lp985
+VBars & Pubs
+p986
+aV Restaurants
+p987
+asg6
+g141
+sg8
+VOakroom and Alfresco Cafe 
+p988
+sg10
+Vhttp://mumbai.burrp.com/listing/oakroom-and-alfresco-cafe-_juhu_mumbai_bars-pubs-restaurants/1385276871
+p989
+sg12
+VJuhu
+p990
+sg14
+(lp991
+V66238888 
+p992
+asg18
+g57
+sg19
+V29/1, JR Mhatre Road, Juhu, Mumbai
+p993
+sba(i__main__
+Place
+p994
+(dp995
+g3
+(lp996
+VBars & Pubs
+p997
+aV Restaurants
+p998
+asg6
+g141
+sg8
+VBeach Comber
+p999
+sg10
+Vhttp://mumbai.burrp.com/listing/beach-comber_juhu_mumbai_bars-pubs-restaurants/12110234188
+p1000
+sg12
+VJuhu
+p1001
+sg14
+(lp1002
+V26201811
+p1003
+aV 66938888
+p1004
+asg18
+g141
+sg19
+V39, Hotel Sun N Sand, Juhu Beach, Juhu, Mumbai
+p1005
+sba(i__main__
+Place
+p1006
+(dp1007
+g3
+(lp1008
+VRestaurants
+p1009
+aV Bars & Pubs
+p1010
+asg6
+g141
+sg8
+VCarnation Restaurant And Bar
+p1011
+sg10
+Vhttp://mumbai.burrp.com/listing/carnation-restaurant-and-bar_juhu_mumbai_restaurants-bars-pubs/14110236168
+p1012
+sg12
+VJuhu
+p1013
+sg14
+(lp1014
+V26603875
+p1015
+aV 26609710
+p1016
+asg18
+g141
+sg19
+VC/o Hotel Fition, Juhu Tara Road No 8 , Juhu, Mumbai
+p1017
+sba(i__main__
+Place
+p1018
+(dp1019
+g3
+(lp1020
+VRestaurants
+p1021
+asg6
+g141
+sg8
+VGallops
+p1022
+sg10
+Vhttp://mumbai.burrp.com/listing/gallops_juhu_mumbai_restaurants/17510239534
+p1023
+sg12
+VJuhu
+p1024
+sg14
+(lp1025
+V26602954
+p1026
+aV 26604405
+p1027
+asg18
+g141
+sg19
+VJuhu Tara Road, Juhu, Mumbai
+p1028
+sba(i__main__
+Place
+p1029
+(dp1030
+g3
+(lp1031
+VRestaurants
+p1032
+asg6
+g141
+sg8
+VHotel Vaishali
+p1033
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-vaishali_juhu_mumbai_restaurants/19710241712
+p1034
+sg12
+VJuhu
+p1035
+sg14
+(lp1036
+V26201628
+p1037
+aV 26282397
+p1038
+asg18
+g141
+sg19
+VMuktheshwari Devalaya Road, Opposite K K Raj Popat High School, Juhu, Mumbai
+p1039
+sba(i__main__
+Place
+p1040
+(dp1041
+g3
+(lp1042
+VRestaurants
+p1043
+asg6
+g141
+sg8
+VJuhu Hindu Rest House
+p1044
+sg10
+Vhttp://mumbai.burrp.com/listing/juhu-hindu-rest-house_juhu_mumbai_restaurants/13310244376
+p1045
+sg12
+VJuhu
+p1046
+sg14
+(lp1047
+V26183687
+p1048
+aV 9594771422
+p1049
+asg18
+g141
+sg19
+VJuhu Tara Road, Juhu, Mumbai
+p1050
+sba(i__main__
+Place
+p1051
+(dp1052
+g3
+(lp1053
+VRestaurants
+p1054
+asg6
+g141
+sg8
+VTourist Restaurant
+p1055
+sg10
+Vhttp://mumbai.burrp.com/listing/tourist-restaurant_juhu_mumbai_restaurants/18510258524
+p1056
+sg12
+VJuhu
+p1057
+sg14
+(lp1058
+V26209549
+p1059
+asg18
+g141
+sg19
+VPlot No G 12, A B Nair Road, Opposite Juhu Church, Juhu, Mumbai
+p1060
+sba(i__main__
+Place
+p1061
+(dp1062
+g3
+(lp1063
+VRestaurants
+p1064
+asg6
+g141
+sg8
+VLove Bird Restaurant & Bar
+p1065
+sg10
+Vhttp://mumbai.burrp.com/listing/love-bird-restaurant-bar_juhu_mumbai_restaurants/11510260594
+p1066
+sg12
+VJuhu
+p1067
+sg14
+(lp1068
+V26602638
+p1069
+asg18
+g141
+sg19
+V34, Juhu Tara Road, Juhu, Mumbai
+p1070
+sba(i__main__
+Place
+p1071
+(dp1072
+g3
+(lp1073
+VRestaurants
+p1074
+asg6
+g141
+sg8
+VUncle Dhaba
+p1075
+sg10
+Vhttp://mumbai.burrp.com/listing/uncle-dhaba_juhu_mumbai_restaurants/12710261782
+p1076
+sg12
+VJuhu
+p1077
+sg14
+(lp1078
+V
+p1079
+aV 9224362897
+p1080
+asg18
+g141
+sg19
+V5, Juhu Church, A B Nair Road, Juhu, Mumbai
+p1081
+sba(i__main__
+Place
+p1082
+(dp1083
+g3
+(lp1084
+VLounges
+p1085
+aV Restaurants
+p1086
+aV Bars & Pubs
+p1087
+asg6
+g141
+sg8
+VReflections
+p1088
+sg10
+Vhttp://mumbai.burrp.com/listing/reflections_juhu_mumbai_lounges-restaurants-bars-pubs/15710264752
+p1089
+sg12
+VJuhu
+p1090
+sg14
+(lp1091
+V66933000
+p1092
+aV 66933624
+p1093
+aV 66933771
+p1094
+asg18
+g141
+sg19
+VJW Marriott Hotel, Juhu Tara Road, Juhu, Mumbai
+p1095
+sba(i__main__
+Place
+p1096
+(dp1097
+g3
+(lp1098
+VRestaurants
+p1099
+asg6
+g141
+sg8
+VArafa Restaurant
+p1100
+sg10
+Vhttp://mumbai.burrp.com/listing/arafa-restaurant_juhu_mumbai_restaurants/19310268316
+p1101
+sg12
+VJuhu
+p1102
+sg14
+(lp1103
+V26207344
+p1104
+aV 26249351
+p1105
+aV 8108577570
+p1106
+asg18
+g141
+sg19
+VShop No G/15, Juhu Church Road, Juhu, Mumbai
+p1107
+sba(i__main__
+Place
+p1108
+(dp1109
+g3
+(lp1110
+VCafes
+p1111
+aV Restaurants
+p1112
+asg6
+g141
+sg8
+VSidewalk Cafe
+p1113
+sg10
+Vhttp://mumbai.burrp.com/listing/sidewalk-cafe_juhu_mumbai_cafes-restaurants/19310286316
+p1114
+sg12
+VJuhu
+p1115
+sg14
+(lp1116
+V66934444
+p1117
+aV 66934455
+p1118
+asg18
+g141
+sg19
+VEastern International Hotel, Balraj Sahani Marg, Juhu Beach, Juhu, Mumbai
+p1119
+sba(i__main__
+Place
+p1120
+(dp1121
+g3
+(lp1122
+VRestaurants
+p1123
+asg6
+g141
+sg8
+VBay Viwe
+p1124
+sg10
+Vhttp://mumbai.burrp.com/listing/bay-viwe_juhu_mumbai_restaurants/13910289970
+p1125
+sg12
+VJuhu
+p1126
+sg14
+(lp1127
+V26607273
+p1128
+aV 66932525
+p1129
+aV 66932526
+p1130
+asg18
+g141
+sg19
+V960, Juhu Tara Road, Juhu, Mumbai
+p1131
+sba(i__main__
+Place
+p1132
+(dp1133
+g3
+(lp1134
+VRestaurants
+p1135
+asg6
+g141
+sg8
+VMehman Restaurant
+p1136
+sg10
+Vhttp://mumbai.burrp.com/listing/mehman-restaurant_juhu_mumbai_restaurants/16910292940
+p1137
+sg12
+VJuhu
+p1138
+sg14
+(lp1139
+V66959600
+p1140
+asg18
+g141
+sg19
+VC/O Juhu Plaza, Juhu, Mumbai
+p1141
+sba(i__main__
+Place
+p1142
+(dp1143
+g3
+(lp1144
+VGyms
+p1145
+aV Gymkhanas and Social Clubs
+p1146
+aV Restaurants
+p1147
+asg6
+g141
+sg8
+VClub Millennium
+p1148
+sg10
+Vhttp://mumbai.burrp.com/listing/club-millennium_juhu_mumbai_gyms-gymkhanas-and-social-clubs-restaurants/19310295316
+p1149
+sg12
+VJuhu
+p1150
+sg14
+(lp1151
+V66842000
+p1152
+aV 26242959
+p1153
+asg18
+g141
+sg19
+VAakash Lavlesh Classic Developers Pvt Ltd, Plot No A/1, Gulmohar Road, Jvpd Scheme, Juhu, Mumbai
+p1154
+sba(i__main__
+Place
+p1155
+(dp1156
+g3
+(lp1157
+VRestaurants
+p1158
+asg6
+g141
+sg8
+VCarnation Restaurant
+p1159
+sg10
+Vhttp://mumbai.burrp.com/listing/carnation-restaurant_juhu_mumbai_restaurants/12310297386
+p1160
+sg12
+VJuhu
+p1161
+sg14
+(lp1162
+V26102701
+p1163
+aV 26603875
+p1164
+aV 26609710
+p1165
+asg18
+g141
+sg19
+VFition Hotel, Juhu Tara Rd, Juhu, Mumbai
+p1166
+sba(i__main__
+Place
+p1167
+(dp1168
+g3
+(lp1169
+VBars & Pubs
+p1170
+aV Restaurants
+p1171
+asg6
+g141
+sg8
+VChina Garden Restaurant
+p1172
+sg10
+Vhttp://mumbai.burrp.com/listing/china-garden-restaurant_juhu_mumbai_bars-pubs-restaurants/13110298178
+p1173
+sg12
+VJuhu
+p1174
+sg14
+(lp1175
+V26206016
+p1176
+asg18
+g141
+sg19
+VC/O Juhu Vile Parel Gymkhana Club, 13th Road, Juhu, Mumbai
+p1177
+sba(i__main__
+Place
+p1178
+(dp1179
+g3
+(lp1180
+VRestaurants
+p1181
+asg6
+g141
+sg8
+VJuhu Hindu Restaurant
+p1182
+sg10
+Vhttp://mumbai.burrp.com/listing/juhu-hindu-restaurant_juhu_mumbai_restaurants/14510308564
+p1183
+sg12
+VJuhu
+p1184
+sg14
+(lp1185
+V26183687
+p1186
+asg18
+g141
+sg19
+VJuhu Tara Road, Opp Centaur Hotel, Juhu, Mumbai
+p1187
+sba(i__main__
+Place
+p1188
+(dp1189
+g3
+(lp1190
+VTennis Courts
+p1191
+aV Gyms
+p1192
+aV Restaurants
+p1193
+aV Cafes
+p1194
+aV Swimming Pools
+p1195
+asg6
+g141
+sg8
+VJuhu Club Millenium
+p1196
+sg10
+Vhttp://mumbai.burrp.com/listing/juhu-club-millenium_juhu_mumbai_tennis-courts-gyms-restaurants/14710308762
+p1197
+sg12
+VJuhu
+p1198
+sg14
+(lp1199
+V26709608
+p1200
+aV 32687763
+p1201
+aV 32687767
+p1202
+aV 66842000
+p1203
+asg18
+g141
+sg19
+VPlot No A/1, Gulmohar Road, JVPD Scheme, Juhu, Mumbai
+p1204
+sba(i__main__
+Place
+p1205
+(dp1206
+g3
+(lp1207
+VRestaurants
+p1208
+asg6
+g141
+sg8
+VKabab Hut Restaurant
+p1209
+sg10
+Vhttp://mumbai.burrp.com/listing/kabab-hut-restaurant_juhu_mumbai_restaurants/15910309950
+p1210
+sg12
+VJuhu
+p1211
+sg14
+(lp1212
+V26201811
+p1213
+aV 66938888
+p1214
+asg18
+g141
+sg19
+VC/O Sun N Sand Hotel, 39, Juhu Beach, Juhu, Mumbai
+p1215
+sba(i__main__
+Place
+p1216
+(dp1217
+g3
+(lp1218
+VRestaurants
+p1219
+aV Bars & Pubs
+p1220
+asg6
+g141
+sg8
+VThe Pub
+p1221
+sg10
+Vhttp://mumbai.burrp.com/listing/the-pub_juhu_mumbai_restaurants-bars-pubs/19110313118
+p1222
+sg12
+VJuhu
+p1223
+sg14
+(lp1224
+V66934444
+p1225
+asg18
+g141
+sg19
+VBalraj Sahani Marg, Juhu Beach, Juhu, Mumbai
+p1226
+sba(i__main__
+Place
+p1227
+(dp1228
+g3
+(lp1229
+VRestaurants
+p1230
+aV Bars & Pubs
+p1231
+asg6
+g141
+sg8
+VPatio Restaurant & Bar
+p1232
+sg10
+Vhttp://mumbai.burrp.com/listing/patio-restaurant-bar_juhu_mumbai_restaurants-bars-pubs/19910313910
+p1233
+sg12
+VJuhu
+p1234
+sg14
+(lp1235
+V26107040
+p1236
+aV 66960902
+p1237
+asg18
+g141
+sg19
+VAmrapali Shopping Centre, V L Mehta Marg, Juhu Scheme, Juhu, Mumbai
+p1238
+sba(i__main__
+Place
+p1239
+(dp1240
+g3
+(lp1241
+VBars & Pubs
+p1242
+aV Restaurants
+p1243
+asg6
+g141
+sg8
+VWhiteway Restaurant
+p1244
+sg10
+Vhttp://mumbai.burrp.com/listing/whiteway-restaurant_juhu_mumbai_bars-pubs-restaurants/12110315188
+p1245
+sg12
+VJuhu
+p1246
+sg14
+(lp1247
+V26608443
+p1248
+aV 9324181947
+p1249
+asg18
+g141
+sg19
+VKishore Kumar Ganguly Marg, New Tara Road No 4, Juhu, Mumbai
+p1250
+sba(i__main__
+Place
+p1251
+(dp1252
+g3
+(lp1253
+VRestaurants
+p1254
+aV Bars & Pubs
+p1255
+asg6
+g141
+sg8
+VEleven Echoes Bar and Lounge
+p1256
+sg10
+Vhttp://mumbai.burrp.com/listing/eleven-echoes-bar-and-lounge_juhu-tara-road_mumbai_restaurants-bars-pubs/16910319940
+p1257
+sg12
+VJuhu Tara Road
+p1258
+sg14
+(lp1259
+V26177524
+p1260
+aV 26177525
+p1261
+aV 26184040
+p1262
+aV 26184050
+p1263
+asg18
+g141
+sg19
+V11, Echoes Hotel Beach Garden, Juhu Beach, Juhu Tara Road, Juhu, Mumbai
+p1264
+sba(i__main__
+Place
+p1265
+(dp1266
+g3
+(lp1267
+VRestaurants
+p1268
+asg6
+g141
+sg8
+VHotel Fition
+p1269
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-fition_juhu-tara-road_mumbai_restaurants/19710322712
+p1270
+sg12
+VJuhu Tara Road
+p1271
+sg14
+(lp1272
+V26603875
+p1273
+aV 26607701
+p1274
+aV 26609710
+p1275
+aV 66924658
+p1276
+asg18
+g141
+sg19
+V8, Near To Hotel Ajanta, Juhu Tara Road, Juhu, Mumbai
+p1277
+sba.

@@ -1,0 +1,44 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VNew Sardar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/new-sardar_chinchpokli-e_mumbai_restaurants/126487683
+p11
+sS'region'
+p12
+VChinchpokli (E)
+p13
+sS'phone'
+p14
+(lp15
+V24701773
+p16
+aV 24700583
+p17
+aV 24709919
+p18
+asS'cost'
+p19
+V1
+p20
+sS'addr'
+p21
+VDr.  B A Road, Lalbaug, Chinchpokli (E), Mumbai
+p22
+sba.

@@ -1,0 +1,2372 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+aV Lounges
+p7
+asS'rating'
+p8
+V4
+p9
+sS'name'
+p10
+VThe Blue Frog
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/the-blue-frog_lower-parel_mumbai_restaurants-bars-pubs-lounges/182763227
+p13
+sS'region'
+p14
+VLower Parel
+p15
+sS'phone'
+p16
+(lp17
+V61586158
+p18
+aV 65251716
+p19
+aV 40332300
+p20
+asS'cost'
+p21
+V3
+p22
+sS'addr'
+p23
+VMathuradas Mills Compound, Opposite Kamala Mills Compound, Entrance from Tulsi Pipe Road, Lower Parel, Mumbai
+p24
+sba(i__main__
+Place
+p25
+(dp26
+g3
+(lp27
+VRestaurants
+p28
+aV Dessert Shops
+p29
+aV Delicatessens
+p30
+asg8
+g9
+sg10
+V Indigo Delicatessen
+p31
+sg12
+Vhttp://mumbai.burrp.com/listing/indigo-delicatessen_lower-parel_mumbai_restaurants-dessert-shops-delicatessens/1295365980
+p32
+sg14
+VLower Parel
+p33
+sg16
+(lp34
+V24986262
+p35
+aV 43666666
+p36
+asg21
+g22
+sg23
+VPalladium, 1st Floor, Senapati Bapat Marg, Lower Parel, Mumbai
+p37
+sba(i__main__
+Place
+p38
+(dp39
+g3
+(lp40
+VRestaurants
+p41
+asg8
+g9
+sg10
+VThe Tasting Room
+p42
+sg12
+Vhttp://mumbai.burrp.com/listing/the-tasting-room_lower-parel_mumbai_restaurants/162167247
+p43
+sg14
+VLower Parel
+p44
+sg16
+(lp45
+V65285284
+p46
+aV 24951954
+p47
+asg21
+g22
+sg23
+VGood Earth, Raghuvanshi Mills Compound, Senapati Bapat Marg, Lower Parel, Mumbai
+p48
+sba(i__main__
+Place
+p49
+(dp50
+g3
+(lp51
+VRestaurants
+p52
+aV Cafes
+p53
+aV Bars & Pubs
+p54
+asg8
+g9
+sg10
+VManchester United Cafe Bar
+p55
+sg12
+Vhttp://mumbai.burrp.com/listing/manchester-united-cafe-bar_lower-parel_mumbai_restaurants-cafes-bars-pubs/1104986099
+p56
+sg14
+VLower Parel
+p57
+sg16
+(lp58
+V66114000 
+p59
+aV 43601111
+p60
+asg21
+V2
+p61
+sg23
+VHigh Street Phoenix, Located in Palladium Mall, Lower Parel, Mumbai
+p62
+sba(i__main__
+Place
+p63
+(dp64
+g3
+(lp65
+VRestaurants
+p66
+asg8
+g22
+sg10
+VPunjab Grill
+p67
+sg12
+Vhttp://mumbai.burrp.com/listing/punjab-grill_lower-parel_mumbai_restaurants/1644982445
+p68
+sg14
+VLower Parel
+p69
+sg16
+(lp70
+V43473980
+p71
+aV 43473981
+p72
+asg21
+g22
+sg23
+VT-17, 3rd Floor, Lower Parel, Mumbai
+p73
+sba(i__main__
+Place
+p74
+(dp75
+g3
+(lp76
+VRestaurants
+p77
+asg8
+g9
+sg10
+VJai Hind Lunch Home
+p78
+sg12
+Vhttp://mumbai.burrp.com/listing/jai-hind-lunch-home_lower-parel_mumbai_restaurants/176375633
+p79
+sg14
+VLower Parel
+p80
+sg16
+(lp81
+V24930010
+p82
+aV 32951481
+p83
+asg21
+V1
+p84
+sg23
+V'B' Block-7/8, Senapati Bapat Marg, Madhav Bhuvan, Lower Parel, Mumbai
+p85
+sba(i__main__
+Place
+p86
+(dp87
+g3
+(lp88
+VRestaurants
+p89
+asg8
+g9
+sg10
+VQuattro
+p90
+sg12
+Vhttp://mumbai.burrp.com/listing/quattro_lower-parel_mumbai_restaurants/19914975910
+p91
+sg14
+VLower Parel
+p92
+sg16
+(lp93
+V67496444
+p94
+asg21
+g61
+sg23
+V7, Janta Industrial Estate, Senapati Bapat Marg, Lower Parel, Mumbai
+p95
+sba(i__main__
+Place
+p96
+(dp97
+g3
+(lp98
+VRestaurants
+p99
+asg8
+g22
+sg10
+VSpaghetti Kitchen
+p100
+sg12
+Vhttp://mumbai.burrp.com/listing/spaghetti-kitchen_high-street-phoenix_mumbai_restaurants/15558554
+p101
+sg14
+VHigh Street Phoenix
+p102
+sg16
+(lp103
+V24963333
+p104
+aV 24964333
+p105
+aV 26455142
+p106
+asg21
+g22
+sg23
+VPhoenix Mills, Senapati Bapat Marg, High Street Phoenix, Lower Parel, Mumbai
+p107
+sba(i__main__
+Place
+p108
+(dp109
+g3
+(lp110
+VRestaurants
+p111
+asg8
+g22
+sg10
+VD.P.'s Wok Hei
+p112
+sg12
+Vhttp://mumbai.burrp.com/listing/dps-wok-hei_high-street-phoenix_mumbai_restaurants/1191872990
+p113
+sg14
+VHigh Street Phoenix
+p114
+sg16
+(lp115
+V24926031
+p116
+aV 24954627
+p117
+aV 24926030
+p118
+aV 9820127840
+p119
+asg21
+g61
+sg23
+VKhimji Nagji Building, Opposite Phoenix Tower, S.B. Marg, High Street Phoenix, Lower Parel, Mumbai
+p120
+sba(i__main__
+Place
+p121
+(dp122
+g3
+(lp123
+VRestaurants
+p124
+asg8
+V5
+p125
+sg10
+VRajdhani Thali
+p126
+sg12
+Vhttp://mumbai.burrp.com/listing/rajdhani-thali_lower-parel_mumbai_restaurants/1374538772
+p127
+sg14
+VLower Parel
+p128
+sg16
+(lp129
+V40802118
+p130
+aV 40802119
+p131
+aV 40802120
+p132
+aV 40802121
+p133
+asg21
+g61
+sg23
+VHigh Street Phoenix Mills, Palladium, 3rd Floor, Lower Parel, Mumbai
+p134
+sba(i__main__
+Place
+p135
+(dp136
+g3
+(lp137
+VRestaurants
+p138
+aV Lounges
+p139
+asg8
+g9
+sg10
+VBusaba
+p140
+sg12
+Vhttp://mumbai.burrp.com/listing/busaba_lower-parel_mumbai_restaurants-lounges/1436438366
+p141
+sg14
+VLower Parel
+p142
+sg16
+(lp143
+V67478974
+p144
+aV 67478971
+p145
+aV 67478972
+p146
+aV 67478973
+p147
+asg21
+g22
+sg23
+VTodi & Co, Mathuradas Mill Compound, N.M.Joshi Marg, Lower Parel, Mumbai
+p148
+sba(i__main__
+Place
+p149
+(dp150
+g3
+(lp151
+VRestaurants
+p152
+aV Outdoor Caterers
+p153
+aV Home Caterers
+p154
+aV Take Away Shops
+p155
+asg8
+g22
+sg10
+VCalifornia Pizza Kitchen
+p156
+sg12
+Vhttp://mumbai.burrp.com/listing/california-pizza-kitchen_lower-parel_mumbai_restaurants-outdoor-caterers-home-caterers/1796819930
+p157
+sg14
+VLower Parel
+p158
+sg16
+(lp159
+V65558888
+p160
+asg21
+V0
+p161
+sg23
+VFirst floor, Lower Parel, Mumbai
+p162
+sba(i__main__
+Place
+p163
+(dp164
+g3
+(lp165
+VRestaurants
+p166
+asg8
+g22
+sg10
+VTGI Friday
+p167
+sg12
+Vhttp://mumbai.burrp.com/listing/tgi-friday_high-street-phoenix_mumbai_restaurants/1894993920
+p168
+sg14
+VHigh Street Phoenix
+p169
+sg16
+(lp170
+V66155687
+p171
+asg21
+g22
+sg23
+VT.G.I. Friday\u2019s Restaurant, 1st Floor, Palladium Mall, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p172
+sba(i__main__
+Place
+p173
+(dp174
+g3
+(lp175
+VRestaurants
+p176
+asg8
+g22
+sg10
+VVeda Restaurant
+p177
+sg12
+Vhttp://mumbai.burrp.com/listing/veda-restaurant_lower-parel_mumbai_restaurants/1205698089
+p178
+sg14
+VLower Parel
+p179
+sg16
+(lp180
+V24900055
+p181
+asg21
+g61
+sg23
+V2nd Floor, Lower Parel, Mumbai
+p182
+sba(i__main__
+Place
+p183
+(dp184
+g3
+(lp185
+VRestaurants
+p186
+asg8
+g22
+sg10
+VAsia 7
+p187
+sg12
+Vhttp://mumbai.burrp.com/listing/asia-7_lower-parel_mumbai_restaurants/1134950396
+p188
+sg14
+VLower Parel
+p189
+sg16
+(lp190
+V43473901
+p191
+aV 43473902
+p192
+aV 9833442290
+p193
+asg21
+g22
+sg23
+VT-15/16, 3rd Floor, Lower Parel, Mumbai
+p194
+sba(i__main__
+Place
+p195
+(dp196
+g3
+(lp197
+VOutdoor Caterers
+p198
+aV Ice-cream Parlours
+p199
+aV Restaurants
+p200
+aV Juice Parlours
+p201
+aV Mithai & Farsan Shops
+p202
+asg8
+g9
+sg10
+VSrinathji's
+p203
+sg12
+Vhttp://mumbai.burrp.com/listing/srinathjis_lower-parel_mumbai_outdoor-caterers-ice-cream-parlours-restaurants/165932544
+p204
+sg14
+VLower Parel
+p205
+sg16
+(lp206
+V24985857
+p207
+aV 32420158
+p208
+asg21
+g61
+sg23
+VJagdamba Bhavan, Opp. Matulya Centre, Senapati Bapat Marg, Lower Parel, Mumbai
+p209
+sba(i__main__
+Place
+p210
+(dp211
+g3
+(lp212
+VRestaurants
+p213
+asg8
+g22
+sg10
+VGajalee Coastal Food
+p214
+sg12
+Vhttp://mumbai.burrp.com/listing/gajalee-coastal-food_lower-parel_mumbai_restaurants/15540554
+p215
+sg14
+VLower Parel
+p216
+sg16
+(lp217
+V24950667
+p218
+aV 24950668
+p219
+asg21
+g161
+sg23
+VLevel 1, Lower Parel, Mumbai
+p220
+sba(i__main__
+Place
+p221
+(dp222
+g3
+(lp223
+VRestaurants
+p224
+asg8
+g22
+sg10
+VKomala's Restaurant
+p225
+sg12
+Vhttp://mumbai.burrp.com/listing/komalas-restaurant_lower-parel_mumbai_restaurants/1885245821
+p226
+sg14
+VLower Parel
+p227
+sg16
+(lp228
+V43473930 
+p229
+asg21
+g84
+sg23
+VShop No.141, place formerly occupied by BHS, Lower Parel, Mumbai
+p230
+sba(i__main__
+Place
+p231
+(dp232
+g3
+(lp233
+VRestaurants
+p234
+asg8
+g9
+sg10
+VGaram Masala
+p235
+sg12
+Vhttp://mumbai.burrp.com/listing/garam-masala_lower-parel_mumbai_restaurants/1415970168
+p236
+sg14
+VLower Parel
+p237
+sg16
+(lp238
+V24949370
+p239
+aV 9769771223
+p240
+aV 9769771511
+p241
+asg21
+g61
+sg23
+V11, Madhav Bhuvan, Lower Parel, Mumbai
+p242
+sba(i__main__
+Place
+p243
+(dp244
+g3
+(lp245
+VRestaurants
+p246
+asg8
+g22
+sg10
+VGrapeviine Gourment Cuisine
+p247
+sg12
+Vhttp://mumbai.burrp.com/listing/grapeviine-gourment-cuisine_lower-parel_mumbai_restaurants/131362178
+p248
+sg14
+VLower Parel
+p249
+sg16
+(lp250
+V66106666
+p251
+asg21
+g61
+sg23
+VPeninsula Corporate Park, GK Kadam Marg, Lower Parel, Mumbai
+p252
+sba(i__main__
+Place
+p253
+(dp254
+g3
+(lp255
+VDelicatessens
+p256
+aV Cafes
+p257
+aV Restaurants
+p258
+aV Take Away Shops
+p259
+asg8
+g22
+sg10
+VThe Mumbai Deli
+p260
+sg12
+Vhttp://mumbai.burrp.com/listing/the-mumbai-deli_lower-parel_mumbai_delicatessens-cafes-restaurants/1625423247
+p261
+sg14
+VLower Parel
+p262
+sg16
+(lp263
+V65293154
+p264
+aV 65293156 
+p265
+asg21
+g61
+sg23
+V6, Madhav Bhavan, Opposite Kamala Mills, Senapati Bapat Marg , Lower Parel, Mumbai
+p266
+sba(i__main__
+Place
+p267
+(dp268
+g3
+(lp269
+VRestaurants
+p270
+asg8
+g22
+sg10
+VMaroosh
+p271
+sg12
+Vhttp://mumbai.burrp.com/listing/maroosh_high-street-phoenix_mumbai_restaurants/124361485
+p272
+sg14
+VHigh Street Phoenix
+p273
+sg16
+(lp274
+V9833397060
+p275
+asg21
+g61
+sg23
+VOpposite Bowling Company, High Street Phoenix, Lower Parel, Mumbai
+p276
+sba(i__main__
+Place
+p277
+(dp278
+g3
+(lp279
+VRestaurants
+p280
+asg8
+g22
+sg10
+VCopper Chimney
+p281
+sg12
+Vhttp://mumbai.burrp.com/listing/copper-chimney_lower-parel_mumbai_restaurants/13438475
+p282
+sg14
+VLower Parel
+p283
+sg16
+(lp284
+V24963333
+p285
+aV 24964333
+p286
+asg21
+g61
+sg23
+VLower Parel, Mumbai
+p287
+sba(i__main__
+Place
+p288
+(dp289
+g3
+(lp290
+VRestaurants
+p291
+asg8
+g9
+sg10
+VDP's Wok Hei
+p292
+sg12
+Vhttp://mumbai.burrp.com/listing/dps-wok-hei_lower-parel_mumbai_restaurants/14711253762
+p293
+sg14
+VLower Parel
+p294
+sg16
+(lp295
+V24954627
+p296
+aV 9820127840
+p297
+asg21
+g161
+sg23
+VKhimji Nagji Building, Senapati Bapat Marg, Lower Parel, Mumbai
+p298
+sba(i__main__
+Place
+p299
+(dp300
+g3
+(lp301
+VRestaurants
+p302
+asg8
+g61
+sg10
+VBombay Blue
+p303
+sg12
+Vhttp://mumbai.burrp.com/listing/bombay-blue_lower-parel_mumbai_restaurants/17933930
+p304
+sg14
+VLower Parel
+p305
+sg16
+(lp306
+V24961999
+p307
+aV 24962999
+p308
+asg21
+g61
+sg23
+VShop No. 6, Senapati Bapat Marg, Lower Parel, Mumbai
+p309
+sba(i__main__
+Place
+p310
+(dp311
+g3
+(lp312
+VRestaurants
+p313
+asg8
+g61
+sg10
+VNoodle Bar
+p314
+sg12
+Vhttp://mumbai.burrp.com/listing/noodle-bar_high-street-phoenix_mumbai_restaurants/11345396
+p315
+sg14
+VHigh Street Phoenix
+p316
+sg16
+(lp317
+V24963999
+p318
+aV 24964999
+p319
+aV 24961999
+p320
+aV 24962333
+p321
+asg21
+g61
+sg23
+VShop No 6, Phoenix Mills, Senapati Bapat Marg, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p322
+sba(i__main__
+Place
+p323
+(dp324
+g3
+(lp325
+VRestaurants
+p326
+asg8
+g9
+sg10
+VTavira Restaurant
+p327
+sg12
+Vhttp://mumbai.burrp.com/listing/tavira-restaurant_lower-parel_mumbai_restaurants/1295068980
+p328
+sg14
+VLower Parel
+p329
+sg16
+(lp330
+V24965139
+p331
+aV 9820282522
+p332
+asg21
+g61
+sg23
+VDeepak Talkies Junction, N.M. Joshi Marg, Elphinstone Road, Lower Parel, Mumbai
+p333
+sba(i__main__
+Place
+p334
+(dp335
+g3
+(lp336
+VRestaurants
+p337
+asg8
+g22
+sg10
+VGrapeviine
+p338
+sg12
+Vhttp://mumbai.burrp.com/listing/grapeviine_lower-parel_mumbai_restaurants/13911234970
+p339
+sg14
+VLower Parel
+p340
+sg16
+(lp341
+V66106666
+p342
+aV 66608828
+p343
+asg21
+g161
+sg23
+V1st Floor, Peninsula Corporate Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai
+p344
+sba(i__main__
+Place
+p345
+(dp346
+g3
+(lp347
+VRestaurants
+p348
+asg8
+g22
+sg10
+VLittle Italy Restaurants
+p349
+sg12
+Vhttp://mumbai.burrp.com/listing/little-italy-restaurants_lower-parel_mumbai_restaurants/147885762
+p350
+sg14
+VLower Parel
+p351
+sg16
+(lp352
+V66159988
+p353
+aV 65283339
+p354
+aV 9870595000
+p355
+asg21
+g61
+sg23
+VRaghuvanshi Mills, Next to K-Lifestyle, Phoenix Mills Road, Lower Parel, Mumbai
+p356
+sba(i__main__
+Place
+p357
+(dp358
+g3
+(lp359
+VDelicatessens
+p360
+aV Restaurants
+p361
+asg8
+g22
+sg10
+VSmoke House Deli
+p362
+sg12
+Vhttp://mumbai.burrp.com/listing/smoke-house-deli_lower-parel_mumbai_delicatessens-restaurants/1672867742
+p363
+sg14
+VLower Parel
+p364
+sg16
+(lp365
+V24933222
+p366
+aV 9619863248
+p367
+asg21
+g22
+sg23
+VUnit No.9G, Block No 3 , Lower Parel, Mumbai
+p368
+sba(i__main__
+Place
+p369
+(dp370
+g3
+(lp371
+VRestaurants
+p372
+asg8
+g22
+sg10
+VAmbience The Restaurant
+p373
+sg12
+Vhttp://mumbai.burrp.com/listing/ambience-the-restaurant_lower-parel_mumbai_restaurants/1451326564
+p374
+sg14
+VLower Parel
+p375
+sg16
+(lp376
+V24941465
+p377
+aV 24985654
+p378
+aV 9821798987
+p379
+asg21
+g161
+sg23
+V162/D Jagdamba Bldg, Senapati Bapat Road, Lower Parel, Mumbai
+p380
+sba(i__main__
+Place
+p381
+(dp382
+g3
+(lp383
+VRestaurants
+p384
+asg8
+g22
+sg10
+VRadhe Shyam
+p385
+sg12
+Vhttp://mumbai.burrp.com/listing/radhe-shyam_lower-parel_mumbai_restaurants/1861366623
+p386
+sg14
+VLower Parel
+p387
+sg16
+(lp388
+V65767999
+p389
+aV 32477680
+p390
+aV 24928599
+p391
+aV 32423574
+p392
+aV  32559997
+p393
+aV  32559998
+p394
+asg21
+g161
+sg23
+V8, Amrutwar Building, 441, S.B.Marg, Lower Parel, Mumbai
+p395
+sba(i__main__
+Place
+p396
+(dp397
+g3
+(lp398
+VRestaurants
+p399
+asg8
+g9
+sg10
+VCream Centre
+p400
+sg12
+Vhttp://mumbai.burrp.com/listing/cream-centre_lower-parel_mumbai_restaurants/19924344910
+p401
+sg14
+VLower Parel
+p402
+sg16
+(lp403
+V24982277
+p404
+aV 24982288
+p405
+asg21
+g61
+sg23
+V1st Floor, Sky Zone, Phoenix Mill Compound, 46 Senapati Bapat Marg, Lower Parel, Mumbai
+p406
+sba(i__main__
+Place
+p407
+(dp408
+g3
+(lp409
+VTake Away Shops
+p410
+aV Restaurants
+p411
+asg8
+g9
+sg10
+VCrystal
+p412
+sg12
+Vhttp://mumbai.burrp.com/listing/crystal_lower-parel_mumbai_take-away-shops-restaurants/1736369336
+p413
+sg14
+VLower Parel
+p414
+sg16
+(lp415
+V24990099
+p416
+aV 24990077
+p417
+aV 9820512551
+p418
+asg21
+g161
+sg23
+VShop No 2, Building, A Shinde Building Compound, Next to Phoenix Towers, S. B. Marg, Lower Parel, Mumbai
+p419
+sba(i__main__
+Place
+p420
+(dp421
+g3
+(lp422
+VOutdoor Caterers
+p423
+aV Restaurants
+p424
+asg8
+g22
+sg10
+VThai Chi
+p425
+sg12
+Vhttp://mumbai.burrp.com/listing/thai-chi_lower-parel_mumbai_outdoor-caterers-restaurants/1691796940
+p426
+sg14
+VLower Parel
+p427
+sg16
+(lp428
+V32209696
+p429
+aV 32219696
+p430
+asg21
+g161
+sg23
+VNear Old Passport Office, Lower Parel, Mumbai
+p431
+sba(i__main__
+Place
+p432
+(dp433
+g3
+(lp434
+VRestaurants
+p435
+asg8
+g61
+sg10
+VCopper Chimney
+p436
+sg12
+Vhttp://mumbai.burrp.com/listing/copper-chimney_lower-parel_mumbai_restaurants/18711221722
+p437
+sg14
+VLower Parel
+p438
+sg16
+(lp439
+V24961999
+p440
+aV 24962333
+p441
+aV 24964999
+p442
+asg21
+g161
+sg23
+VShop No 6, Ground Floor, C/O High Street Phoenix, 462, Senapati Bapat Marg, Lower Parel, Mumbai
+p443
+sba(i__main__
+Place
+p444
+(dp445
+g3
+(lp446
+VRestaurants
+p447
+aV Fast Food Shops
+p448
+asg8
+g161
+sg10
+VRamnath Snacks
+p449
+sg12
+Vhttp://mumbai.burrp.com/listing/ramnath-snacks_lower-parel_mumbai_restaurants-fast-food-shops/1844984425
+p450
+sg14
+VLower Parel
+p451
+sg16
+(lp452
+V64512809
+p453
+aV 9223324485
+p454
+asg21
+g84
+sg23
+VKhimji Nagji Chawl No.2, Ground Floor, Shop No.12, SB Marg, Lower Parel, Mumbai
+p455
+sba(i__main__
+Place
+p456
+(dp457
+g3
+(lp458
+VTake Away Shops
+p459
+aV Food-court Stalls
+p460
+aV Restaurants
+p461
+asg8
+g161
+sg10
+VNew York's Hot Dog By Tezz
+p462
+sg12
+Vhttp://mumbai.burrp.com/listing/new-yorks-hot-dog-by-tezz_high-street-phoenix_mumbai_take-away-shops-food-court-stalls-restaurants/1275212782
+p463
+sg14
+VHigh Street Phoenix
+p464
+sg16
+(lp465
+V9769109971
+p466
+asg21
+g61
+sg23
+VOpp. PVR Cinema, Grand Galleria, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p467
+sba(i__main__
+Place
+p468
+(dp469
+g3
+(lp470
+VRestaurants
+p471
+asg8
+g161
+sg10
+VRatnagiri Malvani
+p472
+sg12
+Vhttp://mumbai.burrp.com/listing/ratnagiri-malvani_lower-parel_mumbai_restaurants/19115623118
+p473
+sg14
+VLower Parel
+p474
+sg16
+(lp475
+V24945589
+p476
+asg21
+g61
+sg23
+VJamila Building, J.K. Marg, Lower Parel, Mumbai
+p477
+sba(i__main__
+Place
+p478
+(dp479
+g3
+(lp480
+VRestaurants
+p481
+asg8
+g161
+sg10
+VGrass Root
+p482
+sg12
+Vhttp://mumbai.burrp.com/listing/grass-root_lower-parel_mumbai_restaurants/1495727960
+p483
+sg14
+VLower Parel
+p484
+sg16
+(lp485
+V24913131
+p486
+asg21
+g61
+sg23
+VSenapati Bapat Marg, Near Todi Industrial Estate Main Gate, Lower Parel, Mumbai
+p487
+sba(i__main__
+Place
+p488
+(dp489
+g3
+(lp490
+VRestaurants
+p491
+asg8
+g161
+sg10
+VMarush Restuarant
+p492
+sg12
+Vhttp://mumbai.burrp.com/listing/marush-restuarant_lower-parel_mumbai_restaurants/13711243772
+p493
+sg14
+VLower Parel
+p494
+sg16
+(lp495
+V
+p496
+aV 9892601143
+p497
+asg21
+g161
+sg23
+VPheonix Mills Compound, Opp Bowling Co & Lush Bar, Lower Parel, Mumbai
+p498
+sba(i__main__
+Place
+p499
+(dp500
+g3
+(lp501
+VRestaurants
+p502
+asg8
+g161
+sg10
+VMumbai Darbar Restaurant
+p503
+sg12
+Vhttp://mumbai.burrp.com/listing/mumbai-darbar-restaurant_lower-parel_mumbai_restaurants/16111246148
+p504
+sg14
+VLower Parel
+p505
+sg16
+(lp506
+V23060707
+p507
+aV 23061826
+p508
+aV 9222002412
+p509
+asg21
+g61
+sg23
+VGala No 6/7, Shivsmriti Building, N M Joshi Marg, Lower Parel, Mumbai
+p510
+sba(i__main__
+Place
+p511
+(dp512
+g3
+(lp513
+VRestaurants
+p514
+asg8
+g161
+sg10
+VDomino's Pizza
+p515
+sg12
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_high-street-phoenix_mumbai_restaurants/15040059
+p516
+sg14
+VHigh Street Phoenix
+p517
+sg16
+(lp518
+V24963639
+p519
+aV 24961778
+p520
+aV 24965498
+p521
+aV 24968029
+p522
+aV  24963024
+p523
+aV  24963064
+p524
+asg21
+g61
+sg23
+V6D, Phoenix Mills Compound, 462, Senapati Bapat Marg, High Street Phoenix, Lower Parel, Mumbai
+p525
+sba(i__main__
+Place
+p526
+(dp527
+g3
+(lp528
+VRestaurants
+p529
+asg8
+g84
+sg10
+VShang Dynasty
+p530
+sg12
+Vhttp://mumbai.burrp.com/listing/shang-dynasty_lower-parel_mumbai_restaurants/1744479435
+p531
+sg14
+VLower Parel
+p532
+sg16
+(lp533
+V32059894
+p534
+aV 32059897
+p535
+aV 32672963 
+p536
+asg21
+g22
+sg23
+VRustom Building, G.K. Marg, Lower Parel, Mumbai
+p537
+sba(i__main__
+Place
+p538
+(dp539
+g3
+(lp540
+VHome Caterers
+p541
+aV Restaurants
+p542
+aV Outdoor Caterers
+p543
+asg8
+g161
+sg10
+VAlibaba
+p544
+sg12
+Vhttp://mumbai.burrp.com/listing/alibaba_high-street-phoenix_mumbai_home-caterers-restaurants-outdoor-caterers/1262260683
+p545
+sg14
+VHigh Street Phoenix
+p546
+sg16
+(lp547
+V32233440
+p548
+aV 32233449
+p549
+aV 9930542442
+p550
+asg21
+g84
+sg23
+VL3, Behind Phoenix Mills, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p551
+sba(i__main__
+Place
+p552
+(dp553
+g3
+(lp554
+VRestaurants
+p555
+asg8
+g161
+sg10
+VPangat Restaurant
+p556
+sg12
+Vhttp://mumbai.burrp.com/listing/pangat-restaurant_lower-parel_mumbai_restaurants/15511263554
+p557
+sg14
+VLower Parel
+p558
+sg16
+(lp559
+V23009041
+p560
+aV 9869115333
+p561
+asg21
+g161
+sg23
+VDelsie Road, Lower Parel, Mumbai
+p562
+sba(i__main__
+Place
+p563
+(dp564
+g3
+(lp565
+VRestaurants
+p566
+asg8
+g161
+sg10
+VPrarthana Restaurant
+p567
+sg12
+Vhttp://mumbai.burrp.com/listing/prarthana-restaurant_lower-parel_mumbai_restaurants/17111265138
+p568
+sg14
+VLower Parel
+p569
+sg16
+(lp570
+V24225987
+p571
+aV 32460324
+p572
+aV 32480324
+p573
+asg21
+g61
+sg23
+VSuraj Bldg, Elphinston Road, Lower Parel, Mumbai
+p574
+sba(i__main__
+Place
+p575
+(dp576
+g3
+(lp577
+VRestaurants
+p578
+asg8
+g161
+sg10
+VSports Bar
+p579
+sg12
+Vhttp://mumbai.burrp.com/listing/sports-bar_lower-parel_mumbai_restaurants/17711238732
+p580
+sg14
+VLower Parel
+p581
+sg16
+(lp582
+V66114000
+p583
+aV 24985413
+p584
+aV 66567494
+p585
+asg21
+g161
+sg23
+V17-C/D 1st Flr, 462 Senapati Bapat Marg, High Street Phoenix Mill Compound, Lower Parel, Mumbai
+p586
+sba(i__main__
+Place
+p587
+(dp588
+g3
+(lp589
+VRestaurants
+p590
+asg8
+g161
+sg10
+VNew Sardar
+p591
+sg12
+Vhttp://mumbai.burrp.com/listing/new-sardar_lower-parel_mumbai_restaurants/1491470960
+p592
+sg14
+VLower Parel
+p593
+sg16
+(lp594
+V24700583
+p595
+asg21
+g61
+sg23
+VDr Babasaheb Ambedekar Road, Lalbaug, Lower Parel, Mumbai
+p596
+sba(i__main__
+Place
+p597
+(dp598
+g3
+(lp599
+VRestaurants
+p600
+asg8
+g161
+sg10
+VDine Deli
+p601
+sg12
+Vhttp://mumbai.burrp.com/listing/dine-deli_lower-parel_mumbai_restaurants/1522146257
+p602
+sg14
+VLower Parel
+p603
+sg16
+(lp604
+V24922585
+p605
+aV 24924772
+p606
+asg21
+g61
+sg23
+V15B, 184 Jodia Mansion, Ganpatrao Kadam Marg, Lower Parel, Mumbai
+p607
+sba(i__main__
+Place
+p608
+(dp609
+g3
+(lp610
+VOutdoor Caterers
+p611
+aV Take Away Shops
+p612
+aV Tiffin Services
+p613
+aV Restaurants
+p614
+asg8
+g161
+sg10
+VMomo Magic
+p615
+sg12
+Vhttp://mumbai.burrp.com/listing/momo-magic_high-street-phoenix_mumbai_outdoor-caterers-take-away-shops-tiffin-services/1222701287
+p616
+sg14
+VHigh Street Phoenix
+p617
+sg16
+(lp618
+V9022604567
+p619
+asg21
+g161
+sg23
+VBehind Sai Service, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p620
+sba(i__main__
+Place
+p621
+(dp622
+g3
+(lp623
+VRestaurants
+p624
+asg8
+g161
+sg10
+VHotel Rajnanda Malwani
+p625
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-rajnanda-malwani_lower-parel_mumbai_restaurants/1624442247
+p626
+sg14
+VLower Parel
+p627
+sg16
+(lp628
+V24945998
+p629
+asg21
+g161
+sg23
+VShop No 7/8, Wadachi Chawl, N.M. Joshi Marg, Lower Parel, Mumbai
+p630
+sba(i__main__
+Place
+p631
+(dp632
+g3
+(lp633
+VRestaurants
+p634
+asg8
+g161
+sg10
+VHotel Subhash Arogya Bhuvan
+p635
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-subhash-arogya-bhuvan_lower-parel_mumbai_restaurants/1854444524
+p636
+sg14
+VLower Parel
+p637
+sg16
+(lp638
+V23096702
+p639
+aV 23091324
+p640
+asg21
+g161
+sg23
+V385, N.M.Joshi Marg, Lower Parel, Mumbai
+p641
+sba(i__main__
+Place
+p642
+(dp643
+g3
+(lp644
+VBars & Pubs
+p645
+aV Restaurants
+p646
+asg8
+g161
+sg10
+VEncore Hotels Pvt Ltd
+p647
+sg12
+Vhttp://mumbai.burrp.com/listing/encore-hotels-pvt-ltd_lower-parel_mumbai_bars-pubs-restaurants/19911213910
+p648
+sg14
+VLower Parel
+p649
+sg16
+(lp650
+V40360999
+p651
+asg21
+g161
+sg23
+V107, Parvati Industrial Estate, Sun Mill Compound, Lower Parel, Mumbai
+p652
+sba(i__main__
+Place
+p653
+(dp654
+g3
+(lp655
+VRestaurants
+p656
+asg8
+g161
+sg10
+VHotel Meghinesh
+p657
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-meghinesh_lower-parel_mumbai_restaurants/11311214396
+p658
+sg14
+VLower Parel
+p659
+sg16
+(lp660
+V24923757
+p661
+asg21
+g161
+sg23
+VShop No 124, Kanji Ravji Building, 41/A Sawmill Cross Lane, Near Lower Parel Station, Lower Parel, Mumbai
+p662
+sba(i__main__
+Place
+p663
+(dp664
+g3
+(lp665
+VRestaurants
+p666
+asg8
+g161
+sg10
+VHotel Raviraj
+p667
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-raviraj_lower-parel_mumbai_restaurants/11511214594
+p668
+sg14
+VLower Parel
+p669
+sg16
+(lp670
+V24920744
+p671
+aV 24929237
+p672
+aV 9819602400
+p673
+asg21
+g161
+sg23
+VHotel Raviraj Building, G K Marg, D C Road, Near Nerolac House, Lower Parel, Mumbai
+p674
+sba(i__main__
+Place
+p675
+(dp676
+g3
+(lp677
+VRestaurants
+p678
+asg8
+g161
+sg10
+VJaihind Azad Hindu Restaurant
+p679
+sg12
+Vhttp://mumbai.burrp.com/listing/jaihind-azad-hindu-restaurant_lower-parel_mumbai_restaurants/11711214792
+p680
+sg14
+VLower Parel
+p681
+sg16
+(lp682
+V23092757
+p683
+asg21
+g161
+sg23
+VShop No.7 & 8, Plot No.201/197, Shiv Smruti Building, N M Joshi Marg, Kari Road Naka, Lower Parel, Mumbai
+p684
+sba(i__main__
+Place
+p685
+(dp686
+g3
+(lp687
+VRestaurants
+p688
+asg8
+g161
+sg10
+VRatna Restaurant & Bar
+p689
+sg12
+Vhttp://mumbai.burrp.com/listing/ratna-restaurant-bar_lower-parel_mumbai_restaurants/14711217762
+p690
+sg14
+VLower Parel
+p691
+sg16
+(lp692
+V24925811
+p693
+asg21
+g161
+sg23
+V306, Mahavir Chawl, Ganpatrao Kadam Marg, Lower Parel, Mumbai
+p694
+sba(i__main__
+Place
+p695
+(dp696
+g3
+(lp697
+VRestaurants
+p698
+asg8
+g161
+sg10
+VAmbience The Restaurant
+p699
+sg12
+Vhttp://mumbai.burrp.com/listing/ambience-the-restaurant_lower-parel_mumbai_restaurants/12511224584
+p700
+sg14
+VLower Parel
+p701
+sg16
+(lp702
+V24941465
+p703
+aV 24985654
+p704
+asg21
+g161
+sg23
+VShop No 162/D, Jagdamba Building, Senapati Bapat Road, Lower Parel, Mumbai
+p705
+sba(i__main__
+Place
+p706
+(dp707
+g3
+(lp708
+VRestaurants
+p709
+aV Hotels
+p710
+asg8
+g161
+sg10
+VAnand Resort
+p711
+sg12
+Vhttp://mumbai.burrp.com/listing/anand-resort_lower-parel_mumbai_restaurants-hotels/13311225376
+p712
+sg14
+VLower Parel
+p713
+sg16
+(lp714
+V24941618
+p715
+aV 24943606
+p716
+aV 24949343
+p717
+asg21
+g161
+sg23
+VRoom No 310, Adhyaru Industrial Estate, Sunmill Compound, Lower Parel, Mumbai
+p718
+sba(i__main__
+Place
+p719
+(dp720
+g3
+(lp721
+VFast Food Shops
+p722
+aV Restaurants
+p723
+asg8
+g161
+sg10
+VSuruchi Foods
+p724
+sg12
+Vhttp://mumbai.burrp.com/listing/suruchi-foods_lower-parel_mumbai_fast-food-shops-restaurants/16311237346
+p725
+sg14
+VLower Parel
+p726
+sg16
+(lp727
+V24938550
+p728
+aV 32410828
+p729
+aV 9870296688
+p730
+asg21
+g161
+sg23
+VBig Bazar, Senapati Bapat Marg, Lower Parel, Mumbai
+p731
+sba(i__main__
+Place
+p732
+(dp733
+g3
+(lp734
+VRestaurants
+p735
+asg8
+g161
+sg10
+VSrinathjis Cuisine Pvt Ltd
+p736
+sg12
+Vhttp://mumbai.burrp.com/listing/srinathjis-cuisine-pvt-ltd_lower-parel_mumbai_restaurants/17511238534
+p737
+sg14
+VLower Parel
+p738
+sg16
+(lp739
+V24985857
+p740
+aV 32420158
+p741
+asg21
+g161
+sg23
+VShop No 4, Jagdamba Bhavan, Senapati Bapat Marg, Lower Parel, Mumbai
+p742
+sba(i__main__
+Place
+p743
+(dp744
+g3
+(lp745
+VRestaurants
+p746
+asg8
+g161
+sg10
+VShreeram C D Bar
+p747
+sg12
+Vhttp://mumbai.burrp.com/listing/shreeram-c-d-bar_lower-parel_mumbai_restaurants/17911238930
+p748
+sg14
+VLower Parel
+p749
+sg16
+(lp750
+V24949303
+p751
+aV 9867401434
+p752
+asg21
+g161
+sg23
+V112 Kamat Chawl, Sitaram Jadhav Marg, Opposite Sun Mills Compound, Lower Parel, Mumbai
+p753
+sba(i__main__
+Place
+p754
+(dp755
+g3
+(lp756
+VRestaurants
+p757
+asg8
+g161
+sg10
+VSanjay Bar And Restaurant
+p758
+sg12
+Vhttp://mumbai.burrp.com/listing/sanjay-bar-and-restaurant_lower-parel_mumbai_restaurants/11311241396
+p759
+sg14
+VLower Parel
+p760
+sg16
+(lp761
+V24924354
+p762
+aV 8108867094
+p763
+asg21
+g161
+sg23
+VShop No 1, N M Joshi Marg, Lower Parel, Mumbai
+p764
+sba(i__main__
+Place
+p765
+(dp766
+g3
+(lp767
+VJuice Parlours
+p768
+aV Ice-cream Parlours
+p769
+aV Restaurants
+p770
+asg8
+g161
+sg10
+VSizzling China Restaurant
+p771
+sg12
+Vhttp://mumbai.burrp.com/listing/sizzling-china-restaurant_lower-parel_mumbai_juice-parlours-ice-cream-parlours-restaurants/11911241990
+p772
+sg14
+VLower Parel
+p773
+sg16
+(lp774
+V24902200
+p775
+aV 32677888
+p776
+aV 9820175525
+p777
+asg21
+g161
+sg23
+VShop No 2/3, Senapati Bapat Marg, Near Kewal Industry, Lower Parel, Mumbai
+p778
+sba(i__main__
+Place
+p779
+(dp780
+g3
+(lp781
+VRestaurants
+p782
+aV Juice Parlours
+p783
+asg8
+g161
+sg10
+VSai Sagar Restaurant
+p784
+sg12
+Vhttp://mumbai.burrp.com/listing/sai-sagar-restaurant_lower-parel_mumbai_restaurants-juice-parlours/12111242188
+p785
+sg14
+VLower Parel
+p786
+sg16
+(lp787
+V23074024
+p788
+aV 23082853
+p789
+asg21
+g161
+sg23
+VN M Joshi Marg, Near Police Station, Lower Parel, Mumbai
+p790
+sba(i__main__
+Place
+p791
+(dp792
+g3
+(lp793
+VBars & Pubs
+p794
+aV Restaurants
+p795
+asg8
+g161
+sg10
+VMonza Restaurant
+p796
+sg12
+Vhttp://mumbai.burrp.com/listing/monza-restaurant_lower-parel_mumbai_bars-pubs-restaurants/12311242386
+p797
+sg14
+VLower Parel
+p798
+sg16
+(lp799
+V24954852
+p800
+aV 24952879
+p801
+asg21
+g161
+sg23
+V1st Flr Garden Court, Phoenix Mill Cmpd Bhd Lifestyle Store, Lower Parel, Mumbai
+p802
+sba(i__main__
+Place
+p803
+(dp804
+g3
+(lp805
+VRestaurants
+p806
+asg8
+g161
+sg10
+VMeghnesh Bar And  Restaurant
+p807
+sg12
+Vhttp://mumbai.burrp.com/listing/meghnesh-bar-and-restaurant_lower-parel_mumbai_restaurants/14911244960
+p808
+sg14
+VLower Parel
+p809
+sg16
+(lp810
+V24923757
+p811
+asg21
+g161
+sg23
+VShop No 101/104, Manaji Rajuji Building, 41/A, Sun Mill Cross Lane, Near Sun Mill Complex, Lower Parel, Mumbai
+p812
+sba(i__main__
+Place
+p813
+(dp814
+g3
+(lp815
+VRestaurants
+p816
+aV Bars & Pubs
+p817
+asg8
+g161
+sg10
+VJ S M Corporation Limited
+p818
+sg12
+Vhttp://mumbai.burrp.com/listing/j-s-m-corporation-limited_lower-parel_mumbai_restaurants-bars-pubs/19111258118
+p819
+sg14
+VLower Parel
+p820
+sg16
+(lp821
+V66604242
+p822
+aV 67478700
+p823
+aV 66607605
+p824
+asg21
+g161
+sg23
+VA Wing, 3rd Floor, Todi Estate , Sun Mill Compound, Lower Parel, Mumbai
+p825
+sba(i__main__
+Place
+p826
+(dp827
+g3
+(lp828
+VRestaurants
+p829
+asg8
+g161
+sg10
+VKanara Veg Treat
+p830
+sg12
+Vhttp://mumbai.burrp.com/listing/kanara-veg-treat_lower-parel_mumbai_restaurants/13311261376
+p831
+sg14
+VLower Parel
+p832
+sg16
+(lp833
+V23051360
+p834
+asg21
+g161
+sg23
+VN M Joshi Marg, Near Mafatlal Chambers, Lower Parel, Mumbai
+p835
+sba(i__main__
+Place
+p836
+(dp837
+g3
+(lp838
+VRestaurants
+p839
+asg8
+g161
+sg10
+VPrakash Bar & Restaurant
+p840
+sg12
+Vhttp://mumbai.burrp.com/listing/prakash-bar-restaurant_lower-parel_mumbai_restaurants/16111264148
+p841
+sg14
+VLower Parel
+p842
+sg16
+(lp843
+V23087095
+p844
+asg21
+g161
+sg23
+VBuilding No 215, N M Joshi Marg, Lower Parel, Mumbai
+p845
+sba(i__main__
+Place
+p846
+(dp847
+g3
+(lp848
+VGymkhanas and Social Clubs
+p849
+aV Cafes
+p850
+aV Restaurants
+p851
+asg8
+g161
+sg10
+VPeninsula Club
+p852
+sg12
+Vhttp://mumbai.burrp.com/listing/peninsula-club_lower-parel_mumbai_gymkhanas-and-social-clubs-cafes-restaurants/16311264346
+p853
+sg14
+VLower Parel
+p854
+sg16
+(lp855
+V66102005
+p856
+aV 66102006
+p857
+asg21
+g161
+sg23
+VPeninsula Corporate Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai
+p858
+sba(i__main__
+Place
+p859
+(dp860
+g3
+(lp861
+VRestaurants
+p862
+asg8
+g161
+sg10
+VTulsi Refreshment
+p863
+sg12
+Vhttp://mumbai.burrp.com/listing/tulsi-refreshment_lower-parel_mumbai_restaurants/11111268198
+p864
+sg14
+VLower Parel
+p865
+sg16
+(lp866
+V24981222
+p867
+aV 24984222
+p868
+aV 9892245488
+p869
+asg21
+g61
+sg23
+VShop No 10, Khimji Nagji Chawl, S B Marg, Lower Parel, Mumbai
+p870
+sba(i__main__
+Place
+p871
+(dp872
+g3
+(lp873
+VRestaurants
+p874
+asg8
+g161
+sg10
+VHotel Pachu
+p875
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-pachu_lower-parel_mumbai_restaurants/12918235980
+p876
+sg14
+VLower Parel
+p877
+sg16
+(lp878
+V24919425
+p879
+aV 24912055
+p880
+asg21
+g161
+sg23
+VDhanraj Industrial Estate, Unit No. 1, Sun Mill Road, Lower Parel (West) , Lower Parel, Mumbai
+p881
+sba(i__main__
+Place
+p882
+(dp883
+g3
+(lp884
+VRestaurants
+p885
+aV Bars & Pubs
+p886
+asg8
+g161
+sg10
+VDeepak Restaurant & Bar
+p887
+sg12
+Vhttp://mumbai.burrp.com/listing/deepak-restaurant-bar_elphinstone-road_mumbai_restaurants-bars-pubs/14518462564
+p888
+sg14
+VElphinstone Road
+p889
+sg16
+(lp890
+V24326720
+p891
+asg21
+g161
+sg23
+VShop No 1, Zia Mozoom Chawl, N M Joshi Marg, Elphinstone Road, Lower Parel, Mumbai
+p892
+sba.

@@ -1,0 +1,42 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VFast Food Shops
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VA1 Chinese Meals Express
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/a1-chinese-meals-express_azad-nagar_mumbai_fast-food-shops-restaurants/12522285584
+p12
+sS'region'
+p13
+VAzad Nagar
+p14
+sS'phone'
+p15
+(lp16
+V26763377
+p17
+asS'cost'
+p18
+V1
+p19
+sS'addr'
+p20
+VVeera Desai Road, Azad Nagar, Andheri West, Mumbai
+p21
+sba.

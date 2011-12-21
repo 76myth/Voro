@@ -1,0 +1,1036 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VRelish
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/relish_churchgate_mumbai_restaurants/14548564
+p11
+sS'region'
+p12
+VChurchgate
+p13
+sS'phone'
+p14
+(lp15
+V22830172
+p16
+aV 42135419
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VPrem Court, Dinshaw Wachha Road, Jamshedji Tata Road, Churchgate, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VSamrat Restaurant
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/samrat-restaurant_churchgate_mumbai_restaurants/18152128
+p27
+sg12
+VChurchgate
+p28
+sg14
+(lp29
+V42135401
+p30
+aV 22820022
+p31
+aV 22825809
+p32
+aV 22820942
+p33
+asg18
+V2
+p34
+sg20
+VPrem Court, Jamshedji Tata Road, Churchgate, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+V3
+p40
+sg8
+VChez Vous
+p41
+sg10
+Vhttp://mumbai.burrp.com/listing/chez-vous_churchgate_mumbai_restaurants/1685774841
+p42
+sg12
+VChurchgate
+p43
+sg14
+(lp44
+V9167759099
+p45
+aV 9167719099
+p46
+asg18
+g40
+sg20
+VEros Cinema Building, Churchgate, Mumbai
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VRestaurants
+p51
+asg6
+g7
+sg8
+VTea Centre
+p52
+sg10
+Vhttp://mumbai.burrp.com/listing/tea-centre_churchgate_mumbai_restaurants/13065079
+p53
+sg12
+VChurchgate
+p54
+sg14
+(lp55
+V22819142
+p56
+aV 66301386
+p57
+asg18
+g34
+sg20
+VResham Bhavan, 78, Veer Nariman Road, Churchgate, Mumbai
+p58
+sba(i__main__
+Place
+p59
+(dp60
+g3
+(lp61
+VBakery Shops
+p62
+aV Restaurants
+p63
+aV Cafes
+p64
+asg6
+g7
+sg8
+VSassanian Bakery and Boulangerie
+p65
+sg10
+Vhttp://mumbai.burrp.com/listing/sassanian-bakery-and-boulangerie_new-marine-lines_mumbai_bakery-shops-restaurants-cafes/1611202148
+p66
+sg12
+VNew Marine Lines
+p67
+sg14
+(lp68
+V22006198
+p69
+aV 22098001
+p70
+asg18
+V1
+p71
+sg20
+V98, Anandilal Podar Marg, Near Gol Masjid, New Marine Lines, Churchgate, Mumbai
+p72
+sba(i__main__
+Place
+p73
+(dp74
+g3
+(lp75
+VRestaurants
+p76
+asg6
+g40
+sg8
+VKamling
+p77
+sg10
+Vhttp://mumbai.burrp.com/listing/kamling_churchgate_mumbai_restaurants/180124029
+p78
+sg12
+VChurchgate
+p79
+sg14
+(lp80
+V22042618
+p81
+aV 22848184
+p82
+aV 22853137
+p83
+asg18
+g19
+sg20
+VNagin Mahal, 82, Veer Nariman Road, Churchgate, Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg6
+g7
+sg8
+VStadium
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/stadium_churchgate_mumbai_restaurants/16159148
+p90
+sg12
+VChurchgate
+p91
+sg14
+(lp92
+V22046819
+p93
+asg18
+g71
+sg20
+VIMC Building, Veer Nariman Road, Churchgate, Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VRestaurants
+p98
+asg6
+g7
+sg8
+VShiv Sagar
+p99
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-sagar_churchgate_mumbai_restaurants/12655683
+p100
+sg12
+VChurchgate
+p101
+sg14
+(lp102
+V22824114
+p103
+asg18
+g34
+sg20
+V1/D, Eros Buiding, Maharishi Karve Road, Churchgate, Mumbai
+p104
+sba(i__main__
+Place
+p105
+(dp106
+g3
+(lp107
+VRestaurants
+p108
+asg6
+g7
+sg8
+VShiv Sagar
+p109
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-sagar_churchgate_mumbai_restaurants/12955980
+p110
+sg12
+VChurchgate
+p111
+sg14
+(lp112
+V22824862
+p113
+aV 2824862
+p114
+aV 22045829
+p115
+aV 22848807
+p116
+asg18
+g34
+sg20
+V82, Nagin Mahal, Veer Nariman Road, Churchgate, Mumbai
+p117
+sba(i__main__
+Place
+p118
+(dp119
+g3
+(lp120
+VCafes
+p121
+aV Restaurants
+p122
+aV Bakery Shops
+p123
+asg6
+g34
+sg8
+VGaylord Bakeshop
+p124
+sg10
+Vhttp://mumbai.burrp.com/listing/gaylord-bakeshop_churchgate_mumbai_cafes-restaurants-bakery-shops/190116019
+p125
+sg12
+VChurchgate
+p126
+sg14
+(lp127
+V22821259
+p128
+aV 22044693
+p129
+asg18
+g40
+sg20
+VMayfair Building, Ground Floor, Veer Nariman Road, Churchgate, Mumbai
+p130
+sba(i__main__
+Place
+p131
+(dp132
+g3
+(lp133
+VRestaurants
+p134
+asg6
+g40
+sg8
+VSatkar
+p135
+sg10
+Vhttp://mumbai.burrp.com/listing/satkar_churchgate_mumbai_restaurants/13011079
+p136
+sg12
+VChurchgate
+p137
+sg14
+(lp138
+V22043259
+p139
+asg18
+g34
+sg20
+VExpress Building, Churchgate, Mumbai
+p140
+sba(i__main__
+Place
+p141
+(dp142
+g3
+(lp143
+VRestaurants
+p144
+asg6
+g40
+sg8
+VPearl of the Orient
+p145
+sg10
+Vhttp://mumbai.burrp.com/listing/pearl-of-the-orient_churchgate_mumbai_restaurants/127136782
+p146
+sg12
+VChurchgate
+p147
+sg14
+(lp148
+V22041131
+p149
+asg18
+g40
+sg20
+VThe Ambassador Hotel, VN Road, Churchgate, Mumbai
+p150
+sba(i__main__
+Place
+p151
+(dp152
+g3
+(lp153
+VRestaurants
+p154
+asg6
+g40
+sg8
+VCannon Pav Bhaji
+p155
+sg10
+Vhttp://mumbai.burrp.com/listing/cannon-pav-bhaji_churchgate_mumbai_restaurants/118108891
+p156
+sg12
+VChurchgate
+p157
+sg14
+(lp158
+V22074205
+p159
+asg18
+g19
+sg20
+VOpposite CST, Churchgate, Mumbai
+p160
+sba(i__main__
+Place
+p161
+(dp162
+g3
+(lp163
+VRestaurants
+p164
+asg6
+g34
+sg8
+VIndian Summer
+p165
+sg10
+Vhttp://mumbai.burrp.com/listing/indian-summer_churchgate_mumbai_restaurants/156121653
+p166
+sg12
+VChurchgate
+p167
+sg14
+(lp168
+V22835445
+p169
+aV 22835650
+p170
+asg18
+g34
+sg20
+VParekh Mahal, 80, Veer Nariman Road, Churchgate, Mumbai
+p171
+sba(i__main__
+Place
+p172
+(dp173
+g3
+(lp174
+VRestaurants
+p175
+aV Fast Food Shops
+p176
+aV Cafes
+p177
+asg6
+V5
+p178
+sg8
+VPronto
+p179
+sg10
+Vhttp://mumbai.burrp.com/listing/pronto_churchgate_mumbai_restaurants-fast-food-shops-cafes/16915674940
+p180
+sg12
+VChurchgate
+p181
+sg14
+(lp182
+V22886012
+p183
+aV 22886013
+p184
+aV 64555102
+p185
+asg18
+g34
+sg20
+VShop No. 5, Eros Building, Maharshi Karve Road, Churchgate, Mumbai
+p186
+sba(i__main__
+Place
+p187
+(dp188
+g3
+(lp189
+VRestaurants
+p190
+asg6
+g7
+sg8
+VSociety
+p191
+sg10
+Vhttp://mumbai.burrp.com/listing/society_churchgate_mumbai_restaurants/14957960
+p192
+sg12
+VChurchgate
+p193
+sg14
+(lp194
+V22041131
+p195
+asg18
+g40
+sg20
+VThe Ambassador Hotel, VN Road, Churchgate, Mumbai
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VCafes
+p200
+aV Restaurants
+p201
+asg6
+g40
+sg8
+VFlavors
+p202
+sg10
+Vhttp://mumbai.burrp.com/listing/flavors_churchgate_mumbai_cafes-restaurants/1581426851
+p203
+sg12
+VChurchgate
+p204
+sg14
+(lp205
+V22041131
+p206
+asg18
+g34
+sg20
+VChurchgate, Mumbai
+p207
+sba(i__main__
+Place
+p208
+(dp209
+g3
+(lp210
+VRestaurants
+p211
+aV Bars & Pubs
+p212
+asg6
+g34
+sg8
+VLido Room
+p213
+sg10
+Vhttp://mumbai.burrp.com/listing/lido-room_churchgate_mumbai_restaurants-bars-pubs/194125415
+p214
+sg12
+VChurchgate
+p215
+sg14
+(lp216
+V22850500
+p217
+aV 22820141
+p218
+aV 22837623
+p219
+asg18
+g19
+sg20
+VThe Ritz Hotel, 5 Jamshedji Tata Road, Churchgate, Mumbai
+p220
+sba(i__main__
+Place
+p221
+(dp222
+g3
+(lp223
+VFast Food Shops
+p224
+aV Restaurants
+p225
+asg6
+g7
+sg8
+VSubway
+p226
+sg10
+Vhttp://mumbai.burrp.com/listing/subway_churchgate_mumbai_fast-food-shops-restaurants/1645396445
+p227
+sg12
+VChurchgate
+p228
+sg14
+(lp229
+V65148557
+p230
+asg18
+g34
+sg20
+VShop no. 9, Kambatta Bldg, next to Eros Cinema, J.T.Road, Churchgate, Mumbai
+p231
+sba(i__main__
+Place
+p232
+(dp233
+g3
+(lp234
+VRestaurants
+p235
+asg6
+g19
+sg8
+VFlavours
+p236
+sg10
+Vhttp://mumbai.burrp.com/listing/flavours_churchgate_mumbai_restaurants/178114831
+p237
+sg12
+VChurchgate
+p238
+sg14
+(lp239
+V22041131
+p240
+asg18
+g19
+sg20
+VThe Ambassador Hotel, Veer Nariman Road, Churchgate, Mumbai
+p241
+sba(i__main__
+Place
+p242
+(dp243
+g3
+(lp244
+VRestaurants
+p245
+asg6
+g19
+sg8
+VCafe Bharat
+p246
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-bharat_churchgate_mumbai_restaurants/197800712
+p247
+sg12
+VChurchgate
+p248
+sg14
+(lp249
+V22824219
+p250
+asg18
+g71
+sg20
+VBetween Satkar Restaurant and Survodaya, Churchgate, Mumbai
+p251
+sba(i__main__
+Place
+p252
+(dp253
+g3
+(lp254
+VRestaurants
+p255
+asg6
+g19
+sg8
+VSpice Rush
+p256
+sg10
+Vhttp://mumbai.burrp.com/listing/spice-rush_churchgate_mumbai_restaurants/1114680198
+p257
+sg12
+VChurchgate
+p258
+sg14
+(lp259
+V22838822
+p260
+asg18
+g34
+sg20
+VGround Floor, Industrial Assurance Bldg, V. N. Road, Churchgate, Mumbai
+p261
+sba(i__main__
+Place
+p262
+(dp263
+g3
+(lp264
+VCafes
+p265
+aV Restaurants
+p266
+asg6
+g19
+sg8
+VCafe Cinno
+p267
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-cinno_churchgate_mumbai_cafes-restaurants/1258668584
+p268
+sg12
+VChurchgate
+p269
+sg14
+(lp270
+V66324343
+p271
+aV 66326326
+p272
+asg18
+g19
+sg20
+VThe Hilton Towers, Churchgate, Mumbai
+p273
+sba(i__main__
+Place
+p274
+(dp275
+g3
+(lp276
+VRestaurants
+p277
+asg6
+g19
+sg8
+VChurchgate Restaurant & Stores
+p278
+sg10
+Vhttp://mumbai.burrp.com/listing/churchgate-restaurant-stores_churchgate_mumbai_restaurants/1338669376
+p279
+sg12
+VChurchgate
+p280
+sg14
+(lp281
+V22810672
+p282
+asg18
+g19
+sg20
+VMoti Mahal Building, J Tata Road, Churchgate, Mumbai
+p283
+sba(i__main__
+Place
+p284
+(dp285
+g3
+(lp286
+VRestaurants
+p287
+asg6
+g19
+sg8
+VSahyadri Restaurant
+p288
+sg10
+Vhttp://mumbai.burrp.com/listing/sahyadri-restaurant_churchgate_mumbai_restaurants/1218686188
+p289
+sg12
+VChurchgate
+p290
+sg14
+(lp291
+V22037378
+p292
+aV 22098294
+p293
+aV 24943947
+p294
+asg18
+g71
+sg20
+V117, Balodata Bhavan, Maharshi Karve Road, Churchgate, Mumbai
+p295
+sba(i__main__
+Place
+p296
+(dp297
+g3
+(lp298
+VRestaurants
+p299
+asg6
+g19
+sg8
+VStarters & More
+p300
+sg10
+Vhttp://mumbai.burrp.com/listing/starters-more_churchgate_mumbai_restaurants/1478688762
+p301
+sg12
+VChurchgate
+p302
+sg14
+(lp303
+V66315871
+p304
+aV 66315873
+p305
+asg18
+g19
+sg20
+V1st Floor, East Wing, Cambata Building, M K Rd, Churchgate, Mumbai
+p306
+sba(i__main__
+Place
+p307
+(dp308
+g3
+(lp309
+VRestaurants
+p310
+asg6
+g19
+sg8
+VBerrys Restaurant
+p311
+sg10
+Vhttp://mumbai.burrp.com/listing/berrys-restaurant_churchgate_mumbai_restaurants/1998702910
+p312
+sg12
+VChurchgate
+p313
+sg14
+(lp314
+V22048954
+p315
+aV 22818601
+p316
+aV 22821801
+p317
+aV 22875691
+p318
+asg18
+g19
+sg20
+VBuilding No 82, Ground Floor, Nagin Mahal , Veer Nariman Road, Opposite Gaylords , Churchgate, Mumbai
+p319
+sba(i__main__
+Place
+p320
+(dp321
+g3
+(lp322
+VRestaurants
+p323
+asg6
+g19
+sg8
+VSaktar Restaurant
+p324
+sg10
+Vhttp://mumbai.burrp.com/listing/saktar-restaurant_churchgate_mumbai_restaurants/1198703990
+p325
+sg12
+VChurchgate
+p326
+sg14
+(lp327
+V22043259
+p328
+aV 22043260
+p329
+asg18
+g19
+sg20
+VExpress Building, A Road, Near Asiatic Store, Churchgate, Mumbai
+p330
+sba(i__main__
+Place
+p331
+(dp332
+g3
+(lp333
+VBars & Pubs
+p334
+aV Restaurants
+p335
+asg6
+g19
+sg8
+VSway PUB
+p336
+sg10
+Vhttp://mumbai.burrp.com/listing/sway-pub_churchgate_mumbai_bars-pubs-restaurants/1378705772
+p337
+sg12
+VChurchgate
+p338
+sg14
+(lp339
+V
+p340
+aV 9820029935
+p341
+asg18
+g19
+sg20
+VAmbassador Hotel, Churchgate, Mumbai
+p342
+sba(i__main__
+Place
+p343
+(dp344
+g3
+(lp345
+VRestaurants
+p346
+asg6
+g19
+sg8
+VChurchgate Stores & Restaurants
+p347
+sg10
+Vhttp://mumbai.burrp.com/listing/churchgate-stores-restaurants_churchgate_mumbai_restaurants/1698708940
+p348
+sg12
+VChurchgate
+p349
+sg14
+(lp350
+V22810672
+p351
+asg18
+g34
+sg20
+VShop No 195, Ground Floor, Moti Mahal Building, J Tata Road, Churchgate, Mumbai
+p352
+sba(i__main__
+Place
+p353
+(dp354
+g3
+(lp355
+VRestaurants
+p356
+aV Cafes
+p357
+aV Dessert Shops
+p358
+asg6
+g19
+sg8
+VCha Bar
+p359
+sg10
+Vhttp://mumbai.burrp.com/listing/cha-bar_churchgate_mumbai_restaurants-cafes-dessert-shops/1758709534
+p360
+sg12
+VChurchgate
+p361
+sg14
+(lp362
+V22029967
+p363
+aV 66364477
+p364
+aV 66364488
+p365
+asg18
+g19
+sg20
+VC/O Oxford Book Store Apeejay House, 3, Dinsha Vachha Road, Next To K C College, Churchgate, Mumbai
+p366
+sba(i__main__
+Place
+p367
+(dp368
+g3
+(lp369
+VRestaurants
+p370
+asg6
+g19
+sg8
+VChinaman Restaurant
+p371
+sg10
+Vhttp://mumbai.burrp.com/listing/chinaman-restaurant_churchgate_mumbai_restaurants/1778709732
+p372
+sg12
+VChurchgate
+p373
+sg14
+(lp374
+V66594100
+p375
+aV 66594199
+p376
+aV 66594251
+p377
+aV 66594252
+p378
+asg18
+g19
+sg20
+VC/O Cricket Club Of India Brabourne Stadium, Dinshaw Vachha Road, Churchgate, Mumbai
+p379
+sba(i__main__
+Place
+p380
+(dp381
+g3
+(lp382
+VRestaurants
+p383
+aV Hotels
+p384
+asg6
+g19
+sg8
+VKabab Corner
+p385
+sg10
+Vhttp://mumbai.burrp.com/listing/kabab-corner_new-marine-lines_mumbai_restaurants-hotels/15112433158
+p386
+sg12
+VNew Marine Lines
+p387
+sg14
+(lp388
+V38979999
+p389
+aV 66399999
+p390
+aV 38979600
+p391
+asg18
+g19
+sg20
+V135, Intercontinental Hotel, Marine Drive, New Marine Lines, Churchgate, Mumbai
+p392
+sba.

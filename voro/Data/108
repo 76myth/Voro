@@ -1,0 +1,86 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VCafe Noorani
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/cafe-noorani_haji-ali_mumbai_restaurants/112108297
+p11
+sS'region'
+p12
+VHaji Ali
+p13
+sS'phone'
+p14
+(lp15
+V23538619
+p16
+aV 23530109
+p17
+aV 23533054
+p18
+aV 23534753
+p19
+aV 9820923927
+p20
+aV 9820876306
+p21
+asS'cost'
+p22
+V2
+p23
+sS'addr'
+p24
+V5-D, Tardeo Road, Haji Ali Circle, Haji Ali, Worli, Mumbai
+p25
+sba(i__main__
+Place
+p26
+(dp27
+g3
+(lp28
+VRestaurants
+p29
+asg6
+V5
+p30
+sg8
+VViceroy Restaurant
+p31
+sg10
+Vhttp://mumbai.burrp.com/listing/viceroy-restaurant_haji-ali_mumbai_restaurants/1439993366
+p32
+sg12
+VHaji Ali
+p33
+sg14
+(lp34
+V24977771
+p35
+aV 24977772
+p36
+aV 24977773
+p37
+aV 24977774
+p38
+asg22
+V0
+p39
+sg24
+VC/O National Sports Club Of India, V Patel Road, Near Race Course, Haji Ali, Worli, Mumbai
+p40
+sba.

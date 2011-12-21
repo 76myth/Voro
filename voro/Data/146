@@ -1,0 +1,2237 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VOut of The Blue
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/out-of-the-blue_khar-west_mumbai_restaurants/110135099
+p11
+sS'region'
+p12
+VKhar West
+p13
+sS'phone'
+p14
+(lp15
+V26003000
+p16
+aV 26003001
+p17
+aV 9324839393
+p18
+aV 26058227
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+V14 Union Park, Off Carter Road, Khar West, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg6
+g7
+sg8
+VBarbeque Nation
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/barbeque-nation_khar-west_mumbai_restaurants/1493960
+p29
+sg12
+VKhar West
+p30
+sg14
+(lp31
+V65934343
+p32
+aV 60600000
+p33
+asg20
+V3
+p34
+sg22
+VShop No 403, Ground Floor, Om Palace, Dr Ambedkar Road, Pali Hill, Khar West, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+g7
+sg8
+VCafe Mangii
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-mangii_khar-west_mumbai_restaurants/1621490247
+p41
+sg12
+VKhar West
+p42
+sg14
+(lp43
+V26498100
+p44
+aV 26498200
+p45
+aV 65268100
+p46
+aV 9619996101
+p47
+asg20
+g21
+sg22
+VJunction of Khar Pali & 14th Road, Off Linking Road, Khar West, Mumbai
+p48
+sba(i__main__
+Place
+p49
+(dp50
+g3
+(lp51
+VRestaurants
+p52
+aV Bars & Pubs
+p53
+asg6
+g7
+sg8
+VThe Den - Wine Bar
+p54
+sg10
+Vhttp://mumbai.burrp.com/listing/the-den---wine-bar_khar-west_mumbai_restaurants-bars-pubs/1105085099
+p55
+sg12
+VKhar West
+p56
+sg14
+(lp57
+V9821302348
+p58
+aV 26483136
+p59
+aV 26483137
+p60
+asg20
+g21
+sg22
+VShop No.3 & 4, Prabhat Kunj, 24th Road, In The Lane Behind KFC, Khar West, Mumbai
+p61
+sba(i__main__
+Place
+p62
+(dp63
+g3
+(lp64
+VCafes
+p65
+aV Restaurants
+p66
+asg6
+g7
+sg8
+VAndys Pizzeria and Diner
+p67
+sg10
+Vhttp://mumbai.burrp.com/listing/andys-pizzeria-and-diner_khar-west_mumbai_cafes-restaurants/13915149970
+p68
+sg12
+VKhar West
+p69
+sg14
+(lp70
+V32250010
+p71
+aV 32260010
+p72
+asg20
+g21
+sg22
+V2nd Floor, Khar West, Mumbai
+p73
+sba(i__main__
+Place
+p74
+(dp75
+g3
+(lp76
+VRestaurants
+p77
+asg6
+g34
+sg8
+VSancho's Restaurante & Cantina
+p78
+sg10
+Vhttp://mumbai.burrp.com/listing/sanchos-restaurante-cantina_khar-west_mumbai_restaurants/1615837148
+p79
+sg12
+VKhar West
+p80
+sg14
+(lp81
+V67094455
+p82
+asg20
+g34
+sg22
+VPinnacle House, Plot No.604, Ground Floor, P.D. Hinduja Road, 15 Road, Khar West, Mumbai
+p83
+sba(i__main__
+Place
+p84
+(dp85
+g3
+(lp86
+VRestaurants
+p87
+asg6
+V5
+p88
+sg8
+VSoul Restaurant
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/soul-restaurant_khar-west_mumbai_restaurants/1152961594
+p90
+sg12
+VKhar West
+p91
+sg14
+(lp92
+V26055712
+p93
+aV 26055713
+p94
+aV 26055714
+p95
+asg20
+V0
+p96
+sg22
+VP.D. Hinduja Marg, Next to Khar Telephone Exchange, Khar (W), Khar West, Mumbai
+p97
+sba(i__main__
+Place
+p98
+(dp99
+g3
+(lp100
+VRestaurants
+p101
+aV Cafes
+p102
+asg6
+g88
+sg8
+VFellas Cafe
+p103
+sg10
+Vhttp://mumbai.burrp.com/listing/fellas-cafe_khar-west_mumbai_restaurants-cafes/1796756930
+p104
+sg12
+VKhar West
+p105
+sg14
+(lp106
+V32267678
+p107
+asg20
+g96
+sg22
+V14A Ahimsa Marg, Khar (W), Khar West, Mumbai
+p108
+sba(i__main__
+Place
+p109
+(dp110
+g3
+(lp111
+VRestaurants
+p112
+aV Lounges
+p113
+aV Banquet Halls
+p114
+asg6
+g7
+sg8
+VPage 3 - Fine Dining Multi-Cuisine Restaurant
+p115
+sg10
+Vhttp://mumbai.burrp.com/listing/page-3---fine-dining-multi-cuisine-restaurant_khar-west_mumbai_restaurants-lounges-banquet-halls/1474773762
+p116
+sg12
+VKhar West
+p117
+sg14
+(lp118
+V26001234
+p119
+aV 9833577557
+p120
+aV 9820475775
+p121
+aV 61554444
+p122
+asg20
+g21
+sg22
+VUniContinental, 3rd road, Khar (W), Khar West, Mumbai
+p123
+sba(i__main__
+Place
+p124
+(dp125
+g3
+(lp126
+VRestaurants
+p127
+asg6
+g7
+sg8
+VOnly Parathas
+p128
+sg10
+Vhttp://mumbai.burrp.com/listing/only-parathas_khar-west_mumbai_restaurants/191134118
+p129
+sg12
+VKhar West
+p130
+sg14
+(lp131
+V66964198
+p132
+aV 66964199
+p133
+aV 65397848
+p134
+aV 26042148
+p135
+asg20
+g21
+sg22
+VGround Floor, 355, Linking Road, Khar West, Mumbai
+p136
+sba(i__main__
+Place
+p137
+(dp138
+g3
+(lp139
+VRestaurants
+p140
+aV Lounges
+p141
+asg6
+g34
+sg8
+VOlive Bar & Kitchen
+p142
+sg10
+Vhttp://mumbai.burrp.com/listing/olive-bar-kitchen_khar-west_mumbai_restaurants-lounges/185133524
+p143
+sg12
+VKhar West
+p144
+sg14
+(lp145
+V26058228
+p146
+aV 26058229
+p147
+asg20
+g34
+sg22
+VPali Hill Tourist Hotel, 14 Union Park, Khar West, Mumbai
+p148
+sba(i__main__
+Place
+p149
+(dp150
+g3
+(lp151
+VBars & Pubs
+p152
+aV Restaurants
+p153
+asg6
+g34
+sg8
+VThe Elbo Room
+p154
+sg10
+Vhttp://mumbai.burrp.com/listing/the-elbo-room_khar-west_mumbai_bars-pubs-restaurants/1634217346
+p155
+sg12
+VKhar West
+p156
+sg14
+(lp157
+V26483316
+p158
+aV 26483315
+p159
+asg20
+g21
+sg22
+VPlot no. 500, Sant Kutir Apartments, Khar Linking Road, Khar West, Mumbai
+p160
+sba(i__main__
+Place
+p161
+(dp162
+g3
+(lp163
+VBars & Pubs
+p164
+aV Restaurants
+p165
+asg6
+g34
+sg8
+VU Turn: The Lounge
+p166
+sg10
+Vhttp://mumbai.burrp.com/listing/u-turn-the-lounge_khar-west_mumbai_bars-pubs-restaurants/111153198
+p167
+sg12
+VKhar West
+p168
+sg14
+(lp169
+V26492895
+p170
+aV 26006593
+p171
+asg20
+g96
+sg22
+V12 A. Hotel Evergreen, Guru Gobind Singh Marg, Khar West, Mumbai
+p172
+sba(i__main__
+Place
+p173
+(dp174
+g3
+(lp175
+VRestaurants
+p176
+asg6
+g7
+sg8
+VRajasthan Restaurant
+p177
+sg10
+Vhttp://mumbai.burrp.com/listing/rajasthan-restaurant_khar-west_mumbai_restaurants/156139653
+p178
+sg12
+VKhar West
+p179
+sg14
+(lp180
+V26497006
+p181
+aV 26043908
+p182
+aV 65208234
+p183
+asg20
+V1
+p184
+sg22
+VPlot No. 752, Sikander Mansion, S.V. Road, Khar West, Mumbai
+p185
+sba(i__main__
+Place
+p186
+(dp187
+g3
+(lp188
+VRestaurants
+p189
+asg6
+g34
+sg8
+VThe Tasty Tangles
+p190
+sg10
+Vhttp://mumbai.burrp.com/listing/the-tasty-tangles_khar-west_mumbai_restaurants/1475862762
+p191
+sg12
+VKhar West
+p192
+sg14
+(lp193
+V67094444     
+p194
+asg20
+g21
+sg22
+VPinnacle House, Plot No. 604, 1st Floor, PD Hinduja Marg, 15th Road, Khar West, Mumbai
+p195
+sba(i__main__
+Place
+p196
+(dp197
+g3
+(lp198
+VRestaurants
+p199
+asg6
+g34
+sg8
+VKareem's
+p200
+sg10
+Vhttp://mumbai.burrp.com/listing/kareems_khar-west_mumbai_restaurants/179249930
+p201
+sg12
+VKhar West
+p202
+sg14
+(lp203
+V26463501
+p204
+aV 66760718
+p205
+asg20
+g21
+sg22
+VShop no. A/5, 308, Carter Road, Gagangiri Commercial Complex, Khar (W), Khar West, Mumbai
+p206
+sba(i__main__
+Place
+p207
+(dp208
+g3
+(lp209
+VRestaurants
+p210
+asg6
+g34
+sg8
+VMosate
+p211
+sg10
+Vhttp://mumbai.burrp.com/listing/mosate_khar-west_mumbai_restaurants/1955084514
+p212
+sg12
+VKhar West
+p213
+sg14
+(lp214
+V26465133
+p215
+aV 26465134
+p216
+asg20
+g21
+sg22
+VJharna Apts, Dr Ambedkar Road, Khar West, Mumbai
+p217
+sba(i__main__
+Place
+p218
+(dp219
+g3
+(lp220
+VRestaurants
+p221
+asg6
+g7
+sg8
+VMae B
+p222
+sg10
+Vhttp://mumbai.burrp.com/listing/mae-b_khar-west_mumbai_restaurants/117126792
+p223
+sg12
+VKhar West
+p224
+sg14
+(lp225
+V26464624
+p226
+aV 9833838195
+p227
+aV 9833747029
+p228
+aV 26464624
+p229
+asg20
+g34
+sg22
+V678 Baba Dashrath Society, Khar Ambedkar Road, Khar (W), Khar West, Mumbai
+p230
+sba(i__main__
+Place
+p231
+(dp232
+g3
+(lp233
+VRestaurants
+p234
+asg6
+g34
+sg8
+VShatranj Napoli
+p235
+sg10
+Vhttp://mumbai.burrp.com/listing/shatranj-napoli_khar-west_mumbai_restaurants/11954990
+p236
+sg12
+VKhar West
+p237
+sg14
+(lp238
+V26499844
+p239
+aV 26498458
+p240
+aV 26499865
+p241
+asg20
+g34
+sg22
+V12 Union Park, Pali Hill, Near Petit Girls High, Khar West, Mumbai
+p242
+sba(i__main__
+Place
+p243
+(dp244
+g3
+(lp245
+VTake Away Shops
+p246
+aV Restaurants
+p247
+asg6
+g34
+sg8
+VMahjong
+p248
+sg10
+Vhttp://mumbai.burrp.com/listing/mahjong_khar-west_mumbai_take-away-shops-restaurants/113162396
+p249
+sg12
+VKhar West
+p250
+sg14
+(lp251
+V61506660
+p252
+aV 61506661
+p253
+aV 26485421
+p254
+aV 9920070022
+p255
+asg20
+g21
+sg22
+VRamee Guestline, 757, SV Road, Khar West, Mumbai
+p256
+sba(i__main__
+Place
+p257
+(dp258
+g3
+(lp259
+VRestaurants
+p260
+asg6
+g34
+sg8
+VAsian Wok
+p261
+sg10
+Vhttp://mumbai.burrp.com/listing/asian-wok_khar-west_mumbai_restaurants/1322153277
+p262
+sg12
+VKhar West
+p263
+sg14
+(lp264
+V65255447
+p265
+aV 9833775263
+p266
+asg20
+g21
+sg22
+VShop No. 8A, Gagangiri Apartment, Off Carter Road, Union Park, Khar West, Mumbai
+p267
+sba(i__main__
+Place
+p268
+(dp269
+g3
+(lp270
+VRestaurants
+p271
+asg6
+g34
+sg8
+VJughead's -The Unrestaurant
+p272
+sg10
+Vhttp://mumbai.burrp.com/listing/jugheads--the-unrestaurant_khar-west_mumbai_restaurants/1255266584
+p273
+sg12
+VKhar West
+p274
+sg14
+(lp275
+V26059401
+p276
+aV 26059402
+p277
+asg20
+g21
+sg22
+VJunction of 1st and 4th Road, Mishra House, Khar West, Mumbai
+p278
+sba(i__main__
+Place
+p279
+(dp280
+g3
+(lp281
+VCafes
+p282
+aV Restaurants
+p283
+asg6
+g34
+sg8
+VIvy Grande Wine Cafe & Bistro
+p284
+sg10
+Vhttp://mumbai.burrp.com/listing/ivy-grande-wine-cafe-bistro_khar-west_mumbai_cafes-restaurants/14118111168
+p285
+sg12
+VKhar West
+p286
+sg14
+(lp287
+V65347788
+p288
+asg20
+g96
+sg22
+VShop No 6, Mangal Bhavan, Off Linking Road, Khar West, Mumbai
+p289
+sba(i__main__
+Place
+p290
+(dp291
+g3
+(lp292
+VRestaurants
+p293
+aV Bars & Pubs
+p294
+asg6
+g34
+sg8
+VSheetal Bukhara
+p295
+sg10
+Vhttp://mumbai.burrp.com/listing/sheetal-bukhara_khar-west_mumbai_restaurants-bars-pubs/12155188
+p296
+sg12
+VKhar West
+p297
+sg14
+(lp298
+V26487627
+p299
+aV 26487628
+p300
+asg20
+g21
+sg22
+VOff Linking Road, Khar West, Mumbai
+p301
+sba(i__main__
+Place
+p302
+(dp303
+g3
+(lp304
+VRestaurants
+p305
+asg6
+g34
+sg8
+VLebanese Point
+p306
+sg10
+Vhttp://mumbai.burrp.com/listing/lebanese-point_khar-west_mumbai_restaurants/1891447920
+p307
+sg12
+VKhar West
+p308
+sg14
+(lp309
+V65290303
+p310
+aV 65290404
+p311
+aV 9833310664
+p312
+asg20
+g21
+sg22
+VShop no.3, Tanna Kutir Bldg., Corner of 1st & 7th Road, Khar West, Mumbai
+p313
+sba(i__main__
+Place
+p314
+(dp315
+g3
+(lp316
+VRestaurants
+p317
+asg6
+g34
+sg8
+VVrindavan
+p318
+sg10
+Vhttp://mumbai.burrp.com/listing/vrindavan_khar-west_mumbai_restaurants/11072099
+p319
+sg12
+VKhar West
+p320
+sg14
+(lp321
+V26497675
+p322
+aV 26498641
+p323
+asg20
+g96
+sg22
+VCosmos Commercial Centre, 3rd Road, Near Railway Station, Khar West, Mumbai
+p324
+sba(i__main__
+Place
+p325
+(dp326
+g3
+(lp327
+VRestaurants
+p328
+aV Discotheques
+p329
+asg6
+g34
+sg8
+VKosmic Restobar
+p330
+sg10
+Vhttp://mumbai.burrp.com/listing/kosmic-restobar_khar-west_mumbai_restaurants-discotheques/1501381059
+p331
+sg12
+VKhar West
+p332
+sg14
+(lp333
+V26482341
+p334
+aV 26482342
+p335
+asg20
+g21
+sg22
+VHotel Evergreen, Ground Floor, Khar Railway Station, Khar West, Mumbai
+p336
+sba(i__main__
+Place
+p337
+(dp338
+g3
+(lp339
+VRestaurants
+p340
+asg6
+g7
+sg8
+VTangy Tamarind
+p341
+sg10
+Vhttp://mumbai.burrp.com/listing/tangy-tamarind_khar-west_mumbai_restaurants/18961920
+p342
+sg12
+VKhar West
+p343
+sg14
+(lp344
+V26498549
+p345
+aV 26480491
+p346
+asg20
+g21
+sg22
+V2nd Floor, 355, Linking Road, Khar West, Mumbai
+p347
+sba(i__main__
+Place
+p348
+(dp349
+g3
+(lp350
+VRestaurants
+p351
+asg6
+g34
+sg8
+VPapa Pancho Da Dhaba
+p352
+sg10
+Vhttp://mumbai.burrp.com/listing/papa-pancho-da-dhaba_khar-west_mumbai_restaurants/162716247
+p353
+sg12
+VKhar West
+p354
+sg14
+(lp355
+V32652795
+p356
+asg20
+g21
+sg22
+VB-4 Gagangiri Society, Union Park, Next to Cafe Coffee Day, Off Carter Road, Khar (W), Khar West, Mumbai
+p357
+sba(i__main__
+Place
+p358
+(dp359
+g3
+(lp360
+VRestaurants
+p361
+aV Outdoor Caterers
+p362
+asg6
+g34
+sg8
+VArsalan Restaurant & Caterer
+p363
+sg10
+Vhttp://mumbai.burrp.com/listing/arsalan-restaurant-caterer_khar-west_mumbai_restaurants-outdoor-caterers/17932649930
+p364
+sg12
+VKhar West
+p365
+sg14
+(lp366
+V9768555556
+p367
+aV 9920222873
+p368
+asg20
+g184
+sg22
+VGround Floor, Sapphire Building, S. V. Road Corner, Khar West, Mumbai
+p369
+sba(i__main__
+Place
+p370
+(dp371
+g3
+(lp372
+VRestaurants
+p373
+asg6
+g34
+sg8
+VSpaghetti Kitchen 
+p374
+sg10
+Vhttp://mumbai.burrp.com/listing/spaghetti-kitchen-_old-khar_mumbai_restaurants/13318731376
+p375
+sg12
+VOld Khar
+p376
+sg14
+(lp377
+V67412402
+p378
+aV 67412403
+p379
+asg20
+g34
+sg22
+V2nd Foor, Fortune Classic, Junctiona of CD Road & 15th Road , Old Khar, Khar West, Mumbai
+p380
+sba(i__main__
+Place
+p381
+(dp382
+g3
+(lp383
+VRestaurants
+p384
+asg6
+g7
+sg8
+VWah! Bollywood
+p385
+sg10
+Vhttp://mumbai.burrp.com/listing/wah-bollywood_khar-west_mumbai_restaurants/19522409514
+p386
+sg12
+VKhar West
+p387
+sg14
+(lp388
+V26054716
+p389
+aV 32229931
+p390
+aV 32229932
+p391
+aV 9167797983
+p392
+asg20
+g34
+sg22
+VB/2, Gagangiri Co-Operative Housing Society, Off Carter Road, Khar West, Mumbai
+p393
+sba(i__main__
+Place
+p394
+(dp395
+g3
+(lp396
+VRestaurants
+p397
+asg6
+g7
+sg8
+VShree Krishna Chhaya
+p398
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-krishna-chhaya_khar-west_mumbai_restaurants/1391397970
+p399
+sg12
+VKhar West
+p400
+sg14
+(lp401
+V26052655
+p402
+aV 26052656
+p403
+aV 22924422
+p404
+aV 26051286
+p405
+aV 26051910
+p406
+aV 9930866605
+p407
+asg20
+g21
+sg22
+VMotasha Building, 1st Road, Khar West, Mumbai
+p408
+sba(i__main__
+Place
+p409
+(dp410
+g3
+(lp411
+VRestaurants
+p412
+asg6
+g184
+sg8
+VChina Garden
+p413
+sg10
+Vhttp://mumbai.burrp.com/listing/china-garden_khar-west_mumbai_restaurants/133839376
+p414
+sg12
+VKhar West
+p415
+sg14
+(lp416
+V26002626
+p417
+aV 26002611 
+p418
+aV 26512828
+p419
+asg20
+g34
+sg22
+VGabbana Bldg, 15th Road, Khar West, Mumbai
+p420
+sba(i__main__
+Place
+p421
+(dp422
+g3
+(lp423
+VRestaurants
+p424
+asg6
+g7
+sg8
+VMirzaghalib Indian Restaurant
+p425
+sg10
+Vhttp://mumbai.burrp.com/listing/mirzaghalib-indian-restaurant_khar-west_mumbai_restaurants/11715525792
+p426
+sg12
+VKhar West
+p427
+sg14
+(lp428
+V8080866661
+p429
+aV 8080866663
+p430
+aV 8080866669
+p431
+asg20
+g34
+sg22
+VGround Floor, 3rd Road, 10 A, Rajkutir, Khar West, Mumbai
+p432
+sba(i__main__
+Place
+p433
+(dp434
+g3
+(lp435
+VRestaurants
+p436
+asg6
+g7
+sg8
+VRaj Bhog
+p437
+sg10
+Vhttp://mumbai.burrp.com/listing/raj-bhog_khar-west_mumbai_restaurants/158139851
+p438
+sg12
+VKhar West
+p439
+sg14
+(lp440
+V26486196
+p441
+asg20
+g96
+sg22
+VCosmos Commercial Centre, 3rd Road, Near Railway Station, Khar (W), Khar West, Mumbai
+p442
+sba(i__main__
+Place
+p443
+(dp444
+g3
+(lp445
+VRestaurants
+p446
+asg6
+g7
+sg8
+VJai Jawan Restaurant
+p447
+sg10
+Vhttp://mumbai.burrp.com/listing/jai-jawan-restaurant_khar-west_mumbai_restaurants/11910953990
+p448
+sg12
+VKhar West
+p449
+sg14
+(lp450
+V
+p451
+aV 9821700036
+p452
+aV 9821700037
+p453
+asg20
+g96
+sg22
+VShop No 7, Mangal Bhavna Building, 14th Khar Pali Road, Next To Dominos Pizza, Khar West, Mumbai
+p454
+sba(i__main__
+Place
+p455
+(dp456
+g3
+(lp457
+VRestaurants
+p458
+asg6
+g7
+sg8
+VCopper Chimney 
+p459
+sg10
+Vhttp://mumbai.burrp.com/listing/copper-chimney-_khar-west_mumbai_restaurants/19518755514
+p460
+sg12
+VKhar West
+p461
+sg14
+(lp462
+V67412400
+p463
+aV 67412401
+p464
+aV 67256256
+p465
+aV 67257257
+p466
+asg20
+g21
+sg22
+VFortune Classic, 101, 1st Floor, Junction of 15th Road, Khar West, Mumbai
+p467
+sba(i__main__
+Place
+p468
+(dp469
+g3
+(lp470
+VRestaurants
+p471
+asg6
+g7
+sg8
+VThe China Village
+p472
+sg10
+Vhttp://mumbai.burrp.com/listing/the-china-village_khar-west_mumbai_restaurants/18722399722
+p473
+sg12
+VKhar West
+p474
+sg14
+(lp475
+V26005476
+p476
+aV 26006704
+p477
+aV 32205570
+p478
+asg20
+g21
+sg22
+VMangal Bhuvan, 14th Road, Khar Pali, Khar West, Mumbai
+p479
+sba(i__main__
+Place
+p480
+(dp481
+g3
+(lp482
+VRestaurants
+p483
+asg6
+g34
+sg8
+VOcean
+p484
+sg10
+Vhttp://mumbai.burrp.com/listing/ocean_khar-west_mumbai_restaurants/188133821
+p485
+sg12
+VKhar West
+p486
+sg14
+(lp487
+V26487244
+p488
+asg20
+g96
+sg22
+V3rd Road, Khar (W), Khar West, Mumbai
+p489
+sba(i__main__
+Place
+p490
+(dp491
+g3
+(lp492
+VRestaurants
+p493
+asg6
+g21
+sg8
+VPind Da Dhaba
+p494
+sg10
+Vhttp://mumbai.burrp.com/listing/pind-da-dhaba_khar-west_mumbai_restaurants/131137178
+p495
+sg12
+VKhar West
+p496
+sg14
+(lp497
+V26481652
+p498
+aV 26001234
+p499
+asg20
+g21
+sg22
+V3rd Road, Opposite Railway Station, Khar (W), Khar West, Mumbai
+p500
+sba(i__main__
+Place
+p501
+(dp502
+g3
+(lp503
+VIce-cream Parlours
+p504
+aV Juice Parlours
+p505
+aV Dessert Shops
+p506
+aV Take Away Shops
+p507
+aV Delicatessens
+p508
+aV Fast Food Shops
+p509
+aV Bakery Shops
+p510
+aV Lounges
+p511
+aV Restaurants
+p512
+aV Cafes
+p513
+asg6
+g184
+sg8
+V3rd Bistro
+p514
+sg10
+Vhttp://mumbai.burrp.com/listing/3rd-bistro_khar-west_mumbai_ice-cream-parlours-juice-parlours-dessert-shops/1694775940
+p515
+sg12
+VKhar West
+p516
+sg14
+(lp517
+V26481652
+p518
+aV 9833577557
+p519
+aV 9820475775
+p520
+aV 61554444
+p521
+asg20
+g184
+sg22
+VUniContinental, 3rd road, Khar (W), Khar West, Mumbai
+p522
+sba(i__main__
+Place
+p523
+(dp524
+g3
+(lp525
+VOutdoor Caterers
+p526
+aV Restaurants
+p527
+asg6
+g96
+sg8
+VD.Sharma Punjabi Restaurant & Caterers
+p528
+sg10
+Vhttp://mumbai.burrp.com/listing/dsharma-punjabi-restaurant-caterers_khar-west_mumbai_outdoor-caterers-restaurants/1685009841
+p529
+sg12
+VKhar West
+p530
+sg14
+(lp531
+V26462727
+p532
+aV 26052726
+p533
+asg20
+g21
+sg22
+VShop no.8/9, Shiv Shakti Building, 4th Road, Maharashtra Telephone Nigam Limited, Khar (W), Khar West, Mumbai
+p534
+sba(i__main__
+Place
+p535
+(dp536
+g3
+(lp537
+VRestaurants
+p538
+asg6
+g96
+sg8
+VGrill Cottage
+p539
+sg10
+Vhttp://mumbai.burrp.com/listing/grill-cottage_khar-west_mumbai_restaurants/12310945386
+p540
+sg12
+VKhar West
+p541
+sg14
+(lp542
+V65288825
+p543
+aV 9819530472
+p544
+asg20
+g96
+sg22
+VGround Floor, Gagangiri Cooperative Housing Society Ltd, Next To Amore Gelato, Khar West, Mumbai
+p545
+sba(i__main__
+Place
+p546
+(dp547
+g3
+(lp548
+VBars & Pubs
+p549
+aV Restaurants
+p550
+asg6
+g96
+sg8
+VToss N Grill
+p551
+sg10
+Vhttp://mumbai.burrp.com/listing/toss-n-grill_khar-west_mumbai_bars-pubs-restaurants/18510861524
+p552
+sg12
+VKhar West
+p553
+sg14
+(lp554
+V65222555
+p555
+aV 9920489653
+p556
+asg20
+g96
+sg22
+VB-4, Ground Floor, Gagangiri CHS, Off Carter Road, Khar West, Mumbai
+p557
+sba(i__main__
+Place
+p558
+(dp559
+g3
+(lp560
+VRestaurants
+p561
+asg6
+g96
+sg8
+VAradhana Veg Restaurant
+p562
+sg10
+Vhttp://mumbai.burrp.com/listing/aradhana-veg-restaurant_khar-west_mumbai_restaurants/11510827594
+p563
+sg12
+VKhar West
+p564
+sg14
+(lp565
+V26007384
+p566
+aV 26483536
+p567
+asg20
+g21
+sg22
+V3rd Road, Khar West, Mumbai
+p568
+sba(i__main__
+Place
+p569
+(dp570
+g3
+(lp571
+VRestaurants
+p572
+asg6
+g96
+sg8
+VSatvaa Restaurant
+p573
+sg10
+Vhttp://mumbai.burrp.com/listing/satvaa-restaurant_khar-west_mumbai_restaurants/18710924722
+p574
+sg12
+VKhar West
+p575
+sg14
+(lp576
+V40012340
+p577
+aV 40012300
+p578
+asg20
+g21
+sg22
+VRose Garden Hotels Pvt Ltd, 21st Road, Khar Danda, Khar West, Mumbai
+p579
+sba(i__main__
+Place
+p580
+(dp581
+g3
+(lp582
+VRestaurants
+p583
+asg6
+g96
+sg8
+VSamudra Hotel
+p584
+sg10
+Vhttp://mumbai.burrp.com/listing/samudra-hotel_khar-west_mumbai_restaurants/18510915524
+p585
+sg12
+VKhar West
+p586
+sg14
+(lp587
+V26008493
+p588
+aV 26047705
+p589
+aV 26483877
+p590
+aV 9867283877
+p591
+asg20
+g96
+sg22
+VWoodland Building, Plot No 55 C, Dr Ambedkar Road, Khar West, Mumbai
+p592
+sba(i__main__
+Place
+p593
+(dp594
+g3
+(lp595
+VRestaurants
+p596
+asg6
+g96
+sg8
+VSheetal Restaurant & Bar
+p597
+sg10
+Vhttp://mumbai.burrp.com/listing/sheetal-restaurant-bar_khar-west_mumbai_restaurants/14110920168
+p598
+sg12
+VKhar West
+p599
+sg14
+(lp600
+V26460643
+p601
+aV 26497938
+p602
+asg20
+g96
+sg22
+V648 Rajasthan Bldg, Khar Patri Rd, Khar West, Mumbai
+p603
+sba(i__main__
+Place
+p604
+(dp605
+g3
+(lp606
+VRestaurants
+p607
+aV Fast Food Shops
+p608
+asg6
+g96
+sg8
+VMcDonald's
+p609
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_khar-west_mumbai_restaurants-fast-food-shops/12110927188
+p610
+sg12
+VKhar West
+p611
+sg14
+(lp612
+V66000666
+p613
+aV 9930930020
+p614
+asg20
+g96
+sg22
+V532, Kadamba Kudipi House, Linking Road, Khar West, Mumbai
+p615
+sba(i__main__
+Place
+p616
+(dp617
+g3
+(lp618
+VRestaurants
+p619
+asg6
+g96
+sg8
+VShree Krishna
+p620
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-krishna_khar-west_mumbai_restaurants/1695940
+p621
+sg12
+VKhar West
+p622
+sg14
+(lp623
+V26052656
+p624
+aV 26052655
+p625
+aV 26051910
+p626
+asg20
+g96
+sg22
+VMotasha Building, 1st Road, Khar (W), Khar West, Mumbai
+p627
+sba(i__main__
+Place
+p628
+(dp629
+g3
+(lp630
+VRestaurants
+p631
+asg6
+g96
+sg8
+VSheetal
+p632
+sg10
+Vhttp://mumbai.burrp.com/listing/sheetal_khar-west_mumbai_restaurants/12055089
+p633
+sg12
+VKhar West
+p634
+sg14
+(lp635
+V26497938
+p636
+aV 26460643
+p637
+asg20
+g21
+sg22
+V648, Rajasthan Building, Khar Pali Road, Khar West, Mumbai
+p638
+sba(i__main__
+Place
+p639
+(dp640
+g3
+(lp641
+VRestaurants
+p642
+asg6
+g96
+sg8
+VNiagara
+p643
+sg10
+Vhttp://mumbai.burrp.com/listing/niagara_khar-west_mumbai_restaurants/1181359891
+p644
+sg12
+VKhar West
+p645
+sg14
+(lp646
+V26486233
+p647
+aV 26048265
+p648
+asg20
+g96
+sg22
+V#8 Vora Building, Road Number 3, Near Khar Railway Station, Khar (W), Khar West, Mumbai
+p649
+sba(i__main__
+Place
+p650
+(dp651
+g3
+(lp652
+VRestaurants
+p653
+asg6
+g96
+sg8
+VHotel Samudra
+p654
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-samudra_khar-west_mumbai_restaurants/1764443633
+p655
+sg12
+VKhar West
+p656
+sg14
+(lp657
+V26483877 
+p658
+aV 26483604
+p659
+asg20
+g96
+sg22
+VDr. Ambedkar Road, Woodland Bldg., Khar Dandpada, Khar (W), Khar West, Mumbai
+p660
+sba(i__main__
+Place
+p661
+(dp662
+g3
+(lp663
+VRestaurants
+p664
+asg6
+g96
+sg8
+VMr. Chow's
+p665
+sg10
+Vhttp://mumbai.burrp.com/listing/mr-chows_khar-west_mumbai_restaurants/1384502871
+p666
+sg12
+VKhar West
+p667
+sg14
+(lp668
+V26489951
+p669
+aV 26489952
+p670
+aV 26489953
+p671
+asg20
+g96
+sg22
+VNizam Manzil, Khar Danda Road, Khar West, Mumbai
+p672
+sba(i__main__
+Place
+p673
+(dp674
+g3
+(lp675
+VRestaurants
+p676
+asg6
+g96
+sg8
+VNoodle Bar
+p677
+sg10
+Vhttp://mumbai.burrp.com/listing/noodle-bar_khar-west_mumbai_restaurants/1334511376
+p678
+sg12
+VKhar West
+p679
+sg14
+(lp680
+V26000444
+p681
+aV 26000888
+p682
+asg20
+g96
+sg22
+VSummer Ville, Junction of 14th & 33rd Road, Linking Road, Khar (W), Khar West, Mumbai
+p683
+sba(i__main__
+Place
+p684
+(dp685
+g3
+(lp686
+VRestaurants
+p687
+aV Bars & Pubs
+p688
+asg6
+g96
+sg8
+VSainath Raswani Gruh
+p689
+sg10
+Vhttp://mumbai.burrp.com/listing/sainath-raswani-gruh_khar-west_mumbai_restaurants-bars-pubs/19110853118
+p690
+sg12
+VKhar West
+p691
+sg14
+(lp692
+V26050162
+p693
+asg20
+g96
+sg22
+VDharamsala, 3rd Road, Near Vrindavan Restaurant, Khar West, Mumbai
+p694
+sba(i__main__
+Place
+p695
+(dp696
+g3
+(lp697
+VRestaurants
+p698
+asg6
+g96
+sg8
+VThe Lounge
+p699
+sg10
+Vhttp://mumbai.burrp.com/listing/the-lounge_khar-west_mumbai_restaurants/17710860732
+p700
+sg12
+VKhar West
+p701
+sg14
+(lp702
+V26498458
+p703
+aV 26499844
+p704
+aV 26499865
+p705
+asg20
+g96
+sg22
+VShatranj Napoli, The Palace, 12, Union Park, Khar West, Mumbai
+p706
+sba(i__main__
+Place
+p707
+(dp708
+g3
+(lp709
+VBars & Pubs
+p710
+aV Restaurants
+p711
+asg6
+g96
+sg8
+VRomys Paradise
+p712
+sg10
+Vhttp://mumbai.burrp.com/listing/romys-paradise_khar-west_mumbai_bars-pubs-restaurants/11310872396
+p713
+sg12
+VKhar West
+p714
+sg14
+(lp715
+V26058753
+p716
+asg20
+g96
+sg22
+V2nd Floor, Hawaiin Shack, 16th Road, Khar West, Mumbai
+p717
+sba(i__main__
+Place
+p718
+(dp719
+g3
+(lp720
+VRestaurants
+p721
+asg6
+g96
+sg8
+VSamudra Restaurant
+p722
+sg10
+Vhttp://mumbai.burrp.com/listing/samudra-restaurant_khar-west_mumbai_restaurants/18710915722
+p723
+sg12
+VKhar West
+p724
+sg14
+(lp725
+V26047705
+p726
+aV 26483877
+p727
+aV 6008493
+p728
+asg20
+g96
+sg22
+VPlot No 55/C, Woodlands Building, Dr Ambedkar Road, Khar West, Mumbai
+p729
+sba(i__main__
+Place
+p730
+(dp731
+g3
+(lp732
+VRestaurants
+p733
+aV Bars & Pubs
+p734
+asg6
+g96
+sg8
+VSun Raj Bar & Restaurant
+p735
+sg10
+Vhttp://mumbai.burrp.com/listing/sun-raj-bar-restaurant_khar-west_mumbai_restaurants-bars-pubs/19310916316
+p736
+sg12
+VKhar West
+p737
+sg14
+(lp738
+V26462684
+p739
+asg20
+g96
+sg22
+VRahat Manzil, Dr Ambedkar Rd, Khar West, Mumbai
+p740
+sba(i__main__
+Place
+p741
+(dp742
+g3
+(lp743
+VRestaurants
+p744
+asg6
+g96
+sg8
+VSutra D Onyx
+p745
+sg10
+Vhttp://mumbai.burrp.com/listing/sutra-d-onyx_khar-west_mumbai_restaurants/11110917198
+p746
+sg12
+VKhar West
+p747
+sg14
+(lp748
+V26492995
+p749
+aV 26492997
+p750
+aV 9892244118
+p751
+asg20
+g96
+sg22
+V14 Union Park, Khar West, Mumbai
+p752
+sba(i__main__
+Place
+p753
+(dp754
+g3
+(lp755
+VRestaurants
+p756
+asg6
+g96
+sg8
+VSunraj Hotel
+p757
+sg10
+Vhttp://mumbai.burrp.com/listing/sunraj-hotel_khar-west_mumbai_restaurants/15910921950
+p758
+sg12
+VKhar West
+p759
+sg14
+(lp760
+V26462684
+p761
+asg20
+g96
+sg22
+VPlot No 76/B, Rahat Manzil, Dr Ambedkar Road, Near Church, Khar West, Mumbai
+p762
+sba(i__main__
+Place
+p763
+(dp764
+g3
+(lp765
+VBars & Pubs
+p766
+aV Restaurants
+p767
+asg6
+g96
+sg8
+VMadness Discotheque
+p768
+sg10
+Vhttp://mumbai.burrp.com/listing/madness-discotheque_khar-west_mumbai_bars-pubs-restaurants/17310932336
+p769
+sg12
+VKhar West
+p770
+sg14
+(lp771
+V26480146
+p772
+aV 26485421
+p773
+aV 26485422
+p774
+aV 26485423
+p775
+asg20
+g96
+sg22
+VRamee Guestline , 757, S V Road, Near Railway Stataion, Khar West, Mumbai
+p776
+sba(i__main__
+Place
+p777
+(dp778
+g3
+(lp779
+VRestaurants
+p780
+asg6
+g96
+sg8
+VVaranasi Snacks And Chinese Fast Food
+p781
+sg10
+Vhttp://mumbai.burrp.com/listing/varanasi-snacks-and-chinese-fast-food_khar-west_mumbai_restaurants/17110950138
+p782
+sg12
+VKhar West
+p783
+sg14
+(lp784
+g451
+aV 9920061327
+p785
+asg20
+g96
+sg22
+VShop No 1, Neera Vila Building, Road No 1, Khar West, Mumbai
+p786
+sba(i__main__
+Place
+p787
+(dp788
+g3
+(lp789
+VRestaurants
+p790
+asg6
+g96
+sg8
+VKwik Wok Restaurant
+p791
+sg10
+Vhttp://mumbai.burrp.com/listing/kwik-wok-restaurant_khar-west_mumbai_restaurants/13710955772
+p792
+sg12
+VKhar West
+p793
+sg14
+(lp794
+V65261122
+p795
+asg20
+g96
+sg22
+VA-4, Gagangiri Coopeartive Society, Off Carter Road, Khar West, Mumbai
+p796
+sba(i__main__
+Place
+p797
+(dp798
+g3
+(lp799
+VRestaurants
+p800
+asg6
+g96
+sg8
+VKings Palace Hotel
+p801
+sg10
+Vhttp://mumbai.burrp.com/listing/kings-palace-hotel_khar-west_mumbai_restaurants/15310957356
+p802
+sg12
+VKhar West
+p803
+sg14
+(lp804
+V26462131
+p805
+aV 26462621
+p806
+aV 26463081
+p807
+asg20
+g96
+sg22
+VPlot No 538, Linking Road, Khar West, Mumbai
+p808
+sba(i__main__
+Place
+p809
+(dp810
+g3
+(lp811
+VRestaurants
+p812
+asg6
+g96
+sg8
+VNeelam Hotel
+p813
+sg10
+Vhttp://mumbai.burrp.com/listing/neelam-hotel_khar-west_mumbai_restaurants/13510964574
+p814
+sg12
+VKhar West
+p815
+sg14
+(lp816
+V26046817
+p817
+aV 26497477
+p818
+asg20
+g96
+sg22
+V3rd Road, Opposite Vrindavan Hotel, Khar West, Mumbai
+p819
+sba(i__main__
+Place
+p820
+(dp821
+g3
+(lp822
+VBars & Pubs
+p823
+aV Restaurants
+p824
+asg6
+g96
+sg8
+VShree Girija Bhavan
+p825
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-girija-bhavan_old-khar_mumbai_bars-pubs-restaurants/18312445326
+p826
+sg12
+VOld Khar
+p827
+sg14
+(lp828
+V26040390
+p829
+aV 26485961
+p830
+asg20
+g96
+sg22
+VGirija Bhavan, S V Road, Old Khar, Khar West, Mumbai
+p831
+sba(i__main__
+Place
+p832
+(dp833
+g3
+(lp834
+VRestaurants
+p835
+asg6
+g96
+sg8
+VHotel Sahil 
+p836
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sahil-_old-khar_mumbai_restaurants/15712451752
+p837
+sg12
+VOld Khar
+p838
+sg14
+(lp839
+V26464658
+p840
+aV 26484781
+p841
+aV 9819676216
+p842
+aV 9619336248
+p843
+asg20
+g21
+sg22
+VS V Road, Old Khar West, Old Khar, Khar West, Mumbai
+p844
+sba.

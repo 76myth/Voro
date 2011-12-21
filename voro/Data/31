@@ -1,0 +1,99 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VThe Ghetto
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/the-ghetto_bhulabhai-desai-road_mumbai_restaurants-bars-pubs/130146079
+p12
+sS'region'
+p13
+VBhulabhai Desai Road
+p14
+sS'phone'
+p15
+(lp16
+V23538418
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VNext to Shobha Restaurant, 30 B, Bhulabhai Desai Road, Cumballa Hill, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg7
+V0
+p26
+sg9
+VBistro @ Coffee Break
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/bistro-coffee-break_bhulabhai-desai-road_mumbai_restaurants/16933953940
+p28
+sg13
+VBhulabhai Desai Road
+p29
+sg15
+(lp30
+V32255420
+p31
+asg18
+g19
+sg20
+VNext To Tata Garden, Bhulabhai Desai Road, Cumballa Hill, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+asg7
+g26
+sg9
+VShoba Refreshments
+p37
+sg11
+Vhttp://mumbai.burrp.com/listing/shoba-refreshments_bhulabhai-desai-road_mumbai_restaurants/1377994772
+p38
+sg13
+VBhulabhai Desai Road
+p39
+sg15
+(lp40
+V23519553
+p41
+asg18
+g26
+sg20
+V30/B, Bhulabhai Desai Road, Cumballa Hill, Mumbai
+p42
+sba.

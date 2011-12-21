@@ -1,0 +1,133 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBars & Pubs
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VCafe Paradise
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/cafe-paradise_nagpada_mumbai_bars-pubs-restaurants/19312347316
+p12
+sS'region'
+p13
+VNagpada
+p14
+sS'phone'
+p15
+(lp16
+V23078214
+p17
+aV 23099276
+p18
+asS'cost'
+p19
+g8
+sS'addr'
+p20
+V78/82, Moulana Shoukatali, Nagpada, Mumbai Central, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg7
+g8
+sg9
+VPratiksha Bar And Restaurant
+p26
+sg11
+Vhttp://mumbai.burrp.com/listing/pratiksha-bar-and-restaurant_nagpada_mumbai_restaurants/16512353544
+p27
+sg13
+VNagpada
+p28
+sg15
+(lp29
+V23076440
+p30
+asg19
+g8
+sg20
+V139, R S Nimkar Marg, Nagpada, Mumbai Central, Mumbai
+p31
+sba(i__main__
+Place
+p32
+(dp33
+g3
+(lp34
+VJuice Parlours
+p35
+aV Restaurants
+p36
+asg7
+g8
+sg9
+VLight Of India Restaurant
+p37
+sg11
+Vhttp://mumbai.burrp.com/listing/light-of-india-restaurant_nagpada_mumbai_juice-parlours-restaurants/11112357198
+p38
+sg13
+VNagpada
+p39
+sg15
+(lp40
+V23078032
+p41
+asg19
+g8
+sg20
+VShroff Building, Shop No 123, Ground Floor, Mirza Ghalib Marg, Clare Road, Near Nagpada Circle, Nagpada, Mumbai Central, Mumbai
+p42
+sba(i__main__
+Place
+p43
+(dp44
+g3
+(lp45
+VRestaurants
+p46
+asg7
+g8
+sg9
+VSarvi Restaurant
+p47
+sg11
+Vhttp://mumbai.burrp.com/listing/sarvi-restaurant_nagpada_mumbai_restaurants/14712360762
+p48
+sg13
+VNagpada
+p49
+sg15
+(lp50
+V
+p51
+aV 9820142967
+p52
+aV 9820652295
+p53
+asg19
+g8
+sg20
+VRoad No 184/196, Dimtikar Road, Nagpada, Mumbai Central, Mumbai
+p54
+sba.

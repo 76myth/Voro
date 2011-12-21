@@ -1,0 +1,444 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VPoornima Veg And Non Veg Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/poornima-veg-and-non-veg-restaurant_turbhe_navi-mumbai_restaurants/14313899366
+p11
+sS'region'
+p12
+VTurbhe
+p13
+sS'phone'
+p14
+(lp15
+V
+p16
+aV 9224308675
+p17
+aV 9869537473
+p18
+asS'cost'
+p19
+g7
+sS'addr'
+p20
+VAshoka Complex Shop No A 11/12, Sector No 18, Opposite Ayur Export Company, Turbhe, Navi Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VNaans and Noodles
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/naans-and-noodles_turbhe_navi-mumbai_restaurants/17722650732
+p27
+sg12
+VTurbhe
+p28
+sg14
+(lp29
+V66081111
+p30
+aV 27610808
+p31
+asg19
+V3
+p32
+sg20
+VTurbhe, Navi Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g7
+sg8
+VSadguru Restaurant
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/sadguru-restaurant_turbhe_navi-mumbai_restaurants/11313896396
+p39
+sg12
+VTurbhe
+p40
+sg14
+(lp41
+V27892849
+p42
+aV 27893177
+p43
+asg19
+g7
+sg20
+VShop No 3, Plot No 4, Dana Market, Sector No 19/E, Turbhe, Navi Mumbai
+p44
+sba(i__main__
+Place
+p45
+(dp46
+g3
+(lp47
+VHotels
+p48
+aV Restaurants
+p49
+asg6
+g7
+sg8
+VDivya Residency Hotel
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/divya-residency-hotel_midc-turbhe_navi-mumbai_hotels-restaurants/19113769118
+p51
+sg12
+VMIDC Turbhe
+p52
+sg14
+(lp53
+V27670018
+p54
+aV 27683378
+p55
+asg19
+g7
+sg20
+VPlot No P/11, TTC Industrial Area, Turbhe Naka, MIDC Turbhe, Turbhe, Navi Mumbai
+p56
+sba(i__main__
+Place
+p57
+(dp58
+g3
+(lp59
+VRestaurants
+p60
+asg6
+g7
+sg8
+VHotel Akshay Palace
+p61
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-akshay-palace_turbhe_navi-mumbai_restaurants/15113882158
+p62
+sg12
+VTurbhe
+p63
+sg14
+(lp64
+V27613693
+p65
+aV 9870026288
+p66
+asg19
+g7
+sg20
+VShop No D 4, TTC Industrial Area, MIDC, Turbhe, Navi Mumbai
+p67
+sba(i__main__
+Place
+p68
+(dp69
+g3
+(lp70
+VRestaurants
+p71
+asg6
+g7
+sg8
+VHotel Raj
+p72
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-raj_turbhe_navi-mumbai_restaurants/15513882554
+p73
+sg12
+VTurbhe
+p74
+sg14
+(lp75
+V27632437
+p76
+aV 9773122199
+p77
+asg19
+g7
+sg20
+VPlot No 2/D , Fizer Road, Turbhe Naka , Turbhe, Navi Mumbai
+p78
+sba(i__main__
+Place
+p79
+(dp80
+g3
+(lp81
+VRestaurants
+p82
+asg6
+g7
+sg8
+VRaj Restaurant
+p83
+sg10
+Vhttp://mumbai.burrp.com/listing/raj-restaurant_turbhe_navi-mumbai_restaurants/17913893930
+p84
+sg12
+VTurbhe
+p85
+sg14
+(lp86
+V27632437
+p87
+aV 9773122199
+p88
+asg19
+g7
+sg20
+VPlot No D/2, Pfizer Road, Turbhe Naka, Turbhe, Navi Mumbai
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VRestaurants
+p93
+asg6
+g7
+sg8
+VHotel Shweta
+p94
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shweta_turbhe_navi-mumbai_restaurants/11713896792
+p95
+sg12
+VTurbhe
+p96
+sg14
+(lp97
+V27830323
+p98
+aV 27833953
+p99
+aV 9004130091
+p100
+asg19
+g7
+sg20
+VPlot No 108, Sector 23, Janta Market, Turbhe, Navi Mumbai
+p101
+sba(i__main__
+Place
+p102
+(dp103
+g3
+(lp104
+VRestaurants
+p105
+asg6
+V1
+p106
+sg8
+VShweta Palace Bar & Resturant
+p107
+sg10
+Vhttp://mumbai.burrp.com/listing/shweta-palace-bar-resturant_turbhe_navi-mumbai_restaurants/11913896990
+p108
+sg12
+VTurbhe
+p109
+sg14
+(lp110
+V27895940
+p111
+aV 27895941
+p112
+asg19
+g7
+sg20
+VPlot No 71 , Arenja Corner, Sector 17, Palm Beach Road, Turbhe, Navi Mumbai
+p113
+sba(i__main__
+Place
+p114
+(dp115
+g3
+(lp116
+VRestaurants
+p117
+asg6
+g7
+sg8
+VNityanand Hotel
+p118
+sg10
+Vhttp://mumbai.burrp.com/listing/nityanand-hotel_turbhe_navi-mumbai_restaurants/13113898178
+p119
+sg12
+VTurbhe
+p120
+sg14
+(lp121
+V27683372
+p122
+aV 9967058888
+p123
+asg19
+g7
+sg20
+VShop No P 42, MIDC Shopping Complex, Fizer Road, Turbhe, Navi Mumbai
+p124
+sba(i__main__
+Place
+p125
+(dp126
+g3
+(lp127
+VRestaurants
+p128
+asg6
+g7
+sg8
+VKake Da Dhaba
+p129
+sg10
+Vhttp://mumbai.burrp.com/listing/kake-da-dhaba_turbhe_navi-mumbai_restaurants/14722872762
+p130
+sg12
+VTurbhe
+p131
+sg14
+(lp132
+V27612345
+p133
+aV 27612346
+p134
+asg19
+V2
+p135
+sg20
+VT.T.C - 1Industrial Area, Turbhe, Navi Mumbai
+p136
+sba(i__main__
+Place
+p137
+(dp138
+g3
+(lp139
+VRestaurants
+p140
+asg6
+g7
+sg8
+VLucky Restaurant
+p141
+sg10
+Vhttp://mumbai.burrp.com/listing/lucky-restaurant_turbhe_navi-mumbai_restaurants/13723654772
+p142
+sg12
+VTurbhe
+p143
+sg14
+(lp144
+V27888901
+p145
+aV 27899432
+p146
+aV 32201845
+p147
+asg19
+g135
+sg20
+VRam Laxman Complex, Shop No 18, 19, 20 , Turbhe, Navi Mumbai
+p148
+sba(i__main__
+Place
+p149
+(dp150
+g3
+(lp151
+VRestaurants
+p152
+asg6
+g7
+sg8
+VHotel Abhijeet
+p153
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-abhijeet_turbhe_navi-mumbai_restaurants/19523750514
+p154
+sg12
+VTurbhe
+p155
+sg14
+(lp156
+V27888538
+p157
+aV 27888928
+p158
+asg19
+g7
+sg20
+V6/7/8, Annapoorna Building, Sector 18, Vashi-Turbhe Road, Turbhe, Navi Mumbai
+p159
+sba(i__main__
+Place
+p160
+(dp161
+g3
+(lp162
+VRestaurants
+p163
+asg6
+g7
+sg8
+VHotel Shanti
+p164
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shanti_turbhe_navi-mumbai_restaurants/12923752980
+p165
+sg12
+VTurbhe
+p166
+sg14
+(lp167
+V69540365
+p168
+aV 69531941
+p169
+aV 27831891
+p170
+asg19
+g7
+sg20
+VA-2, 688, Sector 21, Turbhe, Navi Mumbai
+p171
+sba.

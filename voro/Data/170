@@ -1,0 +1,77 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Juice Parlours
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VAshray Restaurant
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/ashray-restaurant_liberty-garden_mumbai_restaurants-juice-parlours/12711161782
+p12
+sS'region'
+p13
+VLiberty Garden
+p14
+sS'phone'
+p15
+(lp16
+V28800440
+p17
+aV 28815582
+p18
+aV 65195720
+p19
+aV 65195721
+p20
+asS'cost'
+p21
+g8
+sS'addr'
+p22
+VDamodar Krupa Building, Shop No 1, Ground Floor, Road No 3, Opposite To ICICI Bank, Liberty Garden, Malad West, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+aV Bars & Pubs
+p28
+asg7
+g8
+sg9
+VSAI Garden Restaurant
+p29
+sg11
+Vhttp://mumbai.burrp.com/listing/sai-garden-restaurant_liberty-garden_mumbai_restaurants-bars-pubs/15911164950
+p30
+sg13
+VLiberty Garden
+p31
+sg15
+(lp32
+V28880196
+p33
+asg21
+g8
+sg22
+VMangalmurti Apt, Road No 1, Liberty Garden, Malad West, Mumbai
+p34
+sba.

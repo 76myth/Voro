@@ -1,0 +1,69 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VAbhiruchi Restaurant & Bar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/abhiruchi-restaurant-bar_tagore-nagar_mumbai_restaurants/12913150980
+p11
+sS'region'
+p12
+VTagore Nagar
+p13
+sS'phone'
+p14
+(lp15
+V25742269
+p16
+asS'cost'
+p17
+g7
+sS'addr'
+p18
+VShop No 6, Sonawane Chawl, Station Road, Tagore Nagar, Vikhroli East, Mumbai
+p19
+sba(i__main__
+Place
+p20
+(dp21
+g3
+(lp22
+VRestaurants
+p23
+asg6
+g7
+sg8
+VMeeting Point
+p24
+sg10
+Vhttp://mumbai.burrp.com/listing/meeting-point_tagore-nagar_mumbai_restaurants/17313155336
+p25
+sg12
+VTagore Nagar
+p26
+sg14
+(lp27
+V25108462
+p28
+aV 25128871
+p29
+asg17
+g7
+sg18
+V7/A, Railway Shopping Centre, Tagore Nagar, Vikhroli East, Mumbai
+p30
+sba.

@@ -1,0 +1,536 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VCafes
+p5
+aV Food-court Stalls
+p6
+aV Ice-cream Parlours
+p7
+aV Restaurants
+p8
+asS'rating'
+p9
+V0
+p10
+sS'name'
+p11
+VRejoys Ice Cream Parlour
+p12
+sS'url'
+p13
+Vhttp://mumbai.burrp.com/listing/rejoys-ice-cream-parlour_vasai_thane_cafes-food-court-stalls-ice-cream-parlours/14314799366
+p14
+sS'region'
+p15
+VVasai
+p16
+sS'phone'
+p17
+(lp18
+V2380752
+p19
+aV 9923087035
+p20
+aV 9923334021
+p21
+asS'cost'
+p22
+g10
+sS'addr'
+p23
+VShop No 4, Mary Villa, Rejoys, Manikpura, Vasai, Thane
+p24
+sba(i__main__
+Place
+p25
+(dp26
+g3
+(lp27
+VFast Food Shops
+p28
+aV Restaurants
+p29
+asg9
+g10
+sg11
+VHop Inn Restaurant
+p30
+sg13
+Vhttp://mumbai.burrp.com/listing/hop-inn-restaurant_vasai_thane_fast-food-shops-restaurants/11314814396
+p31
+sg15
+VVasai
+p32
+sg17
+(lp33
+V2382202
+p34
+asg22
+g10
+sg23
+VShop No 9, Kargil Vijay Apartment, Bharampur, Near Stella Bus Stop, Vasai, Thane
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg9
+g10
+sg11
+VHotel Aaram
+p40
+sg13
+Vhttp://mumbai.burrp.com/listing/hotel-aaram_nalasopara_thane_restaurants/18114425128
+p41
+sg15
+VNalasopara
+p42
+sg17
+(lp43
+V2402055
+p44
+aV 2414179
+p45
+aV 7709355085
+p46
+asg22
+g10
+sg23
+VSiddhivinayak Complex, Near Station Road, Nalasopara, Vasai, Thane
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VRestaurants
+p51
+asg9
+g10
+sg11
+VHotel Dwaraka
+p52
+sg13
+Vhttp://mumbai.burrp.com/listing/hotel-dwaraka_nalasopara_thane_restaurants/18514425524
+p53
+sg15
+VNalasopara
+p54
+sg17
+(lp55
+V2405344
+p56
+aV 2405519
+p57
+aV 2411421
+p58
+asg22
+g10
+sg23
+VSalomi Building, Achole Road, Majithia Park, Nalasopara, Vasai, Thane
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg9
+g10
+sg11
+VNavaratna Hotel
+p64
+sg13
+Vhttp://mumbai.burrp.com/listing/navaratna-hotel_nalasopara_thane_restaurants/15914431950
+p65
+sg15
+VNalasopara
+p66
+sg17
+(lp67
+V2405519
+p68
+asg22
+g10
+sg23
+VSolsmi Building, A Chole Road, Nalasopara, Vasai, Thane
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VRestaurants
+p73
+asg9
+g10
+sg11
+VNagraj Lunch Home Hotel
+p74
+sg13
+Vhttp://mumbai.burrp.com/listing/nagraj-lunch-home-hotel_nalasopara_thane_restaurants/16114432148
+p75
+sg15
+VNalasopara
+p76
+sg17
+(lp77
+V
+p78
+aV 9324876671
+p79
+asg22
+g10
+sg23
+VShop No 18, Maha Rishi Dayanand Co Operative Society (M D Nagar Society), Gala Nagar, Achole Road , Nalasopara, Vasai, Thane
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VRestaurants
+p84
+asg9
+g10
+sg11
+VPasand Koliwada
+p85
+sg13
+Vhttp://mumbai.burrp.com/listing/pasand-koliwada_nalasopara_thane_restaurants/15714440752
+p86
+sg15
+VNalasopara
+p87
+sg17
+(lp88
+g78
+aV 9323624202
+p89
+aV 9822756883
+p90
+asg22
+g10
+sg23
+VShop No 19, Anuradha Building, Nalasopara, Vasai, Thane
+p91
+sba(i__main__
+Place
+p92
+(dp93
+g3
+(lp94
+VRestaurants
+p95
+aV Bars & Pubs
+p96
+asg9
+g10
+sg11
+VBageecha Restaurant
+p97
+sg13
+Vhttp://mumbai.burrp.com/listing/bageecha-restaurant_vasai_thane_restaurants-bars-pubs/15914782950
+p98
+sg15
+VVasai
+p99
+sg17
+(lp100
+V2327092
+p101
+aV 2327670
+p102
+asg22
+g10
+sg23
+VPrincess Park, Jawaharlal Nehru Road, 60 Feet Road, Vasai, Thane
+p103
+sba(i__main__
+Place
+p104
+(dp105
+g3
+(lp106
+VRestaurants
+p107
+asg9
+g10
+sg11
+VHotel Palace Bar & Restaurant
+p108
+sg13
+Vhttp://mumbai.burrp.com/listing/hotel-palace-bar-restaurant_vasai_thane_restaurants/19914786910
+p109
+sg15
+VVasai
+p110
+sg17
+(lp111
+V2337200
+p112
+asg22
+g10
+sg23
+VAshok Nager, Ambadi Road, Vasai, Thane
+p113
+sba(i__main__
+Place
+p114
+(dp115
+g3
+(lp116
+VBars & Pubs
+p117
+aV Restaurants
+p118
+asg9
+g10
+sg11
+VHotel Pritam
+p119
+sg13
+Vhttp://mumbai.burrp.com/listing/hotel-pritam_vasai_thane_bars-pubs-restaurants/11114787198
+p120
+sg15
+VVasai
+p121
+sg17
+(lp122
+V2390319
+p123
+asg22
+g10
+sg23
+VTirupati No 1, Navghar, Vasai, Thane
+p124
+sba(i__main__
+Place
+p125
+(dp126
+g3
+(lp127
+VRestaurants
+p128
+asg9
+g10
+sg11
+VHotel Rishikesh
+p129
+sg13
+Vhttp://mumbai.burrp.com/listing/hotel-rishikesh_vasai_thane_restaurants/11314787396
+p130
+sg15
+VVasai
+p131
+sg17
+(lp132
+V12345678
+p133
+aV 2332882
+p134
+aV 2335385
+p135
+asg22
+g10
+sg23
+VRishikesh Appartment, Navghar Road, Vasai, Thane
+p136
+sba(i__main__
+Place
+p137
+(dp138
+g3
+(lp139
+VRestaurants
+p140
+asg9
+g10
+sg11
+VHotel Trupti
+p141
+sg13
+Vhttp://mumbai.burrp.com/listing/hotel-trupti_vasai_thane_restaurants/11714787792
+p142
+sg15
+VVasai
+p143
+sg17
+(lp144
+V2332987
+p145
+asg22
+g10
+sg23
+VGulmohar Apartment, Ambadi Road, Vasai, Thane
+p146
+sba(i__main__
+Place
+p147
+(dp148
+g3
+(lp149
+VRestaurants
+p150
+asg9
+g10
+sg11
+VUmesh Restaurant
+p151
+sg13
+Vhttp://mumbai.burrp.com/listing/umesh-restaurant_vasai_thane_restaurants/14114799168
+p152
+sg15
+VVasai
+p153
+sg17
+(lp154
+V2322143
+p155
+asg22
+g10
+sg23
+VParnaka, Near Munciple School, Vasai, Thane
+p156
+sba(i__main__
+Place
+p157
+(dp158
+g3
+(lp159
+VRestaurants
+p160
+asg9
+g10
+sg11
+VNanumal Bhojraj Restaurant
+p161
+sg13
+Vhttp://mumbai.burrp.com/listing/nanumal-bhojraj-restaurant_vasai_thane_restaurants/16314801346
+p162
+sg15
+VVasai
+p163
+sg17
+(lp164
+V27880440
+p165
+aV 27880449
+p166
+aV 27880480
+p167
+aV 66113066
+p168
+asg22
+g10
+sg23
+VShp No 1, Ram Commer, Sanpada Station Road, Sector 18, Vasai, Thane
+p169
+sba(i__main__
+Place
+p170
+(dp171
+g3
+(lp172
+VRestaurants
+p173
+asg9
+g10
+sg11
+VYatri Lodging Service
+p174
+sg13
+Vhttp://mumbai.burrp.com/listing/yatri-lodging-service_vasai_thane_restaurants/19914813910
+p175
+sg15
+VVasai
+p176
+sg17
+(lp177
+V2332696
+p178
+aV 2345054
+p179
+asg22
+g10
+sg23
+VNavgar Road, Near Parvati Cinema, Vasai, Thane
+p180
+sba(i__main__
+Place
+p181
+(dp182
+g3
+(lp183
+VRestaurants
+p184
+asg9
+g10
+sg11
+VVrindavan Restaurant And Bar
+p185
+sg13
+Vhttp://mumbai.burrp.com/listing/vrindavan-restaurant-and-bar_vasai_thane_restaurants/12314815386
+p186
+sg15
+VVasai
+p187
+sg17
+(lp188
+V2334142
+p189
+asg22
+g10
+sg23
+VNavghar Road, Vasai Road West, Opposite Dhuri Jewellers, Vasai, Thane
+p190
+sba(i__main__
+Place
+p191
+(dp192
+g3
+(lp193
+VRestaurants
+p194
+asg9
+g10
+sg11
+VTheka The Dhaba Restaurant
+p195
+sg13
+Vhttp://mumbai.burrp.com/listing/theka-the-dhaba-restaurant_vasai_thane_restaurants/15314818356
+p196
+sg15
+VVasai
+p197
+sg17
+(lp198
+V28783630
+p199
+aV 9619669907
+p200
+aV 9820467877
+p201
+aV 9870031654
+p202
+asg22
+g10
+sg23
+VC/O Haveli Inn Resort, The Electric City 153/160, Sasunavghar, Ghodhbandar Junction, Mumbai Ahmedabad National Highway, Vasai, Thane
+p203
+sba.

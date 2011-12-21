@@ -1,0 +1,42 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VOye Punjabi
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/oye-punjabi_kalyan-w_thane_restaurants/1745478435
+p11
+sS'region'
+p12
+VKalyan (W)
+p13
+sS'phone'
+p14
+(lp15
+V9322107555
+p16
+aV 9323107555
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VTalaui Naka, Near Mumbai - Nashik Highway, (NH3), Kalyan (W), Thane
+p21
+sba.

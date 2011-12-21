@@ -1,0 +1,2202 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VTake Away Shops
+p5
+aV Home Caterers
+p6
+aV Restaurants
+p7
+asS'rating'
+p8
+V3
+p9
+sS'name'
+p10
+VGranville Greens
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/granville-greens_borivali-west_mumbai_take-away-shops-home-caterers-restaurants/1585071851
+p13
+sS'region'
+p14
+VBorivali West
+p15
+sS'phone'
+p16
+(lp17
+V61542424
+p18
+aV 61542411
+p19
+aV 28984209
+p20
+aV 28983209
+p21
+asS'cost'
+p22
+V2
+p23
+sS'addr'
+p24
+VBorivali West, Mumbai
+p25
+sba(i__main__
+Place
+p26
+(dp27
+g3
+(lp28
+VRestaurants
+p29
+asg8
+g9
+sg10
+VSilver Coin
+p30
+sg12
+Vhttp://mumbai.burrp.com/listing/silver-coin_ic-colony_mumbai_restaurants/14157168
+p31
+sg14
+VIC Colony
+p32
+sg16
+(lp33
+V28933413
+p34
+aV 28939763
+p35
+aV 28951410
+p36
+asg22
+V0
+p37
+sg24
+VRSK Apartments, IC Colony, Borivali West, Mumbai
+p38
+sba(i__main__
+Place
+p39
+(dp40
+g3
+(lp41
+VRestaurants
+p42
+asg8
+V4
+p43
+sg10
+VThe Salute
+p44
+sg12
+Vhttp://mumbai.burrp.com/listing/the-salute_borivali-west_mumbai_restaurants/1532938356
+p45
+sg14
+VBorivali West
+p46
+sg16
+(lp47
+V28988559
+p48
+aV 9920803247
+p49
+asg22
+g23
+sg24
+VDhaneshwari Apartment, Shimpoli Road, Borivali West, Mumbai
+p50
+sba(i__main__
+Place
+p51
+(dp52
+g3
+(lp53
+VFast Food Shops
+p54
+aV Restaurants
+p55
+asg8
+g9
+sg10
+VMcDonald's
+p56
+sg12
+Vhttp://mumbai.burrp.com/listing/mcdonalds_borivali-west_mumbai_fast-food-shops-restaurants/17842831
+p57
+sg14
+VBorivali West
+p58
+sg16
+(lp59
+V66778741
+p60
+asg22
+g37
+sg24
+VAgora Business Plaza, SV Road, Borivali (W), Borivali West, Mumbai
+p61
+sba(i__main__
+Place
+p62
+(dp63
+g3
+(lp64
+VRestaurants
+p65
+asg8
+g9
+sg10
+VPangat The Family Restaurant
+p66
+sg12
+Vhttp://mumbai.burrp.com/listing/pangat-the-family-restaurant_borivali-west_mumbai_restaurants/1962429613
+p67
+sg14
+VBorivali West
+p68
+sg16
+(lp69
+V65275511
+p70
+aV 29675522
+p71
+aV 29675533
+p72
+aV 28609335
+p73
+asg22
+g23
+sg24
+VShree Gayatri Ganesh Co-Op Housing Society, MHB Colony , Gorai Road, Gokhale College Road, Borivali West, Mumbai
+p74
+sba(i__main__
+Place
+p75
+(dp76
+g3
+(lp77
+VRestaurants
+p78
+asg8
+g43
+sg10
+VThe Veg Treat - I
+p79
+sg12
+Vhttp://mumbai.burrp.com/listing/the-veg-treat---i_borivali-west_mumbai_restaurants/1701212039
+p80
+sg14
+VBorivali West
+p81
+sg16
+(lp82
+V28995533
+p83
+aV 28996644
+p84
+asg22
+g23
+sg24
+VRank Terrace Building, Kastur Park Road, Shimpoli, Borivali West, Mumbai
+p85
+sba(i__main__
+Place
+p86
+(dp87
+g3
+(lp88
+VRestaurants
+p89
+asg8
+g43
+sg10
+VDakshin
+p90
+sg12
+Vhttp://mumbai.burrp.com/listing/dakshin_borivali-west_mumbai_restaurants/1112583198
+p91
+sg14
+VBorivali West
+p92
+sg16
+(lp93
+V28335551
+p94
+aV 28336555
+p95
+aV 28336533
+p96
+asg22
+g23
+sg24
+VBhave Building, Vazira Naka, LT Road, Borivali West, Mumbai
+p97
+sba(i__main__
+Place
+p98
+(dp99
+g3
+(lp100
+VRestaurants
+p101
+asg8
+g9
+sg10
+VRajmahal Restaurant
+p102
+sg12
+Vhttp://mumbai.burrp.com/listing/rajmahal-restaurant_borivali-west_mumbai_restaurants/1598158950
+p103
+sg14
+VBorivali West
+p104
+sg16
+(lp105
+V28946080
+p106
+aV 28946090
+p107
+aV 66979106
+p108
+asg22
+g37
+sg24
+VPatel Shopping Centre, Chandavarkar Road, Borivali West, Mumbai
+p109
+sba(i__main__
+Place
+p110
+(dp111
+g3
+(lp112
+VRestaurants
+p113
+asg8
+g9
+sg10
+VSahara Sagar Veg Restaurant
+p114
+sg12
+Vhttp://mumbai.burrp.com/listing/sahara-sagar-veg-restaurant_borivali-west_mumbai_restaurants/153256356
+p115
+sg14
+VBorivali West
+p116
+sg16
+(lp117
+V28087224
+p118
+aV 28619870
+p119
+asg22
+g37
+sg24
+V10, Lancelot, S.V. Road, Borivali West, Mumbai
+p120
+sba(i__main__
+Place
+p121
+(dp122
+g3
+(lp123
+VRestaurants
+p124
+asg8
+g9
+sg10
+VVrundas Restaurant
+p125
+sg12
+Vhttp://mumbai.burrp.com/listing/vrundas-restaurant_borivali-west_mumbai_restaurants/1691211940
+p126
+sg14
+VBorivali West
+p127
+sg16
+(lp128
+V28911465
+p129
+aV 28905732
+p130
+aV 28915234
+p131
+asg22
+g9
+sg24
+VOpposite Vodafone Gallary, LT Road Cross1, Borivali (W), Borivali West, Mumbai
+p132
+sba(i__main__
+Place
+p133
+(dp134
+g3
+(lp135
+VRestaurants
+p136
+asg8
+g43
+sg10
+VMartin's - The Chinese Nook
+p137
+sg12
+Vhttp://mumbai.burrp.com/listing/martins---the-chinese-nook_borivali-west_mumbai_restaurants/1396869970
+p138
+sg14
+VBorivali West
+p139
+sg16
+(lp140
+V28675006
+p141
+aV 28686927
+p142
+aV 32210674
+p143
+aV 64535151
+p144
+asg22
+g37
+sg24
+VGangotri CHS Ltd, Plot No.57, L.T Road, Gorai II, Borivali West, Mumbai
+p145
+sba(i__main__
+Place
+p146
+(dp147
+g3
+(lp148
+VRestaurants
+p149
+asg8
+g43
+sg10
+VGokul Restaurant
+p150
+sg12
+Vhttp://mumbai.burrp.com/listing/gokul-restaurant_borivali-west_mumbai_restaurants/1472001762
+p151
+sg14
+VBorivali West
+p152
+sg16
+(lp153
+V28953333
+p154
+asg22
+g23
+sg24
+VSV Road, Borivali (W), Borivali West, Mumbai
+p155
+sba(i__main__
+Place
+p156
+(dp157
+g3
+(lp158
+VBars & Pubs
+p159
+aV Restaurants
+p160
+aV Banquet Halls
+p161
+asg8
+g23
+sg10
+VBanjara Dhaba
+p162
+sg12
+Vhttp://mumbai.burrp.com/listing/banjara-dhaba_ic-colony_mumbai_bars-pubs-restaurants-banquet-halls/189718920
+p163
+sg14
+VIC Colony
+p164
+sg16
+(lp165
+V28908737
+p166
+aV 28913769
+p167
+aV 28944847
+p168
+aV 28950033
+p169
+asg22
+g23
+sg24
+VHoly Cross Road, Opposite Phillip Tower, IC Colony, Borivali West, Mumbai
+p170
+sba(i__main__
+Place
+p171
+(dp172
+g3
+(lp173
+VRestaurants
+p174
+asg8
+g9
+sg10
+VMajestic NX
+p175
+sg12
+Vhttp://mumbai.burrp.com/listing/majestic-nx_borivali-west_mumbai_restaurants/1533433356
+p176
+sg14
+VBorivali West
+p177
+sg16
+(lp178
+V28908661
+p179
+aV 28927630
+p180
+asg22
+g37
+sg24
+VVallabh Nagar, LIC Colony, Borivali (W), Borivali West, Mumbai
+p181
+sba(i__main__
+Place
+p182
+(dp183
+g3
+(lp184
+VRestaurants
+p185
+asg8
+V5
+p186
+sg10
+VUncle's Corner
+p187
+sg12
+Vhttp://mumbai.burrp.com/listing/uncles-corner_borivali-west_mumbai_restaurants/1958153514
+p188
+sg14
+VBorivali West
+p189
+sg16
+(lp190
+V28944094
+p191
+aV 28950774
+p192
+aV 9820584765
+p193
+aV 9967398998
+p194
+asg22
+g23
+sg24
+VChurchway Cooperative Housing Society, Shop No 1 & 1A , IC Colony, Borivali West, Mumbai
+p195
+sba(i__main__
+Place
+p196
+(dp197
+g3
+(lp198
+VRestaurants
+p199
+aV Cafes
+p200
+asg8
+g186
+sg10
+VRogers Bistro
+p201
+sg12
+Vhttp://mumbai.burrp.com/listing/rogers-bistro_borivali-west_mumbai_restaurants-cafes/13322313376
+p202
+sg14
+VBorivali West
+p203
+sg16
+(lp204
+V9833415007
+p205
+asg22
+g23
+sg24
+VHeritage Kitchen, Kora Kendra Road, Rayani Gram, Borivali West, Mumbai
+p206
+sba(i__main__
+Place
+p207
+(dp208
+g3
+(lp209
+VRestaurants
+p210
+asg8
+g186
+sg10
+VSagar Dining Hall
+p211
+sg12
+Vhttp://mumbai.burrp.com/listing/sagar-dining-hall_borivali-west_mumbai_restaurants/131164178
+p212
+sg14
+VBorivali West
+p213
+sg16
+(lp214
+V28902849
+p215
+aV 9819383383
+p216
+asg22
+g37
+sg24
+V1st Floor, Goragandhi Apts., Opp. Railway Station, Borivali (W), Borivali West, Mumbai
+p217
+sba(i__main__
+Place
+p218
+(dp219
+g3
+(lp220
+VRestaurants
+p221
+asg8
+g43
+sg10
+VShree Krishna
+p222
+sg12
+Vhttp://mumbai.burrp.com/listing/shree-krishna_borivali-west_mumbai_restaurants/1494332960
+p223
+sg14
+VBorivali West
+p224
+sg16
+(lp225
+V28988179
+p226
+aV 28999300
+p227
+asg22
+g23
+sg24
+VPark View, Shimpoli Telephone Exchange, Near Link Road, Borivali (W), Borivali West, Mumbai
+p228
+sba(i__main__
+Place
+p229
+(dp230
+g3
+(lp231
+VRestaurants
+p232
+asg8
+g43
+sg10
+VGirgaon Katta Restaurant
+p233
+sg12
+Vhttp://mumbai.burrp.com/listing/girgaon-katta-restaurant_borivali-west_mumbai_restaurants/1558266554
+p234
+sg14
+VBorivali West
+p235
+sg16
+(lp236
+V65152273
+p237
+aV 9892679269
+p238
+asg22
+g23
+sg24
+VShop No.5, Moti Nagar Society, Roshan Nagar Road, Borivali West, Mumbai
+p239
+sba(i__main__
+Place
+p240
+(dp241
+g3
+(lp242
+VRestaurants
+p243
+aV Bars & Pubs
+p244
+asg8
+g23
+sg10
+VSchumania
+p245
+sg12
+Vhttp://mumbai.burrp.com/listing/schumania_borivali-west_mumbai_restaurants-bars-pubs/118252891
+p246
+sg14
+VBorivali West
+p247
+sg16
+(lp248
+V28933587
+p249
+aV 28938843
+p250
+asg22
+g23
+sg24
+VEl Plaza Apartments, Shop No. 8-9, IC Colony, Borivali (W), Borivali West, Mumbai
+p251
+sba(i__main__
+Place
+p252
+(dp253
+g3
+(lp254
+VRestaurants
+p255
+asg8
+g9
+sg10
+VKuku's Chinese Restuarant
+p256
+sg12
+Vhttp://mumbai.burrp.com/listing/kukus-chinese-restuarant_borivali-west_mumbai_restaurants/1822221227
+p257
+sg14
+VBorivali West
+p258
+sg16
+(lp259
+V65593334
+p260
+aV 28907164
+p261
+aV 28905641
+p262
+asg22
+V1
+p263
+sg24
+VLT Road, Borivali West, Mumbai
+p264
+sba(i__main__
+Place
+p265
+(dp266
+g3
+(lp267
+VRestaurants
+p268
+asg8
+g9
+sg10
+VKonkan Kinara
+p269
+sg12
+Vhttp://mumbai.burrp.com/listing/konkan-kinara_borivali-west_mumbai_restaurants/1605171049
+p270
+sg14
+VBorivali West
+p271
+sg16
+(lp272
+V28952821
+p273
+aV 28940322
+p274
+asg22
+g9
+sg24
+V5, Regent Apartments, LIC Colony, Borivali (W), Borivali West, Mumbai
+p275
+sba(i__main__
+Place
+p276
+(dp277
+g3
+(lp278
+VRestaurants
+p279
+asg8
+g23
+sg10
+VDaffodil's Restaurant
+p280
+sg12
+Vhttp://mumbai.burrp.com/listing/daffodils-restaurant_borivali-west_mumbai_restaurants/1251450584
+p281
+sg14
+VBorivali West
+p282
+sg16
+(lp283
+V28907737
+p284
+asg22
+g23
+sg24
+VRoyal Complex, Raj Sardi Bldg, Eksar Rd, Borivali (W), Borivali West, Mumbai
+p285
+sba(i__main__
+Place
+p286
+(dp287
+g3
+(lp288
+VRestaurants
+p289
+asg8
+g23
+sg10
+VFlavors of China
+p290
+sg12
+Vhttp://mumbai.burrp.com/listing/flavors-of-china_borivali-west_mumbai_restaurants/1714533138
+p291
+sg14
+VBorivali West
+p292
+sg16
+(lp293
+V28993166
+p294
+aV 28993423
+p295
+asg22
+g23
+sg24
+V102, 1st Floor, Vrajdeep Apartments, Chandawarkar Road, Borivali (W), Borivali West, Mumbai
+p296
+sba(i__main__
+Place
+p297
+(dp298
+g3
+(lp299
+VRestaurants
+p300
+asg8
+g23
+sg10
+VCrispy Cream
+p301
+sg12
+Vhttp://mumbai.burrp.com/listing/crispy-cream_borivali-west_mumbai_restaurants/1145409495
+p302
+sg14
+VBorivali West
+p303
+sg16
+(lp304
+V28333100
+p305
+asg22
+g23
+sg24
+VShop No. 7, Bhattap Tower, Borivali West, Mumbai
+p306
+sba(i__main__
+Place
+p307
+(dp308
+g3
+(lp309
+VRestaurants
+p310
+asg8
+g186
+sg10
+VFire On Ice
+p311
+sg12
+Vhttp://mumbai.burrp.com/listing/fire-on-ice_borivali-west_mumbai_restaurants/1276526782
+p312
+sg14
+VBorivali West
+p313
+sg16
+(lp314
+V9920487625
+p315
+aV 9172344446
+p316
+asg22
+g23
+sg24
+VEkskar Road, Near Ekskar Pond, Borivali (W), Borivali West, Mumbai
+p317
+sba(i__main__
+Place
+p318
+(dp319
+g3
+(lp320
+VRestaurants
+p321
+asg8
+g43
+sg10
+VSu-Veg
+p322
+sg12
+Vhttp://mumbai.burrp.com/listing/su-veg_borivali-west_mumbai_restaurants/1558140554
+p323
+sg14
+VBorivali West
+p324
+sg16
+(lp325
+V28052783
+p326
+aV 28657954
+p327
+asg22
+g23
+sg24
+VGanesh Bhavan, Ground Floor, S V Road, Borivali West, Mumbai
+p328
+sba(i__main__
+Place
+p329
+(dp330
+g3
+(lp331
+VRestaurants
+p332
+asg8
+g43
+sg10
+VShri Sagar
+p333
+sg12
+Vhttp://mumbai.burrp.com/listing/shri-sagar_borivali-west_mumbai_restaurants/1872221722
+p334
+sg14
+VBorivali West
+p335
+sg16
+(lp336
+V28983693
+p337
+aV 28997555
+p338
+asg22
+g263
+sg24
+VDattani Apartments, Lokmanya Tilak Road, Borivali West, Mumbai
+p339
+sba(i__main__
+Place
+p340
+(dp341
+g3
+(lp342
+VRestaurants
+p343
+asg8
+g43
+sg10
+VGarcia's Famous Pizza
+p344
+sg12
+Vhttp://mumbai.burrp.com/listing/garcias-famous-pizza_borivali-west_mumbai_restaurants/147165762
+p345
+sg14
+VBorivali West
+p346
+sg16
+(lp347
+V66922727
+p348
+aV 66922728
+p349
+aV 9930462673
+p350
+asg22
+g23
+sg24
+VShop no.3, Shroff Tower, Sodawala Lane, Borivali West, Mumbai
+p351
+sba(i__main__
+Place
+p352
+(dp353
+g3
+(lp354
+VRestaurants
+p355
+aV Bars & Pubs
+p356
+asg8
+g43
+sg10
+VThe Leisure Point
+p357
+sg12
+Vhttp://mumbai.burrp.com/listing/the-leisure-point_borivali-west_mumbai_restaurants-bars-pubs/12164188
+p358
+sg14
+VBorivali West
+p359
+sg16
+(lp360
+V28926595
+p361
+aV 28951433
+p362
+asg22
+g37
+sg24
+VChandavarkar Cross Road, Opposite Raj Mahal Hotel, Borivali West, Mumbai
+p363
+sba(i__main__
+Place
+p364
+(dp365
+g3
+(lp366
+VRestaurants
+p367
+asg8
+g43
+sg10
+VYogi Rudrakshi Restaurant & Bar
+p368
+sg12
+Vhttp://mumbai.burrp.com/listing/yogi-rudrakshi-restaurant-bar_borivali-west_mumbai_restaurants/148381861
+p369
+sg14
+VBorivali West
+p370
+sg16
+(lp371
+V28336604
+p372
+aV 28983534
+p373
+asg22
+g23
+sg24
+VYogi Nagar Road, Borivali (W), Borivali West, Mumbai
+p374
+sba(i__main__
+Place
+p375
+(dp376
+g3
+(lp377
+VRestaurants
+p378
+asg8
+g43
+sg10
+VBamboo Garden
+p379
+sg12
+Vhttp://mumbai.burrp.com/listing/bamboo-garden_borivali-west_mumbai_restaurants/125739584
+p380
+sg14
+VBorivali West
+p381
+sg16
+(lp382
+V28909108
+p383
+aV 65262240
+p384
+asg22
+g263
+sg24
+VI.C.Colony, Main Road, Borivali (W), Borivali West, Mumbai
+p385
+sba(i__main__
+Place
+p386
+(dp387
+g3
+(lp388
+VRestaurants
+p389
+asg8
+g43
+sg10
+VDeepak Restaurant
+p390
+sg12
+Vhttp://mumbai.burrp.com/listing/deepak-restaurant_borivali-west_mumbai_restaurants/1336302376
+p391
+sg14
+VBorivali West
+p392
+sg16
+(lp393
+V28916666
+p394
+aV 28930730
+p395
+aV 28919799
+p396
+asg22
+g23
+sg24
+V14, Laxmichhaya, L.T. Road, Babhai Naka, Borivali West, Mumbai
+p397
+sba(i__main__
+Place
+p398
+(dp399
+g3
+(lp400
+VRestaurants
+p401
+aV Outdoor Caterers
+p402
+asg8
+g43
+sg10
+VNight Evil Chinese Restaurant
+p403
+sg12
+Vhttp://mumbai.burrp.com/listing/night-evil-chinese-restaurant_borivali-west_mumbai_restaurants-outdoor-caterers/1398120970
+p404
+sg14
+VBorivali West
+p405
+sg16
+(lp406
+V28927046
+p407
+aV 28922889
+p408
+asg22
+g37
+sg24
+VShop No. 3, Haridarshan Building, L. T. Road, Borivali West, Mumbai
+p409
+sba(i__main__
+Place
+p410
+(dp411
+g3
+(lp412
+VRestaurants
+p413
+asg8
+g9
+sg10
+VFlavours Of China Restaurant
+p414
+sg12
+Vhttp://mumbai.burrp.com/listing/flavours-of-china-restaurant_borivali-west_mumbai_restaurants/1638177346
+p415
+sg14
+VBorivali West
+p416
+sg16
+(lp417
+V28993166
+p418
+aV 28993423
+p419
+asg22
+g23
+sg24
+VBuilding No 102, 1st Floor, Vrajdeep Aparments, Chandravarkar Road , Borivali West, Mumbai
+p420
+sba(i__main__
+Place
+p421
+(dp422
+g3
+(lp423
+VOutdoor Caterers
+p424
+aV Restaurants
+p425
+asg8
+g37
+sg10
+VKababchini
+p426
+sg12
+Vhttp://mumbai.burrp.com/listing/kababchini_borivali-west_mumbai_outdoor-caterers-restaurants/14522620564
+p427
+sg14
+VBorivali West
+p428
+sg16
+(lp429
+V29676786
+p430
+aV 29677786
+p431
+aV 9930555159
+p432
+asg22
+g23
+sg24
+VDatta Prasad CHS, Plot No. 1, Shop No. 1, L.T. Road, Gorai II, Borivali West, Mumbai
+p433
+sba(i__main__
+Place
+p434
+(dp435
+g3
+(lp436
+VRestaurants
+p437
+asg8
+g37
+sg10
+VNoor Caterers And Biryani Centre
+p438
+sg12
+Vhttp://mumbai.burrp.com/listing/noor-caterers-and-biryani-centre_borivali-west_mumbai_restaurants/1596880950
+p439
+sg14
+VBorivali West
+p440
+sg16
+(lp441
+V28335390
+p442
+aV 28999798
+p443
+asg22
+g37
+sg24
+VEksar Road, Masjid Chawl, Borivali (W), Borivali West, Mumbai
+p444
+sba(i__main__
+Place
+p445
+(dp446
+g3
+(lp447
+VRestaurants
+p448
+asg8
+g37
+sg10
+VDwaraka Veg restaurant
+p449
+sg12
+Vhttp://mumbai.burrp.com/listing/dwaraka-veg-restaurant_borivali-west_mumbai_restaurants/1224420287
+p450
+sg14
+VBorivali West
+p451
+sg16
+(lp452
+V28997304
+p453
+aV 28997305
+p454
+aV 28999076
+p455
+aV 9967597304
+p456
+asg22
+g23
+sg24
+VNarmada Enclave, Shimpoli Cross Road, Borivali West, Mumbai
+p457
+sba(i__main__
+Place
+p458
+(dp459
+g3
+(lp460
+VRestaurants
+p461
+aV Cafes
+p462
+aV Food-court Stalls
+p463
+asg8
+g37
+sg10
+VMahakali Hotel
+p464
+sg12
+Vhttp://mumbai.burrp.com/listing/mahakali-hotel_borivali-west_mumbai_restaurants-cafes-food-court-stalls/1778250732
+p465
+sg14
+VBorivali West
+p466
+sg16
+(lp467
+V28621195
+p468
+aV 28649145
+p469
+asg22
+g37
+sg24
+VShop No 1/2, 4th Chambers, S V Road, Borivali West, Mumbai
+p470
+sba(i__main__
+Place
+p471
+(dp472
+g3
+(lp473
+VIce-cream Parlours
+p474
+aV Cafes
+p475
+aV Juice Parlours
+p476
+aV Restaurants
+p477
+aV Food-court Stalls
+p478
+asg8
+g37
+sg10
+VSaffron Restaurant
+p479
+sg12
+Vhttp://mumbai.burrp.com/listing/saffron-restaurant_kora-kendra_mumbai_ice-cream-parlours-cafes-juice-parlours/17311031336
+p480
+sg14
+VKora Kendra
+p481
+sg16
+(lp482
+V28338976
+p483
+aV 28338977
+p484
+asg22
+g37
+sg24
+VShop No 1/3, Mangal Aarambh, Near Kora Kendra, Kora Kendra, Borivali West, Mumbai
+p485
+sba(i__main__
+Place
+p486
+(dp487
+g3
+(lp488
+VRestaurants
+p489
+aV Juice Parlours
+p490
+asg8
+g37
+sg10
+VLink View Bar And Restaurant
+p491
+sg12
+Vhttp://mumbai.burrp.com/listing/link-view-bar-and-restaurant_borivali-west_mumbai_restaurants-juice-parlours/1798151930
+p492
+sg14
+VBorivali West
+p493
+sg16
+(lp494
+V28333800
+p495
+aV 28338800
+p496
+aV 9870004000
+p497
+asg22
+g37
+sg24
+VGround Floor, Shree Tower, New Link Road , Opposite Shiny Health Club, Borivali West, Mumbai
+p498
+sba(i__main__
+Place
+p499
+(dp500
+g3
+(lp501
+VRestaurants
+p502
+asg8
+g37
+sg10
+VTavira
+p503
+sg12
+Vhttp://mumbai.burrp.com/listing/tavira_borivali-west_mumbai_restaurants/1456591564
+p504
+sg14
+VBorivali West
+p505
+sg16
+(lp506
+V65112248
+p507
+asg22
+g37
+sg24
+VGorai Khadi (Jetty), L T Road, Borivali (W), Borivali West, Mumbai
+p508
+sba(i__main__
+Place
+p509
+(dp510
+g3
+(lp511
+VRestaurants
+p512
+asg8
+g263
+sg10
+VHumpty Dumpty Restaurant
+p513
+sg12
+Vhttp://mumbai.burrp.com/listing/humpty-dumpty-restaurant_borivali-west_mumbai_restaurants/1418265168
+p514
+sg14
+VBorivali West
+p515
+sg16
+(lp516
+V28690473
+p517
+aV 65152672
+p518
+aV 9920763169
+p519
+asg22
+g23
+sg24
+VShop No 9, Gangotri CHS, Gorai Road Plot No 57, Borivali West, Mumbai
+p520
+sba(i__main__
+Place
+p521
+(dp522
+g3
+(lp523
+VRestaurants
+p524
+asg8
+g37
+sg10
+VDinette Restaurant
+p525
+sg12
+Vhttp://mumbai.burrp.com/listing/dinette-restaurant_borivali-west_mumbai_restaurants/1618186148
+p526
+sg14
+VBorivali West
+p527
+sg16
+(lp528
+V28657979
+p529
+aV 28658989
+p530
+asg22
+g37
+sg24
+VSoni Tower , Haridas Nagar, Borivali West, Mumbai
+p531
+sba(i__main__
+Place
+p532
+(dp533
+g3
+(lp534
+VRestaurants
+p535
+aV Outdoor Caterers
+p536
+asg8
+g37
+sg10
+VStatus Restaurant Pure Veg
+p537
+sg12
+Vhttp://mumbai.burrp.com/listing/status-restaurant-pure-veg_gorai_mumbai_restaurants-outdoor-caterers/1278236782
+p538
+sg14
+VGorai
+p539
+sg16
+(lp540
+V28695464
+p541
+aV 28679726
+p542
+asg22
+g23
+sg24
+VShop No. 3, Plot No. 16, R.D.P. 1, Gorai Shree Ashtavinayak Co-Op Housing Society, Gorai, Borivali West, Mumbai
+p543
+sba(i__main__
+Place
+p544
+(dp545
+g3
+(lp546
+VRestaurants
+p547
+asg8
+g37
+sg10
+VSouthern Delight
+p548
+sg12
+Vhttp://mumbai.burrp.com/listing/southern-delight_borivali-west_mumbai_restaurants/1338237376
+p549
+sg14
+VBorivali West
+p550
+sg16
+(lp551
+V28061760
+p552
+aV 28618361
+p553
+asg22
+g37
+sg24
+VShop No 21, Amar Building , Borivali West, Mumbai
+p554
+sba(i__main__
+Place
+p555
+(dp556
+g3
+(lp557
+VJuice Parlours
+p558
+aV Restaurants
+p559
+aV Ice-cream Parlours
+p560
+asg8
+g263
+sg10
+VSweekar Restaurant And Fast Food Corner
+p561
+sg12
+Vhttp://mumbai.burrp.com/listing/sweekar-restaurant-and-fast-food-corner_borivali-west_mumbai_juice-parlours-restaurants-ice-cream-parlours/1998243910
+p562
+sg14
+VBorivali West
+p563
+sg16
+(lp564
+V28060886
+p565
+asg22
+g37
+sg24
+VShop No 18/19, Saibaba Dham Co Operative Housing Socity, Saibaba Nagar, Next To Harihar Building, Borivali West, Mumbai
+p566
+sba(i__main__
+Place
+p567
+(dp568
+g3
+(lp569
+VRestaurants
+p570
+asg8
+g37
+sg10
+VMahakali Fast Food And Juice Centre
+p571
+sg12
+Vhttp://mumbai.burrp.com/listing/mahakali-fast-food-and-juice-centre_borivali-west_mumbai_restaurants/1758250534
+p572
+sg14
+VBorivali West
+p573
+sg16
+(lp574
+V28621195
+p575
+asg22
+g37
+sg24
+VShop No 1/2 Court Chamber, S V Rd, Opp Bhatia Hall, Borivali West, Mumbai
+p576
+sba(i__main__
+Place
+p577
+(dp578
+g3
+(lp579
+VIce-cream Parlours
+p580
+aV Restaurants
+p581
+asg8
+g37
+sg10
+VCity Of JOY
+p582
+sg12
+Vhttp://mumbai.burrp.com/listing/city-of-joy_borivali-west_mumbai_ice-cream-parlours-restaurants/1658258544
+p583
+sg14
+VBorivali West
+p584
+sg16
+(lp585
+V28011877
+p586
+aV 9867499001
+p587
+asg22
+g37
+sg24
+VOpp Ajanta Cinema, Borivali West, Mumbai
+p588
+sba(i__main__
+Place
+p589
+(dp590
+g3
+(lp591
+VRestaurants
+p592
+asg8
+g37
+sg10
+VGreen Spice Restaurant
+p593
+sg12
+Vhttp://mumbai.burrp.com/listing/green-spice-restaurant_borivali-west_mumbai_restaurants/1718268138
+p594
+sg14
+VBorivali West
+p595
+sg16
+(lp596
+V64510519
+p597
+asg22
+g37
+sg24
+VShop No 3 Kent Garden, Tps Rd, Nr Sawarkar Garden BMC Mkt, Borivali West, Mumbai
+p598
+sba(i__main__
+Place
+p599
+(dp600
+g3
+(lp601
+VRestaurants
+p602
+aV Dessert Shops
+p603
+aV Cafes
+p604
+asg8
+g37
+sg10
+VPooja Ice Bhel
+p605
+sg12
+Vhttp://mumbai.burrp.com/listing/pooja-ice-bhel_borivali-west_mumbai_restaurants-dessert-shops-cafes/1598284950
+p606
+sg14
+VBorivali West
+p607
+sg16
+(lp608
+V
+p609
+aV 9869049401
+p610
+asg22
+g37
+sg24
+VAditya Tower, Ground Floor, Chandrawakar Road, Maharashtra Nagar, Borivali West, Mumbai
+p611
+sba(i__main__
+Place
+p612
+(dp613
+g3
+(lp614
+VRestaurants
+p615
+asg8
+g37
+sg10
+VDaffodils Restaurant
+p616
+sg12
+Vhttp://mumbai.burrp.com/listing/daffodils-restaurant_eksar-road_mumbai_restaurants/1259406584
+p617
+sg14
+VEksar Road
+p618
+sg16
+(lp619
+V28907737
+p620
+aV 28939081
+p621
+asg22
+g37
+sg24
+VRoyal Complex, Raj Sardi Building, Eksar Road, Borivali West, Mumbai
+p622
+sba(i__main__
+Place
+p623
+(dp624
+g3
+(lp625
+VRestaurants
+p626
+aV Outdoor Caterers
+p627
+asg8
+g37
+sg10
+VPhenomenal's Restaurant
+p628
+sg12
+Vhttp://mumbai.burrp.com/listing/phenomenals-restaurant_borivali-west_mumbai_restaurants-outdoor-caterers/16522613544
+p629
+sg14
+VBorivali West
+p630
+sg16
+(lp631
+V28688801
+p632
+aV 28688802
+p633
+asg22
+g37
+sg24
+V102, RCS-37, Samrat Ashok, Gorai-2, Borivali West, Mumbai
+p634
+sba(i__main__
+Place
+p635
+(dp636
+g3
+(lp637
+VRestaurants
+p638
+asg8
+g37
+sg10
+VSukh Sagar
+p639
+sg12
+Vhttp://mumbai.burrp.com/listing/sukh-sagar_borivali-west_mumbai_restaurants/179744930
+p640
+sg14
+VBorivali West
+p641
+sg16
+(lp642
+V28999786
+p643
+aV 28999788
+p644
+asg22
+g23
+sg24
+VAvanti Building, Haridas Nagar, Shimpoli Road, Near Veg Treat Hotel, Borivali (W), Borivali West, Mumbai
+p645
+sba(i__main__
+Place
+p646
+(dp647
+g3
+(lp648
+VRestaurants
+p649
+aV Banquet Halls
+p650
+asg8
+g37
+sg10
+VBrass Anchor
+p651
+sg12
+Vhttp://mumbai.burrp.com/listing/brass-anchor_borivali-west_mumbai_restaurants-banquet-halls/1294411980
+p652
+sg14
+VBorivali West
+p653
+sg16
+(lp654
+V28628527
+p655
+aV 28611062
+p656
+aV 9930529516
+p657
+aV 9892508004
+p658
+asg22
+g23
+sg24
+VN.R. Karode Marg, Natakwala Lane, S.V. Road, Borivali West, Mumbai
+p659
+sba(i__main__
+Place
+p660
+(dp661
+g3
+(lp662
+VRestaurants
+p663
+asg8
+g37
+sg10
+VChoi Kim Cuisine
+p664
+sg12
+Vhttp://mumbai.burrp.com/listing/choi-kim-cuisine_borivali-west_mumbai_restaurants/1637025346
+p665
+sg14
+VBorivali West
+p666
+sg16
+(lp667
+V28928332
+p668
+aV 65755920
+p669
+aV 9892182586
+p670
+asg22
+g37
+sg24
+VMansi Enclave, Shop No. 1 & 2, I.C. Colony, Borivali West, Mumbai
+p671
+sba(i__main__
+Place
+p672
+(dp673
+g3
+(lp674
+VRestaurants
+p675
+asg8
+g37
+sg10
+VShree Datta Restaurant
+p676
+sg12
+Vhttp://mumbai.burrp.com/listing/shree-datta-restaurant_borivali-west_mumbai_restaurants/1798106930
+p677
+sg14
+VBorivali West
+p678
+sg16
+(lp679
+V28935767
+p680
+aV 28942466
+p681
+asg22
+g37
+sg24
+VGround Floor, Ashish Bhavan, Mandpeshwar Road , Borivali West, Mumbai
+p682
+sba(i__main__
+Place
+p683
+(dp684
+g3
+(lp685
+VRestaurants
+p686
+asg8
+g37
+sg10
+VSamadhan Bar & Restaurant
+p687
+sg12
+Vhttp://mumbai.burrp.com/listing/samadhan-bar-restaurant_borivali-west_mumbai_restaurants/1498130960
+p688
+sg14
+VBorivali West
+p689
+sg16
+(lp690
+V28090499
+p691
+asg22
+g37
+sg24
+VShastri Nagar, S V Road, Borivali West, Mumbai
+p692
+sba(i__main__
+Place
+p693
+(dp694
+g3
+(lp695
+VRestaurants
+p696
+asg8
+g37
+sg10
+VSeeta Nx
+p697
+sg12
+Vhttp://mumbai.burrp.com/listing/seeta-nx_borivali-west_mumbai_restaurants/1678132742
+p698
+sg14
+VBorivali West
+p699
+sg16
+(lp700
+V28901642
+p701
+aV 28902980
+p702
+asg22
+g37
+sg24
+VB 8, Shroff Apartment, Sodawala Lane, Borivali West, Mumbai
+p703
+sba(i__main__
+Place
+p704
+(dp705
+g3
+(lp706
+VRestaurants
+p707
+asg8
+g37
+sg10
+VSai Sagar
+p708
+sg12
+Vhttp://mumbai.burrp.com/listing/sai-sagar_borivali-west_mumbai_restaurants/1278137782
+p709
+sg14
+VBorivali West
+p710
+sg16
+(lp711
+V28061760
+p712
+aV 28618361
+p713
+asg22
+g37
+sg24
+VShop No 1, Amar Building, Sai Baba Nagar, Borivali West, Mumbai
+p714
+sba(i__main__
+Place
+p715
+(dp716
+g3
+(lp717
+VHotels
+p718
+aV Restaurants
+p719
+asg8
+g37
+sg10
+VRavine Hotel
+p720
+sg12
+Vhttp://mumbai.burrp.com/listing/ravine-hotel_borivali-west_mumbai_hotels-restaurants/1118154198
+p721
+sg14
+VBorivali West
+p722
+sg16
+(lp723
+V28065895
+p724
+aV 28090911
+p725
+aV 28646466
+p726
+asg22
+g37
+sg24
+VA/206 Sai Darshan Building, S V Road, Near Vijay Sales, Borivali West, Mumbai
+p727
+sba(i__main__
+Place
+p728
+(dp729
+g3
+(lp730
+VRestaurants
+p731
+asg8
+g37
+sg10
+VOm Shivam Restaurant
+p732
+sg12
+Vhttp://mumbai.burrp.com/listing/om-shivam-restaurant_borivali-west_mumbai_restaurants/1738160336
+p733
+sg14
+VBorivali West
+p734
+sg16
+(lp735
+V28696020
+p736
+aV 28696050
+p737
+asg22
+g37
+sg24
+VPlot No 65, Sangita Cooperative Housing Soceity, Lokmanya Tilak Road, Near Gorai Creek , Borivali West, Mumbai
+p738
+sba(i__main__
+Place
+p739
+(dp740
+g3
+(lp741
+VRestaurants
+p742
+asg8
+g37
+sg10
+VNisha Palace
+p743
+sg12
+Vhttp://mumbai.burrp.com/listing/nisha-palace_borivali-west_mumbai_restaurants/1238164386
+p744
+sg14
+VBorivali West
+p745
+sg16
+(lp746
+V28905709
+p747
+asg22
+g37
+sg24
+VL T Road, Near Railway Station, Borivali West, Mumbai
+p748
+sba(i__main__
+Place
+p749
+(dp750
+g3
+(lp751
+VRestaurants
+p752
+asg8
+g37
+sg10
+VAashirwad Restaurant
+p753
+sg12
+Vhttp://mumbai.burrp.com/listing/aashirwad-restaurant_borivali-west_mumbai_restaurants/1958171514
+p754
+sg14
+VBorivali West
+p755
+sg16
+(lp756
+V28901852
+p757
+aV 28943878
+p758
+aV 9819510334
+p759
+asg22
+g37
+sg24
+VJunction Of I C And L I C Colony, Borivali West, Mumbai
+p760
+sba(i__main__
+Place
+p761
+(dp762
+g3
+(lp763
+VRestaurants
+p764
+aV Banquet Halls
+p765
+asg8
+g37
+sg10
+VAjanta Party Hall
+p766
+sg12
+Vhttp://mumbai.burrp.com/listing/ajanta-party-hall_borivali-west_mumbai_restaurants-banquet-halls/1438175366
+p767
+sg14
+VBorivali West
+p768
+sg16
+(lp769
+V28064449
+p770
+aV 28629979
+p771
+aV 9820752129
+p772
+asg22
+g37
+sg24
+VSumer Nagar, Adjacent to Flyover, S. V. Road, Borivali West, Mumbai
+p773
+sba(i__main__
+Place
+p774
+(dp775
+g3
+(lp776
+VRestaurants
+p777
+asg8
+g37
+sg10
+VBorivili Biryani Centre
+p778
+sg12
+Vhttp://mumbai.burrp.com/listing/borivili-biryani-centre_borivali-west_mumbai_restaurants/1318219178
+p779
+sg14
+VBorivali West
+p780
+sg16
+(lp781
+V28332722
+p782
+aV 32999277
+p783
+aV 9892676127
+p784
+asg22
+g37
+sg24
+VPlot No C 25/26/27, Aditiya CHS, Link Road Chiku Wadi, Borivali West, Mumbai
+p785
+sba(i__main__
+Place
+p786
+(dp787
+g3
+(lp788
+VRestaurants
+p789
+asg8
+g37
+sg10
+VSiddharth Restaurant
+p790
+sg12
+Vhttp://mumbai.burrp.com/listing/siddharth-restaurant_borivali-west_mumbai_restaurants/1598230950
+p791
+sg14
+VBorivali West
+p792
+sg16
+(lp793
+V28989352
+p794
+asg22
+g37
+sg24
+VShop No B/17, Hari Vijay Apartment, Link Road, Shimpoli, Borivali West, Mumbai
+p795
+sba(i__main__
+Place
+p796
+(dp797
+g3
+(lp798
+VRestaurants
+p799
+asg8
+g37
+sg10
+VMalgudi
+p800
+sg12
+Vhttp://mumbai.burrp.com/listing/malgudi_borivali-west_mumbai_restaurants/11122626198
+p801
+sg14
+VBorivali West
+p802
+sg16
+(lp803
+V28670508
+p804
+aV 28670509
+p805
+asg22
+g37
+sg24
+VShop No.2 & 3, Plot no.57, Gorai Road, Gorai ll, Borivali West, Mumbai
+p806
+sba(i__main__
+Place
+p807
+(dp808
+g3
+(lp809
+VRestaurants
+p810
+asg8
+g37
+sg10
+VBalkrishna Holiday Home
+p811
+sg12
+Vhttp://mumbai.burrp.com/listing/balkrishna-holiday-home_borivali-west_mumbai_restaurants/15323989356
+p812
+sg14
+VBorivali West
+p813
+sg16
+(lp814
+V28452129
+p815
+asg22
+g37
+sg24
+VGorai Beach, Vairala Talao, Near Vairala Church, Gorai  Uttan Road, CTS No 321, Borivali West, Mumbai
+p816
+sba(i__main__
+Place
+p817
+(dp818
+g3
+(lp819
+VRestaurants
+p820
+asg8
+g37
+sg10
+VFlavours Restaurant
+p821
+sg12
+Vhttp://mumbai.burrp.com/listing/flavours-restaurant_ic-colony_mumbai_restaurants/18124334128
+p822
+sg14
+VIC Colony
+p823
+sg16
+(lp824
+V8108285000
+p825
+aV 9967809440
+p826
+asg22
+g23
+sg24
+VShop No 1, Bhavdevi Compound, Holy Cross Road, IC Colony, Borivali West, Mumbai
+p827
+sba.

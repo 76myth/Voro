@@ -1,0 +1,46 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Outdoor Caterers
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VJaina's
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/jainas_sonawala-road_mumbai_restaurants-outdoor-caterers/15322936356
+p12
+sS'region'
+p13
+VSonawala Road
+p14
+sS'phone'
+p15
+(lp16
+V26853897
+p17
+aV 26853570
+p18
+aV 9220756603
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VShop No. 3, Corporate Avenue, Sonawala Road, Goregaon East, Mumbai
+p23
+sba.

@@ -1,0 +1,40 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VSealord Permit Room & Restaurant Bar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/sealord-permit-room-restaurant-bar_worli-sea-face_mumbai_restaurants/13513664574
+p11
+sS'region'
+p12
+VWorli Sea Face
+p13
+sS'phone'
+p14
+(lp15
+V66633780
+p16
+asS'cost'
+p17
+V0
+p18
+sS'addr'
+p19
+VShop No 108, Neelam Building, Worli Sea Face, Worli, Mumbai
+p20
+sba.

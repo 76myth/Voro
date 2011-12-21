@@ -1,0 +1,104 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VThambi
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/thambi_lbs-marg-ghatkopar-west_mumbai_restaurants/1337193376
+p11
+sS'region'
+p12
+VLBS Marg (Ghatkopar West)
+p13
+sS'phone'
+p14
+(lp15
+V25004773
+p16
+aV 25004774
+p17
+asS'cost'
+p18
+V1
+p19
+sS'addr'
+p20
+VPatanwala Compound, LBS Marg, Opp. Shreyas Talkies, LBS Marg (Ghatkopar West), Ghatkopar West, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V0
+p26
+sg8
+VDesi Tadka
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/desi-tadka_lbs-marg-ghatkopar-west_mumbai_restaurants/1335492376
+p28
+sg12
+VLBS Marg (Ghatkopar West)
+p29
+sg14
+(lp30
+V25007244
+p31
+aV 64521495
+p32
+aV 9987361747
+p33
+asg18
+V2
+p34
+sg20
+VOpposite Shantiniketan Society, LBS Marg (Ghatkopar West), Ghatkopar West, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+g26
+sg8
+VAashirwad Hotel
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/aashirwad-hotel_lbs-marg-ghatkopar-west_mumbai_restaurants/18311149326
+p41
+sg12
+VLBS Marg (Ghatkopar West)
+p42
+sg14
+(lp43
+V25004767
+p44
+asg18
+g26
+sg20
+VOpposite Dena Bank, LBS Marg (Ghatkopar West), Ghatkopar West, Mumbai
+p45
+sba.

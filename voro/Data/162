@@ -1,0 +1,290 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VSawali 
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/sawali-_kurla-east_mumbai_restaurants/1436870366
+p11
+sS'region'
+p12
+VKurla East
+p13
+sS'phone'
+p14
+(lp15
+V9819563724
+p16
+aV 9820004023
+p17
+aV 25232621
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VA/L.H.C. 125-126, Nehru Nagar, S.G.Barve Marg Rd., Kurla (E), Kurla East, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+V4
+p27
+sg8
+VMahesh Lunch Home
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/mahesh-lunch-home_kurla-east_mumbai_restaurants/1934481316
+p29
+sg12
+VKurla East
+p30
+sg14
+(lp31
+V25229741 
+p32
+aV 25225185
+p33
+asg19
+V0
+p34
+sg21
+VS. G. Barve Marg, Nehru Nagar, Kurla East, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VDessert Shops
+p39
+aV Restaurants
+p40
+aV Cafes
+p41
+aV Juice Parlours
+p42
+asg6
+g34
+sg8
+VAnkush Resturants & Bar
+p43
+sg10
+Vhttp://mumbai.burrp.com/listing/ankush-resturants-bar_kurla-east_mumbai_dessert-shops-restaurants-cafes/14111037168
+p44
+sg12
+VKurla East
+p45
+sg14
+(lp46
+V25285707
+p47
+asg19
+g34
+sg21
+VShiv Srishti Road, Naik Nagar, Kurla East, Mumbai
+p48
+sba(i__main__
+Place
+p49
+(dp50
+g3
+(lp51
+VRestaurants
+p52
+asg6
+g34
+sg8
+VDurga Hotel
+p53
+sg10
+Vhttp://mumbai.burrp.com/listing/durga-hotel_kurla-east_mumbai_restaurants/16911039940
+p54
+sg12
+VKurla East
+p55
+sg14
+(lp56
+V25280801
+p57
+aV 25289869
+p58
+aV 64117861
+p59
+aV 9892181901
+p60
+asg19
+g34
+sg21
+VShop No 4/5, Shivsrushti Road, Nehru Nagar, Kurla East, Mumbai
+p61
+sba(i__main__
+Place
+p62
+(dp63
+g3
+(lp64
+VRestaurants
+p65
+asg6
+g34
+sg8
+VAnita Mahal Restaruant And Bar
+p66
+sg10
+Vhttp://mumbai.burrp.com/listing/anita-mahal-restaruant-and-bar_kurla-east_mumbai_restaurants/14311037366
+p67
+sg12
+VKurla East
+p68
+sg14
+(lp69
+V25226848
+p70
+asg19
+g34
+sg21
+VNehru Nagar , S G Barve Marg, Kurla East, Mumbai
+p71
+sba(i__main__
+Place
+p72
+(dp73
+g3
+(lp74
+VRestaurants
+p75
+asg6
+g34
+sg8
+VAnkush Hotel
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/ankush-hotel_kurla-east_mumbai_restaurants/15111038158
+p77
+sg12
+VKurla East
+p78
+sg14
+(lp79
+V25275028
+p80
+aV 25285707
+p81
+aV 9869559170
+p82
+asg19
+g34
+sg21
+VNaik Nagar, Shiv Srishti Marg, Kurla East, Mumbai
+p83
+sba(i__main__
+Place
+p84
+(dp85
+g3
+(lp86
+VRestaurants
+p87
+asg6
+g34
+sg8
+VDurga Hotel
+p88
+sg10
+Vhttp://mumbai.burrp.com/listing/durga-hotel_kurla-east_mumbai_restaurants/17311040336
+p89
+sg12
+VKurla East
+p90
+sg14
+(lp91
+V25289869
+p92
+aV 9892181901
+p93
+asg19
+g34
+sg21
+VShop No 39/40/41, Nehru Nagar, Mother Dairy Road, Kurla East, Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VRestaurants
+p98
+asg6
+g34
+sg8
+VSwaroopa Restaurant And Bar
+p99
+sg10
+Vhttp://mumbai.burrp.com/listing/swaroopa-restaurant-and-bar_kurla-east_mumbai_restaurants/18711041722
+p100
+sg12
+VKurla East
+p101
+sg14
+(lp102
+V25292221
+p103
+asg19
+g34
+sg21
+VShop No 261, Vatsalatai Nagar  , Near Thakkar Bappa Colony, Kurla East, Mumbai
+p104
+sba(i__main__
+Place
+p105
+(dp106
+g3
+(lp107
+VRestaurants
+p108
+asg6
+g34
+sg8
+VKhemanand Bar And Restaurant
+p109
+sg10
+Vhttp://mumbai.burrp.com/listing/khemanand-bar-and-restaurant_kurla-east_mumbai_restaurants/12111044188
+p110
+sg12
+VKurla East
+p111
+sg14
+(lp112
+V25278634
+p113
+asg19
+g34
+sg21
+VS G Barve Road , Near Pipe Line, Kurla East, Mumbai
+p114
+sba.

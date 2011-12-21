@@ -1,0 +1,81 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VEleven Echoes Bar and Lounge
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/eleven-echoes-bar-and-lounge_juhu-tara-road_mumbai_restaurants-bars-pubs/16910319940
+p12
+sS'region'
+p13
+VJuhu Tara Road
+p14
+sS'phone'
+p15
+(lp16
+V26177524
+p17
+aV 26177525
+p18
+aV 26184040
+p19
+aV 26184050
+p20
+asS'cost'
+p21
+g8
+sS'addr'
+p22
+V11, Echoes Hotel Beach Garden, Juhu Beach, Juhu Tara Road, Juhu, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg7
+g8
+sg9
+VHotel Fition
+p28
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-fition_juhu-tara-road_mumbai_restaurants/19710322712
+p29
+sg13
+VJuhu Tara Road
+p30
+sg15
+(lp31
+V26603875
+p32
+aV 26607701
+p33
+aV 26609710
+p34
+aV 66924658
+p35
+asg21
+g8
+sg22
+V8, Near To Hotel Ajanta, Juhu Tara Road, Juhu, Mumbai
+p36
+sba.

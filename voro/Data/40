@@ -1,0 +1,1035 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBars & Pubs
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VFlames
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/flames_cbd-belapur_navi-mumbai_bars-pubs-restaurants/16713703742
+p12
+sS'region'
+p13
+VCBD Belapur
+p14
+sS'phone'
+p15
+(lp16
+V27573737
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+V84, Prabhat Chambers, Plot No. 7, Sector 1A, CBD Belapur, Navi Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg7
+g8
+sg9
+VUdipi Shree Krishna Restaurant
+p26
+sg11
+Vhttp://mumbai.burrp.com/listing/udipi-shree-krishna-restaurant_cbd-belapur_navi-mumbai_restaurants/13113700178
+p27
+sg13
+VCBD Belapur
+p28
+sg15
+(lp29
+V27560458
+p30
+aV 27580396
+p31
+aV 32595953
+p32
+aV 65111620
+p33
+asg18
+V1
+p34
+sg20
+VKukreja Plaza, Sarovar Vihar Lane, Sector No 11, CBD Belapur, Navi Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg7
+V3
+p40
+sg9
+VCentre Point Restaurant & Bar
+p41
+sg11
+Vhttp://mumbai.burrp.com/listing/centre-point-restaurant-bar_cbd-belapur_navi-mumbai_restaurants/14913710960
+p42
+sg13
+VCBD Belapur
+p43
+sg15
+(lp44
+V27564679
+p45
+aV 27578932
+p46
+asg18
+g19
+sg20
+VPlot No 1, Vindya Commercial Complex, Sector 11, CBD Belapur, Navi Mumbai
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VRestaurants
+p51
+asg7
+V0
+p52
+sg9
+VHotel Vishwanand 
+p53
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-vishwanand-_cbd-belapur_navi-mumbai_restaurants/17913713930
+p54
+sg13
+VCBD Belapur
+p55
+sg15
+(lp56
+V27570542
+p57
+aV 27572499
+p58
+asg18
+g19
+sg20
+VPlot No 5, Om Chanakya, Sector 6, CBD Belapur, Navi Mumbai
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg7
+g52
+sg9
+VPalm Treat Lunch Home
+p64
+sg11
+Vhttp://mumbai.burrp.com/listing/palm-treat-lunch-home_cbd-belapur_navi-mumbai_restaurants/19513715514
+p65
+sg13
+VCBD Belapur
+p66
+sg15
+(lp67
+V32593096
+p68
+aV 9022469294
+p69
+asg18
+g19
+sg20
+VShop No 19, Sai Sagar, Sector No 15, CBD Belapur, Navi Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+aV Outdoor Caterers
+p75
+asg7
+g52
+sg9
+VLaxmi Pure Veg
+p76
+sg11
+Vhttp://mumbai.burrp.com/listing/laxmi-pure-veg_konkan-bhavan_navi-mumbai_restaurants-outdoor-caterers/15113738158
+p77
+sg13
+VKonkan Bhavan
+p78
+sg15
+(lp79
+V27575612
+p80
+aV 27581055
+p81
+aV 27581056
+p82
+aV 27581057
+p83
+asg18
+g19
+sg20
+VSector  15, Sai Sagar & Sai Sangam Building, Konkan Bhavan, CBD Belapur, Navi Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg7
+g52
+sg9
+VUdipi Shri Krishna Pure Veg Restaurant
+p89
+sg11
+Vhttp://mumbai.burrp.com/listing/udipi-shri-krishna-pure-veg-restaurant_cbd-belapur_navi-mumbai_restaurants/12313708386
+p90
+sg13
+VCBD Belapur
+p91
+sg15
+(lp92
+V27560458
+p93
+aV 27580396
+p94
+aV 32595953
+p95
+aV 65111620
+p96
+asg18
+g52
+sg20
+VGala No 14/15/16/17 , Ground Floor, Kukreja Plaza, Sector No 11, CBD Belapur, Navi Mumbai
+p97
+sba(i__main__
+Place
+p98
+(dp99
+g3
+(lp100
+VRestaurants
+p101
+asg7
+g52
+sg9
+VCalypso Family Restaurant & Bar
+p102
+sg11
+Vhttp://mumbai.burrp.com/listing/calypso-family-restaurant-bar_cbd-belapur_navi-mumbai_restaurants/15713711752
+p103
+sg13
+VCBD Belapur
+p104
+sg15
+(lp105
+V27561994
+p106
+aV 27563348
+p107
+aV 27564688
+p108
+asg18
+g19
+sg20
+VVindya Commercial Complex, Sector  11, CBD Belapur, Navi Mumbai
+p109
+sba(i__main__
+Place
+p110
+(dp111
+g3
+(lp112
+VBars & Pubs
+p113
+aV Restaurants
+p114
+asg7
+g52
+sg9
+VAishwarya Restaurant & Bar
+p115
+sg11
+Vhttp://mumbai.burrp.com/listing/aishwarya-restaurant-bar_cbd-belapur_navi-mumbai_bars-pubs-restaurants/17913695930
+p116
+sg13
+VCBD Belapur
+p117
+sg15
+(lp118
+V27575254
+p119
+aV 27576217
+p120
+asg18
+g19
+sg20
+VPlot No 5, Om Chanayak Cooparative Housing, Sector 6, CBD Belapur, Navi Mumbai
+p121
+sba(i__main__
+Place
+p122
+(dp123
+g3
+(lp124
+VRestaurants
+p125
+asg7
+g52
+sg9
+VSagar Lunch Home
+p126
+sg11
+Vhttp://mumbai.burrp.com/listing/sagar-lunch-home_cbd-belapur_navi-mumbai_restaurants/13113709178
+p127
+sg13
+VCBD Belapur
+p128
+sg15
+(lp129
+V27561441
+p130
+aV 27563394
+p131
+aV 27563395
+p132
+asg18
+g19
+sg20
+VShop No 4/ 5, Sai Pooja Chambers, Sector 11, CBD Belapur, Navi Mumbai
+p133
+sba(i__main__
+Place
+p134
+(dp135
+g3
+(lp136
+VBars & Pubs
+p137
+aV Restaurants
+p138
+asg7
+g52
+sg9
+VTurning Point Family Restaurant & Bar
+p139
+sg11
+Vhttp://mumbai.burrp.com/listing/turning-point-family-restaurant-bar_cbd-belapur_navi-mumbai_bars-pubs-restaurants/17723775732
+p140
+sg13
+VCBD Belapur
+p141
+sg15
+(lp142
+V27562436
+p143
+aV 27572314
+p144
+asg18
+g19
+sg20
+VChawla Plaza, Sector-11, CBD Belapur, Navi Mumbai
+p145
+sba(i__main__
+Place
+p146
+(dp147
+g3
+(lp148
+VRestaurants
+p149
+asg7
+g52
+sg9
+VChillis
+p150
+sg11
+Vhttp://mumbai.burrp.com/listing/chillis_cbd-belapur_navi-mumbai_restaurants/17523595534
+p151
+sg13
+VCBD Belapur
+p152
+sg15
+(lp153
+V32619199
+p154
+aV 27580831
+p155
+asg18
+g19
+sg20
+V50, Prabhat Centre, Sector -1A, CBD Belapur, Navi Mumbai
+p156
+sba(i__main__
+Place
+p157
+(dp158
+g3
+(lp159
+VFood-court Stalls
+p160
+aV Restaurants
+p161
+aV Fast Food Shops
+p162
+aV Cafes
+p163
+aV Ice-cream Parlours
+p164
+asg7
+g52
+sg9
+VDairy Don
+p165
+sg11
+Vhttp://mumbai.burrp.com/listing/dairy-don_cbd-belapur_navi-mumbai_food-court-stalls-restaurants-fast-food-shops/18713705722
+p166
+sg13
+VCBD Belapur
+p167
+sg15
+(lp168
+V27564865
+p169
+aV 27565321
+p170
+aV 9821514323
+p171
+asg18
+g52
+sg20
+VShop No 18, Plot No 1, Vidhya Commercial Complex, Sector No 11, CBD Belapur, Navi Mumbai
+p172
+sba(i__main__
+Place
+p173
+(dp174
+g3
+(lp175
+VRestaurants
+p176
+asg7
+g52
+sg9
+VHang Out
+p177
+sg11
+Vhttp://mumbai.burrp.com/listing/hang-out_cbd-belapur_navi-mumbai_restaurants/12522933584
+p178
+sg13
+VCBD Belapur
+p179
+sg15
+(lp180
+V27577852
+p181
+aV 27577857
+p182
+aV 9867415733
+p183
+asg18
+g19
+sg20
+VShop No. 31 & 32, Kukreja Plaza, Sector 2, CBD Belapur, Navi Mumbai
+p184
+sba(i__main__
+Place
+p185
+(dp186
+g3
+(lp187
+VRestaurants
+p188
+asg7
+g52
+sg9
+VItalian Terrazzo
+p189
+sg11
+Vhttp://mumbai.burrp.com/listing/italian-terrazzo_cbd-belapur_navi-mumbai_restaurants/19115245118
+p190
+sg13
+VCBD Belapur
+p191
+sg15
+(lp192
+V32059473
+p193
+aV 27571818
+p194
+asg18
+g19
+sg20
+V45, Ground Floor, Thapar Complex, Plot No. 51, Sector 15, CBD Belapur, Navi Mumbai
+p195
+sba(i__main__
+Place
+p196
+(dp197
+g3
+(lp198
+VRestaurants
+p199
+asg7
+g52
+sg9
+VHotel Pawan
+p200
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-pawan_cbd-belapur_navi-mumbai_restaurants/18713696722
+p201
+sg13
+VCBD Belapur
+p202
+sg15
+(lp203
+V27571727
+p204
+asg18
+g52
+sg20
+VShop No 1/2/3, Sector 3, Konkan Bhavan, CBD Belapur, Navi Mumbai
+p205
+sba(i__main__
+Place
+p206
+(dp207
+g3
+(lp208
+VRestaurants
+p209
+aV Bars & Pubs
+p210
+asg7
+g52
+sg9
+VKoffie & More
+p211
+sg11
+Vhttp://mumbai.burrp.com/listing/koffie-more_cbd-belapur_navi-mumbai_restaurants-bars-pubs/19713697712
+p212
+sg13
+VCBD Belapur
+p213
+sg15
+(lp214
+V65119777
+p215
+aV 9821050901
+p216
+asg18
+g52
+sg20
+VShop 14, trimbak Tower, Sector 15, Belapur, CBD Belapur, Navi Mumbai
+p217
+sba(i__main__
+Place
+p218
+(dp219
+g3
+(lp220
+VRestaurants
+p221
+asg7
+g52
+sg9
+VVishwa Kamal Restaurant
+p222
+sg11
+Vhttp://mumbai.burrp.com/listing/vishwa-kamal-restaurant_cbd-belapur_navi-mumbai_restaurants/12713699782
+p223
+sg13
+VCBD Belapur
+p224
+sg15
+(lp225
+V27574153
+p226
+aV 27574508
+p227
+asg18
+g52
+sg20
+VShop No 31, Plot No 43, Hemraj Building, Sector 11, CBD Belapur, Navi Mumbai
+p228
+sba(i__main__
+Place
+p229
+(dp230
+g3
+(lp231
+VRestaurants
+p232
+asg7
+g52
+sg9
+VLittle Chefs Restuarant
+p233
+sg11
+Vhttp://mumbai.burrp.com/listing/little-chefs-restuarant_cbd-belapur_navi-mumbai_restaurants/12913699980
+p234
+sg13
+VCBD Belapur
+p235
+sg15
+(lp236
+V65154001
+p237
+asg18
+g52
+sg20
+VShop No 17, Cirmbak Building, CBD Belapur, Navi Mumbai
+p238
+sba(i__main__
+Place
+p239
+(dp240
+g3
+(lp241
+VRestaurants
+p242
+asg7
+g52
+sg9
+VRadha Krishna Veg Restaurant
+p243
+sg11
+Vhttp://mumbai.burrp.com/listing/radha-krishna-veg-restaurant_cbd-belapur_navi-mumbai_restaurants/13913700970
+p244
+sg13
+VCBD Belapur
+p245
+sg15
+(lp246
+V27564728
+p247
+aV 27573699
+p248
+asg18
+g52
+sg20
+VPlot No 85, Sai Sangam Building, Sector 15, CBD Belapur, Navi Mumbai
+p249
+sba(i__main__
+Place
+p250
+(dp251
+g3
+(lp252
+VRestaurants
+p253
+asg7
+g52
+sg9
+VSai Trupti Restaurant
+p254
+sg11
+Vhttp://mumbai.burrp.com/listing/sai-trupti-restaurant_cbd-belapur_navi-mumbai_restaurants/12113708188
+p255
+sg13
+VCBD Belapur
+p256
+sg15
+(lp257
+V27573886
+p258
+aV 9819164400
+p259
+asg18
+g52
+sg20
+VGround Floor, Gala No  002 , Belapur Commercial Complex, CBD Belapur, Navi Mumbai
+p260
+sba(i__main__
+Place
+p261
+(dp262
+g3
+(lp263
+VRestaurants
+p264
+asg7
+g52
+sg9
+VMini Punjab Milestone Restaurant
+p265
+sg11
+Vhttp://mumbai.burrp.com/listing/mini-punjab-milestone-restaurant_cbd-belapur_navi-mumbai_restaurants/13913709970
+p266
+sg13
+VCBD Belapur
+p267
+sg15
+(lp268
+V27560268
+p269
+aV 27560278
+p270
+aV 27560288
+p271
+asg18
+g52
+sg20
+VCorporate Hotel, Sai Sagar, Plot No 69, Sector 15, CBD Belapur, Navi Mumbai
+p272
+sba(i__main__
+Place
+p273
+(dp274
+g3
+(lp275
+VBars & Pubs
+p276
+aV Restaurants
+p277
+asg7
+g52
+sg9
+VMeenakshi Restaurant & Bar
+p278
+sg11
+Vhttp://mumbai.burrp.com/listing/meenakshi-restaurant-bar_cbd-belapur_navi-mumbai_bars-pubs-restaurants/14313710366
+p279
+sg13
+VCBD Belapur
+p280
+sg15
+(lp281
+V27571018
+p282
+aV 65166783
+p283
+asg18
+g52
+sg20
+VSector 6, CBD Belapur, Navi Mumbai
+p284
+sba(i__main__
+Place
+p285
+(dp286
+g3
+(lp287
+VRestaurants
+p288
+asg7
+g52
+sg9
+VMilestone Enterprises
+p289
+sg11
+Vhttp://mumbai.burrp.com/listing/milestone-enterprises_cbd-belapur_navi-mumbai_restaurants/14513710564
+p290
+sg13
+VCBD Belapur
+p291
+sg15
+(lp292
+V27560268
+p293
+aV 27560278
+p294
+aV 9076363814
+p295
+aV 9833923924
+p296
+asg18
+g52
+sg20
+VShop No 13/14, Sai Sagar, Plot No 69, Sector No 15, CBD Belapur, Navi Mumbai
+p297
+sba(i__main__
+Place
+p298
+(dp299
+g3
+(lp300
+VRestaurants
+p301
+asg7
+g52
+sg9
+VCelebration Restaurant
+p302
+sg11
+Vhttp://mumbai.burrp.com/listing/celebration-restaurant_cbd-belapur_navi-mumbai_restaurants/15313711356
+p303
+sg13
+VCBD Belapur
+p304
+sg15
+(lp305
+V67939111
+p306
+aV 67939112
+p307
+aV 67939113
+p308
+aV 67939114
+p309
+asg18
+g52
+sg20
+VK Stars Hotel, Plot No 46 & 55, Sector 11, CBD Belapur, Navi Mumbai
+p310
+sba(i__main__
+Place
+p311
+(dp312
+g3
+(lp313
+VRestaurants
+p314
+asg7
+g52
+sg9
+VHari Om Furniture
+p315
+sg11
+Vhttp://mumbai.burrp.com/listing/hari-om-furniture_cbd-belapur_navi-mumbai_restaurants/16313712346
+p316
+sg13
+VCBD Belapur
+p317
+sg15
+(lp318
+V
+p319
+aV 9820255605
+p320
+asg18
+g52
+sg20
+VPlot No A/10, Urmila Apartment , Sector 14, Divala Village, CBD Belapur, Navi Mumbai
+p321
+sba(i__main__
+Place
+p322
+(dp323
+g3
+(lp324
+VRestaurants
+p325
+asg7
+g52
+sg9
+VVaibhavi Restaurant
+p326
+sg11
+Vhttp://mumbai.burrp.com/listing/vaibhavi-restaurant_cbd-belapur_navi-mumbai_restaurants/18113714128
+p327
+sg13
+VCBD Belapur
+p328
+sg15
+(lp329
+V67958220
+p330
+aV 67958221
+p331
+asg18
+g52
+sg20
+VShop No 10, Mermaid Towers, Sector 11, CBD Belapur, Navi Mumbai
+p332
+sba(i__main__
+Place
+p333
+(dp334
+g3
+(lp335
+VRestaurants
+p336
+asg7
+g52
+sg9
+VPawan Restaurant And Bar
+p337
+sg11
+Vhttp://mumbai.burrp.com/listing/pawan-restaurant-and-bar_cbd-belapur_navi-mumbai_restaurants/18913714920
+p338
+sg13
+VCBD Belapur
+p339
+sg15
+(lp340
+V27570983
+p341
+aV 27571727
+p342
+asg18
+g52
+sg20
+VShop No 1/2/3, Shopping Centre, Sector 3, CBD Belapur, Navi Mumbai
+p343
+sba(i__main__
+Place
+p344
+(dp345
+g3
+(lp346
+VJuice Parlours
+p347
+aV Bars & Pubs
+p348
+aV Hotels
+p349
+aV Restaurants
+p350
+asg7
+g52
+sg9
+VParjax Hospitality Pvt Ltd
+p351
+sg11
+Vhttp://mumbai.burrp.com/listing/parjax-hospitality-pvt-ltd_cbd-belapur_navi-mumbai_juice-parlours-bars-pubs-hotels/19113715118
+p352
+sg13
+VCBD Belapur
+p353
+sg15
+(lp354
+V27563829
+p355
+aV 27563832
+p356
+aV 9820443437
+p357
+aV 9821441958
+p358
+asg18
+g52
+sg20
+VShop No 14, Indulge Hilton Centre, Sector 11, Plot No 66, Next To K Star Hotel, CBD Belapur, Navi Mumbai
+p359
+sba(i__main__
+Place
+p360
+(dp361
+g3
+(lp362
+VRestaurants
+p363
+asg7
+g52
+sg9
+VLajjatdar Malwani
+p364
+sg11
+Vhttp://mumbai.burrp.com/listing/lajjatdar-malwani_sector-11-belapur_navi-mumbai_restaurants/18715424722
+p365
+sg13
+VSector 11 Belapur
+p366
+sg15
+(lp367
+V27571334
+p368
+aV 27571335
+p369
+aV 27573570
+p370
+aV 27573575
+p371
+asg18
+g19
+sg20
+VShop No.30, Kukreja Plaza, Plot No 46, 47, 55, Sector 11 Belapur, CBD Belapur, Navi Mumbai
+p372
+sba(i__main__
+Place
+p373
+(dp374
+g3
+(lp375
+VRestaurants
+p376
+asg7
+g52
+sg9
+VSai Krupa Restaurant
+p377
+sg11
+Vhttp://mumbai.burrp.com/listing/sai-krupa-restaurant_sector-11-belapur_navi-mumbai_restaurants/16315602346
+p378
+sg13
+VSector 11 Belapur
+p379
+sg15
+(lp380
+V9930764562
+p381
+aV 9594584384
+p382
+asg18
+g52
+sg20
+VSai Pooja Chamber, Plot No. 58, Sector 11 Belapur, CBD Belapur, Navi Mumbai
+p383
+sba(i__main__
+Place
+p384
+(dp385
+g3
+(lp386
+VRestaurants
+p387
+asg7
+g52
+sg9
+VHotel Nityanand Lunch Home
+p388
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-nityanand-lunch-home_sector-11-belapur_navi-mumbai_restaurants/11722905792
+p389
+sg13
+VSector 11 Belapur
+p390
+sg15
+(lp391
+V 32660242
+p392
+aV 27565510 
+p393
+aV 9221026883
+p394
+asg18
+g19
+sg20
+VSai Chamber Building, Shop No. 7, Plot No. 44, Sector 11, Sector 11 Belapur, CBD Belapur, Navi Mumbai
+p395
+sba.

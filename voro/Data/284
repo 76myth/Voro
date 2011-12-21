@@ -1,0 +1,70 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VShivkripa Pure Veg
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/shivkripa-pure-veg_thakurli-w_thane_restaurants/16723666742
+p11
+sS'region'
+p12
+VThakurli (W)
+p13
+sS'phone'
+p14
+(lp15
+V25346479
+p16
+aV 25449256
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VJambli Naka, Thakurli (W), Thane
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VRainbow Restaurant
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/rainbow-restaurant_thakurli-w_thane_restaurants/1945273415
+p27
+sg12
+VThakurli (W)
+p28
+sg14
+(lp29
+V39884422
+p30
+asg18
+g19
+sg20
+VFortune Park LakeCity, Jupiter Hospital Campus, Eastern Express Highway, Thakurli (W), Thane
+p31
+sba.

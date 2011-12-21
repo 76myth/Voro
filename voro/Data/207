@@ -1,0 +1,1156 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Banquet Halls
+p6
+aV Bars & Pubs
+p7
+aV Cafes
+p8
+aV Parks
+p9
+asS'rating'
+p10
+V4
+p11
+sS'name'
+p12
+VDara's Dhaba
+p13
+sS'url'
+p14
+Vhttp://mumbai.burrp.com/listing/daras-dhaba_mira-road-e_thane_restaurants-banquet-halls-bars-pubs/158112851
+p15
+sS'region'
+p16
+VMira Road (E)
+p17
+sS'phone'
+p18
+(lp19
+V28456119
+p20
+aV 32970818
+p21
+asS'cost'
+p22
+V2
+p23
+sS'addr'
+p24
+VWestern Express Highway, Ghodbunder Road, Mira Road (E), Thane
+p25
+sba(i__main__
+Place
+p26
+(dp27
+g3
+(lp28
+VRestaurants
+p29
+asg10
+V3
+p30
+sg12
+VKinara Dhaba
+p31
+sg14
+Vhttp://mumbai.burrp.com/listing/kinara-dhaba_mira-road-e_thane_restaurants/118864891
+p32
+sg16
+VMira Road (E)
+p33
+sg18
+(lp34
+V32504143
+p35
+asg22
+g23
+sg24
+VSasupada, Mumbai-Ahmedabad Highway, Mira Road (E), Thane
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VRestaurants
+p40
+asg10
+g30
+sg12
+VPali Village
+p41
+sg14
+Vhttp://mumbai.burrp.com/listing/pali-village_mira-road-e_thane_restaurants/1694415940
+p42
+sg16
+VMira Road (E)
+p43
+sg18
+(lp44
+V32022275
+p45
+asg22
+g23
+sg24
+VGhodbunder Road, Western Express Highway, Mira Road (E), Thane
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg10
+V5
+p51
+sg12
+VThe Pink Dragon
+p52
+sg14
+Vhttp://mumbai.burrp.com/listing/the-pink-dragon_mira-road-e_thane_restaurants/191899118
+p53
+sg16
+VMira Road (E)
+p54
+sg18
+(lp55
+V28115684
+p56
+aV 28120739
+p57
+asg22
+g23
+sg24
+VSheetal Nagar, Mira road (E), Mira Road (E), Thane
+p58
+sba(i__main__
+Place
+p59
+(dp60
+g3
+(lp61
+VRestaurants
+p62
+asg10
+g11
+sg12
+VChaitanya Restaurant
+p63
+sg14
+Vhttp://mumbai.burrp.com/listing/chaitanya-restaurant_mira-road-e_thane_restaurants/1356689574
+p64
+sg16
+VMira Road (E)
+p65
+sg18
+(lp66
+V28109292
+p67
+aV 28109294
+p68
+aV 28128868
+p69
+asg22
+g23
+sg24
+VChaitanya Restaurant, Sheetal Darshan CHSL, Sheetal Nagar, MTNL Road, Mira Road (E), Thane
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+asg10
+g51
+sg12
+VPritam's
+p75
+sg14
+Vhttp://mumbai.burrp.com/listing/pritams_mira-road-e_thane_restaurants/1164671693
+p76
+sg16
+VMira Road (E)
+p77
+sg18
+(lp78
+V9833961530
+p79
+aV 28456357
+p80
+asg22
+g23
+sg24
+V34/35, Surya Shopping Centre, Sector 5, Shrishti Complex, Mira Road (E), Thane
+p81
+sba(i__main__
+Place
+p82
+(dp83
+g3
+(lp84
+VCafes
+p85
+aV Fast Food Shops
+p86
+aV Delicatessens
+p87
+aV Restaurants
+p88
+aV Dessert Shops
+p89
+asg10
+g11
+sg12
+VFoodito Deli & Grill
+p90
+sg14
+Vhttp://mumbai.burrp.com/listing/foodito-deli-grill_mira-road-e_thane_cafes-fast-food-shops-delicatessens/14715609762
+p91
+sg16
+VMira Road (E)
+p92
+sg18
+(lp93
+V9867574795
+p94
+asg22
+g23
+sg24
+VShop No. 8 & 9, Asmita Garden 1, Poonamsagar Complex, Mira Road (E), Thane
+p95
+sba(i__main__
+Place
+p96
+(dp97
+g3
+(lp98
+VRestaurants
+p99
+asg10
+g30
+sg12
+VMartin's- The Chinese Nook
+p100
+sg14
+Vhttp://mumbai.burrp.com/listing/martins--the-chinese-nook_mira-road-e_thane_restaurants/1456870564
+p101
+sg16
+VMira Road (E)
+p102
+sg18
+(lp103
+V64536161
+p104
+aV 31921016
+p105
+aV 28107071
+p106
+asg22
+V0
+p107
+sg24
+VShop No. 7/8, Asmita Singapore Plaza, Near Asmita Club, Station Road, Mira Road (E), Thane
+p108
+sba(i__main__
+Place
+p109
+(dp110
+g3
+(lp111
+VRestaurants
+p112
+asg10
+g51
+sg12
+VAFC - Adi's Fried Chicken
+p113
+sg14
+Vhttp://mumbai.burrp.com/listing/afc---adis-fried-chicken_mira-road-e_thane_restaurants/11121825198
+p114
+sg16
+VMira Road (E)
+p115
+sg18
+(lp116
+V9004303000
+p117
+aV 64181333
+p118
+aV 9594103000
+p119
+aV 7738042555
+p120
+asg22
+g23
+sg24
+V19, Asmita Garden-1 , Poonam Sagar Complex, Mira Road (E), Thane
+p121
+sba(i__main__
+Place
+p122
+(dp123
+g3
+(lp124
+VRestaurants
+p125
+asg10
+g51
+sg12
+V89China Town
+p126
+sg14
+Vhttp://mumbai.burrp.com/listing/89china-town_mira-road-e_thane_restaurants/19915515910
+p127
+sg16
+VMira Road (E)
+p128
+sg18
+(lp129
+V28119989
+p130
+aV 28110989
+p131
+aV 65519989
+p132
+asg22
+g23
+sg24
+V10/11/12, Krishna Tower, Shanti Park, Mira Road (E), Thane
+p133
+sba(i__main__
+Place
+p134
+(dp135
+g3
+(lp136
+VRestaurants
+p137
+asg10
+g51
+sg12
+VShubam Food Centre
+p138
+sg14
+Vhttp://mumbai.burrp.com/listing/shubam-food-centre_mira-road-e_thane_restaurants/19122679118
+p139
+sg16
+VMira Road (E)
+p140
+sg18
+(lp141
+V9004510028
+p142
+asg22
+V1
+p143
+sg24
+VIndralok Society, Shop No. 2, Vijay Park, Mira Road (E), Thane
+p144
+sba(i__main__
+Place
+p145
+(dp146
+g3
+(lp147
+VRestaurants
+p148
+asg10
+g11
+sg12
+VNew Shahi Family Restaurant
+p149
+sg14
+Vhttp://mumbai.burrp.com/listing/new-shahi-family-restaurant_mira-road-e_thane_restaurants/1275815782
+p150
+sg16
+VMira Road (E)
+p151
+sg18
+(lp152
+V65295640
+p153
+aV 64178392
+p154
+aV 64178394
+p155
+aV 28107294
+p156
+asg22
+g23
+sg24
+VShop No.1, 2 & 3, Ground Floor, Kiran Apartment, Mira Bhayender Road, Mira Road (E), Thane
+p157
+sba(i__main__
+Place
+p158
+(dp159
+g3
+(lp160
+VCafes
+p161
+aV Ice-cream Parlours
+p162
+aV Restaurants
+p163
+aV Fast Food Shops
+p164
+asg10
+g30
+sg12
+VVardhman Multicuisine Ltd.
+p165
+sg14
+Vhttp://mumbai.burrp.com/listing/vardhman-multicuisine-ltd_mira-road-e_thane_cafes-ice-cream-parlours-restaurants/12715355782
+p166
+sg16
+VMira Road (E)
+p167
+sg18
+(lp168
+V28109005
+p169
+aV 28109010
+p170
+asg22
+g23
+sg24
+VMira Road (E), Thane
+p171
+sba(i__main__
+Place
+p172
+(dp173
+g3
+(lp174
+VRestaurants
+p175
+asg10
+g107
+sg12
+VAbhishek
+p176
+sg14
+Vhttp://mumbai.burrp.com/listing/abhishek_mira-road-e_thane_restaurants/13314348376
+p177
+sg16
+VMira Road (E)
+p178
+sg18
+(lp179
+V28123238
+p180
+aV 28126187
+p181
+aV 65223238
+p182
+aV 64114110
+p183
+asg22
+g23
+sg24
+VShree Ganesh Apartment, Sarvodaya Complex, Mira Road (E), Thane
+p184
+sba(i__main__
+Place
+p185
+(dp186
+g3
+(lp187
+VRestaurants
+p188
+asg10
+g107
+sg12
+VRuchi Family Restaurant
+p189
+sg14
+Vhttp://mumbai.burrp.com/listing/ruchi-family-restaurant_mira-road-e_thane_restaurants/17114388138
+p190
+sg16
+VMira Road (E)
+p191
+sg18
+(lp192
+V28109054
+p193
+aV 28109051
+p194
+aV 65729938
+p195
+asg22
+g107
+sg24
+VShop No. 81/82, Royal Palace,  Shanti Park, Mira Road (E), Thane
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VRestaurants
+p200
+aV Banquet Halls
+p201
+asg10
+g107
+sg12
+VSu-Swagat Family Restaurant
+p202
+sg14
+Vhttp://mumbai.burrp.com/listing/su-swagat-family-restaurant_mira-road-e_thane_restaurants-banquet-halls/18322660326
+p203
+sg16
+VMira Road (E)
+p204
+sg18
+(lp205
+V28121292
+p206
+aV 28121297
+p207
+aV 28121298
+p208
+aV 32979787
+p209
+asg22
+g107
+sg24
+VBetween Asmita Garden 1&2, Mira Road (E), Thane
+p210
+sba(i__main__
+Place
+p211
+(dp212
+g3
+(lp213
+VRestaurants
+p214
+asg10
+g107
+sg12
+VParivar Veg Restaurant
+p215
+sg14
+Vhttp://mumbai.burrp.com/listing/parivar-veg-restaurant_mira-road-e_thane_restaurants/1575962752
+p216
+sg16
+VMira Road (E)
+p217
+sg18
+(lp218
+V28555335
+p219
+aV 28120892
+p220
+asg22
+g23
+sg24
+VPoonam Sagar Complex, 1 to 5 Co-Operative Housing Society, 100 Feet Road, Mira Road (E), Thane
+p221
+sba(i__main__
+Place
+p222
+(dp223
+g3
+(lp224
+VFast Food Shops
+p225
+aV Restaurants
+p226
+asg10
+g143
+sg12
+VMcDonald's
+p227
+sg14
+Vhttp://mumbai.burrp.com/listing/mcdonalds_mira-road-e_thane_fast-food-shops-restaurants/1872500722
+p228
+sg16
+VMira Road (E)
+p229
+sg18
+(lp230
+V32902216
+p231
+asg22
+g23
+sg24
+VOstval Orbit, Mira Bhyander Road, Mira Road (E), Thane
+p232
+sba(i__main__
+Place
+p233
+(dp234
+g3
+(lp235
+VRestaurants
+p236
+asg10
+g107
+sg12
+VFish Island Restaurant
+p237
+sg14
+Vhttp://mumbai.burrp.com/listing/fish-island-restaurant_mira-road-e_thane_restaurants/14514376564
+p238
+sg16
+VMira Road (E)
+p239
+sg18
+(lp240
+V28109292
+p241
+aV 28109294
+p242
+aV 28128868
+p243
+aV 8108488487
+p244
+asg22
+g107
+sg24
+VSheetal Darshan Building, M.T.N.L. Road, Sheetal Nagar, Mira Road (E), Thane
+p245
+sba(i__main__
+Place
+p246
+(dp247
+g3
+(lp248
+VRestaurants
+p249
+asg10
+g107
+sg12
+VModern Lunch Home
+p250
+sg14
+Vhttp://mumbai.burrp.com/listing/modern-lunch-home_mira-road-e_thane_restaurants/14923385960
+p251
+sg16
+VMira Road (E)
+p252
+sg18
+(lp253
+V9819243119
+p254
+aV 28124706
+p255
+aV 28129494
+p256
+asg22
+g23
+sg24
+VShop No. 17, A-wing, Shanti Shopping Centre, Opp. Rly. Station, Mira Road (E), Thane
+p257
+sba(i__main__
+Place
+p258
+(dp259
+g3
+(lp260
+VRestaurants
+p261
+asg10
+g107
+sg12
+VKokan Vaibhav
+p262
+sg14
+Vhttp://mumbai.burrp.com/listing/kokan-vaibhav_mira-road-e_thane_restaurants/19123390118
+p263
+sg16
+VMira Road (E)
+p264
+sg18
+(lp265
+V29452001
+p266
+aV 29452002
+p267
+asg22
+g23
+sg24
+VMandakini, Srushti, Mira Road (E), Thane
+p268
+sba(i__main__
+Place
+p269
+(dp270
+g3
+(lp271
+VRestaurants
+p272
+asg10
+g107
+sg12
+VShanti Sagar
+p273
+sg14
+Vhttp://mumbai.burrp.com/listing/shanti-sagar_mira-road-e_thane_restaurants/17314361336
+p274
+sg16
+VMira Road (E)
+p275
+sg18
+(lp276
+V28118277
+p277
+aV 28130891
+p278
+asg22
+g23
+sg24
+VA-30, Shanti Shopping Centre, Mira Road (E), Thane
+p279
+sba(i__main__
+Place
+p280
+(dp281
+g3
+(lp282
+VRestaurants
+p283
+asg10
+g107
+sg12
+VAanyo's Kitchen
+p284
+sg14
+Vhttp://mumbai.burrp.com/listing/aanyos-kitchen_mira-road-e_thane_restaurants/13114375178
+p285
+sg16
+VMira Road (E)
+p286
+sg18
+(lp287
+V64269355
+p288
+aV 9819600502
+p289
+asg22
+g107
+sg24
+VRNA, Shop No. 11, Building No. 23, Broad Way Avenue, Mira Road (E), Thane
+p290
+sba(i__main__
+Place
+p291
+(dp292
+g3
+(lp293
+VRestaurants
+p294
+aV Outdoor Caterers
+p295
+asg10
+g107
+sg12
+VAmantran
+p296
+sg14
+Vhttp://mumbai.burrp.com/listing/amantran_mira-road-e_thane_restaurants-outdoor-caterers/17922659930
+p297
+sg16
+VMira Road (E)
+p298
+sg18
+(lp299
+V28101951
+p300
+asg22
+g107
+sg24
+V1/2, New Sahalya C. H. S. Ltd., Sheetal Nagar, Mira Road (E), Thane
+p301
+sba(i__main__
+Place
+p302
+(dp303
+g3
+(lp304
+VOutdoor Caterers
+p305
+aV Restaurants
+p306
+asg10
+g107
+sg12
+VAmantran Family Restaurant
+p307
+sg14
+Vhttp://mumbai.burrp.com/listing/amantran-family-restaurant_mira-road-e_thane_outdoor-caterers-restaurants/16323783346
+p308
+sg16
+VMira Road (E)
+p309
+sg18
+(lp310
+V9920429567
+p311
+aV 8080002127
+p312
+aV 9702111534
+p313
+asg22
+g23
+sg24
+VShop No. 17-18, Latiff Park, Opp. S. K. Stone, Mira Road (E), Thane
+p314
+sba(i__main__
+Place
+p315
+(dp316
+g3
+(lp317
+VRestaurants
+p318
+aV Banquet Halls
+p319
+asg10
+g107
+sg12
+VSpenta Restaurant
+p320
+sg14
+Vhttp://mumbai.burrp.com/listing/spenta-restaurant_mira-road-e_thane_restaurants-banquet-halls/19714390712
+p321
+sg16
+VMira Road (E)
+p322
+sg18
+(lp323
+V28132288
+p324
+aV 28132299
+p325
+aV 32182277
+p326
+asg22
+g107
+sg24
+VShop No 45/46/47, Singapore Plaza, Mira Road (E), Thane
+p327
+sba(i__main__
+Place
+p328
+(dp329
+g3
+(lp330
+VBanquet Halls
+p331
+aV Restaurants
+p332
+asg10
+g107
+sg12
+VTimeless Restaurant
+p333
+sg14
+Vhttp://mumbai.burrp.com/listing/timeless-restaurant_mira-road-e_thane_banquet-halls-restaurants/16314414346
+p334
+sg16
+VMira Road (E)
+p335
+sg18
+(lp336
+V28108485
+p337
+aV 28120262
+p338
+aV 28120263
+p339
+asg22
+g107
+sg24
+VShree Ram Tower, MTNL Road, Sheetal Nagar, Mira Road (E), Thane
+p340
+sba(i__main__
+Place
+p341
+(dp342
+g3
+(lp343
+VRestaurants
+p344
+asg10
+g107
+sg12
+VNavarang
+p345
+sg14
+Vhttp://mumbai.burrp.com/listing/navarang_mira-road-e_thane_restaurants/18522660524
+p346
+sg16
+VMira Road (E)
+p347
+sg18
+(lp348
+V32082001
+p349
+aV 32082002
+p350
+asg22
+g107
+sg24
+VPorwal Tower, Kanakia Space, Mira Road (E), Thane
+p351
+sba(i__main__
+Place
+p352
+(dp353
+g3
+(lp354
+VRestaurants
+p355
+asg10
+g107
+sg12
+VHotel Laxmi
+p356
+sg14
+Vhttp://mumbai.burrp.com/listing/hotel-laxmi_mira-road-e_thane_restaurants/19322661316
+p357
+sg16
+VMira Road (E)
+p358
+sg18
+(lp359
+V28550284
+p360
+asg22
+g107
+sg24
+VMira Bhayander Road, Mira Road (E), Thane
+p361
+sba(i__main__
+Place
+p362
+(dp363
+g3
+(lp364
+VRestaurants
+p365
+asg10
+g107
+sg12
+VHarsha Restaurant
+p366
+sg14
+Vhttp://mumbai.burrp.com/listing/harsha-restaurant_mira-road-e_thane_restaurants/16322658346
+p367
+sg16
+VMira Road (E)
+p368
+sg18
+(lp369
+V9967789035
+p370
+aV 9967789036
+p371
+asg22
+g107
+sg24
+VShop No. 2, 3, Rassaz Shopping Mall, Naya Nagar , Mira Road (E), Thane
+p372
+sba(i__main__
+Place
+p373
+(dp374
+g3
+(lp375
+VRestaurants
+p376
+asg10
+g107
+sg12
+VBalaji Pure Veg
+p377
+sg14
+Vhttp://mumbai.burrp.com/listing/balaji-pure-veg_mira-road-e_thane_restaurants/1285725881
+p378
+sg16
+VMira Road (E)
+p379
+sg18
+(lp380
+V28113744
+p381
+aV 28113755
+p382
+aV 28113745
+p383
+asg22
+g143
+sg24
+VShop No. 1, 2, 3 A, Green Avenue Plaza, Shanti Park, Mira Road (E), Thane
+p384
+sba(i__main__
+Place
+p385
+(dp386
+g3
+(lp387
+VRestaurants
+p388
+asg10
+g107
+sg12
+VBalaji Pure Veg
+p389
+sg14
+Vhttp://mumbai.burrp.com/listing/balaji-pure-veg_mira-road-e_thane_restaurants/1415727168
+p390
+sg16
+VMira Road (E)
+p391
+sg18
+(lp392
+V28457999
+p393
+asg22
+g143
+sg24
+VThakur Mall, Mira Road (E), Thane
+p394
+sba(i__main__
+Place
+p395
+(dp396
+g3
+(lp397
+VRestaurants
+p398
+asg10
+g107
+sg12
+VMumbai's Kitchen
+p399
+sg14
+Vhttp://mumbai.burrp.com/listing/mumbais-kitchen_mira-road-e_thane_restaurants/16522658544
+p400
+sg16
+VMira Road (E)
+p401
+sg18
+(lp402
+V9004189289
+p403
+aV 9167060988
+p404
+asg22
+g107
+sg24
+VShop No.01, I - 39/40, Poonam Sagar Complex, Mira Road (E), Thane
+p405
+sba(i__main__
+Place
+p406
+(dp407
+g3
+(lp408
+VRestaurants
+p409
+asg10
+g107
+sg12
+VFood Land
+p410
+sg14
+Vhttp://mumbai.burrp.com/listing/food-land_mira-road-e_thane_restaurants/19522661514
+p411
+sg16
+VMira Road (E)
+p412
+sg18
+(lp413
+V65744794
+p414
+aV 28552287
+p415
+aV 9146221788
+p416
+asg22
+g107
+sg24
+VShop No.45, Kurnal Shopping Centre, A - Wing, Naya Nagar, Mira Road (E), Thane
+p417
+sba(i__main__
+Place
+p418
+(dp419
+g3
+(lp420
+VRestaurants
+p421
+aV Outdoor Caterers
+p422
+asg10
+g107
+sg12
+VSheetal Restaurant & Caterers
+p423
+sg14
+Vhttp://mumbai.burrp.com/listing/sheetal-restaurant-caterers_mira-road-e_thane_restaurants-outdoor-caterers/16122694148
+p424
+sg16
+VMira Road (E)
+p425
+sg18
+(lp426
+V28132409
+p427
+aV 28104797
+p428
+aV 9820352235
+p429
+asg22
+g23
+sg24
+VShop No 14, Sheetal Indraprashta, Sheetal Nagar, M.T.N.L Road, Mira Road (E), Thane
+p430
+sba(i__main__
+Place
+p431
+(dp432
+g3
+(lp433
+VRestaurants
+p434
+asg10
+g107
+sg12
+VSarang Restaurant & Bar
+p435
+sg14
+Vhttp://mumbai.burrp.com/listing/sarang-restaurant-bar_mira-road-e_thane_restaurants/13724851772
+p436
+sg16
+VMira Road (E)
+p437
+sg18
+(lp438
+V28458903
+p439
+asg22
+g23
+sg24
+VKashmira Bhayander Road, Shivaji Maharaj Chowk, Kasmira Naka, Mira Road (E), Thane
+p440
+sba.

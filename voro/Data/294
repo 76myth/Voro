@@ -1,0 +1,45 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Cafes
+p6
+aV Dessert Shops
+p7
+asS'rating'
+p8
+V0
+p9
+sS'name'
+p10
+VRajpal Restaurant And Bar
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/rajpal-restaurant-and-bar_uran_navi-mumbai_restaurants-cafes-dessert-shops/16113901148
+p13
+sS'region'
+p14
+VUran
+p15
+sS'phone'
+p16
+(lp17
+V27222363
+p18
+aV 9029815718
+p19
+asS'cost'
+p20
+g9
+sS'addr'
+p21
+VBajar Peth, Uran Mora Road, Rajpal Naka, Uran, Navi Mumbai
+p22
+sba.

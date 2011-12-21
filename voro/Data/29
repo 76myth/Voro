@@ -1,0 +1,112 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Fast Food Shops
+p6
+aV Outdoor Caterers
+p7
+aV Mithai & Farsan Shops
+p8
+aV Banquet Halls
+p9
+asS'rating'
+p10
+V4
+p11
+sS'name'
+p12
+VShalimar Restaurant
+p13
+sS'url'
+p14
+Vhttp://mumbai.burrp.com/listing/shalimar-restaurant_bhendi-bazaar_mumbai_restaurants-fast-food-shops-outdoor-caterers/11054099
+p15
+sS'region'
+p16
+VBhendi Bazaar
+p17
+sS'phone'
+p18
+(lp19
+V23456630
+p20
+aV 23456632
+p21
+asS'cost'
+p22
+V1
+p23
+sS'addr'
+p24
+VVazir Building, Shalimar Corner, Bhendi Bazaar, Mumbai
+p25
+sba(i__main__
+Place
+p26
+(dp27
+g3
+(lp28
+VRestaurants
+p29
+asg10
+g11
+sg12
+VNoor Mohammadi
+p30
+sg14
+Vhttp://mumbai.burrp.com/listing/noor-mohammadi_bhendi-bazaar_mumbai_restaurants/181133128
+p31
+sg16
+VBhendi Bazaar
+p32
+sg18
+(lp33
+V23456008
+p34
+aV 23476188
+p35
+asg22
+g23
+sg24
+VN.M. Masala & Food Export Pvt. Ltd, Abdul Hakim Noor Mohammadi Chowk, Bhendi Bazaar, Mumbai
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VRestaurants
+p40
+asg10
+V5
+p41
+sg12
+VDelhi Zaika
+p42
+sg14
+Vhttp://mumbai.burrp.com/listing/delhi-zaika_bhendi-bazaar_mumbai_restaurants/1715964138
+p43
+sg16
+VBhendi Bazaar
+p44
+sg18
+(lp45
+V9773637626
+p46
+aV 64465790
+p47
+asg22
+V2
+p48
+sg24
+V4 Pakmodia Street, Maulana Shaukatali Road, Near J J Hospital, Bhendi Bazaar, Mumbai
+p49
+sba.

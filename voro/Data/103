@@ -1,0 +1,46 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Lounges
+p6
+aV Bars & Pubs
+p7
+asS'rating'
+p8
+V4
+p9
+sS'name'
+p10
+VCafe XO - The Lounge Bar
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/cafe-xo---the-lounge-bar_govandi-east_mumbai_restaurants-lounges-bars-pubs/153742356
+p13
+sS'region'
+p14
+VGovandi East
+p15
+sS'phone'
+p16
+(lp17
+V65555551
+p18
+aV 25562365
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+V1, 2, 3 Ground Floor, Sai Commercial Building, Opposite Best Colony, Govandi Road, Govandi East, Mumbai
+p23
+sba.

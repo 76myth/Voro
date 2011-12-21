@@ -1,0 +1,199 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VBaawarchi TheChef
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/baawarchi-thechef_seawoods_navi-mumbai_restaurants/15322288356
+p11
+sS'region'
+p12
+VSeaWoods
+p13
+sS'phone'
+p14
+(lp15
+V9594202660
+p16
+asS'cost'
+p17
+V2
+p18
+sS'addr'
+p19
+VShop No. 6, Shankar Heritage, Plot No. 104, Sector - 50, SeaWoods, Navi Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+V0
+p25
+sg8
+VDesi Hut
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/desi-hut_seawoods_navi-mumbai_restaurants/16323603346
+p27
+sg12
+VSeaWoods
+p28
+sg14
+(lp29
+V642075450
+p30
+aV 9833383233
+p31
+asg17
+g18
+sg19
+VShop No 39, Millennium Park, Sector 25, Opposite Spinach, SeaWoods, Navi Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+aV Outdoor Caterers
+p37
+asg6
+g25
+sg8
+VKrishna
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/krishna_seawoods_navi-mumbai_restaurants-outdoor-caterers/1644973445
+p39
+sg12
+VSeaWoods
+p40
+sg14
+(lp41
+V27721663
+p42
+aV 27721664
+p43
+aV 27721665
+p44
+asg17
+g18
+sg19
+VShree Ambika Apartment, Shop No. 19 & 20, Plot No. 10, Sector 42A, SeaWoods, Navi Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g25
+sg8
+VHotel Shivsagar
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shivsagar_seawoods_navi-mumbai_restaurants/13115590178
+p51
+sg12
+VSeaWoods
+p52
+sg14
+(lp53
+V69500398
+p54
+aV 69500399
+p55
+asg17
+g25
+sg19
+V30/31, Ram Krishna Niwas , Plot No.46/47, Sector 40, SeaWoods, Navi Mumbai
+p56
+sba(i__main__
+Place
+p57
+(dp58
+g3
+(lp59
+VRestaurants
+p60
+asg6
+g25
+sg8
+VNavratana Veg Restaurant
+p61
+sg10
+Vhttp://mumbai.burrp.com/listing/navratana-veg-restaurant_seawoods_navi-mumbai_restaurants/16923639940
+p62
+sg12
+VSeaWoods
+p63
+sg14
+(lp64
+V27720700
+p65
+aV 27722121
+p66
+aV 27721414
+p67
+asg17
+g18
+sg19
+VZenith Plot No 3D , Sector 46A, SeaWoods, Navi Mumbai
+p68
+sba(i__main__
+Place
+p69
+(dp70
+g3
+(lp71
+VRestaurants
+p72
+asg6
+g25
+sg8
+VKerala Restaurant
+p73
+sg10
+Vhttp://mumbai.burrp.com/listing/kerala-restaurant_seawoods_navi-mumbai_restaurants/12123662188
+p74
+sg12
+VSeaWoods
+p75
+sg14
+(lp76
+V64481694
+p77
+aV 8828235576
+p78
+aV 8828235608
+p79
+asg17
+g18
+sg19
+VSreji Darshan Plot No 48/49, Shop No 4, Sector 40, SeaWoods, Navi Mumbai
+p80
+sba.

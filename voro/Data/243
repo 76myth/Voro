@@ -1,0 +1,199 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VHotel Malwan Bar & Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/hotel-malwan-bar-restaurant_panchpakhadi_thane_restaurants/13714573772
+p11
+sS'region'
+p12
+VPanchpakhadi
+p13
+sS'phone'
+p14
+(lp15
+V25368668
+p16
+aV 25438752
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VShop No 4 & 5, A Wing, Shreepal Apartments, Panchpakhadi, Thane West, Thane
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VRoast Restaurant
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/roast-restaurant_panchpakhadi_thane_restaurants/13914555970
+p27
+sg12
+VPanchpakhadi
+p28
+sg14
+(lp29
+V32471221
+p30
+asg18
+g19
+sg20
+VShop No 10, Crescent Society, Panchpakhadi, Thane West, Thane
+p31
+sba(i__main__
+Place
+p32
+(dp33
+g3
+(lp34
+VRestaurants
+p35
+asg6
+g19
+sg8
+VUtsav Restaurant
+p36
+sg10
+Vhttp://mumbai.burrp.com/listing/utsav-restaurant_panchpakhadi_thane_restaurants/17122452138
+p37
+sg12
+VPanchpakhadi
+p38
+sg14
+(lp39
+V25456000
+p40
+aV 25456001
+p41
+aV 25456002
+p42
+aV 25393977
+p43
+asg18
+g19
+sg20
+VArunkumar Vaidya Marg, Panchpakhadi, Thane West, Thane
+p44
+sba(i__main__
+Place
+p45
+(dp46
+g3
+(lp47
+VRestaurants
+p48
+asg6
+g19
+sg8
+VOpen House Restaurant
+p49
+sg10
+Vhttp://mumbai.burrp.com/listing/open-house-restaurant_panchpakhadi_thane_restaurants/13714555772
+p50
+sg12
+VPanchpakhadi
+p51
+sg14
+(lp52
+V25416789
+p53
+aV 25426789
+p54
+asg18
+g19
+sg20
+VGround Floor, Gagangiri Building, Panchpakhadi, Thane West, Thane
+p55
+sba(i__main__
+Place
+p56
+(dp57
+g3
+(lp58
+VRestaurants
+p59
+asg6
+g19
+sg8
+VSatkar Bar And Restaurant
+p60
+sg10
+Vhttp://mumbai.burrp.com/listing/satkar-bar-and-restaurant_panchpakhadi_thane_restaurants/16514558544
+p61
+sg12
+VPanchpakhadi
+p62
+sg14
+(lp63
+V25380191
+p64
+aV 25331726
+p65
+asg18
+g19
+sg20
+VMohan Mahal CHS, L B S Marg, Panchpakhadi, Thane West, Thane
+p66
+sba(i__main__
+Place
+p67
+(dp68
+g3
+(lp69
+VCafes
+p70
+aV Dessert Shops
+p71
+aV Shops
+p72
+aV Restaurants
+p73
+asg6
+V1
+p74
+sg8
+VTip Top Mithaiwala
+p75
+sg10
+Vhttp://mumbai.burrp.com/listing/tip-top-mithaiwala_panchpakhadi_thane_cafes-dessert-shops-shops/18314560326
+p76
+sg12
+VPanchpakhadi
+p77
+sg14
+(lp78
+V25425000
+p79
+asg18
+g19
+sg20
+V16, Monalisa Building, Panchpakhadi, Thane West, Thane
+p80
+sba.

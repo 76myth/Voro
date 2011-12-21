@@ -1,0 +1,3214 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Cafes
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VPot Pourri 
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/pot-pourri-_vashi_navi-mumbai_restaurants-cafes/1801312029
+p12
+sS'region'
+p13
+VVashi
+p14
+sS'phone'
+p15
+(lp16
+V27810548
+p17
+aV 27810549
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VGround Floor, II Entrance, Vashi, Navi Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg7
+g8
+sg9
+VGolden Punjab
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/golden-punjab_sector-17_navi-mumbai_restaurants/115117594
+p28
+sg13
+VSector 17
+p29
+sg15
+(lp30
+V27893572
+p31
+aV 27892742
+p32
+asg19
+g20
+sg21
+VMahavir Centre, Plot No.77, Sector 17, Vashi, Navi Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VBars & Pubs
+p37
+aV Restaurants
+p38
+asg7
+V3
+p39
+sg9
+VChenab
+p40
+sg11
+Vhttp://mumbai.burrp.com/listing/chenab_vashi_navi-mumbai_bars-pubs-restaurants/130110079
+p41
+sg13
+VVashi
+p42
+sg15
+(lp43
+V27821722
+p44
+aV 27821726
+p45
+aV 9820136471
+p46
+asg19
+g20
+sg21
+VPlot No 133/ A. Sector 8, Vashi, Navi Mumbai
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VRestaurants
+p51
+aV Lounges
+p52
+asg7
+g8
+sg9
+VJinx Lounge
+p53
+sg11
+Vhttp://mumbai.burrp.com/listing/jinx-lounge_vashi_navi-mumbai_restaurants-lounges/1965714613
+p54
+sg13
+VVashi
+p55
+sg15
+(lp56
+V41558557
+p57
+aV 9322835890
+p58
+asg19
+g20
+sg21
+VPlot No. 14, Sector 26, Palm Beach Road, Vashi, Navi Mumbai
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VFast Food Shops
+p63
+aV Outdoor Caterers
+p64
+aV Restaurants
+p65
+asg7
+g8
+sg9
+VNavaratna Restaurant
+p66
+sg11
+Vhttp://mumbai.burrp.com/listing/navaratna-restaurant_vashi_navi-mumbai_fast-food-shops-outdoor-caterers-restaurants/184889425
+p67
+sg13
+VVashi
+p68
+sg15
+(lp69
+V27890871
+p70
+aV 27894816
+p71
+aV 27898199
+p72
+asg19
+g20
+sg21
+VNirman Vyapar Kendra, Plot No. 10, Sector 17, Vashi, Navi Mumbai
+p73
+sba(i__main__
+Place
+p74
+(dp75
+g3
+(lp76
+VRestaurants
+p77
+asg7
+g39
+sg9
+VLemon Grass
+p78
+sg11
+Vhttp://mumbai.burrp.com/listing/lemon-grass_vashi_navi-mumbai_restaurants/17122920138
+p79
+sg13
+VVashi
+p80
+sg15
+(lp81
+V65255095
+p82
+aV 8097687920
+p83
+asg19
+g39
+sg21
+VS-32, 1st Floor, Vashi, Navi Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg7
+g39
+sg9
+VSomething's Fishy
+p89
+sg11
+Vhttp://mumbai.burrp.com/listing/somethings-fishy_vashi_navi-mumbai_restaurants/119855990
+p90
+sg13
+VVashi
+p91
+sg15
+(lp92
+V66801818
+p93
+asg19
+g39
+sg21
+VVashi, Navi Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VRestaurants
+p98
+asg7
+g39
+sg9
+VPanchavati Gaurav
+p99
+sg11
+Vhttp://mumbai.burrp.com/listing/panchavati-gaurav_vashi_navi-mumbai_restaurants/1281531881
+p100
+sg13
+VVashi
+p101
+sg15
+(lp102
+V27815550
+p103
+asg19
+g20
+sg21
+V1st Floor, Vashi, Navi Mumbai
+p104
+sba(i__main__
+Place
+p105
+(dp106
+g3
+(lp107
+VBars & Pubs
+p108
+aV Restaurants
+p109
+asg7
+V5
+p110
+sg9
+VVicious Circle
+p111
+sg11
+Vhttp://mumbai.burrp.com/listing/vicious-circle_vashi_navi-mumbai_bars-pubs-restaurants/1353359574
+p112
+sg13
+VVashi
+p113
+sg15
+(lp114
+V27827272
+p115
+aV 27827273
+p116
+asg19
+g20
+sg21
+VF1/1, Sector 7, Vashi, Navi Mumbai
+p117
+sba(i__main__
+Place
+p118
+(dp119
+g3
+(lp120
+VRestaurants
+p121
+asg7
+g110
+sg9
+VCurry & Spice Restaurant
+p122
+sg11
+Vhttp://mumbai.burrp.com/listing/curry-spice-restaurant_vashi_navi-mumbai_restaurants/1205230089
+p123
+sg13
+VVashi
+p124
+sg15
+(lp125
+V67736774
+p126
+aV 67736773
+p127
+asg19
+g20
+sg21
+VVashi, Navi Mumbai
+p128
+sba(i__main__
+Place
+p129
+(dp130
+g3
+(lp131
+VBars & Pubs
+p132
+aV Restaurants
+p133
+asg7
+g39
+sg9
+VCottage Bar
+p134
+sg11
+Vhttp://mumbai.burrp.com/listing/cottage-bar_vashi_navi-mumbai_bars-pubs-restaurants/111144198
+p135
+sg13
+VVashi
+p136
+sg15
+(lp137
+V27826677
+p138
+aV 27826425
+p139
+aV 27826429
+p140
+asg19
+V0
+p141
+sg21
+VHotel Abott, Vashi, Navi Mumbai
+p142
+sba(i__main__
+Place
+p143
+(dp144
+g3
+(lp145
+VOutdoor Caterers
+p146
+aV Lounges
+p147
+aV Restaurants
+p148
+asg7
+g8
+sg9
+VSagar Restaurant & Lounge Bar 
+p149
+sg11
+Vhttp://mumbai.burrp.com/listing/sagar-restaurant-lounge-bar-_vashi_navi-mumbai_outdoor-caterers-lounges-restaurants/1444494465
+p150
+sg13
+VVashi
+p151
+sg15
+(lp152
+V27890904 
+p153
+aV 27894873
+p154
+asg19
+g20
+sg21
+V1st Floor, Nirman Vyapar Kendra, Plot No-10, Sector-17, Vashi, Navi Mumbai
+p155
+sba(i__main__
+Place
+p156
+(dp157
+g3
+(lp158
+VRestaurants
+p159
+asg7
+g8
+sg9
+VThe Creek
+p160
+sg11
+Vhttp://mumbai.burrp.com/listing/the-creek_vashi_navi-mumbai_restaurants/11363396
+p161
+sg13
+VVashi
+p162
+sg15
+(lp163
+V27826677
+p164
+aV 27826426
+p165
+aV 27826427
+p166
+asg19
+g141
+sg21
+VAbbott Hotel, Sector 2, Vashi, Navi Mumbai
+p167
+sba(i__main__
+Place
+p168
+(dp169
+g3
+(lp170
+VRestaurants
+p171
+aV Cafes
+p172
+asg7
+g8
+sg9
+VCafe Vihar
+p173
+sg11
+Vhttp://mumbai.burrp.com/listing/cafe-vihar_vashi_navi-mumbai_restaurants-cafes/1193555990
+p174
+sg13
+VVashi
+p175
+sg15
+(lp176
+V66801818
+p177
+aV 41021818
+p178
+asg19
+g8
+sg21
+VVashi, Navi Mumbai
+p179
+sba(i__main__
+Place
+p180
+(dp181
+g3
+(lp182
+VRestaurants
+p183
+asg7
+g20
+sg9
+VMainland China
+p184
+sg11
+Vhttp://mumbai.burrp.com/listing/mainland-china_vashi_navi-mumbai_restaurants/15315169356
+p185
+sg13
+VVashi
+p186
+sg15
+(lp187
+V27811561 
+p188
+asg19
+g141
+sg21
+VFirst Floor, Restaurant No-01, Platinum Tech Park, Plot No-17/18, Sector-30A, Vashi, Navi Mumbai
+p189
+sba(i__main__
+Place
+p190
+(dp191
+g3
+(lp192
+VBars & Pubs
+p193
+aV Restaurants
+p194
+asg7
+g20
+sg9
+VMoti Mahal Delux
+p195
+sg11
+Vhttp://mumbai.burrp.com/listing/moti-mahal-delux_vashi_navi-mumbai_bars-pubs-restaurants/1343260475
+p196
+sg13
+VVashi
+p197
+sg15
+(lp198
+V27881818
+p199
+aV 27881819
+p200
+aV 9820527061
+p201
+asg19
+g39
+sg21
+VShop No. 2-5, Shivji Market 2, Next To APMC Police Station, Plot No. 51 & 52, Sector 19-D, Vashi, Navi Mumbai
+p202
+sba(i__main__
+Place
+p203
+(dp204
+g3
+(lp205
+VRestaurants
+p206
+asg7
+V1
+p207
+sg9
+VKareem's
+p208
+sg11
+Vhttp://mumbai.burrp.com/listing/kareems_vashi_navi-mumbai_restaurants/1915138118
+p209
+sg13
+VVashi
+p210
+sg15
+(lp211
+V67777666
+p212
+asg19
+g20
+sg21
+VInorbit Mall, Ground Floor, Sector 30-A, Vashi, Navi Mumbai
+p213
+sba(i__main__
+Place
+p214
+(dp215
+g3
+(lp216
+VRestaurants
+p217
+asg7
+g20
+sg9
+VVillage
+p218
+sg11
+Vhttp://mumbai.burrp.com/listing/village_vashi_navi-mumbai_restaurants/1325726277
+p219
+sg13
+VVashi
+p220
+sg15
+(lp221
+V28081199
+p222
+aV 66908904
+p223
+aV 9987131347 
+p224
+asg19
+g141
+sg21
+VLevel 3, Vashi, Navi Mumbai
+p225
+sba(i__main__
+Place
+p226
+(dp227
+g3
+(lp228
+VRestaurants
+p229
+asg7
+g110
+sg9
+VHilton Vashi
+p230
+sg11
+Vhttp://mumbai.burrp.com/listing/hilton-vashi_vashi_navi-mumbai_restaurants/13318308376
+p231
+sg13
+VVashi
+p232
+sg15
+(lp233
+V32257878
+p234
+aV 32171187
+p235
+asg19
+g20
+sg21
+VShop No. 1, Shalimar Building, Sector 11, Vashi, Navi Mumbai
+p236
+sba(i__main__
+Place
+p237
+(dp238
+g3
+(lp239
+VRestaurants
+p240
+asg7
+g110
+sg9
+VHilton Tandoor Corner
+p241
+sg11
+Vhttp://mumbai.burrp.com/listing/hilton-tandoor-corner_vashi_navi-mumbai_restaurants/123730386
+p242
+sg13
+VVashi
+p243
+sg15
+(lp244
+V27880899
+p245
+asg19
+g20
+sg21
+VShop No. 34, Raikar Bhawan, Sector 17, Plot No. 9, Vashi, Navi Mumbai
+p246
+sba(i__main__
+Place
+p247
+(dp248
+g3
+(lp249
+VIce-cream Parlours
+p250
+aV Juice Parlours
+p251
+aV Dessert Shops
+p252
+aV Restaurants
+p253
+aV Fast Food Shops
+p254
+asg7
+g8
+sg9
+VVasundhara Only Veg
+p255
+sg11
+Vhttp://mumbai.burrp.com/listing/vasundhara-only-veg_vashi_navi-mumbai_ice-cream-parlours-juice-parlours-dessert-shops/1216391188
+p256
+sg13
+VVashi
+p257
+sg15
+(lp258
+V27810027
+p259
+aV 27810028
+p260
+aV 27810029
+p261
+asg19
+g20
+sg21
+VBSEL Park, Sector-30 A, Vashi, Navi Mumbai
+p262
+sba(i__main__
+Place
+p263
+(dp264
+g3
+(lp265
+VRestaurants
+p266
+asg7
+g8
+sg9
+VDevi Prasad Lunch Home & Bar
+p267
+sg11
+Vhttp://mumbai.burrp.com/listing/devi-prasad-lunch-home-bar_vashi_navi-mumbai_restaurants/11913995990
+p268
+sg13
+VVashi
+p269
+sg15
+(lp270
+V27653252
+p271
+aV 27888881
+p272
+aV 27892026
+p273
+aV 9870136967
+p274
+asg19
+g20
+sg21
+VTruck Terminal Sector-19, Navi Mumbai - 400703, Vashi, Navi Mumbai
+p275
+sba(i__main__
+Place
+p276
+(dp277
+g3
+(lp278
+VRestaurants
+p279
+asg7
+g8
+sg9
+VNakshatra
+p280
+sg11
+Vhttp://mumbai.burrp.com/listing/nakshatra_vashi_navi-mumbai_restaurants/1515827158
+p281
+sg13
+VVashi
+p282
+sg15
+(lp283
+V39884444
+p284
+aV 61504444
+p285
+aV 1504444
+p286
+aV 1504444
+p287
+asg19
+g141
+sg21
+VFortune Select Exotica, Plot No. 16, Sector 19D, Vashi, Navi Mumbai
+p288
+sba(i__main__
+Place
+p289
+(dp290
+g3
+(lp291
+VRestaurants
+p292
+asg7
+g8
+sg9
+VNavaratna 
+p293
+sg11
+Vhttp://mumbai.burrp.com/listing/navaratna-_vashi_navi-mumbai_restaurants/1976191712
+p294
+sg13
+VVashi
+p295
+sg15
+(lp296
+V27890871
+p297
+aV 27894816
+p298
+asg19
+g141
+sg21
+VNirman Vyapar Kendra, Plot No 10, Sector 17, Vashi, Navi Mumbai
+p299
+sba(i__main__
+Place
+p300
+(dp301
+g3
+(lp302
+VRestaurants
+p303
+asg7
+g8
+sg9
+VBhagat Tarachand Restaurant
+p304
+sg11
+Vhttp://mumbai.burrp.com/listing/bhagat-tarachand-restaurant_vashi_navi-mumbai_restaurants/14913998960
+p305
+sg13
+VVashi
+p306
+sg15
+(lp307
+V65116242
+p308
+asg19
+g141
+sg21
+VShop No 6/6 A, Shatrughan Tower, Sector No 18, Vashi, Navi Mumbai
+p309
+sba(i__main__
+Place
+p310
+(dp311
+g3
+(lp312
+VRestaurants
+p313
+asg7
+g8
+sg9
+VShalimar Restaurant
+p314
+sg11
+Vhttp://mumbai.burrp.com/listing/shalimar-restaurant_vashi_navi-mumbai_restaurants/13723033772
+p315
+sg13
+VVashi
+p316
+sg15
+(lp317
+V27894343
+p318
+aV 27894747
+p319
+aV 27896767
+p320
+asg19
+g20
+sg21
+VShop No. A7, Plot No. 7, Sector 19C, Agarwal Chambers, APMC Market Road, Vashi, Navi Mumbai
+p321
+sba(i__main__
+Place
+p322
+(dp323
+g3
+(lp324
+VRestaurants
+p325
+asg7
+g39
+sg9
+VDale's Heaven
+p326
+sg11
+Vhttp://mumbai.burrp.com/listing/dales-heaven_vashi_navi-mumbai_restaurants/157112752
+p327
+sg13
+VVashi
+p328
+sg15
+(lp329
+V27812626
+p330
+asg19
+g141
+sg21
+VVashi Railway Station, Vashi, Navi Mumbai
+p331
+sba(i__main__
+Place
+p332
+(dp333
+g3
+(lp334
+VRestaurants
+p335
+asg7
+g39
+sg9
+VKadar's Sheesha
+p336
+sg11
+Vhttp://mumbai.burrp.com/listing/kadars-sheesha_vashi_navi-mumbai_restaurants/15932449950
+p337
+sg13
+VVashi
+p338
+sg15
+(lp339
+V27882883
+p340
+aV 8652693440
+p341
+aV 8652693499
+p342
+asg19
+g20
+sg21
+VSector 19-D, City Center, Palm Beach Road, Vashi, Navi Mumbai
+p343
+sba(i__main__
+Place
+p344
+(dp345
+g3
+(lp346
+VRestaurants
+p347
+asg7
+g20
+sg9
+VJewel Of Ocean Restaurant
+p348
+sg11
+Vhttp://mumbai.burrp.com/listing/jewel-of-ocean-restaurant_vashi_navi-mumbai_restaurants/12514041584
+p349
+sg13
+VVashi
+p350
+sg15
+(lp351
+V27669019
+p352
+aV 69523634
+p353
+asg19
+g141
+sg21
+VC/O Blue Diamond Hotel, Plot  No 1A & 1B, Sector No 28, Vashi, Navi Mumbai
+p354
+sba(i__main__
+Place
+p355
+(dp356
+g3
+(lp357
+VHotels
+p358
+aV Restaurants
+p359
+asg7
+g207
+sg9
+VCelebrations Restaurant
+p360
+sg11
+Vhttp://mumbai.burrp.com/listing/celebrations-restaurant_vashi_navi-mumbai_hotels-restaurants/122109287
+p361
+sg13
+VVashi
+p362
+sg15
+(lp363
+V41023456
+p364
+aV 27800403
+p365
+aV 27800404
+p366
+aV 27800405
+p367
+asg19
+g20
+sg21
+VPlot No.L1, Sector 19, Palm Beach Road, Vashi, Navi Mumbai
+p368
+sba(i__main__
+Place
+p369
+(dp370
+g3
+(lp371
+VRestaurants
+p372
+aV Food-court Stalls
+p373
+asg7
+g207
+sg9
+VFlavours of China
+p374
+sg11
+Vhttp://mumbai.burrp.com/listing/flavours-of-china_vashi_navi-mumbai_restaurants-food-court-stalls/1905057019
+p375
+sg13
+VVashi
+p376
+sg15
+(lp377
+V27813375
+p378
+asg19
+g20
+sg21
+V2nd Floor, Vashi, Navi Mumbai
+p379
+sba(i__main__
+Place
+p380
+(dp381
+g3
+(lp382
+VRestaurants
+p383
+asg7
+g141
+sg9
+VMaroosh
+p384
+sg11
+Vhttp://mumbai.burrp.com/listing/maroosh_vashi_navi-mumbai_restaurants/17933009930
+p385
+sg13
+VVashi
+p386
+sg15
+(lp387
+V66096691
+p388
+aV 66096692
+p389
+asg19
+g20
+sg21
+VShop No. 1, Arenja Corner, Sector-17, Vashi, Navi Mumbai
+p390
+sba(i__main__
+Place
+p391
+(dp392
+g3
+(lp393
+VRestaurants
+p394
+asg7
+g141
+sg9
+VHotel Devi Jyoti
+p395
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-devi-jyoti_vashi_navi-mumbai_restaurants/19913922910
+p396
+sg13
+VVashi
+p397
+sg15
+(lp398
+V27655983
+p399
+aV 27667988
+p400
+aV 9820208480
+p401
+asg19
+g207
+sg21
+VSector 11, Juhu Gaon, Vashi, Navi Mumbai
+p402
+sba(i__main__
+Place
+p403
+(dp404
+g3
+(lp405
+VRestaurants
+p406
+asg7
+g141
+sg9
+VKshir Sagar
+p407
+sg11
+Vhttp://mumbai.burrp.com/listing/kshir-sagar_vashi_navi-mumbai_restaurants/1715748138
+p408
+sg13
+VVashi
+p409
+sg15
+(lp410
+V27893005
+p411
+aV 27892985
+p412
+asg19
+g20
+sg21
+VSector 17, Vashi, Navi Mumbai
+p413
+sba(i__main__
+Place
+p414
+(dp415
+g3
+(lp416
+VRestaurants
+p417
+asg7
+g141
+sg9
+VSubway
+p418
+sg11
+Vhttp://mumbai.burrp.com/listing/subway_vashi_navi-mumbai_restaurants/11618693
+p419
+sg13
+VVashi
+p420
+sg15
+(lp421
+V27811456
+p422
+asg19
+g20
+sg21
+VCentre One Shopping Mall, Shop No. T-10, 3rd Floor, Sector 30 A, Near Vashi Station, Vashi, Navi Mumbai
+p423
+sba(i__main__
+Place
+p424
+(dp425
+g3
+(lp426
+VRestaurants
+p427
+asg7
+g141
+sg9
+VChina Land Restaurant
+p428
+sg11
+Vhttp://mumbai.burrp.com/listing/china-land-restaurant_vashi_navi-mumbai_restaurants/15314026356
+p429
+sg13
+VVashi
+p430
+sg15
+(lp431
+V27812271
+p432
+asg19
+g141
+sg21
+VShop No 16, 3rd Floor, Center One Mall, Sector 30/A, Vashi, Navi Mumbai
+p433
+sba(i__main__
+Place
+p434
+(dp435
+g3
+(lp436
+VRestaurants
+p437
+asg7
+g141
+sg9
+VRaunak Express 
+p438
+sg11
+Vhttp://mumbai.burrp.com/listing/raunak-express-_vashi_navi-mumbai_restaurants/17723676732
+p439
+sg13
+VVashi
+p440
+sg15
+(lp441
+V9892149511
+p442
+asg19
+g20
+sg21
+VTower No 1, Raghuleela Mall , Vashi, Navi Mumbai
+p443
+sba(i__main__
+Place
+p444
+(dp445
+g3
+(lp446
+VRestaurants
+p447
+asg7
+g141
+sg9
+VRoll House 
+p448
+sg11
+Vhttp://mumbai.burrp.com/listing/roll-house-_vashi_navi-mumbai_restaurants/19323678316
+p449
+sg13
+VVashi
+p450
+sg15
+(lp451
+V9004961875
+p452
+aV 9004116601
+p453
+asg19
+g20
+sg21
+VShop no 1, Plot No 84, Sector 6, Vashi, Navi Mumbai
+p454
+sba(i__main__
+Place
+p455
+(dp456
+g3
+(lp457
+VRestaurants
+p458
+asg7
+g141
+sg9
+VLebanese Foods
+p459
+sg11
+Vhttp://mumbai.burrp.com/listing/lebanese-foods_vashi_navi-mumbai_restaurants/15123656158
+p460
+sg13
+VVashi
+p461
+sg15
+(lp462
+V27893030
+p463
+aV 27893535
+p464
+aV 9920619852
+p465
+asg19
+g20
+sg21
+VLokhandwala Andheri, Shop no 29/30, Shiv Centre Plot No 72, Sector 17, Vashi, Navi Mumbai
+p466
+sba(i__main__
+Place
+p467
+(dp468
+g3
+(lp469
+VRestaurants
+p470
+asg7
+g141
+sg9
+VTempatation
+p471
+sg11
+Vhttp://mumbai.burrp.com/listing/tempatation_vashi_navi-mumbai_restaurants/1745748435
+p472
+sg13
+VVashi
+p473
+sg15
+(lp474
+V9820019913
+p475
+aV 9223349919
+p476
+asg19
+g141
+sg21
+VKishok No 2D & 3B, Near Vashi Railway Station, Sector - 30, Vashi, Navi Mumbai
+p477
+sba(i__main__
+Place
+p478
+(dp479
+g3
+(lp480
+VRestaurants
+p481
+asg7
+g141
+sg9
+VRanjeet
+p482
+sg11
+Vhttp://mumbai.burrp.com/listing/ranjeet_vashi_navi-mumbai_restaurants/12523635584
+p483
+sg13
+VVashi
+p484
+sg15
+(lp485
+V27896220
+p486
+aV 27896330
+p487
+aV 9323205629
+p488
+asg19
+g20
+sg21
+VRaikar Bhavan, Sector 17, Vashi, Navi Mumbai
+p489
+sba(i__main__
+Place
+p490
+(dp491
+g3
+(lp492
+VRestaurants
+p493
+asg7
+g141
+sg9
+VNityanand Restaurant & Bar 
+p494
+sg11
+Vhttp://mumbai.burrp.com/listing/nityanand-restaurant-bar-_vashi_navi-mumbai_restaurants/13523636574
+p495
+sg13
+VVashi
+p496
+sg15
+(lp497
+V27802175
+p498
+aV  27802176
+p499
+aV 9769341998
+p500
+asg19
+g20
+sg21
+VShop no 08, Plot No 10, Sector 19C, Agarwal Chamber, Vashi, Navi Mumbai
+p501
+sba(i__main__
+Place
+p502
+(dp503
+g3
+(lp504
+VRestaurants
+p505
+asg7
+g141
+sg9
+VJewel of the Ocean
+p506
+sg11
+Vhttp://mumbai.burrp.com/listing/jewel-of-the-ocean_vashi_navi-mumbai_restaurants/179861930
+p507
+sg13
+VVashi
+p508
+sg15
+(lp509
+V27897611
+p510
+asg19
+g141
+sg21
+VBlue Diamond Hotel, Plot No. 1 & 1b, Sector-28, Vashi, Navi Mumbai
+p511
+sba(i__main__
+Place
+p512
+(dp513
+g3
+(lp514
+VRestaurants
+p515
+asg7
+g141
+sg9
+VKulsum Fast Food Centre
+p516
+sg11
+Vhttp://mumbai.burrp.com/listing/kulsum-fast-food-centre_vashi_navi-mumbai_restaurants/1681364841
+p517
+sg13
+VVashi
+p518
+sg15
+(lp519
+V9324701544
+p520
+asg19
+g20
+sg21
+VKoisk No. 1D, Forecourt Area, Vashi Railway Station, Vashi, Navi Mumbai
+p521
+sba(i__main__
+Place
+p522
+(dp523
+g3
+(lp524
+VRestaurants
+p525
+asg7
+g141
+sg9
+VFish Treat
+p526
+sg11
+Vhttp://mumbai.burrp.com/listing/fish-treat_vashi_navi-mumbai_restaurants/17913920930
+p527
+sg13
+VVashi
+p528
+sg15
+(lp529
+V65107666
+p530
+aV 65114513
+p531
+asg19
+g141
+sg21
+VShp 34, Raikaar Bhavan, Sector 17, Vashi, Navi Mumbai
+p532
+sba(i__main__
+Place
+p533
+(dp534
+g3
+(lp535
+VRestaurants
+p536
+asg7
+g141
+sg9
+VChimbori Restaurant
+p537
+sg11
+Vhttp://mumbai.burrp.com/listing/chimbori-restaurant_vashi_navi-mumbai_restaurants/13114024178
+p538
+sg13
+VVashi
+p539
+sg15
+(lp540
+V27661809
+p541
+aV 27881997
+p542
+asg19
+g141
+sg21
+VShop No 15, Sector 15/16 Opp Bank Of India, Vashi, Navi Mumbai
+p543
+sba(i__main__
+Place
+p544
+(dp545
+g3
+(lp546
+VFast Food Shops
+p547
+aV Restaurants
+p548
+asg7
+g207
+sg9
+VMcDonald's
+p549
+sg11
+Vhttp://mumbai.burrp.com/listing/mcdonalds_vashi_navi-mumbai_fast-food-shops-restaurants/17942930
+p550
+sg13
+VVashi
+p551
+sg15
+(lp552
+V66000666
+p553
+asg19
+g141
+sg21
+VMansarovar Chambers, Plot No 14, Sector 17, Vashi, Navi Mumbai
+p554
+sba(i__main__
+Place
+p555
+(dp556
+g3
+(lp557
+VRestaurants
+p558
+asg7
+g141
+sg9
+VShanghai Express
+p559
+sg11
+Vhttp://mumbai.burrp.com/listing/shanghai-express_vashi_navi-mumbai_restaurants/19723687712
+p560
+sg13
+VVashi
+p561
+sg15
+(lp562
+V9773958547
+p563
+aV 66736527
+p564
+asg19
+g20
+sg21
+VShop No 17, 18 & 19, Vashi, Navi Mumbai
+p565
+sba(i__main__
+Place
+p566
+(dp567
+g3
+(lp568
+VRestaurants
+p569
+asg7
+g141
+sg9
+VKrishna
+p570
+sg11
+Vhttp://mumbai.burrp.com/listing/krishna_vashi_navi-mumbai_restaurants/18170128
+p571
+sg13
+VVashi
+p572
+sg15
+(lp573
+V27820401
+p574
+asg19
+g141
+sg21
+VSector 8, Near Sagar Vihar Hoverport, Vashi, Navi Mumbai
+p575
+sba(i__main__
+Place
+p576
+(dp577
+g3
+(lp578
+VBars & Pubs
+p579
+aV Restaurants
+p580
+asg7
+g141
+sg9
+VChoupal
+p581
+sg11
+Vhttp://mumbai.burrp.com/listing/choupal_vashi_navi-mumbai_bars-pubs-restaurants/171159138
+p582
+sg13
+VVashi
+p583
+sg15
+(lp584
+V27683311
+p585
+aV 27683322
+p586
+asg19
+g141
+sg21
+VCentre Point, DC1, TTC, Industrial Area, Turbhe, Vashi, Navi Mumbai
+p587
+sba(i__main__
+Place
+p588
+(dp589
+g3
+(lp590
+VRestaurants
+p591
+asg7
+g141
+sg9
+VZodiac
+p592
+sg11
+Vhttp://mumbai.burrp.com/listing/zodiac_vashi_navi-mumbai_restaurants/1401407069
+p593
+sg13
+VVashi
+p594
+sg15
+(lp595
+V39884444
+p596
+asg19
+g20
+sg21
+VFortune Select Exotica,   Plot No 16, Sector 19 - D, Vashi, Navi Mumbai
+p597
+sba(i__main__
+Place
+p598
+(dp599
+g3
+(lp600
+VRestaurants
+p601
+asg7
+g141
+sg9
+VIndian Specialty Restaurant
+p602
+sg11
+Vhttp://mumbai.burrp.com/listing/indian-specialty-restaurant_vashi_navi-mumbai_restaurants/1411407168
+p603
+sg13
+VVashi
+p604
+sg15
+(lp605
+V39884444
+p606
+asg19
+g20
+sg21
+VFortune Select Exotica, Plot No 16, Sector 19 - D, Vashi, Navi Mumbai
+p607
+sba(i__main__
+Place
+p608
+(dp609
+g3
+(lp610
+VRestaurants
+p611
+asg7
+g141
+sg9
+VAtithi
+p612
+sg11
+Vhttp://mumbai.burrp.com/listing/atithi_vashi_navi-mumbai_restaurants/1491425960
+p613
+sg13
+VVashi
+p614
+sg15
+(lp615
+V27650580
+p616
+asg19
+g20
+sg21
+VSupreme Holiday Resorts Pvt. Ltd., Plot No. L - 2, Sector No. 19, Vashi, Navi Mumbai
+p617
+sba(i__main__
+Place
+p618
+(dp619
+g3
+(lp620
+VRestaurants
+p621
+asg7
+g141
+sg9
+VCoconut
+p622
+sg11
+Vhttp://mumbai.burrp.com/listing/coconut_vashi_navi-mumbai_restaurants/1684415841
+p623
+sg13
+VVashi
+p624
+sg15
+(lp625
+V66908906
+p626
+asg19
+g141
+sg21
+V3rd Floor, Raghuleela Mall, Vashi, Navi Mumbai
+p627
+sba(i__main__
+Place
+p628
+(dp629
+g3
+(lp630
+VRestaurants
+p631
+asg7
+g141
+sg9
+VTwilight
+p632
+sg11
+Vhttp://mumbai.burrp.com/listing/twilight_vashi_navi-mumbai_restaurants/1525449257
+p633
+sg13
+VVashi
+p634
+sg15
+(lp635
+V41712345
+p636
+asg19
+g20
+sg21
+VVashi, Navi Mumbai
+p637
+sba(i__main__
+Place
+p638
+(dp639
+g3
+(lp640
+VRestaurants
+p641
+asg7
+g141
+sg9
+VKrishna Lunch Home And Bar
+p642
+sg11
+Vhttp://mumbai.burrp.com/listing/krishna-lunch-home-and-bar_apmc-market_navi-mumbai_restaurants/17113695138
+p643
+sg13
+VAPMC Market
+p644
+sg15
+(lp645
+V27888437
+p646
+aV 9820123442
+p647
+aV 9820255009
+p648
+asg19
+g141
+sg21
+VAnnapurna Premises, Turbhe Road, Sector No 18, APMC Market, Vashi, Navi Mumbai
+p649
+sba(i__main__
+Place
+p650
+(dp651
+g3
+(lp652
+VRestaurants
+p653
+asg7
+g141
+sg9
+VVishwajyot Restaurant And Bar
+p654
+sg11
+Vhttp://mumbai.burrp.com/listing/vishwajyot-restaurant-and-bar_sector-17_navi-mumbai_restaurants/17513875534
+p655
+sg13
+VSector 17
+p656
+sg15
+(lp657
+V27891932
+p658
+aV 27892207
+p659
+asg19
+g141
+sg21
+VShiv Centre, Opposite Saint Lawrence School, Sector 17, Vashi, Navi Mumbai
+p660
+sba(i__main__
+Place
+p661
+(dp662
+g3
+(lp663
+VRestaurants
+p664
+asg7
+g141
+sg9
+VAoorva Restaurant
+p665
+sg11
+Vhttp://mumbai.burrp.com/listing/aoorva-restaurant_vashi_navi-mumbai_restaurants/11313905396
+p666
+sg13
+VVashi
+p667
+sg15
+(lp668
+V27821223
+p669
+aV 27822348
+p670
+asg19
+g141
+sg21
+VParivar Apartment, Sector 5, Vashi, Navi Mumbai
+p671
+sba(i__main__
+Place
+p672
+(dp673
+g3
+(lp674
+VRestaurants
+p675
+aV Bars & Pubs
+p676
+asg7
+g141
+sg9
+VCactus Family Restaurant & Bar
+p677
+sg11
+Vhttp://mumbai.burrp.com/listing/cactus-family-restaurant-bar_vashi_navi-mumbai_restaurants-bars-pubs/13713907772
+p678
+sg13
+VVashi
+p679
+sg15
+(lp680
+V67910928
+p681
+asg19
+g141
+sg21
+VShop No 5/A, Shanti Centre, Sector No 17, Vashi, Navi Mumbai
+p682
+sba(i__main__
+Place
+p683
+(dp684
+g3
+(lp685
+VRestaurants
+p686
+asg7
+g141
+sg9
+VHotel Trimurti
+p687
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-trimurti_vashi_navi-mumbai_restaurants/11513923594
+p688
+sg13
+VVashi
+p689
+sg15
+(lp690
+V27655729
+p691
+aV 27898108
+p692
+asg19
+g141
+sg21
+VShop No 1/2, F-7, Juhu Nagar, Sector 10, Vashi, Navi Mumbai
+p693
+sba(i__main__
+Place
+p694
+(dp695
+g3
+(lp696
+VRestaurants
+p697
+asg7
+g141
+sg9
+VHotel Vinbro
+p698
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-vinbro_vashi_navi-mumbai_restaurants/11713923792
+p699
+sg13
+VVashi
+p700
+sg15
+(lp701
+V27663490
+p702
+aV 27881901
+p703
+asg19
+g141
+sg21
+VK Type Shopping Centre , Sector No 15, Vashi, Navi Mumbai
+p704
+sba(i__main__
+Place
+p705
+(dp706
+g3
+(lp707
+VBars & Pubs
+p708
+aV Restaurants
+p709
+asg7
+g141
+sg9
+VMarine Centre Club
+p710
+sg11
+Vhttp://mumbai.burrp.com/listing/marine-centre-club_vashi_navi-mumbai_bars-pubs-restaurants/14713926762
+p711
+sg13
+VVashi
+p712
+sg15
+(lp713
+V27897055
+p714
+aV 27897229
+p715
+asg19
+g141
+sg21
+VMarine Centre Campus, Marine Street, Sector 11, Vashi, Navi Mumbai
+p716
+sba(i__main__
+Place
+p717
+(dp718
+g3
+(lp719
+VRestaurants
+p720
+asg7
+g141
+sg9
+VMukkam Post Malvan
+p721
+sg11
+Vhttp://mumbai.burrp.com/listing/mukkam-post-malvan_vashi_navi-mumbai_restaurants/17513929534
+p722
+sg13
+VVashi
+p723
+sg15
+(lp724
+V27661809
+p725
+aV 9322140673
+p726
+asg19
+g141
+sg21
+VShop No 15, Sector No 15/16, Vashi, Navi Mumbai
+p727
+sba(i__main__
+Place
+p728
+(dp729
+g3
+(lp730
+VRestaurants
+p731
+asg7
+g141
+sg9
+VSager Restaurant & Bar
+p732
+sg11
+Vhttp://mumbai.burrp.com/listing/sager-restaurant-bar_vashi_navi-mumbai_restaurants/14113935168
+p733
+sg13
+VVashi
+p734
+sg15
+(lp735
+V27890904
+p736
+aV 27894873
+p737
+asg19
+g141
+sg21
+VNirman Vyapar Kendra, Sector 17, Vashi, Navi Mumbai
+p738
+sba(i__main__
+Place
+p739
+(dp740
+g3
+(lp741
+VRestaurants
+p742
+asg7
+g141
+sg9
+VSahyadri
+p743
+sg11
+Vhttp://mumbai.burrp.com/listing/sahyadri_vashi_navi-mumbai_restaurants/14313935366
+p744
+sg13
+VVashi
+p745
+sg15
+(lp746
+V27661920
+p747
+aV 65165506
+p748
+asg19
+g141
+sg21
+VShop No 1/2/3, Sun Rays Apartment, Sector 10/A, Vashi, Navi Mumbai
+p749
+sba(i__main__
+Place
+p750
+(dp751
+g3
+(lp752
+VShops
+p753
+aV Restaurants
+p754
+aV Bars & Pubs
+p755
+aV Dessert Shops
+p756
+asg7
+g141
+sg9
+VSantosh Sweet Mart & Restaurant
+p757
+sg11
+Vhttp://mumbai.burrp.com/listing/santosh-sweet-mart-restaurant_vashi_navi-mumbai_shops-restaurants-bars-pubs/15713936752
+p758
+sg13
+VVashi
+p759
+sg15
+(lp760
+V27660943
+p761
+asg19
+g141
+sg21
+V12, Sec 9, Rishab Shopping Centre, Vashi, Navi Mumbai
+p762
+sba(i__main__
+Place
+p763
+(dp764
+g3
+(lp765
+VRestaurants
+p766
+asg7
+g141
+sg9
+VSheetal Restaurant & Bar
+p767
+sg11
+Vhttp://mumbai.burrp.com/listing/sheetal-restaurant-bar_vashi_navi-mumbai_restaurants/17113938138
+p768
+sg13
+VVashi
+p769
+sg15
+(lp770
+V27654958
+p771
+aV 9819772118
+p772
+aV 9320877304
+p773
+asg19
+g141
+sg21
+VShop 5/6, Risabh Shopping Centre, Sector 9/A, Vashi, Navi Mumbai
+p774
+sba(i__main__
+Place
+p775
+(dp776
+g3
+(lp777
+VRestaurants
+p778
+aV Bars & Pubs
+p779
+asg7
+g141
+sg9
+VSweta Palace Bar & Restaurant
+p780
+sg11
+Vhttp://mumbai.burrp.com/listing/sweta-palace-bar-restaurant_vashi_navi-mumbai_restaurants-bars-pubs/12313942386
+p781
+sg13
+VVashi
+p782
+sg15
+(lp783
+V27895940
+p784
+aV 27895941
+p785
+asg19
+g141
+sg21
+VPlot 71, Arenja Corner, Sector 17, Vashi, Navi Mumbai
+p786
+sba(i__main__
+Place
+p787
+(dp788
+g3
+(lp789
+VRestaurants
+p790
+asg7
+g141
+sg9
+VVaidehi Restaurant And Bar
+p791
+sg11
+Vhttp://mumbai.burrp.com/listing/vaidehi-restaurant-and-bar_vashi_navi-mumbai_restaurants/13913943970
+p792
+sg13
+VVashi
+p793
+sg15
+(lp794
+V27667821
+p795
+aV 27893324
+p796
+asg19
+g141
+sg21
+VShop No 1 & 2, F 3, Sector  9, Vashi, Navi Mumbai
+p797
+sba(i__main__
+Place
+p798
+(dp799
+g3
+(lp800
+VRestaurants
+p801
+asg7
+g141
+sg9
+VYes Boss Restaurant
+p802
+sg11
+Vhttp://mumbai.burrp.com/listing/yes-boss-restaurant_vashi_navi-mumbai_restaurants/17113947138
+p803
+sg13
+VVashi
+p804
+sg15
+(lp805
+V27802138
+p806
+aV 27802138
+p807
+aV 9323709616
+p808
+aV 9820156177
+p809
+asg19
+g20
+sg21
+V4, Geeta Apartment, Juhu Gaon, Sector 11, Vashi, Navi Mumbai
+p810
+sba(i__main__
+Place
+p811
+(dp812
+g3
+(lp813
+VRestaurants
+p814
+aV Juice Parlours
+p815
+asg7
+g141
+sg9
+VLaxmi Sagar Family Restaurant
+p816
+sg11
+Vhttp://mumbai.burrp.com/listing/laxmi-sagar-family-restaurant_vashi_navi-mumbai_restaurants-juice-parlours/19913949910
+p817
+sg13
+VVashi
+p818
+sg15
+(lp819
+V27650074
+p820
+aV 9320984658
+p821
+aV 9820032158
+p822
+asg19
+g141
+sg21
+VShop No 11/12, Sai Udyan Co Operative Housing Society, Sector No 14 , Near Gaondevi Mandir, Vashi, Navi Mumbai
+p823
+sba(i__main__
+Place
+p824
+(dp825
+g3
+(lp826
+VRestaurants
+p827
+asg7
+g141
+sg9
+VAmrut Restaurant And Bar
+p828
+sg11
+Vhttp://mumbai.burrp.com/listing/amrut-restaurant-and-bar_vashi_navi-mumbai_restaurants/15313963356
+p829
+sg13
+VVashi
+p830
+sg15
+(lp831
+V27888928
+p832
+aV 9967444360
+p833
+asg19
+g141
+sg21
+VShop No 10, Annapurna Building, Plot No 8, Sector No 18 , Vashi, Navi Mumbai
+p834
+sba(i__main__
+Place
+p835
+(dp836
+g3
+(lp837
+VRestaurants
+p838
+asg7
+g141
+sg9
+VAssam Bhavan
+p839
+sg11
+Vhttp://mumbai.burrp.com/listing/assam-bhavan_vashi_navi-mumbai_restaurants/17713965732
+p840
+sg13
+VVashi
+p841
+sg15
+(lp842
+V27810888
+p843
+aV 27812903
+p844
+aV 9224652184
+p845
+aV 9892170259
+p846
+asg19
+g141
+sg21
+VVashi, Navi Mumbai
+p847
+sba(i__main__
+Place
+p848
+(dp849
+g3
+(lp850
+VRestaurants
+p851
+asg7
+g141
+sg9
+VDimpys Familys Restaurant & Bars
+p852
+sg11
+Vhttp://mumbai.burrp.com/listing/dimpys-familys-restaurant-bars_vashi_navi-mumbai_restaurants/14713989762
+p853
+sg13
+VVashi
+p854
+sg15
+(lp855
+V27896220
+p856
+aV 27896330
+p857
+asg19
+g141
+sg21
+VShop No 22, Raikar Bhavan , Sector 17 , Vashi, Navi Mumbai
+p858
+sba(i__main__
+Place
+p859
+(dp860
+g3
+(lp861
+VBars & Pubs
+p862
+aV Restaurants
+p863
+asg7
+g141
+sg9
+VSanjog Bar & Restaurant
+p864
+sg11
+Vhttp://mumbai.burrp.com/listing/sanjog-bar-restaurant_vashi_navi-mumbai_bars-pubs-restaurants/19114003118
+p865
+sg13
+VVashi
+p866
+sg15
+(lp867
+V27664466
+p868
+aV 27801609
+p869
+asg19
+g20
+sg21
+VF-1, Shop No. 1&2, Sector 10, Vashi, Navi Mumbai
+p870
+sba(i__main__
+Place
+p871
+(dp872
+g3
+(lp873
+VRestaurants
+p874
+asg7
+g141
+sg9
+VShalimar Restaurant
+p875
+sg11
+Vhttp://mumbai.burrp.com/listing/shalimar-restaurant_vashi_navi-mumbai_restaurants/12514005584
+p876
+sg13
+VVashi
+p877
+sg15
+(lp878
+V27821017
+p879
+aV 69577563
+p880
+asg19
+g141
+sg21
+VShop No F 1/2, Ground Floor, Sagar Vihar Road, Sector No 5, Vashi, Navi Mumbai
+p881
+sba(i__main__
+Place
+p882
+(dp883
+g3
+(lp884
+VRestaurants
+p885
+asg7
+g141
+sg9
+VSun Inn Restaurant
+p886
+sg11
+Vhttp://mumbai.burrp.com/listing/sun-inn-restaurant_vashi_navi-mumbai_restaurants/13714006772
+p887
+sg13
+VVashi
+p888
+sg15
+(lp889
+V27830883
+p890
+aV 9869202308
+p891
+asg19
+g141
+sg21
+VMillenium Plaza Shop No 4 Plot No 13 , Sector 26, Vashi, Navi Mumbai
+p892
+sba(i__main__
+Place
+p893
+(dp894
+g3
+(lp895
+VRestaurants
+p896
+asg7
+g141
+sg9
+VSeawoods Restaurant
+p897
+sg11
+Vhttp://mumbai.burrp.com/listing/seawoods-restaurant_vashi_navi-mumbai_restaurants/19114012118
+p898
+sg13
+VVashi
+p899
+sg15
+(lp900
+V27882578
+p901
+aV 27882579
+p902
+asg19
+g141
+sg21
+VPalm Hotel, Sector No 19 C, Plot No 41, Vashi, Navi Mumbai
+p903
+sba(i__main__
+Place
+p904
+(dp905
+g3
+(lp906
+VRestaurants
+p907
+aV Hotels
+p908
+aV Gyms
+p909
+asg7
+g141
+sg9
+VManjeet Hotels Pvt Ltd
+p910
+sg11
+Vhttp://mumbai.burrp.com/listing/manjeet-hotels-pvt-ltd_vashi_navi-mumbai_restaurants-hotels-gyms/14514016564
+p911
+sg13
+VVashi
+p912
+sg15
+(lp913
+V27800404
+p914
+aV 27800405
+p915
+aV 27800406
+p916
+aV 41023456
+p917
+asg19
+g141
+sg21
+VPlot No L 1, Sector 19, Vashi, Navi Mumbai
+p918
+sba(i__main__
+Place
+p919
+(dp920
+g3
+(lp921
+VDessert Shops
+p922
+aV Cafes
+p923
+aV Women's Clothing Stores
+p924
+aV Restaurants
+p925
+aV Accessory Stores
+p926
+aV Kid's Clothing Stores
+p927
+aV Men's Clothing Stores
+p928
+asg7
+g141
+sg9
+VCentral Stores
+p929
+sg11
+Vhttp://mumbai.burrp.com/listing/central-stores_vashi_navi-mumbai_dessert-shops-cafes-womens-clothing-stores/11314022396
+p930
+sg13
+VVashi
+p931
+sg15
+(lp932
+V39520124
+p933
+aV 39520125
+p934
+asg19
+g141
+sg21
+VRaghuleela Mega Mall, Plot No 34/35/38, Sector 30/A, Vashi Station, Vashi, Navi Mumbai
+p935
+sba(i__main__
+Place
+p936
+(dp937
+g3
+(lp938
+VRestaurants
+p939
+asg7
+g141
+sg9
+VChop Stix Restaurant
+p940
+sg11
+Vhttp://mumbai.burrp.com/listing/chop-stix-restaurant_vashi_navi-mumbai_restaurants/11714022792
+p941
+sg13
+VVashi
+p942
+sg15
+(lp943
+V32233442
+p944
+aV 9930380238
+p945
+asg19
+g141
+sg21
+VS/6, Gala No 4, Rainbow Society, Sector 10, Vashi, Navi Mumbai
+p946
+sba(i__main__
+Place
+p947
+(dp948
+g3
+(lp949
+VRestaurants
+p950
+aV Bars & Pubs
+p951
+asg7
+g141
+sg9
+VCoral Lounge
+p952
+sg11
+Vhttp://mumbai.burrp.com/listing/coral-lounge_vashi_navi-mumbai_restaurants-bars-pubs/15114026158
+p953
+sg13
+VVashi
+p954
+sg15
+(lp955
+V27890904
+p956
+aV 27894873
+p957
+asg19
+g141
+sg21
+VSagar Restaurant, Nirman Vyapar Kendra, Plot No 10, Sector 17, Vashi, Navi Mumbai
+p958
+sba(i__main__
+Place
+p959
+(dp960
+g3
+(lp961
+VRestaurants
+p962
+asg7
+g141
+sg9
+VHot Stuffing Restaurant
+p963
+sg11
+Vhttp://mumbai.burrp.com/listing/hot-stuffing-restaurant_vashi_navi-mumbai_restaurants/18114029128
+p964
+sg13
+VVashi
+p965
+sg15
+(lp966
+V65269233
+p967
+aV 9223347420
+p968
+asg19
+g141
+sg21
+VKiosk B/13, Near Vashi Station, Vashi, Navi Mumbai
+p969
+sba(i__main__
+Place
+p970
+(dp971
+g3
+(lp972
+VRestaurants
+p973
+asg7
+g141
+sg9
+VHotel Akshaya
+p974
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-akshaya_vashi_navi-mumbai_restaurants/19514030514
+p975
+sg13
+VVashi
+p976
+sg15
+(lp977
+V27871201
+p978
+aV 9833284044
+p979
+asg19
+g141
+sg21
+VShop No 9, Annapurna Building, Sector 18, Krishi Utpanna Bazar, Vashi, Navi Mumbai
+p980
+sba(i__main__
+Place
+p981
+(dp982
+g3
+(lp983
+VFast Food Shops
+p984
+aV Restaurants
+p985
+asg7
+g141
+sg9
+VVisava Restaurant
+p986
+sg11
+Vhttp://mumbai.burrp.com/listing/visava-restaurant_vashi_navi-mumbai_fast-food-shops-restaurants/15914035950
+p987
+sg13
+VVashi
+p988
+sg15
+(lp989
+V27656163
+p990
+asg19
+g141
+sg21
+VUnit No 110, Plot No 6, Pulin Complex, Sector 19, Wing C, Near APMC Market, Vashi, Navi Mumbai
+p991
+sba(i__main__
+Place
+p992
+(dp993
+g3
+(lp994
+VRestaurants
+p995
+asg7
+g141
+sg9
+VVimal Restaurant
+p996
+sg11
+Vhttp://mumbai.burrp.com/listing/vimal-restaurant_vashi_navi-mumbai_restaurants/17914037930
+p997
+sg13
+VVashi
+p998
+sg15
+(lp999
+V27662755
+p1000
+asg19
+g141
+sg21
+VShop No 2, Wing E, Sector 19, Inside Masala Market, Vashi, Navi Mumbai
+p1001
+sba(i__main__
+Place
+p1002
+(dp1003
+g3
+(lp1004
+VRestaurants
+p1005
+asg7
+g141
+sg9
+VPunjabian Da Chouka
+p1006
+sg11
+Vhttp://mumbai.burrp.com/listing/punjabian-da-chouka_vashi_navi-mumbai_restaurants/19514048514
+p1007
+sg13
+VVashi
+p1008
+sg15
+(lp1009
+V32656051
+p1010
+aV 9323872878
+p1011
+aV 9987489926
+p1012
+asg19
+g141
+sg21
+V10C, Vashi Railway Station, Vashi, Navi Mumbai
+p1013
+sba(i__main__
+Place
+p1014
+(dp1015
+g3
+(lp1016
+VHotels
+p1017
+aV Restaurants
+p1018
+asg7
+g141
+sg9
+VTunga Banquet Hall
+p1019
+sg11
+Vhttp://mumbai.burrp.com/listing/tunga-banquet-hall_vashi_navi-mumbai_hotels-restaurants/16714054742
+p1020
+sg13
+VVashi
+p1021
+sg15
+(lp1022
+V66801818
+p1023
+aV 9773122985
+p1024
+aV 9833894021
+p1025
+aV 66801800
+p1026
+asg19
+g141
+sg21
+VC/O Hotel Regenza /Hotel Tunga, Plot No 37, Sector 30 A, Vashi Station, Vashi, Navi Mumbai
+p1027
+sba(i__main__
+Place
+p1028
+(dp1029
+g3
+(lp1030
+VRestaurants
+p1031
+asg7
+g141
+sg9
+VG.K.Dry & Fry
+p1032
+sg11
+Vhttp://mumbai.burrp.com/listing/gkdry-fry_vashi_navi-mumbai_restaurants/12515598584
+p1033
+sg13
+VVashi
+p1034
+sg15
+(lp1035
+V32035881
+p1036
+aV 32035089
+p1037
+aV 40133196
+p1038
+asg19
+g141
+sg21
+VTower No.2, Shop No.2, International Infotech Park, Sector 30-A, Vashi, Navi Mumbai
+p1039
+sba(i__main__
+Place
+p1040
+(dp1041
+g3
+(lp1042
+VRestaurants
+p1043
+asg7
+g141
+sg9
+VRoyal Punjab
+p1044
+sg11
+Vhttp://mumbai.burrp.com/listing/royal-punjab_vashi_navi-mumbai_restaurants/12318226386
+p1045
+sg13
+VVashi
+p1046
+sg15
+(lp1047
+V27800004
+p1048
+aV 64462620
+p1049
+asg19
+g141
+sg21
+VSector 11, Vashi, Navi Mumbai
+p1050
+sba(i__main__
+Place
+p1051
+(dp1052
+g3
+(lp1053
+VRestaurants
+p1054
+asg7
+g141
+sg9
+VSanjay Lunch Home
+p1055
+sg11
+Vhttp://mumbai.burrp.com/listing/sanjay-lunch-home_vashi_navi-mumbai_restaurants/14918228960
+p1056
+sg13
+VVashi
+p1057
+sg15
+(lp1058
+V27651817 
+p1059
+aV 27889660
+p1060
+asg19
+g141
+sg21
+VF7/Shop No.7 , Sector 10 , Vashi, Navi Mumbai
+p1061
+sba(i__main__
+Place
+p1062
+(dp1063
+g3
+(lp1064
+VCafes
+p1065
+aV Restaurants
+p1066
+asg7
+g141
+sg9
+VEcho
+p1067
+sg11
+Vhttp://mumbai.burrp.com/listing/echo_vashi_navi-mumbai_cafes-restaurants/14918687960
+p1068
+sg13
+VVashi
+p1069
+sg15
+(lp1070
+V41712345
+p1071
+asg19
+g39
+sg21
+VVashi, Navi Mumbai
+p1072
+sba(i__main__
+Place
+p1073
+(dp1074
+g3
+(lp1075
+VRestaurants
+p1076
+asg7
+g141
+sg9
+VMr. Idli
+p1077
+sg11
+Vhttp://mumbai.burrp.com/listing/mr-idli_vashi_navi-mumbai_restaurants/15919264950
+p1078
+sg13
+VVashi
+p1079
+sg15
+(lp1080
+V9004247977
+p1081
+asg19
+g207
+sg21
+VShop No. 4, Sector-10, Vashi, Navi Mumbai
+p1082
+sba(i__main__
+Place
+p1083
+(dp1084
+g3
+(lp1085
+VRestaurants
+p1086
+asg7
+g141
+sg9
+VNanak Kripa Restaurant
+p1087
+sg11
+Vhttp://mumbai.burrp.com/listing/nanak-kripa-restaurant_vashi_navi-mumbai_restaurants/19923642910
+p1088
+sg13
+VVashi
+p1089
+sg15
+(lp1090
+V27880737
+p1091
+aV 27888474
+p1092
+aV 65104929
+p1093
+aV 27888975
+p1094
+asg19
+g20
+sg21
+VSector 18, Vashi, Navi Mumbai
+p1095
+sba(i__main__
+Place
+p1096
+(dp1097
+g3
+(lp1098
+VRestaurants
+p1099
+asg7
+g141
+sg9
+VMalhaar Restaurant
+p1100
+sg11
+Vhttp://mumbai.burrp.com/listing/malhaar-restaurant_vashi_navi-mumbai_restaurants/12523653584
+p1101
+sg13
+VVashi
+p1102
+sg15
+(lp1103
+V27800298
+p1104
+aV 9820899125
+p1105
+aV 9773922633
+p1106
+asg19
+g20
+sg21
+VShop No 2, Rishabh Shopping Centre, Sector 9A, Vashi, Navi Mumbai
+p1107
+sba(i__main__
+Place
+p1108
+(dp1109
+g3
+(lp1110
+VRestaurants
+p1111
+asg7
+g141
+sg9
+VJyothi Palace 
+p1112
+sg11
+Vhttp://mumbai.burrp.com/listing/jyothi-palace-_vashi_navi-mumbai_restaurants/14123664168
+p1113
+sg13
+VVashi
+p1114
+sg15
+(lp1115
+V27800004
+p1116
+aV 64462620
+p1117
+aV 9022377774
+p1118
+asg19
+g20
+sg21
+VSector 11, Vashi, Navi Mumbai
+p1119
+sba(i__main__
+Place
+p1120
+(dp1121
+g3
+(lp1122
+VRestaurants
+p1123
+aV Fast Food Shops
+p1124
+asg7
+g141
+sg9
+VSadguru Fast Food Chinese Corner
+p1125
+sg11
+Vhttp://mumbai.burrp.com/listing/sadguru-fast-food-chinese-corner_vashi_navi-mumbai_restaurants-fast-food-shops/11923679990
+p1126
+sg13
+VVashi
+p1127
+sg15
+(lp1128
+V9594405883
+p1129
+aV 27891151
+p1130
+asg19
+g20
+sg21
+VPlot no 46, B-1, Sector 15, Vashi, Navi Mumbai
+p1131
+sba(i__main__
+Place
+p1132
+(dp1133
+g3
+(lp1134
+VOutdoor Caterers
+p1135
+aV Restaurants
+p1136
+asg7
+g141
+sg9
+VSandeep Veg Restaurant & Bar 
+p1137
+sg11
+Vhttp://mumbai.burrp.com/listing/sandeep-veg-restaurant-bar-_vashi_navi-mumbai_outdoor-caterers-restaurants/16923684940
+p1138
+sg13
+VVashi
+p1139
+sg15
+(lp1140
+V31922201
+p1141
+aV 27899799
+p1142
+aV 27659058
+p1143
+asg19
+g20
+sg21
+VSector 14, Vashi, Navi Mumbai
+p1144
+sba(i__main__
+Place
+p1145
+(dp1146
+g3
+(lp1147
+VRestaurants
+p1148
+asg7
+g141
+sg9
+VShree Sai Krupa 
+p1149
+sg11
+Vhttp://mumbai.burrp.com/listing/shree-sai-krupa-_vashi_navi-mumbai_restaurants/14323691366
+p1150
+sg13
+VVashi
+p1151
+sg15
+(lp1152
+V9320478003
+p1153
+aV 9221813906
+p1154
+aV 9867356124
+p1155
+asg19
+g20
+sg21
+VC-5, Sector 31, Vashi Railwat Station, Vashi, Navi Mumbai
+p1156
+sba(i__main__
+Place
+p1157
+(dp1158
+g3
+(lp1159
+VRestaurants
+p1160
+asg7
+g141
+sg9
+VTemptation Family Restaurant
+p1161
+sg11
+Vhttp://mumbai.burrp.com/listing/temptation-family-restaurant_vashi_navi-mumbai_restaurants/18923695920
+p1162
+sg13
+VVashi
+p1163
+sg15
+(lp1164
+V27813345
+p1165
+aV 65133345
+p1166
+aV 9223349919
+p1167
+asg19
+g141
+sg21
+VKiosk No 2A, 2D, 3B, 3C , Sector 30, Vashi, Navi Mumbai
+p1168
+sba(i__main__
+Place
+p1169
+(dp1170
+g3
+(lp1171
+VRestaurants
+p1172
+asg7
+g141
+sg9
+VWazobia Kitchen & Grill
+p1173
+sg11
+Vhttp://mumbai.burrp.com/listing/wazobia-kitchen-grill_vashi_navi-mumbai_restaurants/17123703138
+p1174
+sg13
+VVashi
+p1175
+sg15
+(lp1176
+V65261888
+p1177
+aV 65153666
+p1178
+asg19
+g20
+sg21
+VShop no 9, Sai Prasad Building, Sector 14, Vashi, Navi Mumbai
+p1179
+sba(i__main__
+Place
+p1180
+(dp1181
+g3
+(lp1182
+VRestaurants
+p1183
+asg7
+g141
+sg9
+VYummy 
+p1184
+sg11
+Vhttp://mumbai.burrp.com/listing/yummy-_vashi_navi-mumbai_restaurants/19523705514
+p1185
+sg13
+VVashi
+p1186
+sg15
+(lp1187
+V9820583393
+p1188
+aV 9920983363
+p1189
+asg19
+g39
+sg21
+VShop no 1/2, Indraprasth , Sector-29, Vashi, Navi Mumbai
+p1190
+sba(i__main__
+Place
+p1191
+(dp1192
+g3
+(lp1193
+VRestaurants
+p1194
+asg7
+g141
+sg9
+VChop King
+p1195
+sg11
+Vhttp://mumbai.burrp.com/listing/chop-king_vashi_navi-mumbai_restaurants/18723749722
+p1196
+sg13
+VVashi
+p1197
+sg15
+(lp1198
+V27814144
+p1199
+aV 9967445186
+p1200
+asg19
+g20
+sg21
+VKiosk, 10-D, Vashi, Navi Mumbai
+p1201
+sba.

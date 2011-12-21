@@ -1,0 +1,1946 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VHard Rock Cafe
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/hard-rock-cafe_worli_mumbai_restaurants/114162495
+p11
+sS'region'
+p12
+VWorli
+p13
+sS'phone'
+p14
+(lp15
+V66155959
+p16
+aV 24382888
+p17
+aV 66511209
+p18
+aV 66155975
+p19
+asS'cost'
+p20
+V3
+p21
+sS'addr'
+p22
+VBombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg6
+g7
+sg8
+VCopper Chimney
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/copper-chimney_worli_mumbai_restaurants/13038079
+p29
+sg12
+VWorli
+p30
+sg14
+(lp31
+V42124212
+p32
+asg20
+g21
+sg22
+V12-A, Lotus Court, Dr. Annie Besant Road, Worli, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g7
+sg8
+VCafe Noorani
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-noorani_haji-ali_mumbai_restaurants/112108297
+p39
+sg12
+VHaji Ali
+p40
+sg14
+(lp41
+V23538619
+p42
+aV 23530109
+p43
+aV 23533054
+p44
+aV 23534753
+p45
+aV 9820923927
+p46
+aV 9820876306
+p47
+asg20
+V2
+p48
+sg22
+V5-D, Tardeo Road, Haji Ali Circle, Haji Ali, Worli, Mumbai
+p49
+sba(i__main__
+Place
+p50
+(dp51
+g3
+(lp52
+VRestaurants
+p53
+asg6
+g7
+sg8
+VSan-Qi
+p54
+sg10
+Vhttp://mumbai.burrp.com/listing/san-qi_worli_mumbai_restaurants/128874881
+p55
+sg12
+VWorli
+p56
+sg14
+(lp57
+V24818000
+p58
+asg20
+g7
+sg22
+VWorli, Mumbai
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+aV Home Caterers
+p64
+aV Lounges
+p65
+aV Bars & Pubs
+p66
+asg6
+g21
+sg8
+VShiro
+p67
+sg10
+Vhttp://mumbai.burrp.com/listing/shiro_worli_mumbai_restaurants-home-caterers-lounges/115162594
+p68
+sg12
+VWorli
+p69
+sg14
+(lp70
+V66511207
+p71
+aV 66511208
+p72
+asg20
+g21
+sg22
+VBombay Dyeing Mills Compound, Pandurang Budhkar Marg, Worli, Mumbai
+p73
+sba(i__main__
+Place
+p74
+(dp75
+g3
+(lp76
+VBars & Pubs
+p77
+aV Restaurants
+p78
+asg6
+g7
+sg8
+VCool Chef Cafe
+p79
+sg10
+Vhttp://mumbai.burrp.com/listing/cool-chef-cafe_worli_mumbai_bars-pubs-restaurants/1785505831
+p80
+sg12
+VWorli
+p81
+sg14
+(lp82
+V32231199
+p83
+aV 24301127
+p84
+asg20
+g48
+sg22
+VCCC, Thadani House, 329/A Worli Village, Worli Sea Face, Worli, Mumbai
+p85
+sba(i__main__
+Place
+p86
+(dp87
+g3
+(lp88
+VCafes
+p89
+aV Restaurants
+p90
+asg6
+g21
+sg8
+VCafe Ivy Bar & Bistro
+p91
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-ivy-bar-bistro_worli_mumbai_cafes-restaurants/156166653
+p92
+sg12
+VWorli
+p93
+sg14
+(lp94
+V66547939
+p95
+asg20
+g48
+sg22
+V82, Indage House, Dr. Annie Besant Road, Worli, Mumbai
+p96
+sba(i__main__
+Place
+p97
+(dp98
+g3
+(lp99
+VRestaurants
+p100
+asg6
+g21
+sg8
+VJewel Of India
+p101
+sg10
+Vhttp://mumbai.burrp.com/listing/jewel-of-india_worli_mumbai_restaurants/166122643
+p102
+sg12
+VWorli
+p103
+sg14
+(lp104
+V24949217
+p105
+aV 24949214
+p106
+aV 24949435
+p107
+aV 24949204
+p108
+aV  24949219
+p109
+asg20
+V0
+p110
+sg22
+VGround Floor, Nehru Centre, Dr Annie Besant Road, Worli, Mumbai
+p111
+sba(i__main__
+Place
+p112
+(dp113
+g3
+(lp114
+VRestaurants
+p115
+asg6
+g21
+sg8
+VTwo One Two - 212
+p116
+sg10
+Vhttp://mumbai.burrp.com/listing/two-one-two---212_worli_mumbai_restaurants/1665711643
+p117
+sg12
+VWorli
+p118
+sg14
+(lp119
+V9920838529
+p120
+aV 24901994
+p121
+asg20
+g7
+sg22
+V12 A, Hornby Vellard Estate, Next to the BMW showroom, Worli, Mumbai
+p122
+sba(i__main__
+Place
+p123
+(dp124
+g3
+(lp125
+VRestaurants
+p126
+asg6
+g7
+sg8
+VKwality
+p127
+sg10
+Vhttp://mumbai.burrp.com/listing/kwality_worli_mumbai_restaurants/18670623
+p128
+sg12
+VWorli
+p129
+sg14
+(lp130
+V24936369
+p131
+aV 24933048
+p132
+asg20
+g110
+sg22
+VBand Box House, 254, Dr Annie Besant Road, Worli, Mumbai
+p133
+sba(i__main__
+Place
+p134
+(dp135
+g3
+(lp136
+VRestaurants
+p137
+asg6
+g21
+sg8
+VIndia & Beyond
+p138
+sg10
+Vhttp://mumbai.burrp.com/listing/india-beyond_worli_mumbai_restaurants/1414971168
+p139
+sg12
+VWorli
+p140
+sg14
+(lp141
+V24920033
+p142
+aV 24920044
+p143
+asg20
+g48
+sg22
+VBuilding No. 1, Ground Floor, Mahapalika Nagar, KAG Khan Road, Worli, Mumbai
+p144
+sba(i__main__
+Place
+p145
+(dp146
+g3
+(lp147
+VBars & Pubs
+p148
+aV Restaurants
+p149
+asg6
+g21
+sg8
+VChina Gate
+p150
+sg10
+Vhttp://mumbai.burrp.com/listing/china-gate_worli_mumbai_bars-pubs-restaurants/1149495
+p151
+sg12
+VWorli
+p152
+sg14
+(lp153
+V24813313
+p154
+aV 24813323
+p155
+aV 24813332
+p156
+aV 24813339
+p157
+asg20
+g21
+sg22
+V4th Floor, Worli, Mumbai
+p158
+sba(i__main__
+Place
+p159
+(dp160
+g3
+(lp161
+VRestaurants
+p162
+asg6
+V5
+p163
+sg8
+VKolonial Restaurant
+p164
+sg10
+Vhttp://mumbai.burrp.com/listing/kolonial-restaurant_worli_mumbai_restaurants/1715208138
+p165
+sg12
+VWorli
+p166
+sg14
+(lp167
+V243011276
+p168
+aV 32231199
+p169
+asg20
+g48
+sg22
+V329/A, Thadani House, Worli Village, Worli, Mumbai
+p170
+sba(i__main__
+Place
+p171
+(dp172
+g3
+(lp173
+VCafes
+p174
+aV Restaurants
+p175
+aV Bars & Pubs
+p176
+asg6
+g7
+sg8
+VCafe Prato & Bar
+p177
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-prato-bar_worli_mumbai_cafes-restaurants-bars-pubs/1791374930
+p178
+sg12
+VWorli
+p179
+sg14
+(lp180
+V24818000
+p181
+asg20
+g7
+sg22
+V114, E. Moses Road, Worli, Mumbai
+p182
+sba(i__main__
+Place
+p183
+(dp184
+g3
+(lp185
+VRestaurants
+p186
+asg6
+g7
+sg8
+VKalpana Restaurant & Bar
+p187
+sg10
+Vhttp://mumbai.burrp.com/listing/kalpana-restaurant-bar_worli-naka_mumbai_restaurants/177123732
+p188
+sg12
+VWorli Naka
+p189
+sg14
+(lp190
+V24937749
+p191
+aV 24980257
+p192
+asg20
+g110
+sg22
+VNadava Bhavan, Dr. Annie Besant Road, Worli Naka, Worli, Mumbai
+p193
+sba(i__main__
+Place
+p194
+(dp195
+g3
+(lp196
+VRestaurants
+p197
+asg6
+g163
+sg8
+VSahibaan 
+p198
+sg10
+Vhttp://mumbai.burrp.com/listing/sahibaan-_worli_mumbai_restaurants/1485349861
+p199
+sg12
+VWorli
+p200
+sg14
+(lp201
+V32964004
+p202
+aV 32964005
+p203
+aV 32969618
+p204
+asg20
+g48
+sg22
+VDr. Annie Besant Road, Worli, Mumbai
+p205
+sba(i__main__
+Place
+p206
+(dp207
+g3
+(lp208
+VRestaurants
+p209
+asg6
+g48
+sg8
+VFlora Chinese Restaurant
+p210
+sg10
+Vhttp://mumbai.burrp.com/listing/flora-chinese-restaurant_worli_mumbai_restaurants/179114930
+p211
+sg12
+VWorli
+p212
+sg14
+(lp213
+V24936602
+p214
+aV 24926132
+p215
+asg20
+g110
+sg22
+V44, Khanna Construction House, Seaface Road, Worli, Mumbai
+p216
+sba(i__main__
+Place
+p217
+(dp218
+g3
+(lp219
+VRestaurants
+p220
+asg6
+g7
+sg8
+VSadanand Coffee House
+p221
+sg10
+Vhttp://mumbai.burrp.com/listing/sadanand-coffee-house_worli_mumbai_restaurants/16450445
+p222
+sg12
+VWorli
+p223
+sg14
+(lp224
+V24937409
+p225
+aV 24927009
+p226
+aV 24937591
+p227
+aV 24953196
+p228
+asg20
+g110
+sg22
+V108, Neelam Building, Worli Sea Face Road, Worli, Mumbai
+p229
+sba(i__main__
+Place
+p230
+(dp231
+g3
+(lp232
+VRestaurants
+p233
+aV Bars & Pubs
+p234
+asg6
+g21
+sg8
+VSealords Bar and Restaurant
+p235
+sg10
+Vhttp://mumbai.burrp.com/listing/sealords-bar-and-restaurant_worli_mumbai_restaurants-bars-pubs/128847881
+p236
+sg12
+VWorli
+p237
+sg14
+(lp238
+V24927009
+p239
+asg20
+g48
+sg22
+V108, Neelam Building, Dr RG Thadani Road, Worli Sea Face Road, Worli, Mumbai
+p240
+sba(i__main__
+Place
+p241
+(dp242
+g3
+(lp243
+VRestaurants
+p244
+asg6
+g163
+sg8
+VFishland
+p245
+sg10
+Vhttp://mumbai.burrp.com/listing/fishland_worli_mumbai_restaurants/175114534
+p246
+sg12
+VWorli
+p247
+sg14
+(lp248
+V24955147
+p249
+aV 24935326
+p250
+asg20
+g48
+sg22
+VDiamond Mansion Building, Ground Floor, G K Marg, Worli Naka, Worli, Mumbai
+p251
+sba(i__main__
+Place
+p252
+(dp253
+g3
+(lp254
+VRestaurants
+p255
+asg6
+g163
+sg8
+VViceroy Restaurant
+p256
+sg10
+Vhttp://mumbai.burrp.com/listing/viceroy-restaurant_haji-ali_mumbai_restaurants/1439993366
+p257
+sg12
+VHaji Ali
+p258
+sg14
+(lp259
+V24977771
+p260
+aV 24977772
+p261
+aV 24977773
+p262
+aV 24977774
+p263
+asg20
+g110
+sg22
+VC/O National Sports Club Of India, V Patel Road, Near Race Course, Haji Ali, Worli, Mumbai
+p264
+sba(i__main__
+Place
+p265
+(dp266
+g3
+(lp267
+VRestaurants
+p268
+asg6
+g163
+sg8
+VAnd Chillies
+p269
+sg10
+Vhttp://mumbai.burrp.com/listing/and-chillies_worli_mumbai_restaurants/16128553148
+p270
+sg12
+VWorli
+p271
+sg14
+(lp272
+V24960102
+p273
+aV 24960103
+p274
+asg20
+g48
+sg22
+VShop No. 1, Sai Sadan Co-operative Housing Society, Worli, Mumbai
+p275
+sba(i__main__
+Place
+p276
+(dp277
+g3
+(lp278
+VRestaurants
+p279
+asg6
+g7
+sg8
+VSummer Park
+p280
+sg10
+Vhttp://mumbai.burrp.com/listing/summer-park_worli_mumbai_restaurants/17160138
+p281
+sg12
+VWorli
+p282
+sg14
+(lp283
+V24934437
+p284
+aV 24934439
+p285
+aV 9594110279
+p286
+asg20
+g48
+sg22
+VRustom Court Building , Worli, Mumbai
+p287
+sba(i__main__
+Place
+p288
+(dp289
+g3
+(lp290
+VRestaurants
+p291
+asg6
+g7
+sg8
+VKalpana's Tastee
+p292
+sg10
+Vhttp://mumbai.burrp.com/listing/kalpanas-tastee_worli_mumbai_restaurants/15476455
+p293
+sg12
+VWorli
+p294
+sg14
+(lp295
+V24920118
+p296
+aV 24944834
+p297
+aV 24937749
+p298
+aV 24980257
+p299
+asg20
+g48
+sg22
+VNadava Bhavan, Dr Annie Besant Road, Worli, Mumbai
+p300
+sba(i__main__
+Place
+p301
+(dp302
+g3
+(lp303
+VRestaurants
+p304
+asg6
+g7
+sg8
+VFood Factory
+p305
+sg10
+Vhttp://mumbai.burrp.com/listing/food-factory_worli_mumbai_restaurants/168140841
+p306
+sg12
+VWorli
+p307
+sg14
+(lp308
+V24950292
+p309
+aV 24950294
+p310
+asg20
+g110
+sg22
+VVLT Site 7 & 19, SS Amrutvar Marg, Behind Mahindra Towers, Worli, Mumbai
+p311
+sba(i__main__
+Place
+p312
+(dp313
+g3
+(lp314
+VRestaurants
+p315
+asg6
+g21
+sg8
+VASIAN Resturant & Bar
+p316
+sg10
+Vhttp://mumbai.burrp.com/listing/asian-resturant-bar_worli_mumbai_restaurants/1851213524
+p317
+sg12
+VWorli
+p318
+sg14
+(lp319
+V24229491
+p320
+asg20
+g110
+sg22
+V257, Ramodiya Mansion, Opp Century Bazar, Worli, Mumbai
+p321
+sba(i__main__
+Place
+p322
+(dp323
+g3
+(lp324
+VOutdoor Caterers
+p325
+aV Restaurants
+p326
+asg6
+g21
+sg8
+VSea Corner
+p327
+sg10
+Vhttp://mumbai.burrp.com/listing/sea-corner_worli_mumbai_outdoor-caterers-restaurants/15115412158
+p328
+sg12
+VWorli
+p329
+sg14
+(lp330
+V35329111
+p331
+aV 35329222
+p332
+aV 24373315
+p333
+aV 24373317
+p334
+asg20
+g110
+sg22
+VWorli Seaface Abdul Gaffar Khan Road, Adjacent to Bandra Worli Sea Iink, Worli, Mumbai
+p335
+sba(i__main__
+Place
+p336
+(dp337
+g3
+(lp338
+VRestaurants
+p339
+asg6
+V1
+p340
+sg8
+VAtithee Family Restaurant & Bar
+p341
+sg10
+Vhttp://mumbai.burrp.com/listing/atithee-family-restaurant-bar_worli_mumbai_restaurants/154103455
+p342
+sg12
+VWorli
+p343
+sg14
+(lp344
+V24978381
+p345
+aV 24930470
+p346
+asg20
+g110
+sg22
+V108, Neelam Building, Worli Sea Face Road, R.G. Thandani Road, Worli, Mumbai
+p347
+sba(i__main__
+Place
+p348
+(dp349
+g3
+(lp350
+VRestaurants
+p351
+asg6
+g110
+sg8
+VBharat Coffee House
+p352
+sg10
+Vhttp://mumbai.burrp.com/listing/bharat-coffee-house_worli_mumbai_restaurants/15313558356
+p353
+sg12
+VWorli
+p354
+sg14
+(lp355
+V24935327
+p356
+aV 24935326
+p357
+asg20
+g48
+sg22
+VMantri House, G K Road, Worli, Mumbai
+p358
+sba(i__main__
+Place
+p359
+(dp360
+g3
+(lp361
+VRestaurants
+p362
+asg6
+g110
+sg8
+VUdipi Restaurant
+p363
+sg10
+Vhttp://mumbai.burrp.com/listing/udipi-restaurant_worli_mumbai_restaurants/15113612158
+p364
+sg12
+VWorli
+p365
+sg14
+(lp366
+V24933096
+p367
+asg20
+g110
+sg22
+VGround Floor, P K Chawl, Dr Annie Besant Road, Worli, Mumbai
+p368
+sba(i__main__
+Place
+p369
+(dp370
+g3
+(lp371
+VHotels
+p372
+aV Restaurants
+p373
+asg6
+g110
+sg8
+VHotel Shashi
+p374
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shashi_worli_mumbai_hotels-restaurants/17313578336
+p375
+sg12
+VWorli
+p376
+sg14
+(lp377
+V24376978
+p378
+asg20
+g48
+sg22
+VBhavana Building, Veer Savarkar Marg, Worli, Mumbai
+p379
+sba(i__main__
+Place
+p380
+(dp381
+g3
+(lp382
+VRestaurants
+p383
+asg6
+g110
+sg8
+VHotel Devi Prasad Family Restaurant
+p384
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-devi-prasad-family-restaurant_worli_mumbai_restaurants/1585296851
+p385
+sg12
+VWorli
+p386
+sg14
+(lp387
+V24926616
+p388
+aV 24926610
+p389
+asg20
+g48
+sg22
+VMadhusudan Mills Compound, PB Marg, Worli, Mumbai
+p390
+sba(i__main__
+Place
+p391
+(dp392
+g3
+(lp393
+VRestaurants
+p394
+asg6
+g110
+sg8
+VJaihind Lunch Home
+p395
+sg10
+Vhttp://mumbai.burrp.com/listing/jaihind-lunch-home_worli_mumbai_restaurants/19113580118
+p396
+sg12
+VWorli
+p397
+sg14
+(lp398
+V24304799
+p399
+aV 24314256
+p400
+asg20
+g110
+sg22
+VShop No 6, Mantri Corner Building, Sayani Road, Worli, Mumbai
+p401
+sba(i__main__
+Place
+p402
+(dp403
+g3
+(lp404
+VRestaurants
+p405
+asg6
+g110
+sg8
+VBanjara Restaurant
+p406
+sg10
+Vhttp://mumbai.burrp.com/listing/banjara-restaurant_worli_mumbai_restaurants/18913633920
+p407
+sg12
+VWorli
+p408
+sg14
+(lp409
+V24936419
+p410
+asg20
+g110
+sg22
+V P B Marg, Near TV Centre , Worli, Mumbai
+p411
+sba(i__main__
+Place
+p412
+(dp413
+g3
+(lp414
+VRestaurants
+p415
+asg6
+g110
+sg8
+VMalwan Kinara Restaurant
+p416
+sg10
+Vhttp://mumbai.burrp.com/listing/malwan-kinara-restaurant_worli-naka_mumbai_restaurants/19113661118
+p417
+sg12
+VWorli Naka
+p418
+sg14
+(lp419
+V24949195
+p420
+asg20
+g110
+sg22
+V72/B Suresh Sadan, G M Bhonsle Marg, Worli Naka, Worli, Mumbai
+p421
+sba(i__main__
+Place
+p422
+(dp423
+g3
+(lp424
+VFast Food Shops
+p425
+aV Restaurants
+p426
+asg6
+g110
+sg8
+VMcDonald's
+p427
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_haji-ali_mumbai_fast-food-shops-restaurants/18243227
+p428
+sg12
+VHaji Ali
+p429
+sg14
+(lp430
+V66627447
+p431
+aV 66627448
+p432
+asg20
+g110
+sg22
+VCrossroads Mall, 28, Pandit MM Malviya Road, Tardeo Main Road, Tardeo, Haji Ali, Worli, Mumbai
+p433
+sba(i__main__
+Place
+p434
+(dp435
+g3
+(lp436
+VRestaurants
+p437
+asg6
+g110
+sg8
+VNew Modern Cafe
+p438
+sg10
+Vhttp://mumbai.burrp.com/listing/new-modern-cafe_worli_mumbai_restaurants/17713623732
+p439
+sg12
+VWorli
+p440
+sg14
+(lp441
+V24223941
+p442
+aV 24305773
+p443
+asg20
+g110
+sg22
+VGround Floor, Building No 262, Ashirwad Building, Dr Annie Besant Road, Worli, Mumbai
+p444
+sba(i__main__
+Place
+p445
+(dp446
+g3
+(lp447
+VRestaurants
+p448
+asg6
+g110
+sg8
+VAmantran Bar & Restaurant
+p449
+sg10
+Vhttp://mumbai.burrp.com/listing/amantran-bar-restaurant_worli_mumbai_restaurants/141102168
+p450
+sg12
+VWorli
+p451
+sg14
+(lp452
+V24970566
+p453
+asg20
+g110
+sg22
+VDr E Moses Rd. Near Geeta Talkies, Worli Naka, Worli, Mumbai
+p454
+sba(i__main__
+Place
+p455
+(dp456
+g3
+(lp457
+VRestaurants
+p458
+asg6
+g110
+sg8
+VCafé City
+p459
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-city_worli_mumbai_restaurants/193107316
+p460
+sg12
+VWorli
+p461
+sg14
+(lp462
+V24934327
+p463
+asg20
+g110
+sg22
+VGround Floor Neelam Building, 108, R.G.Thadhani Marg, Worli Sea Face, Worli, Mumbai
+p464
+sba(i__main__
+Place
+p465
+(dp466
+g3
+(lp467
+VRestaurants
+p468
+asg6
+g110
+sg8
+VMilan Punjab
+p469
+sg10
+Vhttp://mumbai.burrp.com/listing/milan-punjab_worli_mumbai_restaurants/144129465
+p470
+sg12
+VWorli
+p471
+sg14
+(lp472
+V24933572
+p473
+aV 24921915
+p474
+asg20
+g110
+sg22
+VOpp Mahindra & Mahindra,  Near TV Centre. P B Marg, Worli, Mumbai
+p475
+sba(i__main__
+Place
+p476
+(dp477
+g3
+(lp478
+VRestaurants
+p479
+asg6
+g110
+sg8
+VPaschim
+p480
+sg10
+Vhttp://mumbai.burrp.com/listing/paschim_worli_mumbai_restaurants/124136485
+p481
+sg12
+VWorli
+p482
+sg14
+(lp483
+V24983636
+p484
+aV 24937059
+p485
+asg20
+g110
+sg22
+VCity View, Dr Annie Besant Road, Worli, Mumbai
+p486
+sba(i__main__
+Place
+p487
+(dp488
+g3
+(lp489
+VRestaurants
+p490
+asg6
+g110
+sg8
+VAsian Darbar
+p491
+sg10
+Vhttp://mumbai.burrp.com/listing/asian-darbar_worli_mumbai_restaurants/1271432782
+p492
+sg12
+VWorli
+p493
+sg14
+(lp494
+V24961769
+p495
+asg20
+g340
+sg22
+VA 1 Jija Mata Nagar, Dr. E Moses Road, Worli, Mumbai
+p496
+sba(i__main__
+Place
+p497
+(dp498
+g3
+(lp499
+VHome Caterers
+p500
+aV Restaurants
+p501
+aV Outdoor Caterers
+p502
+asg6
+g110
+sg8
+VEmperors Delight
+p503
+sg10
+Vhttp://mumbai.burrp.com/listing/emperors-delight_worli_mumbai_home-caterers-restaurants-outdoor-caterers/1721527237
+p504
+sg12
+VWorli
+p505
+sg14
+(lp506
+V64238888
+p507
+asg20
+g110
+sg22
+VWorli, Mumbai
+p508
+sba(i__main__
+Place
+p509
+(dp510
+g3
+(lp511
+VRestaurants
+p512
+asg6
+g110
+sg8
+VChina Wok
+p513
+sg10
+Vhttp://mumbai.burrp.com/listing/china-wok_worli_mumbai_restaurants/1442289465
+p514
+sg12
+VWorli
+p515
+sg14
+(lp516
+V24813393
+p517
+asg20
+g48
+sg22
+V4th Floor, 408 Atria Mall, Dr. A B Road, Worli, Mumbai
+p518
+sba(i__main__
+Place
+p519
+(dp520
+g3
+(lp521
+VTake Away Shops
+p522
+aV Restaurants
+p523
+asg6
+g110
+sg8
+VTummy Treats
+p524
+sg10
+Vhttp://mumbai.burrp.com/listing/tummy-treats_worli_mumbai_take-away-shops-restaurants/1724362237
+p525
+sg12
+VWorli
+p526
+sg14
+(lp527
+V32224508
+p528
+aV 32224509
+p529
+asg20
+g48
+sg22
+VShop No.1, Bldg. No.2, Ramodiya Mansion, Worli, Mumbai
+p530
+sba(i__main__
+Place
+p531
+(dp532
+g3
+(lp533
+VRestaurants
+p534
+asg6
+g110
+sg8
+VBanjaararestaurant
+p535
+sg10
+Vhttp://mumbai.burrp.com/listing/banjaararestaurant_worli_mumbai_restaurants/1264402683
+p536
+sg12
+VWorli
+p537
+sg14
+(lp538
+V24936419
+p539
+aV 24911964
+p540
+asg20
+g110
+sg22
+VOpp. Mahindra & Mahindra, P.B Marg, Worli, Mumbai
+p541
+sba(i__main__
+Place
+p542
+(dp543
+g3
+(lp544
+VRestaurants
+p545
+asg6
+g110
+sg8
+VAsian Stores & Restaurant
+p546
+sg10
+Vhttp://mumbai.burrp.com/listing/asian-stores-restaurant_worli_mumbai_restaurants/1384403871
+p547
+sg12
+VWorli
+p548
+sg14
+(lp549
+V24229491
+p550
+asg20
+g110
+sg22
+V257, Dr. A.B. Road, Worli, Mumbai
+p551
+sba(i__main__
+Place
+p552
+(dp553
+g3
+(lp554
+VRestaurants
+p555
+asg6
+g110
+sg8
+VAlankar Refreshment 
+p556
+sg10
+Vhttp://mumbai.burrp.com/listing/alankar-refreshment-_worli_mumbai_restaurants/1474404762
+p557
+sg12
+VWorli
+p558
+sg14
+(lp559
+V24947927
+p560
+aV 24982942
+p561
+asg20
+g110
+sg22
+VShop no. 10, Century Mill Chawl, P.B Marg, Worli, Mumbai
+p562
+sba(i__main__
+Place
+p563
+(dp564
+g3
+(lp565
+VRestaurants
+p566
+asg6
+g110
+sg8
+VHotel Chinese Spot
+p567
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-chinese-spot_worli_mumbai_restaurants/1164437693
+p568
+sg12
+VWorli
+p569
+sg14
+(lp570
+V24927045
+p571
+asg20
+g110
+sg22
+VG.K. Marg, Worli Naka, Worli, Mumbai
+p572
+sba(i__main__
+Place
+p573
+(dp574
+g3
+(lp575
+VRestaurants
+p576
+asg6
+g110
+sg8
+VKailesh Parbhat
+p577
+sg10
+Vhttp://mumbai.burrp.com/listing/kailesh-parbhat_worli_mumbai_restaurants/1714452138
+p578
+sg12
+VWorli
+p579
+sg14
+(lp580
+V24813425
+p581
+asg20
+g110
+sg22
+VFood Court, 4th Floor, Atria Mall, Dr. Annie Beasant Rd, Worli, Mumbai
+p582
+sba(i__main__
+Place
+p583
+(dp584
+g3
+(lp585
+VRestaurants
+p586
+asg6
+g110
+sg8
+VBanjaara Restaurant
+p587
+sg10
+Vhttp://mumbai.burrp.com/listing/banjaara-restaurant_worli_mumbai_restaurants/1104464099
+p588
+sg12
+VWorli
+p589
+sg14
+(lp590
+V24936419
+p591
+asg20
+g48
+sg22
+VGround Floor, Below Municipal School, P B Marg, Worli, Mumbai
+p592
+sba(i__main__
+Place
+p593
+(dp594
+g3
+(lp595
+VDessert Shops
+p596
+aV Restaurants
+p597
+aV Cafes
+p598
+asg6
+g110
+sg8
+VPool Deck
+p599
+sg10
+Vhttp://mumbai.burrp.com/listing/pool-deck_dr-e-moses-road-worli_mumbai_dessert-shops-restaurants-cafes/1759402534
+p600
+sg12
+VDr E Moses Road-Worli
+p601
+sg14
+(lp602
+V24818000
+p603
+asg20
+g110
+sg22
+VC/O, Four Seasons Hotel, 114, Dr E Moses Road, Dr E Moses Road-Worli, Worli, Mumbai
+p604
+sba(i__main__
+Place
+p605
+(dp606
+g3
+(lp607
+VCafes
+p608
+aV Cosmetic and Beauty Supply Stores
+p609
+aV Gyms
+p610
+aV Restaurants
+p611
+aV Dessert Shops
+p612
+asg6
+g110
+sg8
+VHealth Shop
+p613
+sg10
+Vhttp://mumbai.burrp.com/listing/health-shop_haji-ali_mumbai_cafes-cosmetic-and-beauty-supply-stores-gyms/1399992970
+p614
+sg12
+VHaji Ali
+p615
+sg14
+(lp616
+V23874122
+p617
+aV 23883503
+p618
+asg20
+g110
+sg22
+V1/B Dr House Ground Floor, Peddar Road, Haji Ali, Worli, Mumbai
+p619
+sba(i__main__
+Place
+p620
+(dp621
+g3
+(lp622
+VRestaurants
+p623
+asg6
+g110
+sg8
+VGajanan Hotel
+p624
+sg10
+Vhttp://mumbai.burrp.com/listing/gajanan-hotel_worli_mumbai_restaurants/19913571910
+p625
+sg12
+VWorli
+p626
+sg14
+(lp627
+V24328884
+p628
+asg20
+g110
+sg22
+VShop No 8, Plot No178, R K Irani Chawl, New Prabhadevi Road, Worli, Mumbai
+p629
+sba(i__main__
+Place
+p630
+(dp631
+g3
+(lp632
+VBars & Pubs
+p633
+aV Restaurants
+p634
+asg6
+g110
+sg8
+VHome Delite
+p635
+sg10
+Vhttp://mumbai.burrp.com/listing/home-delite_worli_mumbai_bars-pubs-restaurants/16513577544
+p636
+sg12
+VWorli
+p637
+sg14
+(lp638
+V66603091
+p639
+aV 66603092
+p640
+asg20
+g110
+sg22
+VShop No 149 A, 1st Floor, 52 Ateria Mall, Dr Any Basant Rd, Opp Bay Side Mall, Worli, Mumbai
+p641
+sba(i__main__
+Place
+p642
+(dp643
+g3
+(lp644
+VRestaurants
+p645
+asg6
+g110
+sg8
+VCamp Restaurant
+p646
+sg10
+Vhttp://mumbai.burrp.com/listing/camp-restaurant_worli_mumbai_restaurants/16913577940
+p647
+sg12
+VWorli
+p648
+sg14
+(lp649
+V24224477
+p650
+asg20
+g110
+sg22
+VVeer Savarkar Marg, Near Bengal Chemical, Worli, Mumbai
+p651
+sba(i__main__
+Place
+p652
+(dp653
+g3
+(lp654
+VBars & Pubs
+p655
+aV Restaurants
+p656
+asg6
+g110
+sg8
+VJai Bharat Restaurant & Bar
+p657
+sg10
+Vhttp://mumbai.burrp.com/listing/jai-bharat-restaurant-bar_worli_mumbai_bars-pubs-restaurants/18913579920
+p658
+sg12
+VWorli
+p659
+sg14
+(lp660
+V24374477
+p661
+asg20
+g110
+sg22
+VShop No 1/2, Nutan Jai Bharat CHS Ltd, Shankar Ghanekar Marg, Worli, Mumbai
+p662
+sba(i__main__
+Place
+p663
+(dp664
+g3
+(lp665
+VRestaurants
+p666
+aV Bars & Pubs
+p667
+asg6
+g110
+sg8
+VJanta Tea & Coffe House
+p668
+sg10
+Vhttp://mumbai.burrp.com/listing/janta-tea-coffe-house_worli_mumbai_restaurants-bars-pubs/19513580514
+p669
+sg12
+VWorli
+p670
+sg14
+(lp671
+V24312785
+p672
+asg20
+g110
+sg22
+V150, Mankar Bldg, New Prabhadevi, Opp Prabhadevi, Worli, Mumbai
+p673
+sba(i__main__
+Place
+p674
+(dp675
+g3
+(lp676
+VBars & Pubs
+p677
+aV Restaurants
+p678
+asg6
+g110
+sg8
+VNew Royal Lunch Home
+p679
+sg10
+Vhttp://mumbai.burrp.com/listing/new-royal-lunch-home_worli_mumbai_bars-pubs-restaurants/13713592772
+p680
+sg12
+VWorli
+p681
+sg14
+(lp682
+V24920765
+p683
+aV 24923241
+p684
+asg20
+g110
+sg22
+VShop No 9/10, Rane Chawl, P B Marg, Worli, Mumbai
+p685
+sba(i__main__
+Place
+p686
+(dp687
+g3
+(lp688
+VRestaurants
+p689
+asg6
+g110
+sg8
+VPrakash Bar & Restaurant
+p690
+sg10
+Vhttp://mumbai.burrp.com/listing/prakash-bar-restaurant_worli_mumbai_restaurants/19113598118
+p691
+sg12
+VWorli
+p692
+sg14
+(lp693
+V24945154
+p694
+aV 9867291262
+p695
+asg20
+g110
+sg22
+VGround Floor, New Ambala Chawl, Dr Ambedkar Road, Worli, Mumbai
+p696
+sba(i__main__
+Place
+p697
+(dp698
+g3
+(lp699
+VRestaurants
+p700
+asg6
+g110
+sg8
+VSiddhivinayak Refreshments
+p701
+sg10
+Vhttp://mumbai.burrp.com/listing/siddhivinayak-refreshments_worli_mumbai_restaurants/18513606524
+p702
+sg12
+VWorli
+p703
+sg14
+(lp704
+V24225374
+p705
+asg20
+g110
+sg22
+VSiddhivinayak CHS, Veer Savarkar Marg, Worli, Mumbai
+p706
+sba(i__main__
+Place
+p707
+(dp708
+g3
+(lp709
+VRestaurants
+p710
+asg6
+g110
+sg8
+VUdupi Bhavan Restaurant
+p711
+sg10
+Vhttp://mumbai.burrp.com/listing/udupi-bhavan-restaurant_worli_mumbai_restaurants/11513617594
+p712
+sg12
+VWorli
+p713
+sg14
+(lp714
+V24222583
+p715
+aV 24227653
+p716
+asg20
+g110
+sg22
+VBuilding No 261 , Malkani Mahal, Prabhadevi, Worli, Mumbai
+p717
+sba(i__main__
+Place
+p718
+(dp719
+g3
+(lp720
+VRestaurants
+p721
+asg6
+g110
+sg8
+VPooja Eating House
+p722
+sg10
+Vhttp://mumbai.burrp.com/listing/pooja-eating-house_worli_mumbai_restaurants/16124278148
+p723
+sg12
+VWorli
+p724
+sg14
+(lp725
+V24948784
+p726
+asg20
+g110
+sg22
+V 21-1/1, Markandeshwar Nagar, Dr. A. B. Road, Worli, Mumbai
+p727
+sba.

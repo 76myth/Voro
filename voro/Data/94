@@ -1,0 +1,508 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VPopular Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/popular-restaurant_ghatkopar-east_mumbai_restaurants/1221360287
+p11
+sS'region'
+p12
+VGhatkopar East
+p13
+sS'phone'
+p14
+(lp15
+V25158793
+p16
+asS'cost'
+p17
+V0
+p18
+sS'addr'
+p19
+V249 Matupreeti, Hingwala Lane, Ghatkopar (E), Ghatkopar East, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g18
+sg8
+VHotel Durga Prasad
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-durga-prasad_ghatkopar-east_mumbai_restaurants/146273663
+p26
+sg12
+VGhatkopar East
+p27
+sg14
+(lp28
+V21027670
+p29
+aV 21027417
+p30
+asg17
+V2
+p31
+sg19
+V7th Road Rajawadi, Vidyavihar (E), Kama Sankalp Housing Society, Shop # 7, Ghatkopar East, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+asg6
+g18
+sg8
+VDomino's Pizza
+p37
+sg10
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_ghatkopar-east_mumbai_restaurants/1214735188
+p38
+sg12
+VGhatkopar East
+p39
+sg14
+(lp40
+V25125534
+p41
+aV 25125082
+p42
+aV 25124802
+p43
+aV 25124636
+p44
+asg17
+g31
+sg19
+VShop No 1, Ground Floor, New Sangita Apartment, Plot No 48 Rajawadi, 7th Road, Ghatkopar East, Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g18
+sg8
+VSamrat Restaurant
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/samrat-restaurant_ghatkopar-east_mumbai_restaurants/1139540396
+p51
+sg12
+VGhatkopar East
+p52
+sg14
+(lp53
+V25011270
+p54
+aV 25012614
+p55
+asg17
+g18
+sg19
+VShree Ganesh Co Operative Housing Society, Jawaharlal Nehru Road, Ghatkopar East, Mumbai
+p56
+sba(i__main__
+Place
+p57
+(dp58
+g3
+(lp59
+VShops
+p60
+aV Restaurants
+p61
+aV Dessert Shops
+p62
+asg6
+g18
+sg8
+VYagnam Foods Pvt. Ltd.
+p63
+sg10
+Vhttp://mumbai.burrp.com/listing/yagnam-foods-pvt-ltd_ghatkopar-east_mumbai_shops-restaurants-dessert-shops/1739546336
+p64
+sg12
+VGhatkopar East
+p65
+sg14
+(lp66
+V21021589
+p67
+aV 64288465
+p68
+aV 65786780
+p69
+asg17
+g18
+sg19
+VShop No 2, Vora Apartment, V B  Lane, Ghatkopar East, Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VBars & Pubs
+p74
+aV Restaurants
+p75
+asg6
+g18
+sg8
+VLittle Italy
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/little-italy_ghatkopar-east_mumbai_bars-pubs-restaurants/1101386099
+p77
+sg12
+VGhatkopar East
+p78
+sg14
+(lp79
+V25260124
+p80
+aV 25260125
+p81
+asg17
+V3
+p82
+sg19
+V302/303 Destination, GM Road, Ghatkopar East, Mumbai
+p83
+sba(i__main__
+Place
+p84
+(dp85
+g3
+(lp86
+VRestaurants
+p87
+asg6
+g18
+sg8
+VPavilion Restaurant and Bar
+p88
+sg10
+Vhttp://mumbai.burrp.com/listing/pavilion-restaurant-and-bar_ghatkopar-east_mumbai_restaurants/1951358514
+p89
+sg12
+VGhatkopar East
+p90
+sg14
+(lp91
+V25142413
+p92
+aV 25103173
+p93
+asg17
+g18
+sg19
+VGr Floor Happy Home Bldg, 12 To 15 Vallabh Baug Lane, Ghatkopar (E), Ghatkopar East, Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VRestaurants
+p98
+asg6
+g18
+sg8
+VSundaram Stores 
+p99
+sg10
+Vhttp://mumbai.burrp.com/listing/sundaram-stores-_ghatkopar-east_mumbai_restaurants/1354466574
+p100
+sg12
+VGhatkopar East
+p101
+sg14
+(lp102
+V25134349
+p103
+aV 25141023 
+p104
+asg17
+g18
+sg19
+VShop no 28, Vikrant Bldg, Tilak Road , Ghatkopar (E), Ghatkopar East, Mumbai
+p105
+sba(i__main__
+Place
+p106
+(dp107
+g3
+(lp108
+VRestaurants
+p109
+asg6
+g18
+sg8
+VShree Guru Kripa 
+p110
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-guru-kripa-_ghatkopar-east_mumbai_restaurants/1454476564
+p111
+sg12
+VGhatkopar East
+p112
+sg14
+(lp113
+V21029822
+p114
+asg17
+g18
+sg19
+V13, Kondeshwar Bhavan, Tilak Road, Ghatkopar East, Mumbai
+p115
+sba(i__main__
+Place
+p116
+(dp117
+g3
+(lp118
+VRestaurants
+p119
+asg6
+g18
+sg8
+VShivsagar Restaurant (Pure Veg) 
+p120
+sg10
+Vhttp://mumbai.burrp.com/listing/shivsagar-restaurant-pure-veg-_ghatkopar-east_mumbai_restaurants/1554477554
+p121
+sg12
+VGhatkopar East
+p122
+sg14
+(lp123
+V25150351
+p124
+aV 25135640 
+p125
+asg17
+g18
+sg19
+VJawahar road, opp Rly station , Ghatkopar (E), Ghatkopar East, Mumbai
+p126
+sba(i__main__
+Place
+p127
+(dp128
+g3
+(lp129
+VRestaurants
+p130
+asg6
+g18
+sg8
+VWonderland Holidays (I) Pvt. Ltd.
+p131
+sg10
+Vhttp://mumbai.burrp.com/listing/wonderland-holidays-i-pvt-ltd_ghatkopar-east_mumbai_restaurants/1754515534
+p132
+sg12
+VGhatkopar East
+p133
+sg14
+(lp134
+V66718897
+p135
+aV 9323947668
+p136
+asg17
+g18
+sg19
+V4/5 Platinum Mall, Jawahar Road, Ghatkopar (E), Ghatkopar East, Mumbai
+p137
+sba(i__main__
+Place
+p138
+(dp139
+g3
+(lp140
+VRestaurants
+p141
+asg6
+g18
+sg8
+VHotel Pushpa Vihar
+p142
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-pushpa-vihar_ghatkopar-east_mumbai_restaurants/1899511920
+p143
+sg12
+VGhatkopar East
+p144
+sg14
+(lp145
+V25061984
+p146
+aV 25067258
+p147
+aV 9029622576
+p148
+asg17
+g18
+sg19
+VBuilding No 186, Ratan Palace Building , Garodia Nagar, Ghatkopar East, Mumbai
+p149
+sba(i__main__
+Place
+p150
+(dp151
+g3
+(lp152
+VRestaurants
+p153
+asg6
+g18
+sg8
+VFoodline Enterprise Private Limited
+p154
+sg10
+Vhttp://mumbai.burrp.com/listing/foodline-enterprise-private-limited_ghatkopar-east_mumbai_restaurants/1739528336
+p155
+sg12
+VGhatkopar East
+p156
+sg14
+(lp157
+V
+p158
+aV 9820357577
+p159
+aV 25004725
+p160
+asg17
+g18
+sg19
+VB/212 , Kanara Business Center, Ghatkopar Andheri Link Road , Ghatkopar East, Mumbai
+p161
+sba(i__main__
+Place
+p162
+(dp163
+g3
+(lp164
+VRestaurants
+p165
+asg6
+g18
+sg8
+VSai Leela Bar And Restaurant
+p166
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-leela-bar-and-restaurant_ghatkopar-east_mumbai_restaurants/1199540990
+p167
+sg12
+VGhatkopar East
+p168
+sg14
+(lp169
+V25010351
+p170
+aV 25013789
+p171
+aV 8097566158
+p172
+asg17
+g18
+sg19
+VShanti Kunj Building, Ground Floor, R B Mehta Marg, Jawarlal Road, Ghatkopar East, Mumbai
+p173
+sba(i__main__
+Place
+p174
+(dp175
+g3
+(lp176
+VRestaurants
+p177
+asg6
+g18
+sg8
+VHotel Samrat
+p178
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-samrat_ghatkopar-east_mumbai_restaurants/1799546930
+p179
+sg12
+VGhatkopar East
+p180
+sg14
+(lp181
+V25011270
+p182
+aV 25012614
+p183
+asg17
+g18
+sg19
+VShri Ganesh CHS, Ghatkopar East, Mumbai
+p184
+sba(i__main__
+Place
+p185
+(dp186
+g3
+(lp187
+VBars & Pubs
+p188
+aV Restaurants
+p189
+asg6
+g18
+sg8
+VAnjali Bar & Restaurant
+p190
+sg10
+Vhttp://mumbai.burrp.com/listing/anjali-bar-restaurant_rajawadi_mumbai_bars-pubs-restaurants/11112717198
+p191
+sg12
+VRajawadi
+p192
+sg14
+(lp193
+V25157389
+p194
+asg17
+g18
+sg19
+VShop No 1 & 2, Mukteshwari Bldg, R B Mehta Road, Near Vikrant Circle, Rajawadi, Ghatkopar East, Mumbai
+p195
+sba.

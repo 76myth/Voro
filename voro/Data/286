@@ -1,0 +1,2351 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VStone Oven - The Italian Kitchen
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/stone-oven---the-italian-kitchen_thane-west_thane_restaurants/1105148099
+p11
+sS'region'
+p12
+VThane West
+p13
+sS'phone'
+p14
+(lp15
+V9892951540
+p16
+asS'cost'
+p17
+V2
+p18
+sS'addr'
+p19
+VDr. Ramesh Pradhan Marg, Thane West, Thane
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+V4
+p25
+sg8
+VBarbeque Nation
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/barbeque-nation_thane-west_thane_restaurants/144903465
+p27
+sg12
+VThane West
+p28
+sg14
+(lp29
+V32162444
+p30
+aV 9321101114
+p31
+asg17
+g18
+sg19
+VSun Magnetica Bldg, Louis Wadi, Service Road, Thane West, Thane
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+aV Bars & Pubs
+p37
+asg6
+g25
+sg8
+VFusion Dhaba
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/fusion-dhaba_thane-west_thane_restaurants-bars-pubs/1524432257
+p39
+sg12
+VThane West
+p40
+sg14
+(lp41
+V25825166
+p42
+aV 9619719944
+p43
+aV 9619199304
+p44
+asg17
+g18
+sg19
+V16, Wagle Estate, Next to Passport Office, Thane West, Thane
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g25
+sg8
+VMarrakesh
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/marrakesh_thane-west_thane_restaurants/1291297980
+p51
+sg12
+VThane West
+p52
+sg14
+(lp53
+V65295502
+p54
+aV 65295503
+p55
+asg17
+g18
+sg19
+VAggarwal Arcade, Next to Central Bank of India, Thane West, Thane
+p56
+sba(i__main__
+Place
+p57
+(dp58
+g3
+(lp59
+VRestaurants
+p60
+aV Bars & Pubs
+p61
+asg6
+g25
+sg8
+VMahesh Lunch Home
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/mahesh-lunch-home_thane-west_thane_restaurants-bars-pubs/129253980
+p63
+sg12
+VThane West
+p64
+sg14
+(lp65
+V25445080
+p66
+aV 25441882
+p67
+aV 25441616
+p68
+asg17
+V0
+p69
+sg19
+VVihang's Palm Club, Pokharan Road 1, Opp. Raymond's, Thane West, Thane
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+asg6
+g25
+sg8
+VExotica
+p75
+sg10
+Vhttp://mumbai.burrp.com/listing/exotica_thane-west_thane_restaurants/172249237
+p76
+sg12
+VThane West
+p77
+sg14
+(lp78
+V25888909
+p79
+asg17
+g18
+sg19
+VYeoor Gaon, Yeoor Hill, Thane (W), Thane West, Thane
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VFast Food Shops
+p84
+aV Cafes
+p85
+aV Lounges
+p86
+aV Dessert Shops
+p87
+aV Juice Parlours
+p88
+aV Restaurants
+p89
+asg6
+g25
+sg8
+VAromas Cafe
+p90
+sg10
+Vhttp://mumbai.burrp.com/listing/aromas-cafe_thane-west_thane_fast-food-shops-cafes-lounges/1905534019
+p91
+sg12
+VThane West
+p92
+sg14
+(lp93
+V66099621
+p94
+aV 66099622
+p95
+asg17
+g18
+sg19
+VEmerald Plaza, Block No. 4, Hiranandani Meadows, Gladys Alvares Road, Off Pokhran Road No. 2, Thane West, Thane
+p96
+sba(i__main__
+Place
+p97
+(dp98
+g3
+(lp99
+VRestaurants
+p100
+asg6
+V3
+p101
+sg8
+VOriental Spice
+p102
+sg10
+Vhttp://mumbai.burrp.com/listing/oriental-spice_thane-west_thane_restaurants/135254574
+p103
+sg12
+VThane West
+p104
+sg14
+(lp105
+V25394917
+p106
+aV 25421111
+p107
+asg17
+g69
+sg19
+VShreeji Arcade, Almeda road, Near Nitin Company, Thane West, Thane
+p108
+sba(i__main__
+Place
+p109
+(dp110
+g3
+(lp111
+VRestaurants
+p112
+asg6
+g25
+sg8
+VMantraa
+p113
+sg10
+Vhttp://mumbai.burrp.com/listing/mantraa_thane-west_thane_restaurants/1441218465
+p114
+sg12
+VThane West
+p115
+sg14
+(lp116
+V25804030
+p117
+aV 25827080
+p118
+aV 25830303
+p119
+asg17
+g101
+sg19
+VService Road, Louis Wadi, Thane West, Thane
+p120
+sba(i__main__
+Place
+p121
+(dp122
+g3
+(lp123
+VRestaurants
+p124
+asg6
+g101
+sg8
+VKareem's
+p125
+sg10
+Vhttp://mumbai.burrp.com/listing/kareems_thane-west_thane_restaurants/196269613
+p126
+sg12
+VThane West
+p127
+sg14
+(lp128
+V32521300
+p129
+aV 32521200
+p130
+asg17
+g18
+sg19
+VHiranandani Meadows, Opp. Lokpuram, Thane West, Thane
+p131
+sba(i__main__
+Place
+p132
+(dp133
+g3
+(lp134
+VRestaurants
+p135
+asg6
+g25
+sg8
+VWoodland Retreat
+p136
+sg10
+Vhttp://mumbai.burrp.com/listing/woodland-retreat_thane-west_thane_restaurants/11872891
+p137
+sg12
+VThane West
+p138
+sg14
+(lp139
+V25800088
+p140
+aV 25800089
+p141
+asg17
+g69
+sg19
+VOpposite Johnson's Tiles, Plot No. 2, LBS Marg, Thane West, Thane
+p142
+sba(i__main__
+Place
+p143
+(dp144
+g3
+(lp145
+VRestaurants
+p146
+asg6
+g101
+sg8
+VIndiana Waters
+p147
+sg10
+Vhttp://mumbai.burrp.com/listing/indiana-waters_thane-west_thane_restaurants/19122454118
+p148
+sg12
+VThane West
+p149
+sg14
+(lp150
+V66097504
+p151
+aV 66097498
+p152
+asg17
+g69
+sg19
+V4th Floor, Korum Mall, Mangal Pandey Road, Cadbury Compound, Thane West, Thane
+p153
+sba(i__main__
+Place
+p154
+(dp155
+g3
+(lp156
+VRestaurants
+p157
+asg6
+g101
+sg8
+VThe Village
+p158
+sg10
+Vhttp://mumbai.burrp.com/listing/the-village_thane-west_thane_restaurants/123829386
+p159
+sg12
+VThane West
+p160
+sg14
+(lp161
+V25815090
+p162
+asg17
+g18
+sg19
+V2nd Floor, Thane (W), Thane West, Thane
+p163
+sba(i__main__
+Place
+p164
+(dp165
+g3
+(lp166
+VBars & Pubs
+p167
+aV Restaurants
+p168
+asg6
+g25
+sg8
+VThe Crazy Turtle
+p169
+sg10
+Vhttp://mumbai.burrp.com/listing/the-crazy-turtle_ghodbhunder-road_thane_bars-pubs-restaurants/16318491346
+p170
+sg12
+VGhodbhunder Road
+p171
+sg14
+(lp172
+V9820468598
+p173
+asg17
+g69
+sg19
+V Shop No. 5, Pataskar Eclat, Anand Nagar, Ghodbhunder Road, Thane West, Thane
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VRestaurants
+p178
+asg6
+g25
+sg8
+VShiv Sagar
+p179
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-sagar_thane-west_thane_restaurants/188754821
+p180
+sg12
+VThane West
+p181
+sg14
+(lp182
+V25393977
+p183
+asg17
+g18
+sg19
+VOpposite Raymond, Pokharan Road 1, Thane West, Thane
+p184
+sba(i__main__
+Place
+p185
+(dp186
+g3
+(lp187
+VHotels
+p188
+aV Restaurants
+p189
+asg6
+g101
+sg8
+VBlue Flame
+p190
+sg10
+Vhttp://mumbai.burrp.com/listing/blue-flame_thane-west_thane_hotels-restaurants/1705496039
+p191
+sg12
+VThane West
+p192
+sg14
+(lp193
+V41579999
+p194
+aV 61165999
+p195
+asg17
+g18
+sg19
+VHotel UNITED 21, 29, LBS Marg, Gokul Nagar, Thane West, Thane
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VBanquet Halls
+p200
+aV Restaurants
+p201
+asg6
+g101
+sg8
+VRoyal Challenge II
+p202
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-challenge-ii_wagle-industrial-estate_thane_banquet-halls-restaurants/15949950
+p203
+sg12
+VWagle Industrial Estate
+p204
+sg14
+(lp205
+V25406689
+p206
+aV 25372072
+p207
+asg17
+g18
+sg19
+VEmpire Wing, Eastern Express High Way, Wagle Industrial Estate, Thane West, Thane
+p208
+sba(i__main__
+Place
+p209
+(dp210
+g3
+(lp211
+VBars & Pubs
+p212
+aV Restaurants
+p213
+asg6
+g101
+sg8
+VMalvan
+p214
+sg10
+Vhttp://mumbai.burrp.com/listing/malvan_thane-west_thane_bars-pubs-restaurants/125127584
+p215
+sg12
+VThane West
+p216
+sg14
+(lp217
+V25368668
+p218
+aV 25438752
+p219
+asg17
+g69
+sg19
+VShripal Niwas, Near Aradhana Theatre, Panch Pakhadi, Thane West, Thane
+p220
+sba(i__main__
+Place
+p221
+(dp222
+g3
+(lp223
+VRestaurants
+p224
+aV Banquet Halls
+p225
+asg6
+g101
+sg8
+VShelter Farms
+p226
+sg10
+Vhttp://mumbai.burrp.com/listing/shelter-farms_thane-west_thane_restaurants-banquet-halls/1414782168
+p227
+sg12
+VThane West
+p228
+sg14
+(lp229
+V25974400
+p230
+aV 9768320756
+p231
+asg17
+g18
+sg19
+VOval Naka, Ghodbunder Road, Next to Ambrosia, Thane West, Thane
+p232
+sba(i__main__
+Place
+p233
+(dp234
+g3
+(lp235
+VRestaurants
+p236
+asg6
+g101
+sg8
+VMasalazone-The Indian Kitchen 
+p237
+sg10
+Vhttp://mumbai.burrp.com/listing/masalazone-the-indian-kitchen-_thane-west_thane_restaurants/1985318811
+p238
+sg12
+VThane West
+p239
+sg14
+(lp240
+V25370555
+p241
+aV 25360555
+p242
+aV 25340555
+p243
+aV 7666330555
+p244
+asg17
+g18
+sg19
+VShop No. 1, Next Kopat ST Stand, Pokhran Road, Thane West, Thane
+p245
+sba(i__main__
+Place
+p246
+(dp247
+g3
+(lp248
+VRestaurants
+p249
+asg6
+g25
+sg8
+VMaria Restaurant
+p250
+sg10
+Vhttp://mumbai.burrp.com/listing/maria-restaurant_thane-west_thane_restaurants/125253584
+p251
+sg12
+VThane West
+p252
+sg14
+(lp253
+V25333332
+p254
+asg17
+g69
+sg19
+V515  Pokhran Road No. 2, Majiwade Junction, Thane (W), Thane West, Thane
+p255
+sba(i__main__
+Place
+p256
+(dp257
+g3
+(lp258
+VBars & Pubs
+p259
+aV Home Caterers
+p260
+aV Restaurants
+p261
+aV Banquet Halls
+p262
+asg6
+g25
+sg8
+VRiviera - The Restaurant 
+p263
+sg10
+Vhttp://mumbai.burrp.com/listing/riviera---the-restaurant-_thane-west_thane_bars-pubs-home-caterers-restaurants/1584720851
+p264
+sg12
+VThane West
+p265
+sg14
+(lp266
+V21730434
+p267
+aV 67250050
+p268
+aV 67106400
+p269
+asg17
+g18
+sg19
+V101, Blosk 2, Emerald Plaza, Hiranandani Meadows, Above Standard & Chartered Bank, Off Pokhran rd No 2, Thane West, Thane
+p270
+sba(i__main__
+Place
+p271
+(dp272
+g3
+(lp273
+VRestaurants
+p274
+asg6
+g25
+sg8
+VThe Courtyard
+p275
+sg10
+Vhttp://mumbai.burrp.com/listing/the-courtyard_ghodbhunder-road_thane_restaurants/1825353227
+p276
+sg12
+VGhodbhunder Road
+p277
+sg14
+(lp278
+V25970530
+p279
+aV 25970080
+p280
+asg17
+g18
+sg19
+VOvala, Ghodbhunder Road, Thane West, Thane
+p281
+sba(i__main__
+Place
+p282
+(dp283
+g3
+(lp284
+VBars & Pubs
+p285
+aV Restaurants
+p286
+asg6
+g101
+sg8
+VSharnam Hotel
+p287
+sg10
+Vhttp://mumbai.burrp.com/listing/sharnam-hotel_thane-west_thane_bars-pubs-restaurants/180151029
+p288
+sg12
+VThane West
+p289
+sg14
+(lp290
+V25825225
+p291
+asg17
+g69
+sg19
+VEastern Express Highway, Service Rd, Near New RTO, Opp Ramkrishna Nagar, Thane (W), Thane West, Thane
+p292
+sba(i__main__
+Place
+p293
+(dp294
+g3
+(lp295
+VRestaurants
+p296
+aV Cafes
+p297
+asg6
+g18
+sg8
+VLiquide Fumee
+p298
+sg10
+Vhttp://mumbai.burrp.com/listing/liquide-fumee_thane-west_thane_restaurants-cafes/136821673
+p299
+sg12
+VThane West
+p300
+sg14
+(lp301
+V25841696
+p302
+aV 9930043726
+p303
+asg17
+g18
+sg19
+VChitalsar, Near Manpada Signal, Ghodbunder Road, Thane West, Thane
+p304
+sba(i__main__
+Place
+p305
+(dp306
+g3
+(lp307
+VRestaurants
+p308
+asg6
+g7
+sg8
+VHotel Swagath
+p309
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-swagath_thane-west_thane_restaurants/1655549544
+p310
+sg12
+VThane West
+p311
+sg14
+(lp312
+V25471291
+p313
+aV 25479547
+p314
+aV 9322896351
+p315
+asg17
+g18
+sg19
+VCastle Mill Naka, Thane (W), Thane West, Thane
+p316
+sba(i__main__
+Place
+p317
+(dp318
+g3
+(lp319
+VRestaurants
+p320
+asg6
+g7
+sg8
+VY Not Restaurant
+p321
+sg10
+Vhttp://mumbai.burrp.com/listing/y-not-restaurant_manpada_thane_restaurants/13314339376
+p322
+sg12
+VManpada
+p323
+sg14
+(lp324
+V25899589
+p325
+aV 9321368943
+p326
+asg17
+g69
+sg19
+VPlot No I/6, Ground Floor, Khothari Compound, Across Tikuji Ni Wadi Road, Manpada, Thane West, Thane
+p327
+sba(i__main__
+Place
+p328
+(dp329
+g3
+(lp330
+VRestaurants
+p331
+asg6
+g7
+sg8
+VDarya Sagar
+p332
+sg10
+Vhttp://mumbai.burrp.com/listing/darya-sagar_thane-west_thane_restaurants/1453531564
+p333
+sg12
+VThane West
+p334
+sg14
+(lp335
+V25338015
+p336
+asg17
+g18
+sg19
+VEastern Express Highway, Thane West, Thane
+p337
+sba(i__main__
+Place
+p338
+(dp339
+g3
+(lp340
+VSpas
+p341
+aV Gymkhanas and Social Clubs
+p342
+aV Swimming Pools
+p343
+aV Restaurants
+p344
+asg6
+g7
+sg8
+VThe Blue Roof Club & Spa
+p345
+sg10
+Vhttp://mumbai.burrp.com/listing/the-blue-roof-club-spa_ghodbhunder-road_thane_spas-gymkhanas-and-social-clubs-swimming-pools/19914201910
+p346
+sg12
+VGhodbhunder Road
+p347
+sg14
+(lp348
+V25335275
+p349
+aV 32522353
+p350
+aV 32530000
+p351
+aV 9833671150
+p352
+asg17
+g69
+sg19
+VOffice No 3, Ground Floor, Nivara Society, Ovala Naka, Ghodbhunder Road, Thane West, Thane
+p353
+sba(i__main__
+Place
+p354
+(dp355
+g3
+(lp356
+VRestaurants
+p357
+aV Bars & Pubs
+p358
+asg6
+g7
+sg8
+VSpice Island
+p359
+sg10
+Vhttp://mumbai.burrp.com/listing/spice-island_ghodbhunder-road_thane_restaurants-bars-pubs/11718468792
+p360
+sg12
+VGhodbhunder Road
+p361
+sg14
+(lp362
+V25975879
+p363
+asg17
+g18
+sg19
+VSiddhivinayak Arcade, 3rd Floor, Owala Naka, Ghodbhunder Road, Thane West, Thane
+p364
+sba(i__main__
+Place
+p365
+(dp366
+g3
+(lp367
+VRestaurants
+p368
+aV Fast Food Shops
+p369
+asg6
+g25
+sg8
+VPaparazzi
+p370
+sg10
+Vhttp://mumbai.burrp.com/listing/paparazzi_manpada_thane_restaurants-fast-food-shops/16919022940
+p371
+sg12
+VManpada
+p372
+sg14
+(lp373
+V25899013
+p374
+aV 25899313
+p375
+aV 9320088429
+p376
+asg17
+g18
+sg19
+VH/2A, Kothari Compound, 27 Acres, Manpada, Thane West, Thane
+p377
+sba(i__main__
+Place
+p378
+(dp379
+g3
+(lp380
+VRestaurants
+p381
+asg6
+g25
+sg8
+VHotel Malwan Bar & Restaurant
+p382
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-malwan-bar-restaurant_panchpakhadi_thane_restaurants/13714573772
+p383
+sg12
+VPanchpakhadi
+p384
+sg14
+(lp385
+V25368668
+p386
+aV 25438752
+p387
+asg17
+g69
+sg19
+VShop No 4 & 5, A Wing, Shreepal Apartments, Panchpakhadi, Thane West, Thane
+p388
+sba(i__main__
+Place
+p389
+(dp390
+g3
+(lp391
+VRestaurants
+p392
+asg6
+g25
+sg8
+VAlok Pure Veg Restaurant
+p393
+sg10
+Vhttp://mumbai.burrp.com/listing/alok-pure-veg-restaurant_thane-west_thane_restaurants/139101970
+p394
+sg12
+VThane West
+p395
+sg14
+(lp396
+V25404267
+p397
+aV 25409422
+p398
+aV 25400197
+p399
+asg17
+g69
+sg19
+V130, Gokhale Road, Ambedkar Chowk, Naupada, Thane West, Thane
+p400
+sba(i__main__
+Place
+p401
+(dp402
+g3
+(lp403
+VBars & Pubs
+p404
+aV Restaurants
+p405
+asg6
+g25
+sg8
+VNamaskar
+p406
+sg10
+Vhttp://mumbai.burrp.com/listing/namaskar_thane-west_thane_bars-pubs-restaurants/161131148
+p407
+sg12
+VThane West
+p408
+sg14
+(lp409
+V25412736
+p410
+aV 25412735
+p411
+asg17
+g69
+sg19
+VTalao Pali, Dr Moose Road, Shivaji Talao Pali, Thane West, Thane
+p412
+sba(i__main__
+Place
+p413
+(dp414
+g3
+(lp415
+VRestaurants
+p416
+asg6
+g25
+sg8
+VCantonese
+p417
+sg10
+Vhttp://mumbai.burrp.com/listing/cantonese_thane-west_thane_restaurants/1811690128
+p418
+sg12
+VThane West
+p419
+sg14
+(lp420
+V25306972
+p421
+aV 25304740
+p422
+asg17
+g18
+sg19
+VShop No. 9, 10, 11, Ratnamani Society, Dada Patil Wadi, Thane (W), Thane West, Thane
+p423
+sba(i__main__
+Place
+p424
+(dp425
+g3
+(lp426
+VRestaurants
+p427
+asg6
+g25
+sg8
+VAmruta Veg. Family Restaurant 
+p428
+sg10
+Vhttp://mumbai.burrp.com/listing/amruta-veg-family-restaurant-_thane-west_thane_restaurants/1594405950
+p429
+sg12
+VThane West
+p430
+sg14
+(lp431
+V25422676 
+p432
+asg17
+g69
+sg19
+VShiv Kripa Commercial Centre, Shop No-7, Gokhale Road, Nauapada , Thane (W), Thane West, Thane
+p433
+sba(i__main__
+Place
+p434
+(dp435
+g3
+(lp436
+VRestaurants
+p437
+asg6
+g25
+sg8
+VRoast Restaurant
+p438
+sg10
+Vhttp://mumbai.burrp.com/listing/roast-restaurant_panchpakhadi_thane_restaurants/13914555970
+p439
+sg12
+VPanchpakhadi
+p440
+sg14
+(lp441
+V32471221
+p442
+asg17
+g69
+sg19
+VShop No 10, Crescent Society, Panchpakhadi, Thane West, Thane
+p443
+sba(i__main__
+Place
+p444
+(dp445
+g3
+(lp446
+VRestaurants
+p447
+asg6
+g25
+sg8
+VPurepur Kolhapur
+p448
+sg10
+Vhttp://mumbai.burrp.com/listing/purepur-kolhapur_naupada_thane_restaurants/14115069168
+p449
+sg12
+VNaupada
+p450
+sg14
+(lp451
+V25330405
+p452
+aV 25330402
+p453
+asg17
+g69
+sg19
+VShop 1/2, Ram Janak Housing Society, Ghantali Road, Naupada, Thane West, Thane
+p454
+sba(i__main__
+Place
+p455
+(dp456
+g3
+(lp457
+VRestaurants
+p458
+asg6
+g25
+sg8
+VMi Hi Koli
+p459
+sg10
+Vhttp://mumbai.burrp.com/listing/mi-hi-koli_thane-west_thane_restaurants/14515186564
+p460
+sg12
+VThane West
+p461
+sg14
+(lp462
+V9769635644
+p463
+asg17
+g18
+sg19
+V2, Aram Baug, Veer Savarkar Road, Thane West, Thane
+p464
+sba(i__main__
+Place
+p465
+(dp466
+g3
+(lp467
+VRestaurants
+p468
+asg6
+g25
+sg8
+VSaiemaa's Family Restaurant & Bar
+p469
+sg10
+Vhttp://mumbai.burrp.com/listing/saiemaas-family-restaurant-bar_thane-west_thane_restaurants/12322456386
+p470
+sg12
+VThane West
+p471
+sg14
+(lp472
+V25811380
+p473
+asg17
+g69
+sg19
+VNew Dev Ashish Society, Service Road, Teen haath Naka, Thane West, Thane
+p474
+sba(i__main__
+Place
+p475
+(dp476
+g3
+(lp477
+VRestaurants
+p478
+asg6
+g101
+sg8
+VGolden Bamboo 
+p479
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-bamboo-_thane-west_thane_restaurants/13718317772
+p480
+sg12
+VThane West
+p481
+sg14
+(lp482
+V32267220
+p483
+aV 32267221
+p484
+aV 9222371735
+p485
+aV 21721003
+p486
+asg17
+g18
+sg19
+VShop No.2, Azad Nagar No.1, Castle Mill, Thane West, Thane
+p487
+sba(i__main__
+Place
+p488
+(dp489
+g3
+(lp490
+VRestaurants
+p491
+aV Juice Parlours
+p492
+asg6
+g101
+sg8
+VSamudra Family Restaurant And Bar
+p493
+sg10
+Vhttp://mumbai.burrp.com/listing/samudra-family-restaurant-and-bar_wagle-industrial-estate_thane_restaurants-juice-parlours/15114872158
+p494
+sg12
+VWagle Industrial Estate
+p495
+sg14
+(lp496
+V25800073
+p497
+aV 25815102
+p498
+asg17
+g69
+sg19
+VSamudra Family Restaurant And Bar, Eastern Express Highway Service Road, Louise Wadi, Wagle Industrial Estate, Thane West, Thane
+p499
+sba(i__main__
+Place
+p500
+(dp501
+g3
+(lp502
+VRestaurants
+p503
+asg6
+g101
+sg8
+VVillage
+p504
+sg10
+Vhttp://mumbai.burrp.com/listing/village_thane-west_thane_restaurants/1255725584
+p505
+sg12
+VThane West
+p506
+sg14
+(lp507
+V25815090
+p508
+aV 9987131349
+p509
+asg17
+g18
+sg19
+VIternity Mall, Level 2, Junction Of L.B.S. Marg, Thane West, Thane
+p510
+sba(i__main__
+Place
+p511
+(dp512
+g3
+(lp513
+VRestaurants
+p514
+aV Juice Parlours
+p515
+asg6
+g101
+sg8
+VShabri Chinese Restaurant
+p516
+sg10
+Vhttp://mumbai.burrp.com/listing/shabri-chinese-restaurant_jekegram_thane_restaurants-juice-parlours/18314209326
+p517
+sg12
+VJekegram
+p518
+sg14
+(lp519
+V32492943
+p520
+aV 32492944
+p521
+aV 67992945
+p522
+asg17
+g69
+sg19
+VShop No 1, Mrunal Plaza, Pokhran Road, Jekegram, Thane West, Thane
+p523
+sba(i__main__
+Place
+p524
+(dp525
+g3
+(lp526
+VRestaurants
+p527
+asg6
+g101
+sg8
+VAbhishek Hotel
+p528
+sg10
+Vhttp://mumbai.burrp.com/listing/abhishek-hotel_khopat_thane_restaurants/19914264910
+p529
+sg12
+VKhopat
+p530
+sg14
+(lp531
+V25471998
+p532
+aV 25472893
+p533
+aV 25479098
+p534
+asg17
+g69
+sg19
+VPunjani Estate, Pokhran Road No 1 , Khopat, Thane West, Thane
+p535
+sba(i__main__
+Place
+p536
+(dp537
+g3
+(lp538
+VRestaurants
+p539
+asg6
+g18
+sg8
+VAmbrosia Restaurant
+p540
+sg10
+Vhttp://mumbai.burrp.com/listing/ambrosia-restaurant_thane-west_thane_restaurants/11514607594
+p541
+sg12
+VThane West
+p542
+sg14
+(lp543
+V25972479
+p544
+aV 25973595
+p545
+aV 9867305408
+p546
+aV 9987421111
+p547
+asg17
+g69
+sg19
+VOwale Village , Ghodbunder Road, Thane West, Thane
+p548
+sba(i__main__
+Place
+p549
+(dp550
+g3
+(lp551
+VRestaurants
+p552
+asg6
+g18
+sg8
+VVeg World Restaurant
+p553
+sg10
+Vhttp://mumbai.burrp.com/listing/veg-world-restaurant_thane-west_thane_restaurants/16114684148
+p554
+sg12
+VThane West
+p555
+sg14
+(lp556
+V21736461
+p557
+aV 21736462
+p558
+aV 21736463
+p559
+aV 21736464
+p560
+asg17
+g69
+sg19
+VPlot No 515, Ground Floor, Maria Plaza, Majiwada Naka, Near Pokhran Road No 2, Thane West, Thane
+p561
+sba(i__main__
+Place
+p562
+(dp563
+g3
+(lp564
+VDessert Shops
+p565
+aV Outdoor Caterers
+p566
+aV Restaurants
+p567
+asg6
+g69
+sg8
+VSrinathji's Restaurant
+p568
+sg10
+Vhttp://mumbai.burrp.com/listing/srinathjis-restaurant_thane-west_thane_dessert-shops-outdoor-caterers-restaurants/1814984128
+p569
+sg12
+VThane West
+p570
+sg14
+(lp571
+V25458989
+p572
+asg17
+g18
+sg19
+VHiranandani Estate, Arcadia G , Patlipada, Thane (W), Thane West, Thane
+p573
+sba(i__main__
+Place
+p574
+(dp575
+g3
+(lp576
+VFast Food Shops
+p577
+aV Restaurants
+p578
+asg6
+g69
+sg8
+VAaHaa Fries
+p579
+sg10
+Vhttp://mumbai.burrp.com/listing/aahaa-fries_thane-west_thane_fast-food-shops-restaurants/187250722
+p580
+sg12
+VThane West
+p581
+sg14
+(lp582
+V9867409043
+p583
+asg17
+g69
+sg19
+VEternity Mall, Thane (W), Thane West, Thane
+p584
+sba(i__main__
+Place
+p585
+(dp586
+g3
+(lp587
+VRestaurants
+p588
+asg6
+g69
+sg8
+VHotel Sai Krupa 
+p589
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sai-krupa-_naupada_thane_restaurants/12315103386
+p590
+sg12
+VNaupada
+p591
+sg14
+(lp592
+V25367339
+p593
+aV 25428429
+p594
+aV 9773007339
+p595
+asg17
+g18
+sg19
+VNaupada, Thane West, Thane
+p596
+sba(i__main__
+Place
+p597
+(dp598
+g3
+(lp599
+VBanquet Halls
+p600
+aV Restaurants
+p601
+asg6
+g69
+sg8
+VMoni's Bar & Restaurant
+p602
+sg10
+Vhttp://mumbai.burrp.com/listing/monis-bar-restaurant_naupada_thane_banquet-halls-restaurants/11714472792
+p603
+sg12
+VNaupada
+p604
+sg14
+(lp605
+V25424647
+p606
+aV 25429390
+p607
+asg17
+g69
+sg19
+V10, Satyam Apartments, M G Road, Naupada, Thane West, Thane
+p608
+sba(i__main__
+Place
+p609
+(dp610
+g3
+(lp611
+VRestaurants
+p612
+asg6
+g69
+sg8
+VChina Hut
+p613
+sg10
+Vhttp://mumbai.burrp.com/listing/china-hut_thane-west_thane_restaurants/19118125118
+p614
+sg12
+VThane West
+p615
+sg14
+(lp616
+V25434195
+p617
+aV 9820842315
+p618
+asg17
+g18
+sg19
+VShop No. 3, Building No. 51-B, Brindavan Society, Thane West, Thane
+p619
+sba(i__main__
+Place
+p620
+(dp621
+g3
+(lp622
+VRestaurants
+p623
+asg6
+g69
+sg8
+VNew Garvaa
+p624
+sg10
+Vhttp://mumbai.burrp.com/listing/new-garvaa_thane-west_thane_restaurants/1684667841
+p625
+sg12
+VThane West
+p626
+sg14
+(lp627
+V9892398001
+p628
+aV 9867350313
+p629
+aV 69952394
+p630
+asg17
+g69
+sg19
+VBhayandar Pada, Ghodbunder Road, Thane (W), Thane West, Thane
+p631
+sba(i__main__
+Place
+p632
+(dp633
+g3
+(lp634
+VRestaurants
+p635
+asg6
+g69
+sg8
+VThe Experience Hotel
+p636
+sg10
+Vhttp://mumbai.burrp.com/listing/the-experience-hotel_naupada_thane_restaurants/17914496930
+p637
+sg12
+VNaupada
+p638
+sg14
+(lp639
+V25380725
+p640
+aV 25408251
+p641
+asg17
+g69
+sg19
+V6th Floor, Block No 601, Navrang Shop Arcade, Gokhale Road, Naupada, Thane West, Thane
+p642
+sba(i__main__
+Place
+p643
+(dp644
+g3
+(lp645
+VRestaurants
+p646
+aV Fast Food Shops
+p647
+asg6
+g69
+sg8
+VMcDonald's
+p648
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_thane-west_thane_restaurants-fast-food-shops/1882500821
+p649
+sg12
+VThane West
+p650
+sg14
+(lp651
+V32470816
+p652
+asg17
+g18
+sg19
+VGA5 To GA8, Lake City Mall, Kapurwadi Junction, Thane (W), Thane West, Thane
+p653
+sba(i__main__
+Place
+p654
+(dp655
+g3
+(lp656
+VRestaurants
+p657
+aV Bars & Pubs
+p658
+asg6
+g69
+sg8
+VSpice Up
+p659
+sg10
+Vhttp://mumbai.burrp.com/listing/spice-up_ghodbhunder-road_thane_restaurants-bars-pubs/11722266792
+p660
+sg12
+VGhodbhunder Road
+p661
+sg14
+(lp662
+V25308401
+p663
+aV 67998401
+p664
+asg17
+g69
+sg19
+VGround Floor, Leonardo Shopping Centre, Hiranandani Estate, Pasli Pada, Ghodbhunder Road, Thane West, Thane
+p665
+sba(i__main__
+Place
+p666
+(dp667
+g3
+(lp668
+VFood-court Stalls
+p669
+aV Dessert Shops
+p670
+aV Juice Parlours
+p671
+aV Ice-cream Parlours
+p672
+aV Cafes
+p673
+aV Restaurants
+p674
+aV Fast Food Shops
+p675
+asg6
+g69
+sg8
+VLittle Bite
+p676
+sg10
+Vhttp://mumbai.burrp.com/listing/little-bite_thane-west_thane_food-court-stalls-dessert-shops-juice-parlours/17514586534
+p677
+sg12
+VThane West
+p678
+sg14
+(lp679
+V25395558
+p680
+aV 25420911
+p681
+asg17
+g69
+sg19
+VVinod Co Operative Society, Shop No 2, Ground Floor, Edulj Cherai Road, Thane West, Thane
+p682
+sba(i__main__
+Place
+p683
+(dp684
+g3
+(lp685
+VDessert Shops
+p686
+aV Fast Food Shops
+p687
+aV Restaurants
+p688
+aV Cafes
+p689
+asg6
+g69
+sg8
+VFusion Xpress
+p690
+sg10
+Vhttp://mumbai.burrp.com/listing/fusion-xpress_naupada_thane_dessert-shops-fast-food-shops-restaurants/15314512356
+p691
+sg12
+VNaupada
+p692
+sg14
+(lp693
+V
+p694
+aV 9833659669
+p695
+aV 9892123811
+p696
+asg17
+g69
+sg19
+VShop No 11, Eternity Mall, LBS Marg, Teen Hath Naka, Naupada, Thane West, Thane
+p697
+sba(i__main__
+Place
+p698
+(dp699
+g3
+(lp700
+VRestaurants
+p701
+asg6
+g69
+sg8
+VSangam Restaurant
+p702
+sg10
+Vhttp://mumbai.burrp.com/listing/sangam-restaurant_thane-west_thane_restaurants/15514647554
+p703
+sg12
+VThane West
+p704
+sg14
+(lp705
+V25405064
+p706
+aV 25404901
+p707
+asg17
+g18
+sg19
+VThane West, Thane
+p708
+sba(i__main__
+Place
+p709
+(dp710
+g3
+(lp711
+VRestaurants
+p712
+asg6
+g69
+sg8
+VSmokin' Joe's
+p713
+sg10
+Vhttp://mumbai.burrp.com/listing/smokin-joes_thane-west_thane_restaurants/19917910
+p714
+sg12
+VThane West
+p715
+sg14
+(lp716
+V25470808
+p717
+aV 25470809
+p718
+asg17
+g69
+sg19
+VShop No.4, White Bird, Kolbad Lane, Thane West, Thane
+p719
+sba(i__main__
+Place
+p720
+(dp721
+g3
+(lp722
+VRestaurants
+p723
+asg6
+g69
+sg8
+VDomino's Pizza
+p724
+sg10
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_thane-west_thane_restaurants/14539564
+p725
+sg12
+VThane West
+p726
+sg14
+(lp727
+V25437858
+p728
+aV 25437952
+p729
+asg17
+g69
+sg19
+VShop No 2, 3, 4, Akansha Bldg., Near Aradhana Theatre, Panch Pakhadi Road, Thane (W), Thane West, Thane
+p730
+sba(i__main__
+Place
+p731
+(dp732
+g3
+(lp733
+VRestaurants
+p734
+asg6
+g69
+sg8
+VPizza Hut
+p735
+sg10
+Vhttp://mumbai.burrp.com/listing/pizza-hut_thane-west_thane_restaurants/1755766534
+p736
+sg12
+VThane West
+p737
+sg14
+(lp738
+V25416363 
+p739
+asg17
+g69
+sg19
+VPanchpakadi, Near Hari Niwas circle, Thane (W), Thane West, Thane
+p740
+sba(i__main__
+Place
+p741
+(dp742
+g3
+(lp743
+VRestaurants
+p744
+asg6
+g69
+sg8
+VFlavour Of Spice
+p745
+sg10
+Vhttp://mumbai.burrp.com/listing/flavour-of-spice_ghodbhunder-road_thane_restaurants/19314201316
+p746
+sg12
+VGhodbhunder Road
+p747
+sg14
+(lp748
+V25890184
+p749
+aV 25890286
+p750
+asg17
+g69
+sg19
+VShop No 9/10, Pride Park, Next To R Mall, Ghodbhunder Road, Thane West, Thane
+p751
+sba(i__main__
+Place
+p752
+(dp753
+g3
+(lp754
+VRestaurants
+p755
+asg6
+g69
+sg8
+VYummmyy's
+p756
+sg10
+Vhttp://mumbai.burrp.com/listing/yummmyys_thane-west_thane_restaurants/13722457772
+p757
+sg12
+VThane West
+p758
+sg14
+(lp759
+V64202799
+p760
+aV 64202800
+p761
+asg17
+g69
+sg19
+VNear Open House, Panchpakhadi, Thane West, Thane
+p762
+sba(i__main__
+Place
+p763
+(dp764
+g3
+(lp765
+VRestaurants
+p766
+asg6
+g69
+sg8
+VPalm Court
+p767
+sg10
+Vhttp://mumbai.burrp.com/listing/palm-court_thane-west_thane_restaurants/12932239980
+p768
+sg12
+VThane West
+p769
+sg14
+(lp770
+V41124110
+p771
+aV 41124111
+p772
+aV 41124112
+p773
+asg17
+g101
+sg19
+VGhodbunder Road, Thane West, Thane
+p774
+sba(i__main__
+Place
+p775
+(dp776
+g3
+(lp777
+VRestaurants
+p778
+asg6
+g69
+sg8
+VUsha Kiran Hotel
+p779
+sg10
+Vhttp://mumbai.burrp.com/listing/usha-kiran-hotel_naupada_thane_restaurants/16914504940
+p780
+sg12
+VNaupada
+p781
+sg14
+(lp782
+V25409210
+p783
+aV 25424796
+p784
+aV 64469378
+p785
+asg17
+g69
+sg19
+VGokhale Road, Naupada, Thane West, Thane
+p786
+sba(i__main__
+Place
+p787
+(dp788
+g3
+(lp789
+VRestaurants
+p790
+aV Fast Food Shops
+p791
+asg6
+g69
+sg8
+VMcDonald's
+p792
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_thane-west_thane_restaurants-fast-food-shops/18743722
+p793
+sg12
+VThane West
+p794
+sg14
+(lp795
+V25393482
+p796
+asg17
+g69
+sg19
+VGround Floor, Plot 23, Wadhavikar Wadi, Bhav Baug, Gokhale Road Naupada, Thane (W), Thane West, Thane
+p797
+sba(i__main__
+Place
+p798
+(dp799
+g3
+(lp800
+VRestaurants
+p801
+asg6
+g69
+sg8
+VSai Kripa
+p802
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-kripa_thane-west_thane_restaurants/16950940
+p803
+sg12
+VThane West
+p804
+sg14
+(lp805
+V25367339
+p806
+aV 25428429
+p807
+asg17
+g69
+sg19
+VDr Moose Road, Opposite Talao Pali, Thane (W), Thane West, Thane
+p808
+sba(i__main__
+Place
+p809
+(dp810
+g3
+(lp811
+VRestaurants
+p812
+asg6
+g69
+sg8
+VShri Seena Palace Hotel
+p813
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-seena-palace-hotel_manpada_thane_restaurants/11114337198
+p814
+sg12
+VManpada
+p815
+sg14
+(lp816
+V25375943
+p817
+aV 65772566
+p818
+asg17
+g69
+sg19
+VSamata Nagar, Manpada, Thane West, Thane
+p819
+sba(i__main__
+Place
+p820
+(dp821
+g3
+(lp822
+VRestaurants
+p823
+asg6
+g69
+sg8
+VShubh Manas Restaurant
+p824
+sg10
+Vhttp://mumbai.burrp.com/listing/shubh-manas-restaurant_naupada_thane_restaurants/16514531544
+p825
+sg12
+VNaupada
+p826
+sg14
+(lp827
+V25398381
+p828
+asg17
+g69
+sg19
+VShanti Cottage, Thakur Blocks Naupada, Nr Gautam Tower, Naupada, Thane West, Thane
+p829
+sba(i__main__
+Place
+p830
+(dp831
+g3
+(lp832
+VRestaurants
+p833
+aV Fast Food Shops
+p834
+asg6
+g69
+sg8
+VMC Donalds
+p835
+sg10
+Vhttp://mumbai.burrp.com/listing/mc-donalds_naupada_thane_restaurants-fast-food-shops/18314533326
+p836
+sg12
+VNaupada
+p837
+sg14
+(lp838
+V66000666
+p839
+aV 9930468813
+p840
+asg17
+g69
+sg19
+VGround Floor, Plot No 23, Wadhavikar Wadi, Bhaubaug, Gokhale Road, Naupada, Thane West, Thane
+p841
+sba(i__main__
+Place
+p842
+(dp843
+g3
+(lp844
+VRestaurants
+p845
+asg6
+g69
+sg8
+VSaiba Restaurant
+p846
+sg10
+Vhttp://mumbai.burrp.com/listing/saiba-restaurant_thane-west_thane_restaurants/11714598792
+p847
+sg12
+VThane West
+p848
+sg14
+(lp849
+V25808888
+p850
+asg17
+g69
+sg19
+VShop No 34, Vedant Shopping Complex, Pokhran Road No 1, Vartak Nagar, Thane West, Thane
+p851
+sba(i__main__
+Place
+p852
+(dp853
+g3
+(lp854
+VRestaurants
+p855
+asg6
+g69
+sg8
+VAmantran Hotel
+p856
+sg10
+Vhttp://mumbai.burrp.com/listing/amantran-hotel_thane-west_thane_restaurants/12514599584
+p857
+sg12
+VThane West
+p858
+sg14
+(lp859
+V67921974
+p860
+asg17
+g69
+sg19
+V1st Floor, Nand Vihar, Dr Moses Road, Thane West, Thane
+p861
+sba(i__main__
+Place
+p862
+(dp863
+g3
+(lp864
+VRestaurants
+p865
+asg6
+g69
+sg8
+VShiv Prasad Restaurant
+p866
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-prasad-restaurant_thane-west_thane_restaurants/17914649930
+p867
+sg12
+VThane West
+p868
+sg14
+(lp869
+V25362247
+p870
+asg17
+g69
+sg19
+VShiv Samarth Vidyalay Building, RAM Maruti Road, Thane West, Thane
+p871
+sba(i__main__
+Place
+p872
+(dp873
+g3
+(lp874
+VRestaurants
+p875
+asg6
+g69
+sg8
+VGreen Guru Restaurant
+p876
+sg10
+Vhttp://mumbai.burrp.com/listing/green-guru-restaurant_thane-west_thane_restaurants/18514677524
+p877
+sg12
+VThane West
+p878
+sg14
+(lp879
+V65040497
+p880
+asg17
+g69
+sg19
+VGround Floor, Solanki Sadan, Shivaji Path, Thane West, Thane
+p881
+sba.

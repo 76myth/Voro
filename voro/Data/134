@@ -1,0 +1,43 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VFast Food Shops
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VMcDonald's
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/mcdonalds_kalyan-e_thane_fast-food-shops-restaurants/12514248584
+p12
+sS'region'
+p13
+VKalyan (E)
+p14
+sS'phone'
+p15
+(lp16
+V66000666
+p17
+aV 9619490621
+p18
+asS'cost'
+p19
+g8
+sS'addr'
+p20
+VGround Floor, G 44 & G 45, Netivali Baug, Shil Phata Road, Kalyan (E), Thane
+p21
+sba.

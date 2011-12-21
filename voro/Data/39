@@ -1,0 +1,322 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VSarvi
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/sarvi_byculla-w_mumbai_restaurants/19253217
+p11
+sS'region'
+p12
+VByculla (W)
+p13
+sS'phone'
+p14
+(lp15
+V66086347
+p16
+aV 9892545845
+p17
+aV 9820142967
+p18
+asS'cost'
+p19
+V1
+p20
+sS'addr'
+p21
+V184/196 Dimtimkar Road, Opposite Nagpada Police Station, Byculla (W), Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+V4
+p27
+sg8
+VHukka N Tikka
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/hukka-n-tikka_byculla-w_mumbai_restaurants/184808425
+p29
+sg12
+VByculla (W)
+p30
+sg14
+(lp31
+V64524440
+p32
+aV 23454761
+p33
+aV 23454762
+p34
+asg19
+V2
+p35
+sg21
+VShop No. 1, Ali Raza Castle, Opposite J.J. Police Station, Sir J.J. Marg, Byculla (W), Mumbai
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VRestaurants
+p40
+asg6
+g27
+sg8
+VSigdi
+p41
+sg10
+Vhttp://mumbai.burrp.com/listing/sigdi_byculla-w_mumbai_restaurants/13856871
+p42
+sg12
+VByculla (W)
+p43
+sg14
+(lp44
+V23078453
+p45
+asg19
+V0
+p46
+sg21
+VHabib Park, Next to Christ Church High School, Clare Road, Byculla (W), Mumbai
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VRestaurants
+p51
+asg6
+V3
+p52
+sg8
+VMama Mia
+p53
+sg10
+Vhttp://mumbai.burrp.com/listing/mama-mia_byculla-w_mumbai_restaurants/17642633
+p54
+sg12
+VByculla (W)
+p55
+sg14
+(lp56
+V23071010
+p57
+aV 23012244
+p58
+aV 66211484
+p59
+asg19
+g46
+sg21
+VShop No 21/ 22, Byculla House, Clare Road, Byculla (W), Mumbai
+p60
+sba(i__main__
+Place
+p61
+(dp62
+g3
+(lp63
+VRestaurants
+p64
+aV Lounges
+p65
+asg6
+g46
+sg8
+VZaitoon
+p66
+sg10
+Vhttp://mumbai.burrp.com/listing/zaitoon_byculla-w_mumbai_restaurants-lounges/1385726871
+p67
+sg12
+VByculla (W)
+p68
+sg14
+(lp69
+V64465799
+p70
+aV 9833470650
+p71
+asg19
+g35
+sg21
+V18-B, Al-Hafiz Building, Ready Money Compund, Claire Road, Byculla (W), Mumbai
+p72
+sba(i__main__
+Place
+p73
+(dp74
+g3
+(lp75
+VRestaurants
+p76
+asg6
+g46
+sg8
+VDomino's Pizza
+p77
+sg10
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_byculla-w_mumbai_restaurants/15140158
+p78
+sg12
+VByculla (W)
+p79
+sg14
+(lp80
+V23093212
+p81
+aV 23091308
+p82
+aV 23093268
+p83
+aV 23091344
+p84
+asg19
+g35
+sg21
+VA-1, 2, 3, Ground Floor, 18-19, Mirza Galib Marg, Byculla (W), Mumbai
+p85
+sba(i__main__
+Place
+p86
+(dp87
+g3
+(lp88
+VRestaurants
+p89
+asg6
+g46
+sg8
+VIce n Spice Restaurant
+p90
+sg10
+Vhttp://mumbai.burrp.com/listing/ice-n-spice-restaurant_byculla-w_mumbai_restaurants/1153258594
+p91
+sg12
+VByculla (W)
+p92
+sg14
+(lp93
+V23073769
+p94
+asg19
+g35
+sg21
+VClaire Road, Byculla (W), Mumbai
+p95
+sba(i__main__
+Place
+p96
+(dp97
+g3
+(lp98
+VRestaurants
+p99
+asg6
+g46
+sg8
+VBBC Tandoor
+p100
+sg10
+Vhttp://mumbai.burrp.com/listing/bbc-tandoor_byculla-w_mumbai_restaurants/173105336
+p101
+sg12
+VByculla (W)
+p102
+sg14
+(lp103
+V23099961
+p104
+aV 23076260
+p105
+asg19
+g46
+sg21
+VByculla House, Sir J J Road, (near the flyover), Byculla (W), Mumbai
+p106
+sba(i__main__
+Place
+p107
+(dp108
+g3
+(lp109
+VRestaurants
+p110
+asg6
+g46
+sg8
+VRenault Restaurant & Bar
+p111
+sg10
+Vhttp://mumbai.burrp.com/listing/renault-restaurant-bar_byculla-w_mumbai_restaurants/1211351188
+p112
+sg12
+VByculla (W)
+p113
+sg14
+(lp114
+V23773938
+p115
+asg19
+g46
+sg21
+V 263/265 Gloria Church Bldg,  Dr B A Road, Byculla (W), Mumbai
+p116
+sba(i__main__
+Place
+p117
+(dp118
+g3
+(lp119
+VRestaurants
+p120
+asg6
+g46
+sg8
+VMega Broaster
+p121
+sg10
+Vhttp://mumbai.burrp.com/listing/mega-broaster_byculla-w_mumbai_restaurants/17924225930
+p122
+sg12
+VByculla (W)
+p123
+sg14
+(lp124
+V64460611
+p125
+aV 64460612
+p126
+asg19
+g46
+sg21
+VShop No.4, Habib Park, 41 / 49Clare Road, Next to Christ Chruch School., Byculla (W), Mumbai
+p127
+sba.

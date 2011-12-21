@@ -1,0 +1,77 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V1
+p7
+sS'name'
+p8
+VMumbai Chef
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/mumbai-chef_kharghar-e_navi-mumbai_restaurants/1656512544
+p11
+sS'region'
+p12
+VKharghar (E)
+p13
+sS'phone'
+p14
+(lp15
+V64531010
+p16
+aV 64532020
+p17
+aV 64533030
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VF18/A, Sector 12, Kharghar (E), Navi Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+V0
+p27
+sg8
+VMumbai Chef
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/mumbai-chef_kharghar-e_navi-mumbai_restaurants/14123646168
+p29
+sg12
+VKharghar (E)
+p30
+sg14
+(lp31
+V64531010
+p32
+aV 64532020
+p33
+aV 64533030
+p34
+asg19
+g20
+sg21
+VShidhivinayak Residency, Shop No 13 & 14,  Plot No 18, Sector 20, Kharghar (E), Navi Mumbai
+p35
+sba.

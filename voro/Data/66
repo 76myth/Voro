@@ -1,0 +1,310 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VMoshe's
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/moshes_cuffe-parade_mumbai_restaurants/153130356
+p11
+sS'region'
+p12
+VCuffe Parade
+p13
+sS'phone'
+p14
+(lp15
+V22161226
+p16
+aV 22161266
+p17
+asS'cost'
+p18
+V3
+p19
+sS'addr'
+p20
+V7 Minoo Manor, Captain Prakash Pethe Marg, Cuffe Parade, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VThai Pavilion
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/thai-pavilion_cuffe-parade_mumbai_restaurants/11063099
+p27
+sg12
+VCuffe Parade
+p28
+sg14
+(lp29
+V66650808
+p30
+asg18
+g7
+sg20
+VHotel Taj President, 90, Cuffe Parade, Mumbai
+p31
+sba(i__main__
+Place
+p32
+(dp33
+g3
+(lp34
+VRestaurants
+p35
+asg6
+g7
+sg8
+VTrattoria
+p36
+sg10
+Vhttp://mumbai.burrp.com/listing/trattoria_cuffe-parade_mumbai_restaurants/14166168
+p37
+sg12
+VCuffe Parade
+p38
+sg14
+(lp39
+V66650808
+p40
+asg18
+g7
+sg20
+VLobby Level, Cuffe Parade, Mumbai
+p41
+sba(i__main__
+Place
+p42
+(dp43
+g3
+(lp44
+VDessert Shops
+p45
+aV Bakery Shops
+p46
+aV Bars & Pubs
+p47
+aV Restaurants
+p48
+asg6
+g19
+sg8
+VFlamboyante
+p49
+sg10
+Vhttp://mumbai.burrp.com/listing/flamboyante_cuffe-parade_mumbai_dessert-shops-bakery-shops-bars-pubs/191440118
+p50
+sg12
+VCuffe Parade
+p51
+sg14
+(lp52
+V22180434
+p53
+aV 40647700
+p54
+aV 22180433
+p55
+asg18
+g19
+sg20
+VWorld Trade Centre Arcade, Ground Floor, Shop #7, Cuffe Parade, Mumbai
+p56
+sba(i__main__
+Place
+p57
+(dp58
+g3
+(lp59
+VRestaurants
+p60
+asg6
+g7
+sg8
+VKonkan Cafe
+p61
+sg10
+Vhttp://mumbai.burrp.com/listing/konkan-cafe_cuffe-parade_mumbai_restaurants/190125019
+p62
+sg12
+VCuffe Parade
+p63
+sg14
+(lp64
+V66650808
+p65
+asg18
+g7
+sg20
+VTaj President, 90, Cuffe Parade, Mumbai
+p66
+sba(i__main__
+Place
+p67
+(dp68
+g3
+(lp69
+VRestaurants
+p70
+asg6
+g19
+sg8
+VSantoor
+p71
+sg10
+Vhttp://mumbai.burrp.com/listing/santoor_cuffe-parade_mumbai_restaurants/18352326
+p72
+sg12
+VCuffe Parade
+p73
+sg14
+(lp74
+V22182262
+p75
+aV 22185449
+p76
+asg18
+V0
+p77
+sg20
+VMaker Arcade, Near World Trade Centre, Cuffe Parade, Mumbai
+p78
+sba(i__main__
+Place
+p79
+(dp80
+g3
+(lp81
+VRestaurants
+p82
+asg6
+V5
+p83
+sg8
+VKamat Sweets & Snacks
+p84
+sg10
+Vhttp://mumbai.burrp.com/listing/kamat-sweets-snacks_cuffe-parade_mumbai_restaurants/17042039
+p85
+sg12
+VCuffe Parade
+p86
+sg14
+(lp87
+V22182271
+p88
+asg18
+g77
+sg20
+VMaker Arcade, Cuffe Parade, Mumbai
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VRestaurants
+p93
+asg6
+g7
+sg8
+VKamats Super Snacks
+p94
+sg10
+Vhttp://mumbai.burrp.com/listing/kamats-super-snacks_cuffe-parade_mumbai_restaurants/1774452732
+p95
+sg12
+VCuffe Parade
+p96
+sg14
+(lp97
+V22182271
+p98
+asg18
+g77
+sg20
+VShop no. 2, Marker Arcade, Cuffe Parade, Mumbai
+p99
+sba(i__main__
+Place
+p100
+(dp101
+g3
+(lp102
+VHotels
+p103
+aV Restaurants
+p104
+asg6
+g77
+sg8
+VPiem Hotels Limited
+p105
+sg10
+Vhttp://mumbai.burrp.com/listing/piem-hotels-limited_cuffe-parade_mumbai_hotels-restaurants/1518905158
+p106
+sg12
+VCuffe Parade
+p107
+sg14
+(lp108
+V22150808
+p109
+asg18
+g77
+sg20
+VPlot No 90, Cuffe Parade, Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VRestaurants
+p114
+asg6
+g77
+sg8
+VChatradhari Caterers
+p115
+sg10
+Vhttp://mumbai.burrp.com/listing/chatradhari-caterers_cuffe-parade_mumbai_restaurants/19924056910
+p116
+sg12
+VCuffe Parade
+p117
+sg14
+(lp118
+V9869023941
+p119
+asg18
+g77
+sg20
+VTCS Canteen, Maker Tower, E Wing, 11th Floor, Cuffe Parade, Mumbai
+p120
+sba.

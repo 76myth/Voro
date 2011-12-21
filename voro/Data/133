@@ -1,0 +1,496 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VStadyum
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/stadyum_kalyan_thane_restaurants/14714259762
+p11
+sS'region'
+p12
+VKalyan
+p13
+sS'phone'
+p14
+(lp15
+V2353407
+p16
+asS'cost'
+p17
+V0
+p18
+sS'addr'
+p19
+V2nd Floor, Metro Junction Mall, Kalyan, Thane
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g18
+sg8
+VHotel Pushpraj
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-pushpraj_kalyan_thane_restaurants/14914223960
+p26
+sg12
+VKalyan
+p27
+sg14
+(lp28
+V2310412
+p29
+aV 2315007
+p30
+asg17
+g18
+sg19
+VJain Building, Murbad Road, Opposite Canara Bank, Kalyan, Thane
+p31
+sba(i__main__
+Place
+p32
+(dp33
+g3
+(lp34
+VRestaurants
+p35
+asg6
+g18
+sg8
+VDosa Plaza
+p36
+sg10
+Vhttp://mumbai.burrp.com/listing/dosa-plaza_kalyan_thane_restaurants/15914242950
+p37
+sg12
+VKalyan
+p38
+sg14
+(lp39
+V27830707
+p40
+asg17
+g18
+sg19
+VShop No 4/5/6, A Wing, Building No 2, Brindavan Vatika, Khadakpada, Kalyan West, Kalyan, Thane
+p41
+sba(i__main__
+Place
+p42
+(dp43
+g3
+(lp44
+VRestaurants
+p45
+asg6
+g18
+sg8
+VBiji's Hut
+p46
+sg10
+Vhttp://mumbai.burrp.com/listing/bijis-hut_kalyan_thane_restaurants/13714222772
+p47
+sg12
+VKalyan
+p48
+sg14
+(lp49
+V2301729
+p50
+aV 9769771317
+p51
+asg17
+g18
+sg19
+VNavjyoti Complex, Kalyan, Thane
+p52
+sba(i__main__
+Place
+p53
+(dp54
+g3
+(lp55
+VRestaurants
+p56
+asg6
+g18
+sg8
+VHotel Sridevi
+p57
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sridevi_kalyan_thane_restaurants/15114224158
+p58
+sg12
+VKalyan
+p59
+sg14
+(lp60
+V2208789
+p61
+asg17
+g18
+sg19
+VMurbad Road, Kalyan, Thane
+p62
+sba(i__main__
+Place
+p63
+(dp64
+g3
+(lp65
+VBars & Pubs
+p66
+aV Restaurants
+p67
+asg6
+g18
+sg8
+VSantosh Restaurant & Bar
+p68
+sg10
+Vhttp://mumbai.burrp.com/listing/santosh-restaurant-bar_kalyan_thane_bars-pubs-restaurants/12514230584
+p69
+sg12
+VKalyan
+p70
+sg14
+(lp71
+V2212690
+p72
+aV 2320822
+p73
+asg17
+g18
+sg19
+VSudhanshu Chambers, Shivaji Path, Kalyan, Thane
+p74
+sba(i__main__
+Place
+p75
+(dp76
+g3
+(lp77
+VRestaurants
+p78
+asg6
+g18
+sg8
+VVishwa Palace Hotel
+p79
+sg10
+Vhttp://mumbai.burrp.com/listing/vishwa-palace-hotel_kalyan_thane_restaurants/14114232168
+p80
+sg12
+VKalyan
+p81
+sg14
+(lp82
+V2327698
+p83
+asg17
+g18
+sg19
+VSudhanshu Chambers, Shivaji Path, Kalyan, Thane
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg6
+g18
+sg8
+VRamdev Hotel Pvt Ltd
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/ramdev-hotel-pvt-ltd_kalyan_thane_restaurants/17514235534
+p90
+sg12
+VKalyan
+p91
+sg14
+(lp92
+V2210794
+p93
+aV 2321176
+p94
+aV 2324283
+p95
+asg17
+g18
+sg19
+VZojawala Shopping Centre, Shivaji Chowk, Agra Road, Kalyan, Thane
+p96
+sba(i__main__
+Place
+p97
+(dp98
+g3
+(lp99
+VRestaurants
+p100
+asg6
+g18
+sg8
+VAnubhav Restaurant And Bar
+p101
+sg10
+Vhttp://mumbai.burrp.com/listing/anubhav-restaurant-and-bar_kalyan_thane_restaurants/19314237316
+p102
+sg12
+VKalyan
+p103
+sg14
+(lp104
+V2200061
+p105
+asg17
+g18
+sg19
+VShop Number 5, 6, 7, 8, 9, Kamdar Chamber Buliding, Subhash Road , Lal Chowki, Kalyan, Thane
+p106
+sba(i__main__
+Place
+p107
+(dp108
+g3
+(lp109
+VRestaurants
+p110
+asg6
+g18
+sg8
+VSitara Restaurant And Bar
+p111
+sg10
+Vhttp://mumbai.burrp.com/listing/sitara-restaurant-and-bar_kalyan_thane_restaurants/19114246118
+p112
+sg12
+VKalyan
+p113
+sg14
+(lp114
+V2315977
+p115
+aV 6570882
+p116
+asg17
+g18
+sg19
+VDeepak Commercial Centre, Valli Peer Road, Near Hotel Sagar International, Kalyan, Thane
+p117
+sba(i__main__
+Place
+p118
+(dp119
+g3
+(lp120
+VRestaurants
+p121
+asg6
+g18
+sg8
+VGreat Punjab Restaurant & Bar
+p122
+sg10
+Vhttp://mumbai.burrp.com/listing/great-punjab-restaurant-bar_kalyan_thane_restaurants/17114253138
+p123
+sg12
+VKalyan
+p124
+sg14
+(lp125
+V2210805
+p126
+aV 2322767
+p127
+aV 9322029502
+p128
+aV 9867894754
+p129
+asg17
+g18
+sg19
+VOld Station Road, Kalyan West, Kalyan, Thane
+p130
+sba(i__main__
+Place
+p131
+(dp132
+g3
+(lp133
+VFast Food Shops
+p134
+aV Restaurants
+p135
+asg6
+g18
+sg8
+VGurudev Nx Restaurant
+p136
+sg10
+Vhttp://mumbai.burrp.com/listing/gurudev-nx-restaurant_kalyan_thane_fast-food-shops-restaurants/17514253534
+p137
+sg12
+VKalyan
+p138
+sg14
+(lp139
+V6457777
+p140
+aV 9702847777
+p141
+asg17
+g18
+sg19
+VGala No 1, Ground Floor, R J Complex, Birla College Highway Road, Khadak  Pada, Kalyan, Thane
+p142
+sba(i__main__
+Place
+p143
+(dp144
+g3
+(lp145
+VRestaurants
+p146
+asg6
+g18
+sg8
+VVaibhav Bar And Restaurant
+p147
+sg10
+Vhttp://mumbai.burrp.com/listing/vaibhav-bar-and-restaurant_kalyan_thane_restaurants/18314254326
+p148
+sg12
+VKalyan
+p149
+sg14
+(lp150
+V2213104
+p151
+asg17
+g18
+sg19
+VRani Mansion, 1st Floor , Murbad Road , Above Prashant Hotel, Kalyan, Thane
+p152
+sba(i__main__
+Place
+p153
+(dp154
+g3
+(lp155
+VRestaurants
+p156
+asg6
+g18
+sg8
+VHotel Jai Malhar Bar And Restaurant
+p157
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-jai-malhar-bar-and-restaurant_kalyan_thane_restaurants/19714255712
+p158
+sg12
+VKalyan
+p159
+sg14
+(lp160
+V2204127
+p161
+aV 6958102
+p162
+aV 9220966812
+p163
+asg17
+g18
+sg19
+VShop No 4, Ground Floor, Bangar Samaj Trust, R P Road, Shivaji Path, Kalyan, Thane
+p164
+sba(i__main__
+Place
+p165
+(dp166
+g3
+(lp167
+VRestaurants
+p168
+asg6
+g18
+sg8
+VPriya Restuarant And Bar
+p169
+sg10
+Vhttp://mumbai.burrp.com/listing/priya-restuarant-and-bar_kalyan_thane_restaurants/13714258772
+p170
+sg12
+VKalyan
+p171
+sg14
+(lp172
+V2323913
+p173
+aV 9323977422
+p174
+asg17
+g18
+sg19
+VMurbad Road, Kalyan, Thane
+p175
+sba(i__main__
+Place
+p176
+(dp177
+g3
+(lp178
+VRestaurants
+p179
+aV Hotels
+p180
+asg6
+g18
+sg8
+VShree Ganesh Plaza
+p181
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-ganesh-plaza_titwala_thane_restaurants-hotels/15314710356
+p182
+sg12
+VTitwala
+p183
+sg14
+(lp184
+V2380934
+p185
+aV 2381890
+p186
+aV 9819115606
+p187
+asg17
+g18
+sg19
+VStation Road, Titwala, Kalyan, Thane
+p188
+sba.

@@ -1,0 +1,584 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+asS'rating'
+p7
+V3
+p8
+sS'name'
+p9
+VNorthern Tadka Restaurant
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/northern-tadka-restaurant_dahisar_mumbai_restaurants-bars-pubs/1919305118
+p12
+sS'region'
+p13
+VDahisar
+p14
+sS'phone'
+p15
+(lp16
+V28455777
+p17
+aV 28458699
+p18
+asS'cost'
+p19
+V0
+p20
+sS'addr'
+p21
+V1st Floor, Thakur Shopping Mall, Western Express Highway, Dahisar, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg7
+g20
+sg9
+VOmkar Pure Veg Restaurant
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/omkar-pure-veg-restaurant_dahisar_mumbai_restaurants/1419291168
+p28
+sg13
+VDahisar
+p29
+sg15
+(lp30
+V28977199
+p31
+aV 28977219
+p32
+asg19
+V2
+p33
+sg21
+VBhanu Apartment, Ashokvan, Dahisar, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg7
+g20
+sg9
+VHotel Bageecha
+p39
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-bageecha_dahisar_mumbai_restaurants/1459336564
+p40
+sg13
+VDahisar
+p41
+sg15
+(lp42
+V28974934
+p43
+aV 28976610
+p44
+aV 28977279
+p45
+asg19
+g33
+sg21
+VShop No 19, Panorama Park, Shiv Vallabh Road, Dahisar, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg7
+g20
+sg9
+VUphaar Restaurant
+p51
+sg11
+Vhttp://mumbai.burrp.com/listing/uphaar-restaurant_dahisar_mumbai_restaurants/1539301356
+p52
+sg13
+VDahisar
+p53
+sg15
+(lp54
+V28963119
+p55
+aV 28963123
+p56
+aV 28979580
+p57
+aV 28960265
+p58
+aV  28960264
+p59
+asg19
+g20
+sg21
+VGokulanand Building, Ashok Van, Western Express High Way, Dahisar, Mumbai
+p60
+sba(i__main__
+Place
+p61
+(dp62
+g3
+(lp63
+VRestaurants
+p64
+asg7
+g20
+sg9
+VMahek Restaurant & Bar
+p65
+sg11
+Vhttp://mumbai.burrp.com/listing/mahek-restaurant-bar_dahisar_mumbai_restaurants/1979332712
+p66
+sg13
+VDahisar
+p67
+sg15
+(lp68
+V28903549
+p69
+aV 28903550
+p70
+aV 28903551
+p71
+asg19
+g20
+sg21
+VAdi Ashray Hotel, Padmakar Jawle Marg, Dahisar, Mumbai
+p72
+sba(i__main__
+Place
+p73
+(dp74
+g3
+(lp75
+VRestaurants
+p76
+asg7
+g20
+sg9
+VDhanraj Restaurant & Bar
+p77
+sg11
+Vhttp://mumbai.burrp.com/listing/dhanraj-restaurant-bar_dahisar_mumbai_restaurants/1279316782
+p78
+sg13
+VDahisar
+p79
+sg15
+(lp80
+V28950071
+p81
+asg19
+g20
+sg21
+VPost Office Bldg, L T Road, Opp Railway Station, Dahisar, Mumbai
+p82
+sba(i__main__
+Place
+p83
+(dp84
+g3
+(lp85
+VRestaurants
+p86
+asg7
+g20
+sg9
+VParimal Kitchen
+p87
+sg11
+Vhttp://mumbai.burrp.com/listing/parimal-kitchen_dahisar_mumbai_restaurants/1399344970
+p88
+sg13
+VDahisar
+p89
+sg15
+(lp90
+V22952918
+p91
+aV 28964502
+p92
+aV 28977003
+p93
+aV 9819689537
+p94
+asg19
+g20
+sg21
+VShree Chintamani Chawl, Shop No 3, Shiv Vallabh Raod, Dahisar, Mumbai
+p95
+sba(i__main__
+Place
+p96
+(dp97
+g3
+(lp98
+VRestaurants
+p99
+asg7
+g20
+sg9
+VAshodaya Hotels Pvt Ltd
+p100
+sg11
+Vhttp://mumbai.burrp.com/listing/ashodaya-hotels-pvt-ltd_dahisar_mumbai_restaurants/1319308178
+p101
+sg13
+VDahisar
+p102
+sg15
+(lp103
+V28903549
+p104
+aV 28903550
+p105
+aV 28903551
+p106
+aV 28903552
+p107
+asg19
+g20
+sg21
+VAdi Ashray, Padmakar Jawle Marg, Dahisar, Mumbai
+p108
+sba(i__main__
+Place
+p109
+(dp110
+g3
+(lp111
+VRestaurants
+p112
+asg7
+g20
+sg9
+VSanjhi Restaurant
+p113
+sg11
+Vhttp://mumbai.burrp.com/listing/sanjhi-restaurant_dahisar_mumbai_restaurants/1619329148
+p114
+sg13
+VDahisar
+p115
+sg15
+(lp116
+V28486841
+p117
+aV 28489027
+p118
+aV 9870200710
+p119
+asg19
+g20
+sg21
+VShop No 1, Shiv Niwas, Link Road, Anand Nagar, Dahisar, Mumbai
+p120
+sba(i__main__
+Place
+p121
+(dp122
+g3
+(lp123
+VRestaurants
+p124
+asg7
+g20
+sg9
+VVijaya Hotel
+p125
+sg11
+Vhttp://mumbai.burrp.com/listing/vijaya-hotel_dahisar_mumbai_restaurants/1739339336
+p126
+sg13
+VDahisar
+p127
+sg15
+(lp128
+V28952376
+p129
+aV 28955262
+p130
+asg19
+g20
+sg21
+VPokar Kunj, L T Road, Dahisar West, Dahisar, Mumbai
+p131
+sba(i__main__
+Place
+p132
+(dp133
+g3
+(lp134
+VRestaurants
+p135
+asg7
+g20
+sg9
+VKalash Restaurant
+p136
+sg11
+Vhttp://mumbai.burrp.com/listing/kalash-restaurant_dahisar_mumbai_restaurants/1319344178
+p137
+sg13
+VDahisar
+p138
+sg15
+(lp139
+V28283485
+p140
+aV 28283486
+p141
+asg19
+g20
+sg21
+V7 Sheffield Apts, Anand Nagar Opp Jarimari Garden, Dahisar, Mumbai
+p142
+sba(i__main__
+Place
+p143
+(dp144
+g3
+(lp145
+VRestaurants
+p146
+asg7
+g20
+sg9
+VBalaji Pure Veg
+p147
+sg11
+Vhttp://mumbai.burrp.com/listing/balaji-pure-veg_dahisar_mumbai_restaurants/1265725683
+p148
+sg13
+VDahisar
+p149
+sg15
+(lp150
+V28457999
+p151
+asg19
+V1
+p152
+sg21
+VDahisar, Mumbai
+p153
+sba(i__main__
+Place
+p154
+(dp155
+g3
+(lp156
+VRestaurants
+p157
+asg7
+g20
+sg9
+VLotus Court
+p158
+sg11
+Vhttp://mumbai.burrp.com/listing/lotus-court_dahisar_mumbai_restaurants/1759285534
+p159
+sg13
+VDahisar
+p160
+sg15
+(lp161
+V28281919
+p162
+aV 28282020
+p163
+asg19
+g20
+sg21
+VFlat No 101/102, A 2 Wing , Orchid Plaza , Ramkuvar Thakur Road, Dahisar, Mumbai
+p164
+sba(i__main__
+Place
+p165
+(dp166
+g3
+(lp167
+VRestaurants
+p168
+asg7
+g20
+sg9
+VHotel Vishwa
+p169
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-vishwa_dahisar_mumbai_restaurants/1879286722
+p170
+sg13
+VDahisar
+p171
+sg15
+(lp172
+V28936488
+p173
+asg19
+g20
+sg21
+VBharucha Road, Dahisar, Mumbai
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VRestaurants
+p178
+aV Hotels
+p179
+asg7
+g20
+sg9
+VParivar Hotel Pvt Ltd
+p180
+sg11
+Vhttp://mumbai.burrp.com/listing/parivar-hotel-pvt-ltd_dahisar_mumbai_restaurants-hotels/1479291762
+p181
+sg13
+VDahisar
+p182
+sg15
+(lp183
+V28914746
+p184
+aV 28954838
+p185
+asg19
+g20
+sg21
+VNilangi Building, B P Road, Kandarpada, Dahisar, Mumbai
+p186
+sba(i__main__
+Place
+p187
+(dp188
+g3
+(lp189
+VHotels
+p190
+aV Restaurants
+p191
+asg7
+g20
+sg9
+VShree Gokulanand Hotels Pvt Ltd
+p192
+sg11
+Vhttp://mumbai.burrp.com/listing/shree-gokulanand-hotels-pvt-ltd_dahisar_mumbai_hotels-restaurants/1519301158
+p193
+sg13
+VDahisar
+p194
+sg15
+(lp195
+V28963119
+p196
+aV 28963123
+p197
+aV 28979580
+p198
+asg19
+g20
+sg21
+VAshok Van, Shiv Vallabh Road, Western Express Highway, Dahisar, Mumbai
+p199
+sba(i__main__
+Place
+p200
+(dp201
+g3
+(lp202
+VRestaurants
+p203
+asg7
+g152
+sg9
+VRavindra Restaurant
+p204
+sg11
+Vhttp://mumbai.burrp.com/listing/ravindra-restaurant_dahisar_mumbai_restaurants/1559301554
+p205
+sg13
+VDahisar
+p206
+sg15
+(lp207
+V28281333
+p208
+aV 28281453
+p209
+asg19
+g20
+sg21
+VAmit Apartment, Shop No C/1, S V Road, Near Rajeshwari Talkies, Dahisar, Mumbai
+p210
+sba(i__main__
+Place
+p211
+(dp212
+g3
+(lp213
+VDessert Shops
+p214
+aV Cafes
+p215
+aV Juice Parlours
+p216
+aV Fast Food Shops
+p217
+aV Restaurants
+p218
+asg7
+g20
+sg9
+VRight Choice Restaurant & Bar
+p219
+sg11
+Vhttp://mumbai.burrp.com/listing/right-choice-restaurant-bar_dahisar_mumbai_dessert-shops-cafes-juice-parlours/1619302148
+p220
+sg13
+VDahisar
+p221
+sg15
+(lp222
+V28926656
+p223
+aV 28926877
+p224
+asg19
+g20
+sg21
+VRose Will Aparments, J S Road, Dahisar, Mumbai
+p225
+sba.

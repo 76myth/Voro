@@ -1,0 +1,45 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Food-court Stalls
+p6
+aV Cafes
+p7
+asS'rating'
+p8
+V0
+p9
+sS'name'
+p10
+VPooja Veg Diet
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/pooja-veg-diet_kalachowki_mumbai_restaurants-food-court-stalls-cafes/15310336356
+p13
+sS'region'
+p14
+VKalachowki
+p15
+sS'phone'
+p16
+(lp17
+V24707220
+p18
+aV 24719111
+p19
+asS'cost'
+p20
+g9
+sS'addr'
+p21
+VShop No 34/35, Shraddha Co Operative Housing Society, Ganesh Nagar Lane, Ambewadi, Kalachowki, Cotton Green, Mumbai
+p22
+sba.

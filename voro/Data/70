@@ -1,0 +1,2109 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBakery Shops
+p5
+aV Dessert Shops
+p6
+aV Restaurants
+p7
+asS'rating'
+p8
+V4
+p9
+sS'name'
+p10
+VOven Fresh
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/oven-fresh_shivaji-park_mumbai_bakery-shops-dessert-shops-restaurants/15694653
+p13
+sS'region'
+p14
+VShivaji Park
+p15
+sS'phone'
+p16
+(lp17
+V67600000
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VKiran, 68 Ranade Road, Shivaji Park, Dadar West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg8
+g9
+sg10
+VPrakash
+p27
+sg12
+Vhttp://mumbai.burrp.com/listing/prakash_shivaji-park_mumbai_restaurants/145138564
+p28
+sg14
+VShivaji Park
+p29
+sg16
+(lp30
+V24304921
+p31
+asg19
+V1
+p32
+sg21
+VShiv Sena Bhavan, Next to Kithe Hall, Gokhale Road, Shivaji Park, Dadar West, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg8
+g9
+sg10
+VGypsy Chinese
+p38
+sg12
+Vhttp://mumbai.burrp.com/listing/gypsy-chinese_shivaji-park_mumbai_restaurants/17869831
+p39
+sg14
+VShivaji Park
+p40
+sg16
+(lp41
+V24455965
+p42
+aV 24467518
+p43
+asg19
+g20
+sg21
+V21 Maryland Corner, Opp. Sena Bhavan, Keluskar Marg, Shivaji Park, Dadar West, Mumbai
+p44
+sba(i__main__
+Place
+p45
+(dp46
+g3
+(lp47
+VRestaurants
+p48
+asg8
+g9
+sg10
+VAaswad Upahar And Mithai Grih
+p49
+sg12
+Vhttp://mumbai.burrp.com/listing/aaswad-upahar-and-mithai-grih_dadar-west_mumbai_restaurants/130101079
+p50
+sg14
+VDadar West
+p51
+sg16
+(lp52
+V24451871
+p53
+aV 24451876
+p54
+asg19
+g32
+sg21
+V252, Wavda Building, Gadkari Chowk, L J Road, Dadar West, Mumbai
+p55
+sba(i__main__
+Place
+p56
+(dp57
+g3
+(lp58
+VDelicatessens
+p59
+aV Restaurants
+p60
+aV Home Caterers
+p61
+aV Dessert Shops
+p62
+aV Cafes
+p63
+aV Bakery Shops
+p64
+aV Fast Food Shops
+p65
+aV Outdoor Caterers
+p66
+asg8
+V3
+p67
+sg10
+VHome Chef
+p68
+sg12
+Vhttp://mumbai.burrp.com/listing/home-chef_shivaji-park_mumbai_delicatessens-restaurants-home-caterers/1354799574
+p69
+sg14
+VShivaji Park
+p70
+sg16
+(lp71
+V24455034
+p72
+aV 24455035
+p73
+aV 24453036
+p74
+aV 9987033335
+p75
+asg19
+g20
+sg21
+V71 Meher Building, Ranade Road, Shivaji Park, Dadar West, Mumbai
+p76
+sba(i__main__
+Place
+p77
+(dp78
+g3
+(lp79
+VRestaurants
+p80
+asg8
+g9
+sg10
+VGomantak Boarding House
+p81
+sg12
+Vhttp://mumbai.burrp.com/listing/gomantak-boarding-house_dadar-west_mumbai_restaurants/141948168
+p82
+sg14
+VDadar West
+p83
+sg16
+(lp84
+V24305631
+p85
+aV 24311370
+p86
+aV 24303631
+p87
+aV 24311377
+p88
+asg19
+g32
+sg21
+V301 Mirinda Chawl, Near Shivaji Mandir, NC Kelkar Road, Dadar West, Mumbai
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VBars & Pubs
+p93
+aV Restaurants
+p94
+asg8
+g67
+sg10
+VTamnak Thai
+p95
+sg12
+Vhttp://mumbai.burrp.com/listing/tamnak-thai_shivaji-park_mumbai_bars-pubs-restaurants/18861821
+p96
+sg14
+VShivaji Park
+p97
+sg16
+(lp98
+V24474949
+p99
+asg19
+g20
+sg21
+V274, VS Marg, Shivaji Park, Dadar West, Mumbai
+p100
+sba(i__main__
+Place
+p101
+(dp102
+g3
+(lp103
+VBars & Pubs
+p104
+aV Restaurants
+p105
+aV Outdoor Caterers
+p106
+asg8
+g67
+sg10
+VDadar, Mumbai 28
+p107
+sg12
+Vhttp://mumbai.burrp.com/listing/dadar-mumbai-28_shivaji-park_mumbai_bars-pubs-restaurants-outdoor-caterers/1975192712
+p108
+sg14
+VShivaji Park
+p109
+sg16
+(lp110
+V24448866
+p111
+asg19
+g20
+sg21
+V377, Amar Kunj, Veer Savarkar Marg, Shivaji Park, Dadar West, Mumbai
+p112
+sba(i__main__
+Place
+p113
+(dp114
+g3
+(lp115
+VRestaurants
+p116
+aV Bakery Shops
+p117
+aV Fast Food Shops
+p118
+aV Ice-cream Parlours
+p119
+asg8
+g9
+sg10
+VFavourites
+p120
+sg12
+Vhttp://mumbai.burrp.com/listing/favourites_shivaji-park_mumbai_restaurants-bakery-shops-fast-food-shops/1752868534
+p121
+sg14
+VShivaji Park
+p122
+sg16
+(lp123
+V24316788
+p124
+aV 9867814868
+p125
+aV 9892724514
+p126
+asg19
+g32
+sg21
+V5/6, Sonwadi Mansion, 209, L.J. Road, Shivaji Park, Dadar West, Mumbai
+p127
+sba(i__main__
+Place
+p128
+(dp129
+g3
+(lp130
+VRestaurants
+p131
+asg8
+g9
+sg10
+VHotel Sachin
+p132
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-sachin_shivaji-park_mumbai_restaurants/146120663
+p133
+sg14
+VShivaji Park
+p134
+sg16
+(lp135
+V24466625
+p136
+asg19
+V0
+p137
+sg21
+VGokhale Road, Shivaji Park, Dadar West, Mumbai
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VRestaurants
+p142
+asg8
+g9
+sg10
+VMasalazone Bar & Kitchen
+p143
+sg12
+Vhttp://mumbai.burrp.com/listing/masalazone-bar-kitchen_shivaji-park_mumbai_restaurants/15322873356
+p144
+sg14
+VShivaji Park
+p145
+sg16
+(lp146
+V24458172
+p147
+aV 65658111
+p148
+aV 65658222
+p149
+asg19
+g20
+sg21
+V289, Cadell Road, Shivaji Park, Dadar West, Mumbai
+p150
+sba(i__main__
+Place
+p151
+(dp152
+g3
+(lp153
+VBars & Pubs
+p154
+aV Restaurants
+p155
+asg8
+g67
+sg10
+VGreen Restaurant & Bar
+p156
+sg12
+Vhttp://mumbai.burrp.com/listing/green-restaurant-bar_shivaji-park_mumbai_bars-pubs-restaurants/17169138
+p157
+sg14
+VShivaji Park
+p158
+sg16
+(lp159
+V24458160
+p160
+aV 66015385
+p161
+asg19
+g20
+sg21
+VShivnath, 223 Ranade Road Extension, Dadar (W), Shivaji Park, Dadar West, Mumbai
+p162
+sba(i__main__
+Place
+p163
+(dp164
+g3
+(lp165
+VRestaurants
+p166
+aV Lounges
+p167
+asg8
+g67
+sg10
+VGrass
+p168
+sg12
+Vhttp://mumbai.burrp.com/listing/grass_dadar-west_mumbai_restaurants-lounges/1361361673
+p169
+sg14
+VDadar West
+p170
+sg16
+(lp171
+V9821616353
+p172
+aV 9967614288
+p173
+aV 24307614
+p174
+aV 66100161
+p175
+asg19
+g20
+sg21
+V2nd Floor, Nakshatra Mall, Ranade Road, Opposite Dadar Railway Station, Dadar West, Mumbai
+p176
+sba(i__main__
+Place
+p177
+(dp178
+g3
+(lp179
+VRestaurants
+p180
+asg8
+V5
+p181
+sg10
+VBurger Corner
+p182
+sg12
+Vhttp://mumbai.burrp.com/listing/burger-corner_shivaji-park_mumbai_restaurants/185106524
+p183
+sg14
+VShivaji Park
+p184
+sg16
+(lp185
+V24465915
+p186
+aV 24458499
+p187
+asg19
+g137
+sg21
+VAnand Bhuvan, Road No 4, Shivaji Park, Dadar West, Mumbai
+p188
+sba(i__main__
+Place
+p189
+(dp190
+g3
+(lp191
+VRestaurants
+p192
+asg8
+g9
+sg10
+VChandragupta
+p193
+sg12
+Vhttp://mumbai.burrp.com/listing/chandragupta_shivaji-park_mumbai_restaurants/126109683
+p194
+sg14
+VShivaji Park
+p195
+sg16
+(lp196
+V24446405
+p197
+aV 24446406
+p198
+asg19
+g20
+sg21
+VVidya Bhavan Co-op Society, Shivaji Park, Dadar West, Mumbai
+p199
+sba(i__main__
+Place
+p200
+(dp201
+g3
+(lp202
+VRestaurants
+p203
+asg8
+g9
+sg10
+VMama Kane
+p204
+sg12
+Vhttp://mumbai.burrp.com/listing/mama-kane_dadar-west_mumbai_restaurants/126127683
+p205
+sg14
+VDadar West
+p206
+sg16
+(lp207
+V24221161
+p208
+aV 24222192
+p209
+asg19
+g32
+sg21
+V222, Smruti Kunj, Senapati Bapat Marg, Dadar West, Mumbai
+p210
+sba(i__main__
+Place
+p211
+(dp212
+g3
+(lp213
+VRestaurants
+p214
+asg8
+g9
+sg10
+VSaibini Gomantak
+p215
+sg12
+Vhttp://mumbai.burrp.com/listing/saibini-gomantak_dadar-west_mumbai_restaurants/1177065792
+p216
+sg14
+VDadar West
+p217
+sg16
+(lp218
+V24328065
+p219
+aV 24385429
+p220
+asg19
+g32
+sg21
+VKatrada Mansion, Gokhale Road, Dadar West, Mumbai
+p221
+sba(i__main__
+Place
+p222
+(dp223
+g3
+(lp224
+VRestaurants
+p225
+asg8
+g67
+sg10
+VSindhudurg
+p226
+sg12
+Vhttp://mumbai.burrp.com/listing/sindhudurg_dadar-west_mumbai_restaurants/14257267
+p227
+sg14
+VDadar West
+p228
+sg16
+(lp229
+V24301610
+p230
+asg19
+g137
+sg21
+VRam Murti Road, Behind Shiv Sena Bhawan, Dadar (W), Dadar West, Mumbai
+p231
+sba(i__main__
+Place
+p232
+(dp233
+g3
+(lp234
+VRestaurants
+p235
+asg8
+g9
+sg10
+VSoup n Grill
+p236
+sg12
+Vhttp://mumbai.burrp.com/listing/soup-n-grill_dadar-west_mumbai_restaurants/116882693
+p237
+sg14
+VDadar West
+p238
+sg16
+(lp239
+V24310336
+p240
+asg19
+g32
+sg21
+VOpp Kirti College, Dadar (W), Dadar (W), Dadar West, Mumbai
+p241
+sba(i__main__
+Place
+p242
+(dp243
+g3
+(lp244
+VRestaurants
+p245
+asg8
+g9
+sg10
+VSujata Annexe
+p246
+sg12
+Vhttp://mumbai.burrp.com/listing/sujata-annexe_dadar-west_mumbai_restaurants/17660633
+p247
+sg14
+VDadar West
+p248
+sg16
+(lp249
+V24315252
+p250
+aV 66625066
+p251
+asg19
+g137
+sg21
+VJunction of Gokhale Road and Ranade Road, Dadar (W), Dadar West, Mumbai
+p252
+sba(i__main__
+Place
+p253
+(dp254
+g3
+(lp255
+VRestaurants
+p256
+asg8
+g9
+sg10
+VLight Of Bharat Restaurant
+p257
+sg12
+Vhttp://mumbai.burrp.com/listing/light-of-bharat-restaurant_dadar-west_mumbai_restaurants/1339065376
+p258
+sg14
+VDadar West
+p259
+sg16
+(lp260
+V24453819
+p261
+asg19
+g137
+sg21
+VBuilding No 69, Meher Building, Ranade Road, Shivaji Park, Dadar West, Mumbai
+p262
+sba(i__main__
+Place
+p263
+(dp264
+g3
+(lp265
+VBars & Pubs
+p266
+aV Restaurants
+p267
+asg8
+g67
+sg10
+VMumbai Masala
+p268
+sg12
+Vhttp://mumbai.burrp.com/listing/mumbai-masala_shivaji-park_mumbai_bars-pubs-restaurants/162131247
+p269
+sg14
+VShivaji Park
+p270
+sg16
+(lp271
+V24453361
+p272
+aV 24453362
+p273
+aV 24453363
+p274
+asg19
+g137
+sg21
+VSea Face, Ranade Road, Shivaji Park, Dadar West, Mumbai
+p275
+sba(i__main__
+Place
+p276
+(dp277
+g3
+(lp278
+VRestaurants
+p279
+asg8
+g137
+sg10
+VShagun Veg Restaurant
+p280
+sg12
+Vhttp://mumbai.burrp.com/listing/shagun-veg-restaurant_dadar-west_mumbai_restaurants/1975363712
+p281
+sg14
+VDadar West
+p282
+sg16
+(lp283
+V24369326
+p284
+asg19
+g32
+sg21
+VGananath GHS, Dr. Dsilva Road, Dadar (W), Dadar West, Mumbai
+p285
+sba(i__main__
+Place
+p286
+(dp287
+g3
+(lp288
+VRestaurants
+p289
+asg8
+g137
+sg10
+VMirch Masala Restaurant
+p290
+sg12
+Vhttp://mumbai.burrp.com/listing/mirch-masala-restaurant_dadar-west_mumbai_restaurants/1939197316
+p291
+sg14
+VDadar West
+p292
+sg16
+(lp293
+V24223037
+p294
+aV 65723047
+p295
+asg19
+g137
+sg21
+VShop No 1 Dutta Bhavan, K W Chitale Path, Behind Portuguese Church, Dadar West, Mumbai
+p296
+sba(i__main__
+Place
+p297
+(dp298
+g3
+(lp299
+VRestaurants
+p300
+asg8
+g137
+sg10
+VManohar Restaurant
+p301
+sg12
+Vhttp://mumbai.burrp.com/listing/manohar-restaurant_dadar-west_mumbai_restaurants/1659203544
+p302
+sg14
+VDadar West
+p303
+sg16
+(lp304
+V24306513
+p305
+aV 24318409
+p306
+asg19
+g137
+sg21
+VGirdhari LAL Sadan, N Kelkar Road, Dadar West, Mumbai
+p307
+sba(i__main__
+Place
+p308
+(dp309
+g3
+(lp310
+VRestaurants
+p311
+asg8
+g137
+sg10
+VGeeta Hotel
+p312
+sg12
+Vhttp://mumbai.burrp.com/listing/geeta-hotel_dadar-west_mumbai_restaurants/1899223920
+p313
+sg14
+VDadar West
+p314
+sg16
+(lp315
+V24386262
+p316
+asg19
+g137
+sg21
+VShop No 200/A , Vishnu Niwas, Senapati Bapat Marg, Dadar West, Mumbai
+p317
+sba(i__main__
+Place
+p318
+(dp319
+g3
+(lp320
+VRestaurants
+p321
+asg8
+g137
+sg10
+VSanman Ka Dastarkhana
+p322
+sg12
+Vhttp://mumbai.burrp.com/listing/sanman-ka-dastarkhana_shivaji-park_mumbai_restaurants/17951930
+p323
+sg14
+VShivaji Park
+p324
+sg16
+(lp325
+V24449187
+p326
+asg19
+g137
+sg21
+VAmarkunj Building, Veer Savarkar Marg, Dadar (W), Shivaji Park, Dadar West, Mumbai
+p327
+sba(i__main__
+Place
+p328
+(dp329
+g3
+(lp330
+VRestaurants
+p331
+asg8
+g137
+sg10
+VMadhura Upahar
+p332
+sg12
+Vhttp://mumbai.burrp.com/listing/madhura-upahar_dadar-west_mumbai_restaurants/114126495
+p333
+sg14
+VDadar West
+p334
+sg16
+(lp335
+V24332491
+p336
+asg19
+g137
+sg21
+V301, N.C. Kelkar Road, Near Plaza Cinema, Dadar (W), Dadar West, Mumbai
+p337
+sba(i__main__
+Place
+p338
+(dp339
+g3
+(lp340
+VRestaurants
+p341
+asg8
+g137
+sg10
+VManisha Chinese Corner
+p342
+sg12
+Vhttp://mumbai.burrp.com/listing/manisha-chinese-corner_shivaji-park_mumbai_restaurants/128127881
+p343
+sg14
+VShivaji Park
+p344
+sg16
+(lp345
+V24465364
+p346
+asg19
+g137
+sg21
+V280, Veer Savarkar Marg, Opposite Hotel Amigo, Dadar (W), Shivaji Park, Dadar West, Mumbai
+p347
+sba(i__main__
+Place
+p348
+(dp349
+g3
+(lp350
+VRestaurants
+p351
+asg8
+g137
+sg10
+VAshraya Veg Restaurant
+p352
+sg12
+Vhttp://mumbai.burrp.com/listing/ashraya-veg-restaurant_dadar-west_mumbai_restaurants/1454404564
+p353
+sg14
+VDadar West
+p354
+sg16
+(lp355
+V24360292 
+p356
+aV 24305948
+p357
+asg19
+g137
+sg21
+VParikh Mahal, L.J. Rd, Shivaji Park, Dadar West, Mumbai
+p358
+sba(i__main__
+Place
+p359
+(dp360
+g3
+(lp361
+VRestaurants
+p362
+asg8
+g137
+sg10
+VAnandashram
+p363
+sg12
+Vhttp://mumbai.burrp.com/listing/anandashram_dadar-west_mumbai_restaurants/1984436811
+p364
+sg14
+VDadar West
+p365
+sg16
+(lp366
+V24308568
+p367
+aV 24369165
+p368
+asg19
+g20
+sg21
+V6th, Dadar Vachnalaya Marg, Dadar West, Mumbai
+p369
+sba(i__main__
+Place
+p370
+(dp371
+g3
+(lp372
+VRestaurants
+p373
+asg8
+g137
+sg10
+VHotel Manohar
+p374
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-manohar_dadar-west_mumbai_restaurants/1514441158
+p375
+sg14
+VDadar West
+p376
+sg16
+(lp377
+V24306513
+p378
+asg19
+g137
+sg21
+VGirdharlal Sadan, N. C. Kelkar Road, Dadar (W), Dadar West, Mumbai
+p379
+sba(i__main__
+Place
+p380
+(dp381
+g3
+(lp382
+VRestaurants
+p383
+asg8
+g137
+sg10
+VHotel Radha Krishna
+p384
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-radha-krishna_dadar-west_mumbai_restaurants/1614442148
+p385
+sg14
+VDadar West
+p386
+sg16
+(lp387
+V24380777
+p388
+asg19
+g137
+sg21
+V191/A, Bhavani Shankar Rd, Dadar (W), Dadar West, Mumbai
+p389
+sba(i__main__
+Place
+p390
+(dp391
+g3
+(lp392
+VRestaurants
+p393
+asg8
+g137
+sg10
+VSoup & Grill 
+p394
+sg12
+Vhttp://mumbai.burrp.com/listing/soup-grill-_dadar-west_mumbai_restaurants/1754470534
+p395
+sg14
+VDadar West
+p396
+sg16
+(lp397
+V24310336 
+p398
+asg19
+g137
+sg21
+VShop no.13, Ahmed Mansion, Kashinath Dhuru Road, Opp. Kirti College, Dadar (W), Dadar West, Mumbai
+p399
+sba(i__main__
+Place
+p400
+(dp401
+g3
+(lp402
+VRestaurants
+p403
+asg8
+g137
+sg10
+VShree Laxmi Pure Veg 
+p404
+sg12
+Vhttp://mumbai.burrp.com/listing/shree-laxmi-pure-veg-_dadar-west_mumbai_restaurants/1414476168
+p405
+sg14
+VDadar West
+p406
+sg16
+(lp407
+V24226109 
+p408
+asg19
+g137
+sg21
+VLaxmi Building, M.C. Jawle Marg, Dadar (W), Dadar West, Mumbai
+p409
+sba(i__main__
+Place
+p410
+(dp411
+g3
+(lp412
+VRestaurants
+p413
+asg8
+g137
+sg10
+VShree Krishna Bhuvan 
+p414
+sg12
+Vhttp://mumbai.burrp.com/listing/shree-krishna-bhuvan-_dadar-west_mumbai_restaurants/1444476465
+p415
+sg14
+VDadar West
+p416
+sg16
+(lp417
+V24226919 
+p418
+asg19
+g137
+sg21
+VShree Krishna Bhuvan 212 Noor Building S.B.Marg , Dadar (W), Dadar West, Mumbai
+p419
+sba(i__main__
+Place
+p420
+(dp421
+g3
+(lp422
+VRestaurants
+p423
+asg8
+g137
+sg10
+VMejhwani The Treat
+p424
+sg12
+Vhttp://mumbai.burrp.com/listing/mejhwani-the-treat_dadar-west_mumbai_restaurants/1954490514
+p425
+sg14
+VDadar West
+p426
+sg16
+(lp427
+V9920411517
+p428
+aV 9820742925
+p429
+asg19
+g137
+sg21
+V350, Dhuru Apts, Veer Savarkar Marg, Dadar (W), Dadar West, Mumbai
+p430
+sba(i__main__
+Place
+p431
+(dp432
+g3
+(lp433
+VRestaurants
+p434
+asg8
+g137
+sg10
+VRuchi Food Plaza Restaurant 
+p435
+sg12
+Vhttp://mumbai.burrp.com/listing/ruchi-food-plaza-restaurant-_dadar-west_mumbai_restaurants/1544495455
+p436
+sg14
+VDadar West
+p437
+sg16
+(lp438
+V24382225 
+p439
+asg19
+g137
+sg21
+VShop No9, Khandke Bldg, No11, J.K.Sawant Marg, Dadar (W), Dadar West, Mumbai
+p440
+sba(i__main__
+Place
+p441
+(dp442
+g3
+(lp443
+VRestaurants
+p444
+asg8
+g137
+sg10
+VNarayan Tea House
+p445
+sg12
+Vhttp://mumbai.burrp.com/listing/narayan-tea-house_dadar-west_mumbai_restaurants/1554504554
+p446
+sg14
+VDadar West
+p447
+sg16
+(lp448
+V24308568
+p449
+asg19
+g137
+sg21
+V6th Dhuru Building, Chabildas Road., Dadar (W), Dadar West, Mumbai
+p450
+sba(i__main__
+Place
+p451
+(dp452
+g3
+(lp453
+VRestaurants
+p454
+asg8
+g137
+sg10
+VPrabhu'S Udipi Restaurant 
+p455
+sg12
+Vhttp://mumbai.burrp.com/listing/prabhus-udipi-restaurant-_dadar-west_mumbai_restaurants/1584504851
+p456
+sg14
+VDadar West
+p457
+sg16
+(lp458
+V24389345 
+p459
+asg19
+g137
+sg21
+V1, Padhya Bldg., B.S.Road, Dadar (W), Dadar West, Mumbai
+p460
+sba(i__main__
+Place
+p461
+(dp462
+g3
+(lp463
+VRestaurants
+p464
+asg8
+g137
+sg10
+VNew Shree Krishana Bording House
+p465
+sg12
+Vhttp://mumbai.burrp.com/listing/new-shree-krishana-bording-house_dadar-west_mumbai_restaurants/1934508316
+p466
+sg14
+VDadar West
+p467
+sg16
+(lp468
+V24327836
+p469
+asg19
+g137
+sg21
+V1st Floor, Gokul Niwas, Bldg No.3, Ranade Road, Dadar (W), Dadar West, Mumbai
+p470
+sba(i__main__
+Place
+p471
+(dp472
+g3
+(lp473
+VRestaurants
+p474
+asg8
+g137
+sg10
+VHotel Rajarajeshwari 
+p475
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-rajarajeshwari-_shivaji-park_mumbai_restaurants/1975165712
+p476
+sg14
+VShivaji Park
+p477
+sg16
+(lp478
+V24453474
+p479
+asg19
+g32
+sg21
+VAmarkunj, Savarkar Marg, Dadar (W), Shivaji Park, Dadar West, Mumbai
+p480
+sba(i__main__
+Place
+p481
+(dp482
+g3
+(lp483
+VRestaurants
+p484
+asg8
+g137
+sg10
+VHotel Mahalaxmi Garden
+p485
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-mahalaxmi-garden_dadar-west_mumbai_restaurants/1817063128
+p486
+sg14
+VDadar West
+p487
+sg16
+(lp488
+V24369107
+p489
+aV 24215445
+p490
+asg19
+g20
+sg21
+VSarat Building, Gokhale Road, Dadar (W), Dadar West, Mumbai
+p491
+sba(i__main__
+Place
+p492
+(dp493
+g3
+(lp494
+VRestaurants
+p495
+asg8
+g137
+sg10
+VBumpling Chinese
+p496
+sg12
+Vhttp://mumbai.burrp.com/listing/bumpling-chinese_dadar-west_mumbai_restaurants/1479039762
+p497
+sg14
+VDadar West
+p498
+sg16
+(lp499
+V20513380
+p500
+aV 9892440059
+p501
+aV 9967514471
+p502
+asg19
+g137
+sg21
+VGokhale Road, Dadar West, Mumbai
+p503
+sba(i__main__
+Place
+p504
+(dp505
+g3
+(lp506
+VRestaurants
+p507
+asg8
+g137
+sg10
+VHotel Amantran
+p508
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-amantran_dadar-west_mumbai_restaurants/1139054396
+p509
+sg14
+VDadar West
+p510
+sg16
+(lp511
+V24210564
+p512
+asg19
+g137
+sg21
+VShop No 3/4/5, Raghuraj Bhavan, Gokhale Road, Dadar West, Mumbai
+p513
+sba(i__main__
+Place
+p514
+(dp515
+g3
+(lp516
+VBars & Pubs
+p517
+aV Restaurants
+p518
+asg8
+g137
+sg10
+VHotel Hari Krupa
+p519
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-hari-krupa_dadar-west_mumbai_bars-pubs-restaurants/1159054594
+p520
+sg14
+VDadar West
+p521
+sg16
+(lp522
+V24362876
+p523
+asg19
+g137
+sg21
+V328, Prakash Chamber, 106, S B Marg, Dadar West, Mumbai
+p524
+sba(i__main__
+Place
+p525
+(dp526
+g3
+(lp527
+VRestaurants
+p528
+asg8
+g137
+sg10
+VLeena Restaurant & Bar
+p529
+sg12
+Vhttp://mumbai.burrp.com/listing/leena-restaurant-bar_dadar-west_mumbai_restaurants/1239064386
+p530
+sg14
+VDadar West
+p531
+sg16
+(lp532
+V24315351
+p533
+asg19
+g137
+sg21
+VBismillah Building, Ranade Road, Dadar West, Mumbai
+p534
+sba(i__main__
+Place
+p535
+(dp536
+g3
+(lp537
+VRestaurants
+p538
+asg8
+g137
+sg10
+VMahavir Hindu Hotel
+p539
+sg12
+Vhttp://mumbai.burrp.com/listing/mahavir-hindu-hotel_dadar-west_mumbai_restaurants/1419066168
+p540
+sg14
+VDadar West
+p541
+sg16
+(lp542
+V24360292
+p543
+aV 9867111800
+p544
+asg19
+g137
+sg21
+VParikh Mahal, L J Road, Dadar West, Mumbai
+p545
+sba(i__main__
+Place
+p546
+(dp547
+g3
+(lp548
+VRestaurants
+p549
+asg8
+g137
+sg10
+VNew Coronation Restaurant
+p550
+sg12
+Vhttp://mumbai.burrp.com/listing/new-coronation-restaurant_dadar-west_mumbai_restaurants/1219073188
+p551
+sg14
+VDadar West
+p552
+sg16
+(lp553
+V24389057
+p554
+asg19
+g137
+sg21
+VRawji Sojpal Building, Gokhale Road North , Dadar West, Mumbai
+p555
+sba(i__main__
+Place
+p556
+(dp557
+g3
+(lp558
+VRestaurants
+p559
+asg8
+g137
+sg10
+VNew Laxmi Vilas Bar And Restaurant
+p560
+sg12
+Vhttp://mumbai.burrp.com/listing/new-laxmi-vilas-bar-and-restaurant_dadar-west_mumbai_restaurants/1279073782
+p561
+sg14
+VDadar West
+p562
+sg16
+(lp563
+V24222202
+p564
+asg19
+g137
+sg21
+VDr D Silva Road, Dadar West, Mumbai
+p565
+sba(i__main__
+Place
+p566
+(dp567
+g3
+(lp568
+VRestaurants
+p569
+asg8
+g137
+sg10
+VRashtriya Lunch Home
+p570
+sg12
+Vhttp://mumbai.burrp.com/listing/rashtriya-lunch-home_dadar-west_mumbai_restaurants/1379083772
+p571
+sg14
+VDadar West
+p572
+sg16
+(lp573
+V24302393
+p574
+asg19
+g137
+sg21
+VShop No 18/19, Vijay Nagar, S B Marg, Tulsi Pipe Road, Dadar West, Mumbai
+p575
+sba(i__main__
+Place
+p576
+(dp577
+g3
+(lp578
+VRestaurants
+p579
+asg8
+g137
+sg10
+VVisava Restaurant
+p580
+sg12
+Vhttp://mumbai.burrp.com/listing/visava-restaurant_dadar-west_mumbai_restaurants/1179099792
+p581
+sg14
+VDadar West
+p582
+sg16
+(lp583
+V24226036
+p584
+aV 24306138
+p585
+asg19
+g137
+sg21
+VMasjid Building, Garga Chwal, N C Kelkar Road, Dadar West, Mumbai
+p586
+sba(i__main__
+Place
+p587
+(dp588
+g3
+(lp589
+VRestaurants
+p590
+asg8
+g137
+sg10
+VOmkar Restaurant
+p591
+sg12
+Vhttp://mumbai.burrp.com/listing/omkar-restaurant_dadar-west_mumbai_restaurants/1379119772
+p592
+sg14
+VDadar West
+p593
+sg16
+(lp594
+V24224442
+p595
+asg19
+g137
+sg21
+VShetty Building, Ground Floor, Dr D'silva Road, Dadar West, Mumbai
+p596
+sba(i__main__
+Place
+p597
+(dp598
+g3
+(lp599
+VRestaurants
+p600
+asg8
+g137
+sg10
+VAdarsh Restaurant & Bar
+p601
+sg12
+Vhttp://mumbai.burrp.com/listing/adarsh-restaurant-bar_dadar-west_mumbai_restaurants/1699140940
+p602
+sg14
+VDadar West
+p603
+sg16
+(lp604
+V24302393
+p605
+asg19
+g137
+sg21
+VGala No 18 & 19, Vijay Nagar, S B Marg, Dadar West, Mumbai
+p606
+sba(i__main__
+Place
+p607
+(dp608
+g3
+(lp609
+VRestaurants
+p610
+asg8
+g137
+sg10
+VShiv Laxmi Restaurant
+p611
+sg12
+Vhttp://mumbai.burrp.com/listing/shiv-laxmi-restaurant_dadar-west_mumbai_restaurants/1859169524
+p612
+sg14
+VDadar West
+p613
+sg16
+(lp614
+V24226109
+p615
+asg19
+g137
+sg21
+VShop No 2, 3 And 4 , M C Jawahar Road, Dadar West, Mumbai
+p616
+sba(i__main__
+Place
+p617
+(dp618
+g3
+(lp619
+VRestaurants
+p620
+asg8
+g137
+sg10
+VShanti Bhavan Lunch Home
+p621
+sg12
+Vhttp://mumbai.burrp.com/listing/shanti-bhavan-lunch-home_dadar-west_mumbai_restaurants/1799186930
+p622
+sg14
+VDadar West
+p623
+sg16
+(lp624
+V24223950
+p625
+aV 24379096
+p626
+aV 9820567811
+p627
+asg19
+g137
+sg21
+VShop No C/D, Building No 58, Ground Floor, Gopal Mansion, Gokhale Road , Dadar West, Mumbai
+p628
+sba(i__main__
+Place
+p629
+(dp630
+g3
+(lp631
+VCafes
+p632
+aV Restaurants
+p633
+aV Juice Parlours
+p634
+aV Dessert Shops
+p635
+aV Ice-cream Parlours
+p636
+asg8
+g137
+sg10
+VShagun Pure Veg Restaurant
+p637
+sg12
+Vhttp://mumbai.burrp.com/listing/shagun-pure-veg-restaurant_dadar-west_mumbai_cafes-restaurants-juice-parlours/1519193158
+p638
+sg14
+VDadar West
+p639
+sg16
+(lp640
+V24369326
+p641
+aV 9820482102
+p642
+asg19
+g137
+sg21
+VGannath Co Operative Society, Dadar West, Mumbai
+p643
+sba(i__main__
+Place
+p644
+(dp645
+g3
+(lp646
+VRestaurants
+p647
+aV Cafes
+p648
+asg8
+g137
+sg10
+VCafe Manohar
+p649
+sg12
+Vhttp://mumbai.burrp.com/listing/cafe-manohar_dadar-west_mumbai_restaurants-cafes/1899214920
+p650
+sg14
+VDadar West
+p651
+sg16
+(lp652
+V24378040
+p653
+asg19
+g137
+sg21
+VKirtikar Market, Kabutarkhana, M C Javle Marg, Dadar West, Mumbai
+p654
+sba(i__main__
+Place
+p655
+(dp656
+g3
+(lp657
+VRestaurants
+p658
+asg8
+g137
+sg10
+VVishwa Bharat Hotel
+p659
+sg12
+Vhttp://mumbai.burrp.com/listing/vishwa-bharat-hotel_dadar-west_mumbai_restaurants/1499228960
+p660
+sg14
+VDadar West
+p661
+sg16
+(lp662
+V24210564
+p663
+asg19
+g137
+sg21
+VShop No 3/4/5,  Raghuraj Bhavan, Gokhale Road, Dadar West, Mumbai
+p664
+sba(i__main__
+Place
+p665
+(dp666
+g3
+(lp667
+VRestaurants
+p668
+asg8
+g137
+sg10
+VAmantaran
+p669
+sg12
+Vhttp://mumbai.burrp.com/listing/amantaran_gokhale-road_mumbai_restaurants/1239694386
+p670
+sg14
+VGokhale Road
+p671
+sg16
+(lp672
+V24210564
+p673
+asg19
+g137
+sg21
+VShop No 3, 4, 5, Raghuraj Bhavan, Gokhale Road, Dadar West, Mumbai
+p674
+sba(i__main__
+Place
+p675
+(dp676
+g3
+(lp677
+VRestaurants
+p678
+asg8
+g137
+sg10
+VClassic Fast Food
+p679
+sg12
+Vhttp://mumbai.burrp.com/listing/classic-fast-food_ranade-road_mumbai_restaurants/13312746376
+p680
+sg14
+VRanade Road
+p681
+sg16
+(lp682
+V
+p683
+aV 9320066202
+p684
+asg19
+g137
+sg21
+VShop No 1 Popatlal Building, Ranade Road, Dadar West, Mumbai
+p685
+sba(i__main__
+Place
+p686
+(dp687
+g3
+(lp688
+VGymkhanas and Social Clubs
+p689
+aV Restaurants
+p690
+asg8
+g137
+sg10
+VCatch Restaurant
+p691
+sg12
+Vhttp://mumbai.burrp.com/listing/catch-restaurant_ranade-road_mumbai_gymkhanas-and-social-clubs-restaurants/14312747366
+p692
+sg14
+VRanade Road
+p693
+sg16
+(lp694
+g683
+aV 24143388
+p695
+asg19
+g137
+sg21
+VShivaji Park Seaface, Ranade Road Extn, Near Eurotech Showroom, Ranade Road, Dadar West, Mumbai
+p696
+sba(i__main__
+Place
+p697
+(dp698
+g3
+(lp699
+VRestaurants
+p700
+asg8
+g137
+sg10
+VSai Rasoi Poli
+p701
+sg12
+Vhttp://mumbai.burrp.com/listing/sai-rasoi-poli_gokhale-road_thane_restaurants/15514206554
+p702
+sg14
+VGokhale Road
+p703
+sg16
+(lp704
+V25396521
+p705
+aV 9920100678
+p706
+asg19
+g137
+sg21
+VShop 9, Kumar Ashish Building, Ram Maruti Road, Gokhale Road, Dadar West, Thane
+p707
+sba(i__main__
+Place
+p708
+(dp709
+g3
+(lp710
+VRestaurants
+p711
+asg8
+g137
+sg10
+VHotel Saraswati
+p712
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-saraswati_dadar-west_mumbai_restaurants/18315613326
+p713
+sg14
+VDadar West
+p714
+sg16
+(lp715
+V24304605
+p716
+asg19
+g32
+sg21
+V N.C.Kelkar Road , Dadar West, Mumbai
+p717
+sba(i__main__
+Place
+p718
+(dp719
+g3
+(lp720
+VRestaurants
+p721
+asg8
+g137
+sg10
+VDadar Lucky Restaurant
+p722
+sg12
+Vhttp://mumbai.burrp.com/listing/dadar-lucky-restaurant_dadar-west_mumbai_restaurants/14124078168
+p723
+sg14
+VDadar West
+p724
+sg16
+(lp725
+V9967254475
+p726
+asg19
+g137
+sg21
+VDattaram Nivas, Opp. Portuguese Church, Dadar West, Mumbai
+p727
+sba(i__main__
+Place
+p728
+(dp729
+g3
+(lp730
+VRestaurants
+p731
+asg8
+g137
+sg10
+VSaibeni Gomantak
+p732
+sg12
+Vhttp://mumbai.burrp.com/listing/saibeni-gomantak_dadar-west_mumbai_restaurants/11524300594
+p733
+sg14
+VDadar West
+p734
+sg16
+(lp735
+V24444961
+p736
+asg19
+g137
+sg21
+VShop no 19, Hari Niwas, L.J.Road, Shivaji Park, Dadar West, Mumbai
+p737
+sba(i__main__
+Place
+p738
+(dp739
+g3
+(lp740
+VRestaurants
+p741
+asg8
+g137
+sg10
+VSaibeni Gomantak
+p742
+sg12
+Vhttp://mumbai.burrp.com/listing/saibeni-gomantak_dadar-west_mumbai_restaurants/12124301188
+p743
+sg14
+VDadar West
+p744
+sg16
+(lp745
+V24215445
+p746
+asg19
+g137
+sg21
+V11/12, Shroff Bldg no.1, Opp Zandu Pharmacy, Gokhale Road (South), Dadar West, Mumbai
+p747
+sba(i__main__
+Place
+p748
+(dp749
+g3
+(lp750
+VRestaurants
+p751
+asg8
+g137
+sg10
+VSaibini Gomantak
+p752
+sg12
+Vhttp://mumbai.burrp.com/listing/saibini-gomantak_dadar-west_mumbai_restaurants/19124596118
+p753
+sg14
+VDadar West
+p754
+sg16
+(lp755
+V24215445
+p756
+aV 24328065
+p757
+aV 9869676570
+p758
+asg19
+g32
+sg21
+V11/12, Shroff Building No 1, Gokhale Road South, Dadar West, Mumbai
+p759
+sba(i__main__
+Place
+p760
+(dp761
+g3
+(lp762
+VRestaurants
+p763
+asg8
+g137
+sg10
+VPuru's 
+p764
+sg12
+Vhttp://mumbai.burrp.com/listing/purus-_dadar-west_mumbai_restaurants/15333313356
+p765
+sg14
+VDadar West
+p766
+sg16
+(lp767
+V24328585
+p768
+aV 9324384251
+p769
+asg19
+g20
+sg21
+VShop No 1, Chandan Mansion, Dadar West, Mumbai
+p770
+sba(i__main__
+Place
+p771
+(dp772
+g3
+(lp773
+VTake Away Shops
+p774
+asg8
+g181
+sg10
+VChaitanya
+p775
+sg12
+Vhttp://mumbai.burrp.com/listing/chaitanya_shivaji-park_mumbai_take-away-shops/1795586930
+p776
+sg14
+VShivaji Park
+p777
+sg16
+(lp778
+V9619909014
+p779
+asg19
+g20
+sg21
+VShop No.4, Shivaji Park House, L.J.Road, Shivaji Park, Dadar West, Mumbai
+p780
+sba.

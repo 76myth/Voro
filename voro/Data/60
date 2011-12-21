@@ -1,0 +1,43 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VAnand Ashram Hotel
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/anand-ashram-hotel_chira-bazar_mumbai_restaurants/1998648910
+p11
+sS'region'
+p12
+VChira Bazar
+p13
+sS'phone'
+p14
+(lp15
+V22012222
+p16
+aV 22058887
+p17
+aV 22058888
+p18
+asS'cost'
+p19
+g7
+sS'addr'
+p20
+VGround Floor, Building No 448, J Shankar Seth Road, Chira Bazar, Kalbadevi, Mumbai
+p21
+sba.

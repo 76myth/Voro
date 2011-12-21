@@ -1,0 +1,370 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VSpaghetti Kitchen
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/spaghetti-kitchen_high-street-phoenix_mumbai_restaurants/15558554
+p11
+sS'region'
+p12
+VHigh Street Phoenix
+p13
+sS'phone'
+p14
+(lp15
+V24963333
+p16
+aV 24964333
+p17
+aV 26455142
+p18
+asS'cost'
+p19
+g7
+sS'addr'
+p20
+VPhoenix Mills, Senapati Bapat Marg, High Street Phoenix, Lower Parel, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VD.P.'s Wok Hei
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/dps-wok-hei_high-street-phoenix_mumbai_restaurants/1191872990
+p27
+sg12
+VHigh Street Phoenix
+p28
+sg14
+(lp29
+V24926031
+p30
+aV 24954627
+p31
+aV 24926030
+p32
+aV 9820127840
+p33
+asg19
+V2
+p34
+sg20
+VKhimji Nagji Building, Opposite Phoenix Tower, S.B. Marg, High Street Phoenix, Lower Parel, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+g7
+sg8
+VTGI Friday
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/tgi-friday_high-street-phoenix_mumbai_restaurants/1894993920
+p41
+sg12
+VHigh Street Phoenix
+p42
+sg14
+(lp43
+V66155687
+p44
+asg19
+g7
+sg20
+VT.G.I. Friday\u2019s Restaurant, 1st Floor, Palladium Mall, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g7
+sg8
+VMaroosh
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/maroosh_high-street-phoenix_mumbai_restaurants/124361485
+p51
+sg12
+VHigh Street Phoenix
+p52
+sg14
+(lp53
+V9833397060
+p54
+asg19
+g34
+sg20
+VOpposite Bowling Company, High Street Phoenix, Lower Parel, Mumbai
+p55
+sba(i__main__
+Place
+p56
+(dp57
+g3
+(lp58
+VRestaurants
+p59
+asg6
+g34
+sg8
+VNoodle Bar
+p60
+sg10
+Vhttp://mumbai.burrp.com/listing/noodle-bar_high-street-phoenix_mumbai_restaurants/11345396
+p61
+sg12
+VHigh Street Phoenix
+p62
+sg14
+(lp63
+V24963999
+p64
+aV 24964999
+p65
+aV 24961999
+p66
+aV 24962333
+p67
+asg19
+g34
+sg20
+VShop No 6, Phoenix Mills, Senapati Bapat Marg, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p68
+sba(i__main__
+Place
+p69
+(dp70
+g3
+(lp71
+VRestaurants
+p72
+aV Juice Parlours
+p73
+aV Ice-cream Parlours
+p74
+asg6
+g7
+sg8
+VCafé Bollywood
+p75
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-bollywood_high-street-phoenix_mumbai_restaurants-juice-parlours-ice-cream-parlours/1807029
+p76
+sg12
+VHigh Street Phoenix
+p77
+sg14
+(lp78
+V9326803323
+p79
+asg19
+g34
+sg20
+VOutside Big Bazaar, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VTake Away Shops
+p84
+aV Food-court Stalls
+p85
+aV Restaurants
+p86
+asg6
+V0
+p87
+sg8
+VNew York's Hot Dog By Tezz
+p88
+sg10
+Vhttp://mumbai.burrp.com/listing/new-yorks-hot-dog-by-tezz_high-street-phoenix_mumbai_take-away-shops-food-court-stalls-restaurants/1275212782
+p89
+sg12
+VHigh Street Phoenix
+p90
+sg14
+(lp91
+V9769109971
+p92
+asg19
+g34
+sg20
+VOpp. PVR Cinema, Grand Galleria, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p93
+sba(i__main__
+Place
+p94
+(dp95
+g3
+(lp96
+VRestaurants
+p97
+asg6
+g87
+sg8
+VDomino's Pizza
+p98
+sg10
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_high-street-phoenix_mumbai_restaurants/15040059
+p99
+sg12
+VHigh Street Phoenix
+p100
+sg14
+(lp101
+V24963639
+p102
+aV 24961778
+p103
+aV 24965498
+p104
+aV 24968029
+p105
+aV  24963024
+p106
+aV  24963064
+p107
+asg19
+g34
+sg20
+V6D, Phoenix Mills Compound, 462, Senapati Bapat Marg, High Street Phoenix, Lower Parel, Mumbai
+p108
+sba(i__main__
+Place
+p109
+(dp110
+g3
+(lp111
+VHome Caterers
+p112
+aV Restaurants
+p113
+aV Outdoor Caterers
+p114
+asg6
+g87
+sg8
+VAlibaba
+p115
+sg10
+Vhttp://mumbai.burrp.com/listing/alibaba_high-street-phoenix_mumbai_home-caterers-restaurants-outdoor-caterers/1262260683
+p116
+sg12
+VHigh Street Phoenix
+p117
+sg14
+(lp118
+V32233440
+p119
+aV 32233449
+p120
+aV 9930542442
+p121
+asg19
+V1
+p122
+sg20
+VL3, Behind Phoenix Mills, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p123
+sba(i__main__
+Place
+p124
+(dp125
+g3
+(lp126
+VOutdoor Caterers
+p127
+aV Take Away Shops
+p128
+aV Tiffin Services
+p129
+aV Restaurants
+p130
+asg6
+g87
+sg8
+VMomo Magic
+p131
+sg10
+Vhttp://mumbai.burrp.com/listing/momo-magic_high-street-phoenix_mumbai_outdoor-caterers-take-away-shops-tiffin-services/1222701287
+p132
+sg12
+VHigh Street Phoenix
+p133
+sg14
+(lp134
+V9022604567
+p135
+asg19
+g87
+sg20
+VBehind Sai Service, Phoenix Mills, High Street Phoenix, Lower Parel, Mumbai
+p136
+sba(i__main__
+Place
+p137
+(dp138
+g3
+(lp139
+VRestaurants
+p140
+asg6
+g87
+sg8
+VShree Ram Pure Veg
+p141
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-ram-pure-veg_high-street-phoenix_mumbai_restaurants/1959998514
+p142
+sg12
+VHigh Street Phoenix
+p143
+sg14
+(lp144
+V24919594
+p145
+asg19
+g87
+sg20
+VShop No 1/2, Haribaug Niwas, Sun Mill Compound Road, High Street Phoenix, Lower Parel, Mumbai
+p146
+sba.

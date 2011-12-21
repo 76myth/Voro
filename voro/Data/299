@@ -1,0 +1,114 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Lounges
+p6
+aV Banquet Halls
+p7
+asS'rating'
+p8
+V3
+p9
+sS'name'
+p10
+VPoush
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/poush_vasai-e_thane_restaurants-lounges-banquet-halls/132821277
+p13
+sS'region'
+p14
+VVasai (E)
+p15
+sS'phone'
+p16
+(lp17
+V9821213232
+p18
+aV 9820113235
+p19
+aV 32666981
+p20
+asS'cost'
+p21
+V2
+p22
+sS'addr'
+p23
+VMaljipada, Mumbai-Ahmedabad Highway, Next to Ghodbunder, Vasai (E), Thane
+p24
+sba(i__main__
+Place
+p25
+(dp26
+g3
+(lp27
+VRestaurants
+p28
+aV Bars & Pubs
+p29
+asg8
+V5
+p30
+sg10
+VNeelam-e-Punjab
+p31
+sg12
+Vhttp://mumbai.burrp.com/listing/neelam-e-punjab_vasai-e_thane_restaurants-bars-pubs/1675414742
+p32
+sg14
+VVasai (E)
+p33
+sg16
+(lp34
+V2462436
+p35
+aV 9960120601
+p36
+aV 9604888960
+p37
+asg21
+g22
+sg23
+VGround Floor, The Dreams Mall, Evershine City, Vasai (E), Thane
+p38
+sba(i__main__
+Place
+p39
+(dp40
+g3
+(lp41
+VRestaurants
+p42
+asg8
+V0
+p43
+sg10
+VGolden Chariot
+p44
+sg12
+Vhttp://mumbai.burrp.com/listing/golden-chariot_vasai-e_thane_restaurants/1315726178
+p45
+sg14
+VVasai (E)
+p46
+sg16
+(lp47
+V2463070
+p48
+aV 6454768
+p49
+asg21
+g22
+sg23
+VGrishma Garden, Pokiwari Village, Opposite Ravi Hospital, Vasai (E), Thane
+p50
+sba.

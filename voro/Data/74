@@ -1,0 +1,623 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VPangat - The Family Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/pangat---the-family-restaurant_dahisar-e_mumbai_restaurants/1631220346
+p11
+sS'region'
+p12
+VDahisar (E)
+p13
+sS'phone'
+p14
+(lp15
+V28966676
+p16
+aV 28966725
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VRadhe Govind Apartments, Near S.T Depot, Nancy Colony, Dahisar (E), Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+aV Tiffin Services
+p26
+aV Take Away Shops
+p27
+aV Home Caterers
+p28
+asg6
+V5
+p29
+sg8
+VMadhuvan Dining Hall
+p30
+sg10
+Vhttp://mumbai.burrp.com/listing/madhuvan-dining-hall_dahisar-e_mumbai_restaurants-tiffin-services-take-away-shops/1835092326
+p31
+sg12
+VDahisar (E)
+p32
+sg14
+(lp33
+V64226227
+p34
+asg18
+V1
+p35
+sg20
+V1st Floor, Ullas Bldg., Bharucha Road, Near Station, Dahisar (E), Mumbai
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VRestaurants
+p40
+aV Banquet Halls
+p41
+asg6
+g7
+sg8
+VSammelan
+p42
+sg10
+Vhttp://mumbai.burrp.com/listing/sammelan_dahisar-e_mumbai_restaurants-banquet-halls/17651633
+p43
+sg12
+VDahisar (E)
+p44
+sg14
+(lp45
+V28486070
+p46
+aV 28486170
+p47
+aV 28486770
+p48
+asg18
+g19
+sg20
+VHyland Park, S.V. Road, Dahisar (E), Mumbai
+p49
+sba(i__main__
+Place
+p50
+(dp51
+g3
+(lp52
+VRestaurants
+p53
+asg6
+g7
+sg8
+VHotel Baba's Dhaba
+p54
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-babas-dhaba_dahisar-e_mumbai_restaurants/119162990
+p55
+sg12
+VDahisar (E)
+p56
+sg14
+(lp57
+V66257725
+p58
+aV 28973990
+p59
+asg18
+V0
+p60
+sg20
+VShiv  Vallabh Road, Ashokvan, Dahisar(E), Dahisar (E), Mumbai
+p61
+sba(i__main__
+Place
+p62
+(dp63
+g3
+(lp64
+VRestaurants
+p65
+asg6
+g60
+sg8
+VParimal's Kitchen
+p66
+sg10
+Vhttp://mumbai.burrp.com/listing/parimals-kitchen_dahisar-e_mumbai_restaurants/1997055910
+p67
+sg12
+VDahisar (E)
+p68
+sg14
+(lp69
+V28964502
+p70
+aV 28977003
+p71
+aV 22952918
+p72
+aV 9819689537
+p73
+asg18
+g19
+sg20
+VShree Chintamani Chawl, Shop No.3, Shiv Vallabh Road, Dahisar (E), Mumbai
+p74
+sba(i__main__
+Place
+p75
+(dp76
+g3
+(lp77
+VLounges
+p78
+aV Restaurants
+p79
+asg6
+g60
+sg8
+VDown Town
+p80
+sg10
+Vhttp://mumbai.burrp.com/listing/down-town_dahisar-e_mumbai_lounges-restaurants/1576448752
+p81
+sg12
+VDahisar (E)
+p82
+sg14
+(lp83
+V9821640359
+p84
+aV 9870086505
+p85
+aV 9821645753
+p86
+aV 8828101101
+p87
+asg18
+g19
+sg20
+V10, 11, Kohinoor Complex, Western Express Highway, Dahisar (E), Mumbai
+p88
+sba(i__main__
+Place
+p89
+(dp90
+g3
+(lp91
+VRestaurants
+p92
+asg6
+g60
+sg8
+VRipples
+p93
+sg10
+Vhttp://mumbai.burrp.com/listing/ripples_dahisar-e_mumbai_restaurants/15249257
+p94
+sg12
+VDahisar (E)
+p95
+sg14
+(lp96
+V28489999
+p97
+aV 28488888
+p98
+asg18
+g60
+sg20
+VHotel Gujarat, Western Express Highway, Dahisar (E), Mumbai
+p99
+sba(i__main__
+Place
+p100
+(dp101
+g3
+(lp102
+VRestaurants
+p103
+asg6
+g60
+sg8
+VHotel  Ashoka
+p104
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-ashoka_dahisar-e_mumbai_restaurants/153157356
+p105
+sg12
+VDahisar (E)
+p106
+sg14
+(lp107
+V28977279
+p108
+aV 28976610
+p109
+asg18
+g60
+sg20
+VShiv Vallabh Road, Dahisar (E), Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VRestaurants
+p114
+asg6
+g60
+sg8
+VVeg Malhar
+p115
+sg10
+Vhttp://mumbai.burrp.com/listing/veg-malhar_dahisar-e_mumbai_restaurants/1651427544
+p116
+sg12
+VDahisar (E)
+p117
+sg14
+(lp118
+V28904588
+p119
+aV 28903549
+p120
+aV 32994566
+p121
+asg18
+g19
+sg20
+VPadmakar Jawle Marg, Opp Railway Station, Dahisar (E), Mumbai
+p122
+sba(i__main__
+Place
+p123
+(dp124
+g3
+(lp125
+VRestaurants
+p126
+asg6
+g60
+sg8
+VAamantran Family Restaurant
+p127
+sg10
+Vhttp://mumbai.burrp.com/listing/aamantran-family-restaurant_dahisar-e_mumbai_restaurants/1394403970
+p128
+sg12
+VDahisar (E)
+p129
+sg14
+(lp130
+V32685020
+p131
+asg18
+g60
+sg20
+VMishra Estate, Nr. Dahsair Station Bus Stop, Y.T. Road, Dahisar (E), Mumbai
+p132
+sba(i__main__
+Place
+p133
+(dp134
+g3
+(lp135
+VRestaurants
+p136
+asg6
+g35
+sg8
+VHotel Pritam Dhaba
+p137
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-pritam-dhaba_dahisar-e_mumbai_restaurants/1604442049
+p138
+sg12
+VDahisar (E)
+p139
+sg14
+(lp140
+V69488027
+p141
+aV 9821431070
+p142
+asg18
+g60
+sg20
+VMumbai Ahmedabad Highway, Sasupada Village, 6 Km from Dahisar Check Post, Dahisar (E), Mumbai
+p143
+sba(i__main__
+Place
+p144
+(dp145
+g3
+(lp146
+VRestaurants
+p147
+asg6
+g60
+sg8
+VShree Krishna Family Bar & Rest 
+p148
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-krishna-family-bar-rest-_dahisar-e_mumbai_restaurants/1434476366
+p149
+sg12
+VDahisar (E)
+p150
+sg14
+(lp151
+V28484131 
+p152
+asg18
+g60
+sg20
+VTare Compound, W E Highway, Dahisar Check Naka, Dahisar (E), Mumbai
+p153
+sba(i__main__
+Place
+p154
+(dp155
+g3
+(lp156
+VRestaurants
+p157
+asg6
+g60
+sg8
+VMcDonald's
+p158
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_dahisar-e_mumbai_restaurants/1684487841
+p159
+sg12
+VDahisar (E)
+p160
+sg14
+(lp161
+V32651109
+p162
+asg18
+g60
+sg20
+VThakur Mall, Food Court, Dahisar Checknaka, Dahisar (E), Mumbai
+p163
+sba(i__main__
+Place
+p164
+(dp165
+g3
+(lp166
+VRestaurants
+p167
+asg6
+g60
+sg8
+VHotel Kamata Restaurant & Bar
+p168
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-kamata-restaurant-bar_dahisar-e_mumbai_restaurants/1896982920
+p169
+sg12
+VDahisar (E)
+p170
+sg14
+(lp171
+V28970507
+p172
+aV 69935221
+p173
+asg18
+g19
+sg20
+VThakur Compund, Kokni Road, Shiv Vallabh X Road, Dahisar (E), Mumbai
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VRestaurants
+p178
+asg6
+g60
+sg8
+VHotel Pavitra
+p179
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-pavitra_dahisar-e_mumbai_restaurants/1877054722
+p180
+sg12
+VDahisar (E)
+p181
+sg14
+(lp182
+V9833960898
+p183
+aV 69947952
+p184
+asg18
+g60
+sg20
+VShop No.1, Rawal Pada, Dahisar (E), Mumbai
+p185
+sba(i__main__
+Place
+p186
+(dp187
+g3
+(lp188
+VRestaurants
+p189
+asg6
+g60
+sg8
+VQuality Chinese
+p190
+sg10
+Vhttp://mumbai.burrp.com/listing/quality-chinese_dahisar-e_mumbai_restaurants/16323378346
+p191
+sg12
+VDahisar (E)
+p192
+sg14
+(lp193
+V28972162
+p194
+aV 28280420
+p195
+asg18
+g19
+sg20
+VShop No. 13, Panorama Park, Shiv Valiabh Road, Ashokvan, Dahisar (E), Mumbai
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VRestaurants
+p200
+asg6
+g60
+sg8
+VRam Krishna Pure Veg Rest.
+p201
+sg10
+Vhttp://mumbai.burrp.com/listing/ram-krishna-pure-veg-rest_dahisar-e_mumbai_restaurants/13724284772
+p202
+sg12
+VDahisar (E)
+p203
+sg14
+(lp204
+V28282803
+p205
+aV 28283944
+p206
+asg18
+g60
+sg20
+VMaratha Colony, Dahisar Darshan Bldg., N.M.Joshi Marg, Dahisar (E), Mumbai
+p207
+sba(i__main__
+Place
+p208
+(dp209
+g3
+(lp210
+VRestaurants
+p211
+asg6
+g60
+sg8
+VChinese Corner
+p212
+sg10
+Vhttp://mumbai.burrp.com/listing/chinese-corner_dahisar-e_mumbai_restaurants/17124360138
+p213
+sg12
+VDahisar (E)
+p214
+sg14
+(lp215
+V9819564450
+p216
+asg18
+g35
+sg20
+VOrchid Plaza, Gala No. 9, Ramkuvar Thakur Road, Dahisar (E), Mumbai
+p217
+sba(i__main__
+Place
+p218
+(dp219
+g3
+(lp220
+VRestaurants
+p221
+asg6
+g60
+sg8
+VBabu Chinese Point
+p222
+sg10
+Vhttp://mumbai.burrp.com/listing/babu-chinese-point_dahisar-e_mumbai_restaurants/19524569514
+p223
+sg12
+VDahisar (E)
+p224
+sg14
+(lp225
+V9819564450
+p226
+asg18
+g19
+sg20
+VGala No 9, Orchid Plaza, Ramkuvar Thakur Road, Dahisar (E), Mumbai
+p227
+sba(i__main__
+Place
+p228
+(dp229
+g3
+(lp230
+VFast Food Shops
+p231
+asg6
+g7
+sg8
+VJunction 45
+p232
+sg10
+Vhttp://mumbai.burrp.com/listing/junction-45_dahisar-e_mumbai_fast-food-shops/18318628326
+p233
+sg12
+VDahisar (E)
+p234
+sg14
+(lp235
+V28963989
+p236
+asg18
+g19
+sg20
+VShop No 4 & 5, Solitaire Tower, N.L Complex Road, Dahisar (E), Mumbai
+p237
+sba.

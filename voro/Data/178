@@ -1,0 +1,43 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VHotels
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VDivya Residency Hotel
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/divya-residency-hotel_midc-turbhe_navi-mumbai_hotels-restaurants/19113769118
+p12
+sS'region'
+p13
+VMIDC Turbhe
+p14
+sS'phone'
+p15
+(lp16
+V27670018
+p17
+aV 27683378
+p18
+asS'cost'
+p19
+g8
+sS'addr'
+p20
+VPlot No P/11, TTC Industrial Area, Turbhe Naka, MIDC Turbhe, Turbhe, Navi Mumbai
+p21
+sba.

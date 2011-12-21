@@ -1,0 +1,77 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Cafes
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VMystic Cafe and Fine Dine
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/mystic-cafe-and-fine-dine_motilal-nagar_mumbai_restaurants-cafes/11524588594
+p12
+sS'region'
+p13
+VMotilal Nagar
+p14
+sS'phone'
+p15
+(lp16
+V28776908
+p17
+aV 28776909
+p18
+aV 9867217681
+p19
+asS'cost'
+p20
+g8
+sS'addr'
+p21
+V2127/28 , Link Road, Motilal Nagar, Goregaon West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg7
+g8
+sg9
+VAltius Enterprises Pvt Ltd
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/altius-enterprises-pvt-ltd_motilal-nagar_mumbai_restaurants/12112088188
+p28
+sg13
+VMotilal Nagar
+p29
+sg15
+(lp30
+V28785135
+p31
+aV 9224617336
+p32
+aV 9833346462
+p33
+asg20
+g8
+sg21
+V80/642, Ground Floor, Motilal Nagar 1, D B More Marg, Motilal Nagar, Goregaon West, Mumbai
+p34
+sba.

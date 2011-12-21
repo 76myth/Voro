@@ -1,0 +1,1110 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBars & Pubs
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VPizza By The Bay
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/pizza-by-the-bay_marine-drive_mumbai_bars-pubs-restaurants/12664683
+p12
+sS'region'
+p13
+VMarine Drive
+p14
+sS'phone'
+p15
+(lp16
+V22856115
+p17
+aV 22820883
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+V143, Soona Mahal, Marine Drive, Nariman Point, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VBars & Pubs
+p26
+aV Restaurants
+p27
+asg7
+g8
+sg9
+VJazz By The Bay
+p28
+sg11
+Vhttp://mumbai.burrp.com/listing/jazz-by-the-bay_marine-drive_mumbai_bars-pubs-restaurants/182133227
+p29
+sg13
+VMarine Drive
+p30
+sg15
+(lp31
+V22851876
+p32
+aV 22820957
+p33
+asg19
+V3
+p34
+sg21
+VSoona Mahal, 143 Marine Drive, Marine Drive, Nariman Point, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+aV Cafes
+p40
+asg7
+g8
+sg9
+VSuzette
+p41
+sg11
+Vhttp://mumbai.burrp.com/listing/suzette_nariman-point_mumbai_restaurants-cafes/11714985792
+p42
+sg13
+VNariman Point
+p43
+sg15
+(lp44
+V22880055 
+p45
+asg19
+g20
+sg21
+VGround Floor, Atlanta Building, Nariman Point, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VBars & Pubs
+p50
+aV Restaurants
+p51
+asg7
+g8
+sg9
+VDome
+p52
+sg11
+Vhttp://mumbai.burrp.com/listing/dome_marine-drive_mumbai_bars-pubs-restaurants/163113346
+p53
+sg13
+VMarine Drive
+p54
+sg15
+(lp55
+V39879999
+p56
+asg19
+g8
+sg21
+VIntercontinental Marine Drive, 135 Netaji Subhash Road, Marine Drive, Nariman Point, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg7
+g8
+sg9
+VStatus Veg Restaurant
+p62
+sg11
+Vhttp://mumbai.burrp.com/listing/status-veg-restaurant_nariman-point_mumbai_restaurants/16959940
+p63
+sg13
+VNariman Point
+p64
+sg15
+(lp65
+V22872821
+p66
+aV 22872829
+p67
+aV 22848035
+p68
+asg19
+g20
+sg21
+V208 Regent Chambers, Nariman Point, Mumbai
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VRestaurants
+p73
+asg7
+g8
+sg9
+VKOH
+p74
+sg11
+Vhttp://mumbai.burrp.com/listing/koh_marine-drive_mumbai_restaurants/1895551920
+p75
+sg13
+VMarine Drive
+p76
+sg15
+(lp77
+V39879999
+p78
+asg19
+g8
+sg21
+VLobby Level, Marine Drive, Nariman Point, Mumbai
+p79
+sba(i__main__
+Place
+p80
+(dp81
+g3
+(lp82
+VRestaurants
+p83
+asg7
+g8
+sg9
+VFrangipani
+p84
+sg11
+Vhttp://mumbai.burrp.com/listing/frangipani_nariman-point_mumbai_restaurants/172141237
+p85
+sg13
+VNariman Point
+p86
+sg15
+(lp87
+V66326310
+p88
+aV 66324343
+p89
+asg19
+g34
+sg21
+VGround Floor, Nariman Point, Mumbai
+p90
+sba(i__main__
+Place
+p91
+(dp92
+g3
+(lp93
+VRestaurants
+p94
+asg7
+g34
+sg9
+VVong Wong
+p95
+sg11
+Vhttp://mumbai.burrp.com/listing/vong-wong_nariman-point_mumbai_restaurants/111378198
+p96
+sg13
+VNariman Point
+p97
+sg15
+(lp98
+V22875633
+p99
+aV 22875634
+p100
+aV 22875635
+p101
+asg19
+g34
+sg21
+VExpress Towers, First Floor, Ramnath Goenka Marg, Nariman Point, Mumbai
+p102
+sba(i__main__
+Place
+p103
+(dp104
+g3
+(lp105
+VBars & Pubs
+p106
+aV Restaurants
+p107
+asg7
+g34
+sg9
+VRuby Tuesday
+p108
+sg11
+Vhttp://mumbai.burrp.com/listing/ruby-tuesday_nariman-point_mumbai_bars-pubs-restaurants/15849851
+p109
+sg13
+VNariman Point
+p110
+sg15
+(lp111
+V66510709
+p112
+asg19
+g34
+sg21
+VShop No. 31, Nariman Point, Mumbai
+p113
+sba(i__main__
+Place
+p114
+(dp115
+g3
+(lp116
+VRestaurants
+p117
+asg7
+g8
+sg9
+VLittle Italy's La Pizzeria
+p118
+sg11
+Vhttp://mumbai.burrp.com/listing/little-italys-la-pizzeria_marine-drive_mumbai_restaurants/1653011544
+p119
+sg13
+VMarine Drive
+p120
+sg15
+(lp121
+V66153322
+p122
+aV 66153555
+p123
+asg19
+g34
+sg21
+VShalimar Building, G Road, Marine Drive, Nariman Point, Mumbai
+p124
+sba(i__main__
+Place
+p125
+(dp126
+g3
+(lp127
+VRestaurants
+p128
+asg7
+g8
+sg9
+VFenix
+p129
+sg11
+Vhttp://mumbai.burrp.com/listing/fenix_nariman-point_mumbai_restaurants/13465475
+p130
+sg13
+VNariman Point
+p131
+sg15
+(lp132
+V66326205
+p133
+aV 66325757
+p134
+aV 66324343
+p135
+asg19
+g8
+sg21
+VNariman Point, Mumbai
+p136
+sba(i__main__
+Place
+p137
+(dp138
+g3
+(lp139
+VRestaurants
+p140
+asg7
+g8
+sg9
+VKebab Korner
+p141
+sg11
+Vhttp://mumbai.burrp.com/listing/kebab-korner_marine-drive_mumbai_restaurants/111252198
+p142
+sg13
+VMarine Drive
+p143
+sg15
+(lp144
+V39879999
+p145
+asg19
+g8
+sg21
+VLevel One, 135 Netaji Subhash Road, Marine Drive, Nariman Point, Mumbai
+p146
+sba(i__main__
+Place
+p147
+(dp148
+g3
+(lp149
+VRestaurants
+p150
+asg7
+g8
+sg9
+VVetro
+p151
+sg11
+Vhttp://mumbai.burrp.com/listing/vetro_nariman-point_mumbai_restaurants/1877722
+p152
+sg13
+VNariman Point
+p153
+sg15
+(lp154
+V66326215
+p155
+aV 66325757
+p156
+asg19
+g8
+sg21
+VNariman Point, Mumbai
+p157
+sba(i__main__
+Place
+p158
+(dp159
+g3
+(lp160
+VRestaurants
+p161
+asg7
+g8
+sg9
+VThe Oriental Blossom
+p162
+sg11
+Vhttp://mumbai.burrp.com/listing/the-oriental-blossom_marine-drive_mumbai_restaurants/12364386
+p163
+sg13
+VMarine Drive
+p164
+sg15
+(lp165
+V22851212
+p166
+asg19
+g34
+sg21
+V29, Dinshaw Wachha Road, Marine Drive, Nariman Point, Mumbai
+p167
+sba(i__main__
+Place
+p168
+(dp169
+g3
+(lp170
+VRestaurants
+p171
+asg7
+g34
+sg9
+VAmadeus
+p172
+sg11
+Vhttp://mumbai.burrp.com/listing/amadeus_nariman-point_mumbai_restaurants/11318513396
+p173
+sg13
+VNariman Point
+p174
+sg15
+(lp175
+V22821212
+p176
+aV 22824242
+p177
+aV 9833047773
+p178
+asg19
+g34
+sg21
+VNational Centre of Performing Arts, Nariman Point, Mumbai
+p179
+sba(i__main__
+Place
+p180
+(dp181
+g3
+(lp182
+VRestaurants
+p183
+aV Bars & Pubs
+p184
+asg7
+g34
+sg9
+VMoti Mahal Delux Tandoori Trail Restaurant
+p185
+sg11
+Vhttp://mumbai.burrp.com/listing/moti-mahal-delux-tandoori-trail-restaurant_nariman-point_mumbai_restaurants-bars-pubs/11045099
+p186
+sg13
+VNariman Point
+p187
+sg15
+(lp188
+V32902952
+p189
+aV 66546454
+p190
+asg19
+g34
+sg21
+V102 Level 1, CR 2 Mall, Nariman Point, Mumbai
+p191
+sba(i__main__
+Place
+p192
+(dp193
+g3
+(lp194
+VRestaurants
+p195
+asg7
+g8
+sg9
+VRelish
+p196
+sg11
+Vhttp://mumbai.burrp.com/listing/relish_nariman-point_mumbai_restaurants/159760950
+p197
+sg13
+VNariman Point
+p198
+sg15
+(lp199
+V22833558
+p200
+asg19
+g20
+sg21
+VGround Floor 2/A, 221, Maker Chambers IV, Nariman Point, Mumbai
+p201
+sba(i__main__
+Place
+p202
+(dp203
+g3
+(lp204
+VRestaurants
+p205
+asg7
+g34
+sg9
+VSpaghetti Kitchen
+p206
+sg11
+Vhttp://mumbai.burrp.com/listing/spaghetti-kitchen_nariman-point_mumbai_restaurants/1241801485
+p207
+sg13
+VNariman Point
+p208
+sg15
+(lp209
+V67439429
+p210
+aV 67439430
+p211
+asg19
+g34
+sg21
+V1st Floor, Cross Roads 2, Inox Building, Nariman Point, Mumbai
+p212
+sba(i__main__
+Place
+p213
+(dp214
+g3
+(lp215
+VRestaurants
+p216
+aV Bars & Pubs
+p217
+asg7
+g34
+sg9
+VCorleone
+p218
+sg11
+Vhttp://mumbai.burrp.com/listing/corleone_marine-drive_mumbai_restaurants-bars-pubs/1867623
+p219
+sg13
+VMarine Drive
+p220
+sg15
+(lp221
+V39879999
+p222
+asg19
+g8
+sg21
+VIntercontinental Hotel, 135 Netaji Subhash Road, Marine Drive, Nariman Point, Mumbai
+p223
+sba(i__main__
+Place
+p224
+(dp225
+g3
+(lp226
+VRestaurants
+p227
+asg7
+g8
+sg9
+VZiya
+p228
+sg11
+Vhttp://mumbai.burrp.com/listing/ziya_nariman-point_mumbai_restaurants/181124128
+p229
+sg13
+VNariman Point
+p230
+sg15
+(lp231
+V66326210
+p232
+aV 66324343
+p233
+asg19
+g34
+sg21
+VUpper Lobby Level, Nariman Point, Mumbai
+p234
+sba(i__main__
+Place
+p235
+(dp236
+g3
+(lp237
+VRestaurants
+p238
+asg7
+g34
+sg9
+VIndia Jones
+p239
+sg11
+Vhttp://mumbai.burrp.com/listing/india-jones_nariman-point_mumbai_restaurants/155121554
+p240
+sg13
+VNariman Point
+p241
+sg15
+(lp242
+V66324343
+p243
+aV 66326330
+p244
+asg19
+g34
+sg21
+VNariman Point, Mumbai
+p245
+sba(i__main__
+Place
+p246
+(dp247
+g3
+(lp248
+VRestaurants
+p249
+asg7
+g34
+sg9
+VThe Bayview
+p250
+sg11
+Vhttp://mumbai.burrp.com/listing/the-bayview_marine-drive_mumbai_restaurants/171105138
+p251
+sg13
+VMarine Drive
+p252
+sg15
+(lp253
+V22851212
+p254
+aV 22855061
+p255
+asg19
+g34
+sg21
+V29, Marine Drive, Nariman Point, Mumbai
+p256
+sba(i__main__
+Place
+p257
+(dp258
+g3
+(lp259
+VRestaurants
+p260
+asg7
+g8
+sg9
+VThe Verandah
+p261
+sg11
+Vhttp://mumbai.burrp.com/listing/the-verandah_nariman-point_mumbai_restaurants/13165178
+p262
+sg13
+VNariman Point
+p263
+sg15
+(lp264
+V66324343
+p265
+aV 66326326
+p266
+asg19
+g34
+sg21
+VLobby Level, Nariman Point, Mumbai
+p267
+sba(i__main__
+Place
+p268
+(dp269
+g3
+(lp270
+VDiscotheques
+p271
+aV Bars & Pubs
+p272
+aV Restaurants
+p273
+asg7
+g34
+sg9
+VEau Bar
+p274
+sg11
+Vhttp://mumbai.burrp.com/listing/eau-bar_nariman-point_mumbai_discotheques-bars-pubs-restaurants/184142425
+p275
+sg13
+VNariman Point
+p276
+sg15
+(lp277
+V66325757
+p278
+asg19
+V0
+p279
+sg21
+VThe Oberoi, Nariman Point, Mumbai
+p280
+sba(i__main__
+Place
+p281
+(dp282
+g3
+(lp283
+VRestaurants
+p284
+asg7
+V5
+p285
+sg9
+VSachin's
+p286
+sg11
+Vhttp://mumbai.burrp.com/listing/sachins_nariman-point_mumbai_restaurants/1931475316
+p287
+sg13
+VNariman Point
+p288
+sg15
+(lp289
+V22829517
+p290
+aV 9820332468
+p291
+asg19
+g20
+sg21
+VOpposite Mafatlal Centre, Nariman Point, Mumbai
+p292
+sba(i__main__
+Place
+p293
+(dp294
+g3
+(lp295
+VRestaurants
+p296
+asg7
+g285
+sg9
+VCappuccino
+p297
+sg11
+Vhttp://mumbai.burrp.com/listing/cappuccino_nariman-point_mumbai_restaurants/119108990
+p298
+sg13
+VNariman Point
+p299
+sg15
+(lp300
+V66325757
+p301
+asg19
+g279
+sg21
+VOberoi, Hilton Towers, Nariman Point, Mumbai
+p302
+sba(i__main__
+Place
+p303
+(dp304
+g3
+(lp305
+VRestaurants
+p306
+asg7
+g285
+sg9
+VThe Bay View
+p307
+sg11
+Vhttp://mumbai.burrp.com/listing/the-bay-view_marine-drive_mumbai_restaurants/1641391445
+p308
+sg13
+VMarine Drive
+p309
+sg15
+(lp310
+V22851212
+p311
+asg19
+g34
+sg21
+VHotel Marine Plaza, Marine Drive, Nariman Point, Mumbai
+p312
+sba(i__main__
+Place
+p313
+(dp314
+g3
+(lp315
+VRestaurants
+p316
+asg7
+g279
+sg9
+VCavim Hospitality Services
+p317
+sg11
+Vhttp://mumbai.burrp.com/listing/cavim-hospitality-services_nariman-point_mumbai_restaurants/16512416544
+p318
+sg13
+VNariman Point
+p319
+sg15
+(lp320
+V22846476
+p321
+aV 22846477
+p322
+aV 22846478
+p323
+aV 9820967829
+p324
+asg19
+g279
+sg21
+VDoor No 78/A, 7th Floor, Nariman Bhavan, Nariman Point, Mumbai
+p325
+sba(i__main__
+Place
+p326
+(dp327
+g3
+(lp328
+VRestaurants
+p329
+asg7
+g279
+sg9
+VRG's Kitchen
+p330
+sg11
+Vhttp://mumbai.burrp.com/listing/rgs-kitchen_marine-drive_mumbai_restaurants/14848861
+p331
+sg13
+VMarine Drive
+p332
+sg15
+(lp333
+V39819865
+p334
+asg19
+g279
+sg21
+VIntercontinental Marine Drive, 135, Marine Drive, Nariman Point, Mumbai
+p335
+sba(i__main__
+Place
+p336
+(dp337
+g3
+(lp338
+VRestaurants
+p339
+asg7
+g279
+sg9
+VTea Lounge
+p340
+sg11
+Vhttp://mumbai.burrp.com/listing/tea-lounge_nariman-point_mumbai_restaurants/19262217
+p341
+sg13
+VNariman Point
+p342
+sg15
+(lp343
+V66325757
+p344
+asg19
+g279
+sg21
+VThe Oberoi, Nariman Point, Mumbai
+p345
+sba(i__main__
+Place
+p346
+(dp347
+g3
+(lp348
+VRestaurants
+p349
+asg7
+V1
+p350
+sg9
+VAnsaa
+p351
+sg11
+Vhttp://mumbai.burrp.com/listing/ansaa_nariman-point_mumbai_restaurants/1423108267
+p352
+sg13
+VNariman Point
+p353
+sg15
+(lp354
+V67305601
+p355
+aV 40021976
+p356
+aV 40021977
+p357
+aV 40021978
+p358
+asg19
+g279
+sg21
+VDalamal Tower 4 2 Ground Floor, Near Mittal Tower B, Nariman Point, Mumbai
+p359
+sba(i__main__
+Place
+p360
+(dp361
+g3
+(lp362
+VRestaurants
+p363
+asg7
+g279
+sg9
+VTulsi Restaurant 
+p364
+sg11
+Vhttp://mumbai.burrp.com/listing/tulsi-restaurant-_nariman-point_mumbai_restaurants/1464458663
+p365
+sg13
+VNariman Point
+p366
+sg15
+(lp367
+V22841976
+p368
+aV 22040516
+p369
+aV 22872161 
+p370
+asg19
+g20
+sg21
+VTulsiani Chambers, 1st Floor, 216, Nariman Point, Mumbai
+p371
+sba(i__main__
+Place
+p372
+(dp373
+g3
+(lp374
+VRestaurants
+p375
+asg7
+g279
+sg9
+VStatus Restaurant 
+p376
+sg11
+Vhttp://mumbai.burrp.com/listing/status-restaurant-_nariman-point_mumbai_restaurants/1484467861
+p377
+sg13
+VNariman Point
+p378
+sg15
+(lp379
+V22872821
+p380
+aV 22872829
+p381
+aV 22846174 
+p382
+asg19
+g279
+sg21
+V208, Regent Chambers, Nariman Point, Mumbai
+p383
+sba(i__main__
+Place
+p384
+(dp385
+g3
+(lp386
+VRestaurants
+p387
+asg7
+g279
+sg9
+VCzar Bar
+p388
+sg11
+Vhttp://mumbai.burrp.com/listing/czar-bar_marine-drive_mumbai_restaurants/19911825910
+p389
+sg13
+VMarine Drive
+p390
+sg15
+(lp391
+V39879999
+p392
+aV 66399600
+p393
+aV 66399999
+p394
+asg19
+g279
+sg21
+VC/O Intercontinental Hotel, 135, Marine Drive, Nariman Point, Mumbai
+p395
+sba(i__main__
+Place
+p396
+(dp397
+g3
+(lp398
+VRestaurants
+p399
+asg7
+g279
+sg9
+VFrangipani
+p400
+sg11
+Vhttp://mumbai.burrp.com/listing/frangipani_nariman-point_mumbai_restaurants/14512396564
+p401
+sg13
+VNariman Point
+p402
+sg15
+(lp403
+V66324343
+p404
+aV 66326310
+p405
+asg19
+g279
+sg21
+VOberoi Towers, Nariman Point, Mumbai
+p406
+sba(i__main__
+Place
+p407
+(dp408
+g3
+(lp409
+VRestaurants
+p410
+asg7
+g279
+sg9
+VIndia Jones
+p411
+sg11
+Vhttp://mumbai.burrp.com/listing/india-jones_nariman-point_mumbai_restaurants/15512397554
+p412
+sg13
+VNariman Point
+p413
+sg15
+(lp414
+V66324343
+p415
+aV 66325757
+p416
+asg19
+g279
+sg21
+VThe Oberoi Tower, Nariman Point, Mumbai
+p417
+sba.

@@ -1,0 +1,344 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VAiko Matex Engg P Ltd
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/aiko-matex-engg-p-ltd_khetwadi_mumbai_restaurants-bars-pubs/16510976544
+p12
+sS'region'
+p13
+VKhetwadi
+p14
+sS'phone'
+p15
+(lp16
+V23885886
+p17
+asS'cost'
+p18
+g8
+sS'addr'
+p19
+V5, Parekh Market, Kennedy Bridge, Khetwadi, Bhuleshwar, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VHotels
+p24
+aV Restaurants
+p25
+asg7
+g8
+sg9
+VAshok Hotel
+p26
+sg11
+Vhttp://mumbai.burrp.com/listing/ashok-hotel_khetwadi_mumbai_hotels-restaurants/18510978524
+p27
+sg13
+VKhetwadi
+p28
+sg15
+(lp29
+V23818981
+p30
+aV 23818995
+p31
+asg18
+g8
+sg19
+V42, Walker House,  Tribhuvan Road, Khetwadi, Bhuleshwar, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+asg7
+g8
+sg9
+VGokul Dham
+p37
+sg11
+Vhttp://mumbai.burrp.com/listing/gokul-dham_khetwadi_mumbai_restaurants/17510986534
+p38
+sg13
+VKhetwadi
+p39
+sg15
+(lp40
+V23821298
+p41
+aV 65006303
+p42
+aV 66362148
+p43
+asg18
+g8
+sg19
+VKanji Mansion, S V P Road, Khetwadi Main Road, Khetwadi, Bhuleshwar, Mumbai
+p44
+sba(i__main__
+Place
+p45
+(dp46
+g3
+(lp47
+VRestaurants
+p48
+asg7
+g8
+sg9
+VGokul Hotel
+p49
+sg11
+Vhttp://mumbai.burrp.com/listing/gokul-hotel_khetwadi_mumbai_restaurants/17710986732
+p50
+sg13
+VKhetwadi
+p51
+sg15
+(lp52
+V23866221
+p53
+aV 23896850
+p54
+asg18
+g8
+sg19
+VHararwala Building, P B Marg, Khetwadi, Bhuleshwar, Mumbai
+p55
+sba(i__main__
+Place
+p56
+(dp57
+g3
+(lp58
+VRestaurants
+p59
+asg7
+g8
+sg9
+VHotel Gokul
+p60
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-gokul_khetwadi_mumbai_restaurants/19310988316
+p61
+sg13
+VKhetwadi
+p62
+sg15
+(lp63
+V23866221
+p64
+asg18
+g8
+sg19
+VHararwala Building No 416, P B Marg, Khetwadi, Bhuleshwar, Mumbai
+p65
+sba(i__main__
+Place
+p66
+(dp67
+g3
+(lp68
+VRestaurants
+p69
+asg7
+g8
+sg9
+VHotel Shivkripa
+p70
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-shivkripa_khetwadi_mumbai_restaurants/19510988514
+p71
+sg13
+VKhetwadi
+p72
+sg15
+(lp73
+V22062409
+p74
+asg18
+g8
+sg19
+VBuiding No 1, 44/46 , Jai Hind Esate, A M Road, Khetwadi, Bhuleshwar, Mumbai
+p75
+sba(i__main__
+Place
+p76
+(dp77
+g3
+(lp78
+VRestaurants
+p79
+asg7
+g8
+sg9
+VKing Restaurant
+p80
+sg11
+Vhttp://mumbai.burrp.com/listing/king-restaurant_khetwadi_mumbai_restaurants/14910992960
+p81
+sg13
+VKhetwadi
+p82
+sg15
+(lp83
+V23874021
+p84
+asg18
+g8
+sg19
+VBuilding No 386, Ahmed Chambers, Lamington Road, Khetwadi, Bhuleshwar, Mumbai
+p85
+sba(i__main__
+Place
+p86
+(dp87
+g3
+(lp88
+VRestaurants
+p89
+asg7
+g8
+sg9
+VNityanand Hotel
+p90
+sg11
+Vhttp://mumbai.burrp.com/listing/nityanand-hotel_khetwadi_mumbai_restaurants/13511000574
+p91
+sg13
+VKhetwadi
+p92
+sg15
+(lp93
+V23809614
+p94
+aV 66357182
+p95
+aV 66389299
+p96
+asg18
+V2
+p97
+sg19
+VRoad No 273, Prarthana Samaj Corner, V P Road, Khetwadi, Bhuleshwar, Mumbai
+p98
+sba(i__main__
+Place
+p99
+(dp100
+g3
+(lp101
+VBars & Pubs
+p102
+aV Restaurants
+p103
+asg7
+g8
+sg9
+VSaiaba Restaurant & Bar
+p104
+sg11
+Vhttp://mumbai.burrp.com/listing/saiaba-restaurant-bar_khetwadi_mumbai_bars-pubs-restaurants/17311004336
+p105
+sg13
+VKhetwadi
+p106
+sg15
+(lp107
+V23812660
+p108
+aV 23870302
+p109
+asg18
+g8
+sg19
+V32, Kennedy Bridge, J S S Road, Khetwadi, Bhuleshwar, Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VRestaurants
+p114
+asg7
+g8
+sg9
+VSamarth Bhojnalaya
+p115
+sg11
+Vhttp://mumbai.burrp.com/listing/samarth-bhojnalaya_khetwadi_mumbai_restaurants/18111005128
+p116
+sg13
+VKhetwadi
+p117
+sg15
+(lp118
+V23885087
+p119
+asg18
+g8
+sg19
+V22/B, Rele Building, Krantiveer Balaguer Marg  , Khetwadi, Bhuleshwar, Mumbai
+p120
+sba(i__main__
+Place
+p121
+(dp122
+g3
+(lp123
+VBars & Pubs
+p124
+aV Restaurants
+p125
+asg7
+g8
+sg9
+VVihar Coffee House
+p126
+sg11
+Vhttp://mumbai.burrp.com/listing/vihar-coffee-house_khetwadi_mumbai_bars-pubs-restaurants/17111013138
+p127
+sg13
+VKhetwadi
+p128
+sg15
+(lp129
+V23821117
+p130
+aV 23865798
+p131
+asg18
+g8
+sg19
+VShop No 524/ Opera House, S V P Road, Khetwadi, Bhuleshwar, Mumbai
+p132
+sba.

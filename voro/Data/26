@@ -1,0 +1,316 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VCafes
+p5
+aV Dessert Shops
+p6
+aV Restaurants
+p7
+asS'rating'
+p8
+V0
+p9
+sS'name'
+p10
+VMadhubala Restaurant And Bar
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/madhubala-restaurant-and-bar_bhayandar_thane_cafes-dessert-shops-restaurants/13914123970
+p13
+sS'region'
+p14
+VBhayandar
+p15
+sS'phone'
+p16
+(lp17
+V28040377
+p18
+aV 28041929
+p19
+asS'cost'
+p20
+g9
+sS'addr'
+p21
+VGround Floor, Sai Dwar Building, Navghar Phatak Road, Shirdi Nagar, Bhayandar, Thane
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg8
+g9
+sg10
+VVeena Restaurant
+p27
+sg12
+Vhttp://mumbai.burrp.com/listing/veena-restaurant_bhayandar_thane_restaurants/17314127336
+p28
+sg14
+VBhayandar
+p29
+sg16
+(lp30
+V28192765
+p31
+aV 28198368
+p32
+asg20
+g9
+sg21
+VShop No. 3/5, Building No 1, Rishabh Apartments, Patel Nagar , Bhayandar, Thane
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg8
+g9
+sg10
+VHotel Grand - Restaurant
+p38
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-grand---restaurant_bhayandar_thane_restaurants/15522693554
+p39
+sg14
+VBhayandar
+p40
+sg16
+(lp41
+V28178885
+p42
+aV 28178886
+p43
+aV 28178884
+p44
+asg20
+V2
+p45
+sg21
+VBhayandar, Thane
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg8
+g9
+sg10
+VDevika Palace
+p51
+sg12
+Vhttp://mumbai.burrp.com/listing/devika-palace_bhayandar_thane_restaurants/19514075514
+p52
+sg14
+VBhayandar
+p53
+sg16
+(lp54
+V28142219
+p55
+aV 28044384
+p56
+aV 9833584592
+p57
+asg20
+g9
+sg21
+V1st Floor, Narayan Smruti Building, Above Prashant Hotel, B P Road, Bhayandar, Thane
+p58
+sba(i__main__
+Place
+p59
+(dp60
+g3
+(lp61
+VRestaurants
+p62
+asg8
+g9
+sg10
+VKrishna Tea House
+p63
+sg12
+Vhttp://mumbai.burrp.com/listing/krishna-tea-house_bhayandar_thane_restaurants/17314082336
+p64
+sg14
+VBhayandar
+p65
+sg16
+(lp66
+V28048048
+p67
+aV 28149389
+p68
+asg20
+g9
+sg21
+VGanga Smruti, B P Road, Bhayandar, Thane
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VRestaurants
+p73
+asg8
+g9
+sg10
+VPrasad Bar & Restaurant
+p74
+sg12
+Vhttp://mumbai.burrp.com/listing/prasad-bar-restaurant_bhayandar_thane_restaurants/15114089158
+p75
+sg14
+VBhayandar
+p76
+sg16
+(lp77
+V28048963
+p78
+asg20
+g9
+sg21
+VGanesh Mahavir CHS, Talav Road, Bhayandar, Thane
+p79
+sba(i__main__
+Place
+p80
+(dp81
+g3
+(lp82
+VRestaurants
+p83
+asg8
+g9
+sg10
+VShree Lovely Restaurant & Bar
+p84
+sg12
+Vhttp://mumbai.burrp.com/listing/shree-lovely-restaurant-bar_bhayandar_thane_restaurants/12314095386
+p85
+sg14
+VBhayandar
+p86
+sg16
+(lp87
+V28047988
+p88
+asg20
+g9
+sg21
+VShop No 8, Narayan Smruti, Bhayandar, Thane
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VRestaurants
+p93
+asg8
+g9
+sg10
+VSurahi Family Restaurant & Bar
+p94
+sg12
+Vhttp://mumbai.burrp.com/listing/surahi-family-restaurant-bar_bhayandar_thane_restaurants/15914098950
+p95
+sg14
+VBhayandar
+p96
+sg16
+(lp97
+V28040801
+p98
+aV 28048633
+p99
+asg20
+g9
+sg21
+VShop No 7, Kirti Estate, Station Road, Bhayandar, Thane
+p100
+sba(i__main__
+Place
+p101
+(dp102
+g3
+(lp103
+VRestaurants
+p104
+asg8
+g9
+sg10
+VAgarwal Chinese Corner
+p105
+sg12
+Vhttp://mumbai.burrp.com/listing/agarwal-chinese-corner_bhayandar_thane_restaurants/14314106366
+p106
+sg14
+VBhayandar
+p107
+sg16
+(lp108
+V28165188
+p109
+aV 9892030044
+p110
+aV 9987817893
+p111
+asg20
+g9
+sg21
+VShop No C/21, D J Market, Station Road, Bhayandar, Thane
+p112
+sba(i__main__
+Place
+p113
+(dp114
+g3
+(lp115
+VRestaurants
+p116
+asg8
+g9
+sg10
+VVijay Punjab Restaurant & Bar
+p117
+sg12
+Vhttp://mumbai.burrp.com/listing/vijay-punjab-restaurant-bar_bhayandar_thane_restaurants/17714127732
+p118
+sg14
+VBhayandar
+p119
+sg16
+(lp120
+V28188842
+p121
+asg20
+g9
+sg21
+VShop No 1, Ganesh Krupa Building, B P Road, Bhayandar, Thane
+p122
+sba.

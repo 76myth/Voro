@@ -1,0 +1,183 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VShloka Dining Bar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/shloka-dining-bar_lbs-marg-mulund-west_mumbai_restaurants/12911152980
+p11
+sS'region'
+p12
+VLBS Marg (Mulund West)
+p13
+sS'phone'
+p14
+(lp15
+V25688922
+p16
+aV 25919110
+p17
+aV 25919112
+p18
+aV 8898532500
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VBhanu Apartment, Room No 1/2/3, Veena Nagar, LBS Marg (Mulund West), Mulund West, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VDessert Shops
+p27
+aV Restaurants
+p28
+aV Cafes
+p29
+asg6
+g7
+sg8
+VAmruta Veg Restaurant
+p30
+sg10
+Vhttp://mumbai.burrp.com/listing/amruta-veg-restaurant_lbs-marg-mulund-west_mumbai_dessert-shops-restaurants-cafes/14911154960
+p31
+sg12
+VLBS Marg (Mulund West)
+p32
+sg14
+(lp33
+V25673438
+p34
+aV 25905152
+p35
+aV 25909495
+p36
+aV 25939720
+p37
+asg20
+V0
+p38
+sg22
+VShop No 1/2, Rumwal Heights Commercial Premises, LBS Marg (Mulund West), Mulund West, Mumbai
+p39
+sba(i__main__
+Place
+p40
+(dp41
+g3
+(lp42
+VRestaurants
+p43
+asg6
+g38
+sg8
+VBombay Blues Restaurant
+p44
+sg10
+Vhttp://mumbai.burrp.com/listing/bombay-blues-restaurant_lbs-marg-mulund-west_mumbai_restaurants/16511156544
+p45
+sg12
+VLBS Marg (Mulund West)
+p46
+sg14
+(lp47
+V67551333
+p48
+aV 67551444
+p49
+asg20
+g38
+sg22
+V3rd Floor, Runwall Mall, LBS Marg (Mulund West), Mulund West, Mumbai
+p50
+sba(i__main__
+Place
+p51
+(dp52
+g3
+(lp53
+VCafes
+p54
+aV Food-court Stalls
+p55
+aV Restaurants
+p56
+asg6
+g38
+sg8
+VPizza Hut
+p57
+sg10
+Vhttp://mumbai.burrp.com/listing/pizza-hut_lbs-marg-mulund-west_mumbai_cafes-food-court-stalls-restaurants/19511159514
+p58
+sg12
+VLBS Marg (Mulund West)
+p59
+sg14
+(lp60
+V39883988
+p61
+aV 67031144
+p62
+aV 67550503
+p63
+asg20
+g38
+sg22
+VGround Floor, C/O Nirmal Lifestyle Mall, LBS Marg (Mulund West), Mulund West, Mumbai
+p64
+sba(i__main__
+Place
+p65
+(dp66
+g3
+(lp67
+VDessert Shops
+p68
+aV Restaurants
+p69
+asg6
+g38
+sg8
+VRibbons & Balloons
+p70
+sg10
+Vhttp://mumbai.burrp.com/listing/ribbons-balloons_lbs-marg-mulund-west_mumbai_dessert-shops-restaurants/14311154366
+p71
+sg12
+VLBS Marg (Mulund West)
+p72
+sg14
+(lp73
+V25625043
+p74
+aV 9833676164
+p75
+asg20
+g38
+sg22
+VShop No 7, Hallmark, Vasant Oscar, LBS Marg (Mulund West), Mulund West, Mumbai
+p76
+sba.

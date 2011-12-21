@@ -1,0 +1,56 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VFood-court Stalls
+p5
+aV Juice Parlours
+p6
+aV Ice-cream Parlours
+p7
+aV Fast Food Shops
+p8
+aV Dessert Shops
+p9
+aV Take Away Shops
+p10
+aV Restaurants
+p11
+asS'rating'
+p12
+V0
+p13
+sS'name'
+p14
+VChit Chat, the Mini Food-Court
+p15
+sS'url'
+p16
+Vhttp://mumbai.burrp.com/listing/chit-chat-the-mini-food-court_nehru-road_mumbai_food-court-stalls-juice-parlours-ice-cream-parlours/1575431752
+p17
+sS'region'
+p18
+VNehru Road
+p19
+sS'phone'
+p20
+(lp21
+V32255220
+p22
+aV 32255221
+p23
+aV 9029011520
+p24
+asS'cost'
+p25
+V2
+p26
+sS'addr'
+p27
+V16, Nand Prem, Ram Mandir Road, Parle Book Depot Lane, Nehru Road, Vile Parle East, Mumbai
+p28
+sba.

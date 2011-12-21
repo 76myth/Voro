@@ -1,0 +1,70 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VKalpana Restaurant & Bar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/kalpana-restaurant-bar_worli-naka_mumbai_restaurants/177123732
+p11
+sS'region'
+p12
+VWorli Naka
+p13
+sS'phone'
+p14
+(lp15
+V24937749
+p16
+aV 24980257
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VNadava Bhavan, Dr. Annie Besant Road, Worli Naka, Worli, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g19
+sg8
+VMalwan Kinara Restaurant
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/malwan-kinara-restaurant_worli-naka_mumbai_restaurants/19113661118
+p27
+sg12
+VWorli Naka
+p28
+sg14
+(lp29
+V24949195
+p30
+asg18
+g19
+sg20
+V72/B Suresh Sadan, G M Bhonsle Marg, Worli Naka, Worli, Mumbai
+p31
+sba.

@@ -1,0 +1,1292 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VCalifornia Pizza Kitchen
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/california-pizza-kitchen_bandra-east_mumbai_restaurants/1655585544
+p11
+sS'region'
+p12
+VBandra East
+p13
+sS'phone'
+p14
+(lp15
+V65588888
+p16
+aV 65606560
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+V3 North Avenue, Maker Maxity, Bandra Kurla Complex, Bandra East, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V4
+p26
+sg8
+VO22 at Trident 
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/o22-at-trident-_bandra-east_mumbai_restaurants/1404737069
+p28
+sg12
+VBandra East
+p29
+sg14
+(lp30
+V66727777
+p31
+asg18
+g7
+sg20
+VBandra East, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VOutdoor Caterers
+p36
+aV Restaurants
+p37
+asg6
+g7
+sg8
+VHighway Gomantak Hotel 
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/highway-gomantak-hotel-_bandra-east_mumbai_outdoor-caterers-restaurants/134119475
+p39
+sg12
+VBandra East
+p40
+sg14
+(lp41
+V26409692
+p42
+aV 26453120
+p43
+asg18
+V1
+p44
+sg20
+V44/2179, Gandhi Nagar, Service Road, Bandra East, Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+aV Fast Food Shops
+p50
+aV Home Caterers
+p51
+aV Take Away Shops
+p52
+asg6
+V5
+p53
+sg8
+VItalian Pizzas
+p54
+sg10
+Vhttp://mumbai.burrp.com/listing/italian-pizzas_bandra-kurla-complex_mumbai_restaurants-fast-food-shops-home-caterers/17515558534
+p55
+sg12
+VBandra Kurla Complex
+p56
+sg14
+(lp57
+V65666777
+p58
+aV 26511088
+p59
+aV 26511077
+p60
+asg18
+g19
+sg20
+VShop No. 24, Aashapura Housing Co-Operative, Indira Nagar, Bandra Kurla Complex, Bandra East, Mumbai
+p61
+sba(i__main__
+Place
+p62
+(dp63
+g3
+(lp64
+VRestaurants
+p65
+asg6
+g26
+sg8
+VBotticino
+p66
+sg10
+Vhttp://mumbai.burrp.com/listing/botticino_bandra-east_mumbai_restaurants/1684829841
+p67
+sg12
+VBandra East
+p68
+sg14
+(lp69
+V66727777
+p70
+aV 66727640
+p71
+asg18
+g26
+sg20
+VBandra East, Mumbai
+p72
+sba(i__main__
+Place
+p73
+(dp74
+g3
+(lp75
+VRestaurants
+p76
+asg6
+g26
+sg8
+VKung Food
+p77
+sg10
+Vhttp://mumbai.burrp.com/listing/kung-food_bandra-east_mumbai_restaurants/195926514
+p78
+sg12
+VBandra East
+p79
+sg14
+(lp80
+V26452484
+p81
+aV 32912484
+p82
+aV 65592484
+p83
+asg18
+g19
+sg20
+VShop No B 18, Muzb Shop keeper Premises Co- op Society, Govt Colony, Bandra East, Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg6
+g53
+sg8
+VMaya at Trident
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/maya-at-trident_bandra-east_mumbai_restaurants/1694829940
+p90
+sg12
+VBandra East
+p91
+sg14
+(lp92
+V66727777
+p93
+asg18
+g7
+sg20
+VTrident Hotel, C-56, G Block, Bandra Kurla Complex , Bandra (E), Bandra East, Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VRestaurants
+p98
+asg6
+g26
+sg8
+VYauatcha 
+p99
+sg10
+Vhttp://mumbai.burrp.com/listing/yauatcha-_bandra-kurla-complex_mumbai_restaurants/11732481792
+p100
+sg12
+VBandra Kurla Complex
+p101
+sg14
+(lp102
+V26448888
+p103
+aV 26442600
+p104
+asg18
+g7
+sg20
+VRaheja Tower , Bandra Kurla Complex, Bandra East, Mumbai
+p105
+sba(i__main__
+Place
+p106
+(dp107
+g3
+(lp108
+VRestaurants
+p109
+asg6
+g19
+sg8
+VRice Boat
+p110
+sg10
+Vhttp://mumbai.burrp.com/listing/rice-boat_bandra-east_mumbai_restaurants/15049059
+p111
+sg12
+VBandra East
+p112
+sg14
+(lp113
+V26403030
+p114
+aV 26558832
+p115
+asg18
+V0
+p116
+sg20
+V45 Samadhan, Opp. W.E. Highway, Gandhi Nagar, Bandra (E), Bandra East, Mumbai
+p117
+sba(i__main__
+Place
+p118
+(dp119
+g3
+(lp120
+VRestaurants
+p121
+asg6
+g7
+sg8
+VSadichha - Coastal Food 
+p122
+sg10
+Vhttp://mumbai.burrp.com/listing/sadichha---coastal-food-_bandra-east_mumbai_restaurants/1474494762
+p123
+sg12
+VBandra East
+p124
+sg14
+(lp125
+V26425630 
+p126
+asg18
+g116
+sg20
+VOB 5 Gandhi Nagar, Opp. M.I.G Club, Bandra (E), Bandra East, Mumbai
+p127
+sba(i__main__
+Place
+p128
+(dp129
+g3
+(lp130
+VRestaurants
+p131
+asg6
+g19
+sg8
+VMaharaja Restaurant & Bar
+p132
+sg10
+Vhttp://mumbai.burrp.com/listing/maharaja-restaurant-bar_bandra-east_mumbai_restaurants/161716148
+p133
+sg12
+VBandra East
+p134
+sg14
+(lp135
+V26511919
+p136
+aV 26511999
+p137
+aV 26459955
+p138
+asg18
+g19
+sg20
+V1933 / 34, Shree Shradha Chs., Bldg. No 36, Service Road, Bandra East, Mumbai
+p139
+sba(i__main__
+Place
+p140
+(dp141
+g3
+(lp142
+VRestaurants
+p143
+asg6
+g53
+sg8
+VSugran
+p144
+sg10
+Vhttp://mumbai.burrp.com/listing/sugran_bandra-east_mumbai_restaurants/1263043683
+p145
+sg12
+VBandra East
+p146
+sg14
+(lp147
+V26438937
+p148
+aV 9821191118
+p149
+asg18
+g19
+sg20
+VGandhi Nagar, 44/2202, Pranav Co Op Society, MHB Colony, Bandra East, Mumbai
+p150
+sba(i__main__
+Place
+p151
+(dp152
+g3
+(lp153
+VRestaurants
+p154
+asg6
+g53
+sg8
+VBelvedere
+p155
+sg10
+Vhttp://mumbai.burrp.com/listing/belvedere_bandra-east_mumbai_restaurants/1481218861
+p156
+sg12
+VBandra East
+p157
+sg14
+(lp158
+V26406907
+p159
+aV 26408899
+p160
+asg18
+g19
+sg20
+VMIG Colony, Bandra (E), Bandra East, Mumbai
+p161
+sba(i__main__
+Place
+p162
+(dp163
+g3
+(lp164
+VRestaurants
+p165
+asg6
+g53
+sg8
+VGharonda Restaurant And Bar
+p166
+sg10
+Vhttp://mumbai.burrp.com/listing/gharonda-restaurant-and-bar_bandra-east_mumbai_restaurants/1897693920
+p167
+sg12
+VBandra East
+p168
+sg14
+(lp169
+V26409483
+p170
+aV 26459782
+p171
+aV 9892311730
+p172
+asg18
+g116
+sg20
+VShop No A/8, M U Z B Shopkeepers Premises Society Ltd, Government Colony, Bandra East, Mumbai
+p173
+sba(i__main__
+Place
+p174
+(dp175
+g3
+(lp176
+VRestaurants
+p177
+asg6
+g26
+sg8
+VCelebration 365
+p178
+sg10
+Vhttp://mumbai.burrp.com/listing/celebration-365_government-colony_mumbai_restaurants/18721949722
+p179
+sg12
+VGovernment Colony
+p180
+sg14
+(lp181
+V26431555
+p182
+aV 26439262
+p183
+aV 8652299515
+p184
+aV 9323265013
+p185
+asg18
+g19
+sg20
+VOpposite Building No. B-63/64, Government Colony, Bandra East, Mumbai
+p186
+sba(i__main__
+Place
+p187
+(dp188
+g3
+(lp189
+VRestaurants
+p190
+asg6
+g26
+sg8
+VAaram
+p191
+sg10
+Vhttp://mumbai.burrp.com/listing/aaram_bandra-east_mumbai_restaurants/1625729247
+p192
+sg12
+VBandra East
+p193
+sg14
+(lp194
+V26510673
+p195
+asg18
+g19
+sg20
+VNear Chetna College, Bandra (E), Bandra East, Mumbai
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VRestaurants
+p200
+asg6
+g7
+sg8
+VSanjay Hotel
+p201
+sg10
+Vhttp://mumbai.burrp.com/listing/sanjay-hotel_bandra-east_mumbai_restaurants/1157713594
+p202
+sg12
+VBandra East
+p203
+sg14
+(lp204
+V26441573
+p205
+aV 26511758
+p206
+aV 9987225458
+p207
+asg18
+g116
+sg20
+VPlot No B/15, Collector Building Compound, Government Colony, Bandra East, Mumbai
+p208
+sba(i__main__
+Place
+p209
+(dp210
+g3
+(lp211
+VRestaurants
+p212
+asg6
+g44
+sg8
+VSadichha
+p213
+sg10
+Vhttp://mumbai.burrp.com/listing/sadichha_bandra-east_mumbai_restaurants/16650643
+p214
+sg12
+VBandra East
+p215
+sg14
+(lp216
+V26510175
+p217
+aV 26419932
+p218
+asg18
+g116
+sg20
+VB-5, Gandhi Nagar, Opposite MIG Cricket Club, Near Sai Baba Temple, Bandra (E), Bandra East, Mumbai
+p219
+sba(i__main__
+Place
+p220
+(dp221
+g3
+(lp222
+VRestaurants
+p223
+asg6
+g44
+sg8
+VMaratha Darbar
+p224
+sg10
+Vhttp://mumbai.burrp.com/listing/maratha-darbar_bandra-east_mumbai_restaurants/132128277
+p225
+sg12
+VBandra East
+p226
+sg14
+(lp227
+V26511004
+p228
+aV 65824518
+p229
+asg18
+g116
+sg20
+VBandra Nishigandha Co-operative Housing Society, M. H. B.  Colony, Opposite Mig Club, Bandra (E), Bandra East, Mumbai
+p230
+sba(i__main__
+Place
+p231
+(dp232
+g3
+(lp233
+VRestaurants
+p234
+aV Bars & Pubs
+p235
+asg6
+g116
+sg8
+VChinaar Family Restaurant & Bar
+p236
+sg10
+Vhttp://mumbai.burrp.com/listing/chinaar-family-restaurant-bar_bandra-east_mumbai_restaurants-bars-pubs/16523693544
+p237
+sg12
+VBandra East
+p238
+sg14
+(lp239
+V64463313
+p240
+aV 64463314
+p241
+asg18
+g19
+sg20
+VShop No.B-10, U.J.B.P.S., Co-Op., Society Ltd., Bandra East, Mumbai
+p242
+sba(i__main__
+Place
+p243
+(dp244
+g3
+(lp245
+VRestaurants
+p246
+asg6
+g116
+sg8
+VPizza Hut
+p247
+sg10
+Vhttp://mumbai.burrp.com/listing/pizza-hut_bandra-east_mumbai_restaurants/1785766831
+p248
+sg12
+VBandra East
+p249
+sg14
+(lp250
+V65079501 
+p251
+aV 39883988
+p252
+asg18
+g116
+sg20
+VBPCL Petrol Bunk, Bandra Kurla Complex, Bandra (E), Bandra East, Mumbai
+p253
+sba(i__main__
+Place
+p254
+(dp255
+g3
+(lp256
+VRestaurants
+p257
+asg6
+g116
+sg8
+VSindhudurg
+p258
+sg10
+Vhttp://mumbai.burrp.com/listing/sindhudurg_bandra-east_mumbai_restaurants/192854217
+p259
+sg12
+VBandra East
+p260
+sg14
+(lp261
+V26512395
+p262
+aV 26512396
+p263
+asg18
+g19
+sg20
+VOpposite MIG Cricket Club, Gandhinagar, Road No. 8, Bandra (E), Bandra East, Mumbai
+p264
+sba(i__main__
+Place
+p265
+(dp266
+g3
+(lp267
+VRestaurants
+p268
+asg6
+g116
+sg8
+VChinnar Restaurant And Bar
+p269
+sg10
+Vhttp://mumbai.burrp.com/listing/chinnar-restaurant-and-bar_bandra-east_mumbai_restaurants/1437716366
+p270
+sg12
+VBandra East
+p271
+sg14
+(lp272
+V26510291
+p273
+aV 26511711
+p274
+asg18
+g116
+sg20
+VShop No B/10, Ujbps Co Operative Soceity Limited, Government Colony , Near Collector Office, Bandra East, Mumbai
+p275
+sba(i__main__
+Place
+p276
+(dp277
+g3
+(lp278
+VRestaurants
+p279
+asg6
+g116
+sg8
+VSubway
+p280
+sg10
+Vhttp://mumbai.burrp.com/listing/subway_bandra-east_mumbai_restaurants/185160524
+p281
+sg12
+VBandra East
+p282
+sg14
+(lp283
+V26521457
+p284
+aV 26521451
+p285
+asg18
+g19
+sg20
+VKurla Complex, BPCL Petrol Pump, Bandra East, Mumbai
+p286
+sba(i__main__
+Place
+p287
+(dp288
+g3
+(lp289
+VRestaurants
+p290
+asg6
+g116
+sg8
+VCity Park Restaurant
+p291
+sg10
+Vhttp://mumbai.burrp.com/listing/city-park-restaurant_bandra-east_mumbai_restaurants/14124276168
+p292
+sg12
+VBandra East
+p293
+sg14
+(lp294
+V9821158468
+p295
+asg18
+g19
+sg20
+VCity Park, E Block, Bandra Kurla Complex, Bandra East, Mumbai
+p296
+sba(i__main__
+Place
+p297
+(dp298
+g3
+(lp299
+VRestaurants
+p300
+asg6
+g116
+sg8
+VArma Court Restaurant
+p301
+sg10
+Vhttp://mumbai.burrp.com/listing/arma-court-restaurant_bandra-east_mumbai_restaurants/1584405851
+p302
+sg12
+VBandra East
+p303
+sg14
+(lp304
+V26479477 
+p305
+aV 26472929
+p306
+aV 64151425
+p307
+asg18
+g116
+sg20
+VGround Floor, Indira Nagar Society, Building No. 2, A. K. Marg, Off Western Express Highway, Bandra East, Mumbai
+p308
+sba(i__main__
+Place
+p309
+(dp310
+g3
+(lp311
+VRestaurants
+p312
+asg6
+g116
+sg8
+VUjala Restaurant& Bar 
+p313
+sg10
+Vhttp://mumbai.burrp.com/listing/ujala-restaurant-bar-_bandra-east_mumbai_restaurants/1374457772
+p314
+sg12
+VBandra East
+p315
+sg14
+(lp316
+V26435873
+p317
+aV 26516216 
+p318
+asg18
+g116
+sg20
+VSesegar Marg, Govt. Colony , Bandra (E), Bandra East, Mumbai
+p319
+sba(i__main__
+Place
+p320
+(dp321
+g3
+(lp322
+VRestaurants
+p323
+asg6
+g116
+sg8
+VRaffles
+p324
+sg10
+Vhttp://mumbai.burrp.com/listing/raffles_bandra-east_mumbai_restaurants/1175724792
+p325
+sg12
+VBandra East
+p326
+sg14
+(lp327
+V40700020
+p328
+aV 40700000
+p329
+asg18
+g116
+sg20
+VRegus Conference Center, 1st Trade Center, Level Ground, Bandra Kurla Complex, Bandra (E), Bandra East, Mumbai
+p330
+sba(i__main__
+Place
+p331
+(dp332
+g3
+(lp333
+VRestaurants
+p334
+asg6
+g116
+sg8
+VSibbu Palace Bar & Restaurant
+p335
+sg10
+Vhttp://mumbai.burrp.com/listing/sibbu-palace-bar-restaurant_bandra-east_mumbai_restaurants/1357697574
+p336
+sg12
+VBandra East
+p337
+sg14
+(lp338
+V26479885
+p339
+aV 9323265012
+p340
+asg18
+g116
+sg20
+VShop No 63/64, Kherwadi Road, Kherwadi, Near Bandra Terminus, Bandra East, Mumbai
+p341
+sba(i__main__
+Place
+p342
+(dp343
+g3
+(lp344
+VRestaurants
+p345
+asg6
+g116
+sg8
+VTriveni Bar And Restaurant
+p346
+sg10
+Vhttp://mumbai.burrp.com/listing/triveni-bar-and-restaurant_bandra-east_mumbai_restaurants/1437698366
+p347
+sg12
+VBandra East
+p348
+sg14
+(lp349
+V26479799
+p350
+aV 9920023775
+p351
+asg18
+g116
+sg20
+VShop No 341, Kherwadi Road, Bandra East, Mumbai
+p352
+sba(i__main__
+Place
+p353
+(dp354
+g3
+(lp355
+VRestaurants
+p356
+asg6
+g116
+sg8
+VUdipi Bhuvan
+p357
+sg10
+Vhttp://mumbai.burrp.com/listing/udipi-bhuvan_bandra-east_mumbai_restaurants/1457698564
+p358
+sg12
+VBandra East
+p359
+sg14
+(lp360
+V26405692
+p361
+aV 8268405199
+p362
+asg18
+g19
+sg20
+VGovt Staff Colony, Near 315 Bus Depo, Bandra East, Mumbai
+p363
+sba(i__main__
+Place
+p364
+(dp365
+g3
+(lp366
+VRestaurants
+p367
+asg6
+g116
+sg8
+VAamey Restaurant
+p368
+sg10
+Vhttp://mumbai.burrp.com/listing/aamey-restaurant_bandra-east_mumbai_restaurants/1797701930
+p369
+sg12
+VBandra East
+p370
+sg14
+(lp371
+V32425555
+p372
+aV 32426666
+p373
+aV 32427777
+p374
+asg18
+g116
+sg20
+VShop No 4, Siddhivinayak Chambers, Gandhi Nagar, Bandra East, Mumbai
+p375
+sba(i__main__
+Place
+p376
+(dp377
+g3
+(lp378
+VRestaurants
+p379
+asg6
+g116
+sg8
+VAmber Restaurant
+p380
+sg10
+Vhttp://mumbai.burrp.com/listing/amber-restaurant_bandra-east_mumbai_restaurants/1837702326
+p381
+sg12
+VBandra East
+p382
+sg14
+(lp383
+V26476787
+p384
+aV 26478354
+p385
+asg18
+g116
+sg20
+VShop No 1, Sai Krupa Building, A Wing, Anand Kanekar Marg, Bandra East, Mumbai
+p386
+sba(i__main__
+Place
+p387
+(dp388
+g3
+(lp389
+VRestaurants
+p390
+asg6
+g116
+sg8
+VAmey Veg Restaurant
+p391
+sg10
+Vhttp://mumbai.burrp.com/listing/amey-veg-restaurant_bandra-east_mumbai_restaurants/1937703316
+p392
+sg12
+VBandra East
+p393
+sg14
+(lp394
+V30912219
+p395
+aV 32425555
+p396
+aV 32426666
+p397
+aV 32427777
+p398
+asg18
+g116
+sg20
+VShop No 4, Siddivinayak Chambers, Gandhi Nagar, Bandra East, Mumbai
+p399
+sba(i__main__
+Place
+p400
+(dp401
+g3
+(lp402
+VRestaurants
+p403
+asg6
+g116
+sg8
+VShanghai Chinese And Tandoor Corner
+p404
+sg10
+Vhttp://mumbai.burrp.com/listing/shanghai-chinese-and-tandoor-corner_bandra-east_mumbai_restaurants/1237714386
+p405
+sg12
+VBandra East
+p406
+sg14
+(lp407
+V26557931
+p408
+asg18
+g116
+sg20
+VShop No 17, Government Colony, Opposite Mahatma Gandhi School, Bandra East, Mumbai
+p409
+sba(i__main__
+Place
+p410
+(dp411
+g3
+(lp412
+VRestaurants
+p413
+aV Bars & Pubs
+p414
+asg6
+g116
+sg8
+VCafe Aangan
+p415
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-aangan_bandra-east_mumbai_restaurants-bars-pubs/1397715970
+p416
+sg12
+VBandra East
+p417
+sg14
+(lp418
+V26475029
+p419
+asg18
+g116
+sg20
+V9 Madni Complex, Proffessor A K Marg, Behram Nagar, Bandra East, Mumbai
+p420
+sba(i__main__
+Place
+p421
+(dp422
+g3
+(lp423
+VRestaurants
+p424
+asg6
+g116
+sg8
+VGharonda
+p425
+sg10
+Vhttp://mumbai.burrp.com/listing/gharonda_bandra-east_mumbai_restaurants/1617718148
+p426
+sg12
+VBandra East
+p427
+sg14
+(lp428
+V26459782
+p429
+asg18
+g116
+sg20
+VBandra East, Mumbai
+p430
+sba(i__main__
+Place
+p431
+(dp432
+g3
+(lp433
+VRestaurants
+p434
+asg6
+g116
+sg8
+VTanvis Lounge
+p435
+sg10
+Vhttp://mumbai.burrp.com/listing/tanvis-lounge_bandra-east_mumbai_restaurants/1997721910
+p436
+sg12
+VBandra East
+p437
+sg14
+(lp438
+V64259286
+p439
+aV 9820952082
+p440
+asg18
+g116
+sg20
+VShop No 4, Up Zillha Adhikari Bhavan, Shopkeepers Society, Bandra East, Mumbai
+p441
+sba(i__main__
+Place
+p442
+(dp443
+g3
+(lp444
+VRestaurants
+p445
+asg6
+g116
+sg8
+VCafe Golden
+p446
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-golden_kherwadi_mumbai_restaurants/11510971594
+p447
+sg12
+VKherwadi
+p448
+sg14
+(lp449
+V26479137
+p450
+asg18
+g116
+sg20
+VKherwadi Naka, Kherwadi, Bandra East, Mumbai
+p451
+sba(i__main__
+Place
+p452
+(dp453
+g3
+(lp454
+VRestaurants
+p455
+asg6
+g116
+sg8
+VUdipi Bhavan
+p456
+sg10
+Vhttp://mumbai.burrp.com/listing/udipi-bhavan_kherwadi_mumbai_restaurants/12910972980
+p457
+sg12
+VKherwadi
+p458
+sg14
+(lp459
+V26405692
+p460
+asg18
+g116
+sg20
+VGround Floor, Building No 30/31, B Wing, Government Staff Colony , Kherwadi, Bandra East, Mumbai
+p461
+sba(i__main__
+Place
+p462
+(dp463
+g3
+(lp464
+VRestaurants
+p465
+asg6
+g116
+sg8
+VRajyog Restaurant
+p466
+sg10
+Vhttp://mumbai.burrp.com/listing/rajyog-restaurant_kherwadi_mumbai_restaurants/13110973178
+p467
+sg12
+VKherwadi
+p468
+sg14
+(lp469
+V26439944
+p470
+aV 26442594
+p471
+asg18
+g116
+sg20
+VBldg No 36, Gandhi Nagar, Service Road, Kherwadi, Bandra East, Mumbai
+p472
+sba(i__main__
+Place
+p473
+(dp474
+g3
+(lp475
+VRestaurants
+p476
+aV Bars & Pubs
+p477
+asg6
+g116
+sg8
+VAquanox
+p478
+sg10
+Vhttp://mumbai.burrp.com/listing/aquanox_kherwadi_mumbai_restaurants-bars-pubs/15922396950
+p479
+sg12
+VKherwadi
+p480
+sg14
+(lp481
+V26410001
+p482
+aV 26410002
+p483
+asg18
+g19
+sg20
+VAshapurav, Ground Floor, Kherwadi, Bandra East, Mumbai
+p484
+sba.

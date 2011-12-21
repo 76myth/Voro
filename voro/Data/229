@@ -1,0 +1,585 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VLounges
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VIce N Spice 
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/ice-n-spice-_seawoods-darave_navi-mumbai_lounges-restaurants/1901295019
+p12
+sS'region'
+p13
+VSeawoods Darave
+p14
+sS'phone'
+p15
+(lp16
+V27731313
+p17
+aV 27731414
+p18
+aV 27731415 
+p19
+aV 9920854168
+p20
+asS'cost'
+p21
+V2
+p22
+sS'addr'
+p23
+VPlot No. 24, Sector 25, Seawoods Darave, Nerul East, Navi Mumbai
+p24
+sba(i__main__
+Place
+p25
+(dp26
+g3
+(lp27
+VRestaurants
+p28
+asg7
+g8
+sg9
+VAhmed Bhai's Bry & Dry
+p29
+sg11
+Vhttp://mumbai.burrp.com/listing/ahmed-bhais-bry-dry_nerul-east_navi-mumbai_restaurants/1322576277
+p30
+sg13
+VNerul East
+p31
+sg15
+(lp32
+V27714141
+p33
+aV 9821234141
+p34
+aV 9819934077
+p35
+asg21
+V0
+p36
+sg23
+VShop No. 32, Krishnakamal C.H.S , Plot No 111, Sector 21, Nerul (E), Nerul East, Navi Mumbai
+p37
+sba(i__main__
+Place
+p38
+(dp39
+g3
+(lp40
+VRestaurants
+p41
+asg7
+g8
+sg9
+VSmoking Pizzas
+p42
+sg11
+Vhttp://mumbai.burrp.com/listing/smoking-pizzas_nerul-east_navi-mumbai_restaurants/122730287
+p43
+sg13
+VNerul East
+p44
+sg15
+(lp45
+V27707761
+p46
+aV 65187415
+p47
+aV 9819279400
+p48
+aV 8108604820
+p49
+asg21
+g22
+sg23
+VShop No.4, Plot-27, Kashyap Appartment, Sector 21, Nerul East, Navi Mumbai
+p50
+sba(i__main__
+Place
+p51
+(dp52
+g3
+(lp53
+VRestaurants
+p54
+asg7
+V3
+p55
+sg9
+VRangoli
+p56
+sg11
+Vhttp://mumbai.burrp.com/listing/rangoli_nerul-east_navi-mumbai_restaurants/13847871
+p57
+sg13
+VNerul East
+p58
+sg15
+(lp59
+V27707653
+p60
+aV 27707582
+p61
+aV 27707547
+p62
+asg21
+g36
+sg23
+VShivaji Chowk, Sector 3, Nerul, Nerul East, Navi Mumbai
+p63
+sba(i__main__
+Place
+p64
+(dp65
+g3
+(lp66
+VRestaurants
+p67
+asg7
+g55
+sg9
+VRoyal Rasoi Marina
+p68
+sg11
+Vhttp://mumbai.burrp.com/listing/royal-rasoi-marina_seawoods-darave_navi-mumbai_restaurants/14715141762
+p69
+sg13
+VSeawoods Darave
+p70
+sg15
+(lp71
+V9769696653
+p72
+asg21
+g36
+sg23
+VHaware Centurion Mall, Ground Floor, Sector 19 A, Seawoods Darave, Nerul East, Navi Mumbai
+p73
+sba(i__main__
+Place
+p74
+(dp75
+g3
+(lp76
+VRestaurants
+p77
+asg7
+V5
+p78
+sg9
+VFamous Dum Biryani & Kabab Corner
+p79
+sg11
+Vhttp://mumbai.burrp.com/listing/famous-dum-biryani-kabab-corner_nerul-east_navi-mumbai_restaurants/1217021188
+p80
+sg13
+VNerul East
+p81
+sg15
+(lp82
+V27719608
+p83
+aV 27712678
+p84
+asg21
+g22
+sg23
+VShop No.1, Block No.2, Sector-9, Nerul East, Navi Mumbai
+p85
+sba(i__main__
+Place
+p86
+(dp87
+g3
+(lp88
+VBars & Pubs
+p89
+aV Restaurants
+p90
+asg7
+g8
+sg9
+VMashaal
+p91
+sg11
+Vhttp://mumbai.burrp.com/listing/mashaal_nerul-east_navi-mumbai_bars-pubs-restaurants/1215338188
+p92
+sg13
+VNerul East
+p93
+sg15
+(lp94
+V65275533
+p95
+aV 65272202
+p96
+asg21
+g22
+sg23
+VT-25/T-30, Centurion Office & Shopping Complex, Plot No.88-91, Sector 19A, Nerul East, Navi Mumbai
+p97
+sba(i__main__
+Place
+p98
+(dp99
+g3
+(lp100
+VRestaurants
+p101
+aV Outdoor Caterers
+p102
+asg7
+g36
+sg9
+VGypsy's The Family Restaurant
+p103
+sg11
+Vhttp://mumbai.burrp.com/listing/gypsys-the-family-restaurant_nerul-east_navi-mumbai_restaurants-outdoor-caterers/16522901544
+p104
+sg13
+VNerul East
+p105
+sg15
+(lp106
+V27722474
+p107
+aV 27704018
+p108
+aV 27704017
+p109
+asg21
+g36
+sg23
+VUnit No. 10/11/15/17, Seawood Corner, Plot No. 19 A, Sector 25, Nerul East, Navi Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VRestaurants
+p114
+asg7
+g36
+sg9
+VNukkad Ka Tadka
+p115
+sg11
+Vhttp://mumbai.burrp.com/listing/nukkad-ka-tadka_nerul-east_navi-mumbai_restaurants/170159039
+p116
+sg13
+VNerul East
+p117
+sg15
+(lp118
+V32949491
+p119
+asg21
+g36
+sg23
+VShreeji Darshan, Shop No 4, Plot No.48, Sector - 40, Seawood(Nerul), Nerul East, Navi Mumbai
+p120
+sba(i__main__
+Place
+p121
+(dp122
+g3
+(lp123
+VRestaurants
+p124
+asg7
+g36
+sg9
+VJ20 The Hukka Lounge
+p125
+sg11
+Vhttp://mumbai.burrp.com/listing/j20-the-hukka-lounge_nerul-east_navi-mumbai_restaurants/1861483623
+p126
+sg13
+VNerul East
+p127
+sg15
+(lp128
+V9819798196
+p129
+aV 9769415474
+p130
+aV 9833122968
+p131
+aV 9967674446
+p132
+asg21
+g22
+sg23
+VSuyog Arcade, Shop No. 24, Sector 23, Juinagar, Near Sadguru Hotel, Nerul (E), Nerul East, Navi Mumbai
+p133
+sba(i__main__
+Place
+p134
+(dp135
+g3
+(lp136
+VRestaurants
+p137
+asg7
+g36
+sg9
+VVikram Bar & Restaurant
+p138
+sg11
+Vhttp://mumbai.burrp.com/listing/vikram-bar-restaurant_nerul-east_navi-mumbai_restaurants/1576853752
+p139
+sg13
+VNerul East
+p140
+sg15
+(lp141
+V27722157
+p142
+aV 27709689
+p143
+aV 9867156066
+p144
+asg21
+g36
+sg23
+VSarsole Village, Sector-6, Phase-III, Palm Beach Road, Nerul (E), Nerul East, Navi Mumbai
+p145
+sba(i__main__
+Place
+p146
+(dp147
+g3
+(lp148
+VRestaurants
+p149
+asg7
+g36
+sg9
+VNew Dolphin Chinese
+p150
+sg11
+Vhttp://mumbai.burrp.com/listing/new-dolphin-chinese_nerul-east_navi-mumbai_restaurants/1316995178
+p151
+sg13
+VNerul East
+p152
+sg15
+(lp153
+V27714899
+p154
+aV 32596911
+p155
+asg21
+g36
+sg23
+VSector-9, Nerul (E), Nerul East, Navi Mumbai
+p156
+sba(i__main__
+Place
+p157
+(dp158
+g3
+(lp159
+VOutdoor Caterers
+p160
+aV Restaurants
+p161
+asg7
+g36
+sg9
+VPrithika
+p162
+sg11
+Vhttp://mumbai.burrp.com/listing/prithika_nerul-east_navi-mumbai_outdoor-caterers-restaurants/1777062732
+p163
+sg13
+VNerul East
+p164
+sg15
+(lp165
+V27729478
+p166
+aV 27729172
+p167
+asg21
+g36
+sg23
+VShop No.12, Shanti Park, Plot No.B/111-112, Sector-23, Darave, Nerul (E), Nerul East, Navi Mumbai
+p168
+sba(i__main__
+Place
+p169
+(dp170
+g3
+(lp171
+VRestaurants
+p172
+asg7
+g36
+sg9
+VDosa Plaza
+p173
+sg11
+Vhttp://mumbai.burrp.com/listing/dosa-plaza_nerul-east_navi-mumbai_restaurants/1157065594
+p174
+sg13
+VNerul East
+p175
+sg15
+(lp176
+V32151314
+p177
+aV 64229955
+p178
+asg21
+g36
+sg23
+VF-1, Shop No 13, Paradise Apartment, Sector 3, Nerul (E), Nerul East, Navi Mumbai
+p179
+sba(i__main__
+Place
+p180
+(dp181
+g3
+(lp182
+VRestaurants
+p183
+asg7
+g36
+sg9
+VNitu Dhaba
+p184
+sg11
+Vhttp://mumbai.burrp.com/listing/nitu-dhaba_nerul-east_navi-mumbai_restaurants/1197065990
+p185
+sg13
+VNerul East
+p186
+sg15
+(lp187
+V64460580
+p188
+aV 9833129596  
+p189
+asg21
+g22
+sg23
+VPlot No. 147, Shop No. 1&2, Sarsole, Nerul (E), Nerul East, Navi Mumbai
+p190
+sba(i__main__
+Place
+p191
+(dp192
+g3
+(lp193
+VBars & Pubs
+p194
+aV Restaurants
+p195
+asg7
+g36
+sg9
+VAshish Hospitalities Pvt Ltd
+p196
+sg11
+Vhttp://mumbai.burrp.com/listing/ashish-hospitalities-pvt-ltd_nerul-east_navi-mumbai_bars-pubs-restaurants/19713814712
+p197
+sg13
+VNerul East
+p198
+sg15
+(lp199
+V27731313
+p200
+aV 27731414
+p201
+aV 27731415
+p202
+aV 9920854168
+p203
+asg21
+g36
+sg23
+VPlot No 24, Shree Ji Plaza, Sector No 25, Nerul East, Navi Mumbai
+p204
+sba(i__main__
+Place
+p205
+(dp206
+g3
+(lp207
+VRestaurants
+p208
+aV Fast Food Shops
+p209
+asg7
+g36
+sg9
+VJai Ganesh Hotel
+p210
+sg11
+Vhttp://mumbai.burrp.com/listing/jai-ganesh-hotel_nerul-east_navi-mumbai_restaurants-fast-food-shops/16913820940
+p211
+sg13
+VNerul East
+p212
+sg15
+(lp213
+V27707816
+p214
+aV 27717748
+p215
+asg21
+g36
+sg23
+VShop No A 17/18/19/20, Rajiv Gandhi Bridge, Thane Belapur Road, Sector 1, Nerul East, Navi Mumbai
+p216
+sba(i__main__
+Place
+p217
+(dp218
+g3
+(lp219
+VRestaurants
+p220
+asg7
+g36
+sg9
+VPrithvish
+p221
+sg11
+Vhttp://mumbai.burrp.com/listing/prithvish_nerul-east_navi-mumbai_restaurants/19122490118
+p222
+sg13
+VNerul East
+p223
+sg15
+(lp224
+V27709709
+p225
+asg21
+g36
+sg23
+VSector - 3, Shivaji Chowk, Nerul East, Navi Mumbai
+p226
+sba.

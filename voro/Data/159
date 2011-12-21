@@ -1,0 +1,135 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VHome Caterers
+p5
+aV Lounges
+p6
+aV Bars & Pubs
+p7
+aV Restaurants
+p8
+aV Outdoor Caterers
+p9
+asS'rating'
+p10
+V4
+p11
+sS'name'
+p12
+VZenzibu Da Sky Bizarre
+p13
+sS'url'
+p14
+Vhttp://mumbai.burrp.com/listing/zenzibu-da-sky-bizarre_kopar-khairane-w_navi-mumbai_home-caterers-lounges-bars-pubs/1495367960
+p15
+sS'region'
+p16
+VKopar Khairane (W)
+p17
+sS'phone'
+p18
+(lp19
+V9004173737
+p20
+aV 27554010
+p21
+aV 27554020
+p22
+asS'cost'
+p23
+V2
+p24
+sS'addr'
+p25
+V301, Shubham Palace, Commercial Wing, Sector 15, Above HDFC Bank, Kopar Khairane (W), Navi Mumbai
+p26
+sba(i__main__
+Place
+p27
+(dp28
+g3
+(lp29
+VTake Away Shops
+p30
+aV Tiffin Services
+p31
+aV Cafes
+p32
+aV Restaurants
+p33
+aV Banquet Halls
+p34
+aV Fast Food Shops
+p35
+aV Outdoor Caterers
+p36
+aV Dessert Shops
+p37
+aV Canteens
+p38
+asg10
+V5
+p39
+sg12
+VStar Cafe & Catering
+p40
+sg14
+Vhttp://mumbai.burrp.com/listing/star-cafe-catering_kopar-khairane-w_navi-mumbai_take-away-shops-tiffin-services-cafes/1214834188
+p41
+sg16
+VKopar Khairane (W)
+p42
+sg18
+(lp43
+V9323659800
+p44
+aV 9323659700
+p45
+aV 9323659600
+p46
+asg23
+V1
+p47
+sg25
+VSidheshwar Society, Shop No. 20, Plot No. 105, Sector II, Kopar Khairane (W), Navi Mumbai
+p48
+sba(i__main__
+Place
+p49
+(dp50
+g3
+(lp51
+VRestaurants
+p52
+asg10
+g24
+sg12
+VPancharatna
+p53
+sg14
+Vhttp://mumbai.burrp.com/listing/pancharatna_kopar-khairane-w_navi-mumbai_restaurants/167158742
+p54
+sg16
+VKopar Khairane (W)
+p55
+sg18
+(lp56
+V27547545
+p57
+aV 27547554
+p58
+aV 27547558
+p59
+asg23
+V0
+p60
+sg25
+VPlot No. 10, Sahakar Bhavan, Sector 10, Kopar Khairane, Kopar Khairane (W), Navi Mumbai
+p61
+sba.

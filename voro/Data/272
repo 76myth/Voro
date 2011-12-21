@@ -1,0 +1,74 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Take Away Shops
+p6
+aV Outdoor Caterers
+p7
+aV Fast Food Shops
+p8
+asS'rating'
+p9
+V0
+p10
+sS'name'
+p11
+VVivek's
+p12
+sS'url'
+p13
+Vhttp://mumbai.burrp.com/listing/viveks_shimpoli-road_mumbai_restaurants-take-away-shops-outdoor-caterers/18722678722
+p14
+sS'region'
+p15
+VShimpoli Road
+p16
+sS'phone'
+p17
+(lp18
+V28990694
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VBhimabai Niwas, Chikoowadi, Shimpoli Road, Borivali West, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg9
+g10
+sg11
+VVezzo
+p28
+sg13
+Vhttp://mumbai.burrp.com/listing/vezzo_shimpoli-road_mumbai_restaurants/13715518772
+p29
+sg15
+VShimpoli Road
+p30
+sg17
+(lp31
+V28999788
+p32
+asg20
+g10
+sg22
+VShree Avanti Building, Shop No.1 & 2, Haridas Nagar , Shimpoli Road, Borivali West, Mumbai
+p33
+sba.

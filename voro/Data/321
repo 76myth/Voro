@@ -1,0 +1,194 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VBhagat Tarachand
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/bhagat-tarachand_zaveri-bazar_mumbai_restaurants/177105732
+p11
+sS'region'
+p12
+VZaveri Bazar
+p13
+sS'phone'
+p14
+(lp15
+V22425483
+p16
+aV 22426988
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VMumbadevi Commercial Centre, 69/75 Zaveri Bazaar, Zaveri Bazar, Kalbadevi, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V3
+p26
+sg8
+VSurti Veg Resturant
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/surti-veg-resturant_zaveri-bazar_mumbai_restaurants/1971223712
+p28
+sg12
+VZaveri Bazar
+p29
+sg14
+(lp30
+V2400390
+p31
+aV 9821116774
+p32
+asg18
+g19
+sg20
+V3/01, Bhuleshwar Corner, Opposite Cotton Exchange, Zaveri Bazar, Kalbadevi, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+V0
+p38
+sg8
+VRadhomal Bhagat Tarachand Hotel
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/radhomal-bhagat-tarachand-hotel_zaveri-bazar_mumbai_restaurants/15913666950
+p40
+sg12
+VZaveri Bazar
+p41
+sg14
+(lp42
+V22420595
+p43
+aV 9821044255
+p44
+aV 9833520595
+p45
+asg18
+g38
+sg20
+VBuilding No 61/63, Sheikh Memon Street, Zaveri Bazaar Road, Zaveri Bazar, Kalbadevi, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g38
+sg8
+VShree Devki Restaurant
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-devki-restaurant_zaveri-bazar_mumbai_restaurants/19113670118
+p52
+sg12
+VZaveri Bazar
+p53
+sg14
+(lp54
+V22401983
+p55
+aV 66353070
+p56
+asg18
+g38
+sg20
+VShop No 46/48, Sheikh Memon Street, Zaveri Bazar, Kalbadevi, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g38
+sg8
+VShree Kalpana Club
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-kalpana-club_zaveri-bazar_mumbai_restaurants/19713670712
+p63
+sg12
+VZaveri Bazar
+p64
+sg14
+(lp65
+V22401327
+p66
+aV 22422270
+p67
+asg18
+g38
+sg20
+VBuilding No 5/7, 2nd Floor, New Satta Lane, Behind Cotton Exchange, Zaveri Bazar, Kalbadevi, Mumbai
+p68
+sba(i__main__
+Place
+p69
+(dp70
+g3
+(lp71
+VRestaurants
+p72
+asg6
+g38
+sg8
+VSai Kripa Hotel
+p73
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-kripa-hotel_zaveri-bazar_mumbai_restaurants/11313671396
+p74
+sg12
+VZaveri Bazar
+p75
+sg14
+(lp76
+V22423693
+p77
+asg18
+g38
+sg20
+VShop No 42/44, Shaikh Menon Street, Zaveri Bazar, Kalbadevi, Mumbai
+p78
+sba.

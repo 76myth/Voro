@@ -1,0 +1,71 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VFu Yung Chinese Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/fu-yung-chinese-restaurant_kharodi_mumbai_restaurants/18110969128
+p11
+sS'region'
+p12
+VKharodi
+p13
+sS'phone'
+p14
+(lp15
+V28808736
+p16
+aV 9920452002
+p17
+asS'cost'
+p18
+g7
+sS'addr'
+p19
+V1/7, BMC Colony, Kharodi No 1, Kharodi, Malad West, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g7
+sg8
+VChung Fa Chinese Restaurant
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/chung-fa-chinese-restaurant_kharodi_mumbai_restaurants/11110971198
+p26
+sg12
+VKharodi
+p27
+sg14
+(lp28
+V28070661
+p29
+aV 9819414498
+p30
+asg18
+g7
+sg19
+V2-10, Pandit Pathan Chawl, Marve Road, Kharodi Village, Kharodi, Malad West, Mumbai
+p31
+sba.

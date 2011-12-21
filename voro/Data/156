@@ -1,0 +1,48 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Outdoor Caterers
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VLaxmi Pure Veg
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/laxmi-pure-veg_konkan-bhavan_navi-mumbai_restaurants-outdoor-caterers/15113738158
+p12
+sS'region'
+p13
+VKonkan Bhavan
+p14
+sS'phone'
+p15
+(lp16
+V27575612
+p17
+aV 27581055
+p18
+aV 27581056
+p19
+aV 27581057
+p20
+asS'cost'
+p21
+V2
+p22
+sS'addr'
+p23
+VSector  15, Sai Sagar & Sai Sangam Building, Konkan Bhavan, CBD Belapur, Navi Mumbai
+p24
+sba.

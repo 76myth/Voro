@@ -1,0 +1,183 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VCafes
+p5
+aV Outdoor Caterers
+p6
+aV Restaurants
+p7
+aV Lounges
+p8
+asS'rating'
+p9
+V3
+p10
+sS'name'
+p11
+VBistro Grill
+p12
+sS'url'
+p13
+Vhttp://mumbai.burrp.com/listing/bistro-grill_iit-powai_mumbai_cafes-outdoor-caterers-restaurants/1701365039
+p14
+sS'region'
+p15
+VIIT Powai
+p16
+sS'phone'
+p17
+(lp18
+V40157888
+p19
+aV 40157889
+p20
+asS'cost'
+p21
+V2
+p22
+sS'addr'
+p23
+VShop No.G1-G3, Ventura Building, Ground Floor, Hiranandani Gardens, IIT Powai, Powai, Mumbai
+p24
+sba(i__main__
+Place
+p25
+(dp26
+g3
+(lp27
+VCafes
+p28
+aV Restaurants
+p29
+asg9
+V4
+p30
+sg11
+VRetro Rewind Cafe
+p31
+sg13
+Vhttp://mumbai.burrp.com/listing/retro-rewind-cafe_iit-powai_mumbai_cafes-restaurants/12518424584
+p32
+sg15
+VIIT Powai
+p33
+sg17
+(lp34
+V32267767
+p35
+aV 25700799
+p36
+aV 983345078
+p37
+aV 9819064145
+p38
+asg21
+g22
+sg23
+V2, 3, Sadguru CHS (Pant Farm), ADS Marg, IIT Powai, Powai, Mumbai
+p39
+sba(i__main__
+Place
+p40
+(dp41
+g3
+(lp42
+VRestaurants
+p43
+asg9
+g30
+sg11
+VPizzaroma Powai
+p44
+sg13
+Vhttp://mumbai.burrp.com/listing/pizzaroma-powai_iit-powai_mumbai_restaurants/13722673772
+p45
+sg15
+VIIT Powai
+p46
+sg17
+(lp47
+V66979992
+p48
+aV 66979993
+p49
+aV 66979994
+p50
+aV 66979995
+p51
+asg21
+g22
+sg23
+VShop No 50, Powai Plaza, Hiranandani Gardens, IIT Powai, Powai, Mumbai
+p52
+sba(i__main__
+Place
+p53
+(dp54
+g3
+(lp55
+VRestaurants
+p56
+asg9
+V0
+p57
+sg11
+VSip N Dine
+p58
+sg13
+Vhttp://mumbai.burrp.com/listing/sip-n-dine_iit-powai_mumbai_restaurants/1355618574
+p59
+sg15
+VIIT Powai
+p60
+sg17
+(lp61
+V25796019
+p62
+aV 25796011
+p63
+asg21
+V1
+p64
+sg23
+VIIT Gate No. 2, Apna Bazar Road, IIT Powai, Powai, Mumbai
+p65
+sba(i__main__
+Place
+p66
+(dp67
+g3
+(lp68
+VBars & Pubs
+p69
+aV Restaurants
+p70
+asg9
+g57
+sg11
+VShaolin Chinese
+p71
+sg13
+Vhttp://mumbai.burrp.com/listing/shaolin-chinese_iit-powai_mumbai_bars-pubs-restaurants/15510084554
+p72
+sg15
+VIIT Powai
+p73
+sg17
+(lp74
+V25797565
+p75
+aV 40057565
+p76
+asg21
+g57
+sg23
+V192, 193, Galleria, I.I.T, Hiranandani Gardens, IIT Powai, Powai, Mumbai
+p77
+sba.

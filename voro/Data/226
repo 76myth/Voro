@@ -1,0 +1,103 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VHotel Sawali
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/hotel-sawali_nehru-nagar_mumbai_restaurants/19712428712
+p11
+sS'region'
+p12
+VNehru Nagar
+p13
+sS'phone'
+p14
+(lp15
+V25232621
+p16
+aV 9820004023
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VShop No 125/126, S G Barve Marg, Nehru Nagar, Khar East, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V3
+p26
+sg8
+VMahesh Restaurant & Bar
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/mahesh-restaurant-bar_nehru-nagar_mumbai_restaurants/11312429396
+p28
+sg12
+VNehru Nagar
+p29
+sg14
+(lp30
+V25225185
+p31
+aV 25229741
+p32
+asg18
+g19
+sg20
+VShop No B/9, CST Road, Nehru Nagar, Khar East, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g19
+sg8
+VChina Town Chinese Restaurant
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/china-town-chinese-restaurant_nehru-nagar_mumbai_restaurants/11912429990
+p39
+sg12
+VNehru Nagar
+p40
+sg14
+(lp41
+V25297102
+p42
+aV 9892181901
+p43
+asg18
+g19
+sg20
+VMother Dairy Road, Nehru Nagar, Khar East, Mumbai
+p44
+sba.

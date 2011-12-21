@@ -1,0 +1,311 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VSur Sagar Veg Restaurant 
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/sur-sagar-veg-restaurant-_jogeshwari-east_mumbai_restaurants/1304466079
+p11
+sS'region'
+p12
+VJogeshwari East
+p13
+sS'phone'
+p14
+(lp15
+V32658610
+p16
+aV 32658611
+p17
+aV 28362190 
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VJ.V. Link Road, Opposite Greenfield Society, Jogeshwari East, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+V0
+p27
+sg8
+VHotel Raj Bar & Restaurant
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-raj-bar-restaurant_jogeshwari-east_mumbai_restaurants/16510139544
+p29
+sg12
+VJogeshwari East
+p30
+sg14
+(lp31
+V28361159
+p32
+asg19
+g20
+sg21
+VCaves Road, Jogeshwari East, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g27
+sg8
+VSudarshan Restaurant
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/sudarshan-restaurant_jogeshwari-east_mumbai_restaurants/18710168722
+p39
+sg12
+VJogeshwari East
+p40
+sg14
+(lp41
+V65011446
+p42
+aV 9833440684
+p43
+aV 9920669590
+p44
+asg19
+g27
+sg21
+VSitaram Jaigopal Building, Near Caves Road, Jogeshwari East, Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g27
+sg8
+VNaivedya Pure Veg Restaurant
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/naivedya-pure-veg-restaurant_jogeshwari-east_mumbai_restaurants/1484503861
+p51
+sg12
+VJogeshwari East
+p52
+sg14
+(lp53
+V28341166
+p54
+aV 28222094
+p55
+asg19
+g27
+sg21
+VPlot No.15, K. A. Patel Buildiing, Station Road, Jogeshwari East, Mumbai
+p56
+sba(i__main__
+Place
+p57
+(dp58
+g3
+(lp59
+VRestaurants
+p60
+asg6
+g27
+sg8
+VRaj Family Restaurant & Bar
+p61
+sg10
+Vhttp://mumbai.burrp.com/listing/raj-family-restaurant-bar_jogeshwari-east_mumbai_restaurants/13110154178
+p62
+sg12
+VJogeshwari East
+p63
+sg14
+(lp64
+V28361159
+p65
+asg19
+g27
+sg21
+VNavalkar Wadi, Caves Road , Jogeshwari East, Mumbai
+p66
+sba(i__main__
+Place
+p67
+(dp68
+g3
+(lp69
+VHotels
+p70
+aV Restaurants
+p71
+asg6
+g27
+sg8
+VShree Raj Hotel
+p72
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-raj-hotel_jogeshwari-east_mumbai_hotels-restaurants/12510171584
+p73
+sg12
+VJogeshwari East
+p74
+sg14
+(lp75
+V28240836
+p76
+aV 28240837
+p77
+asg19
+g27
+sg21
+VTahira Compound, Caves Road, Jogeshwari East, Mumbai
+p78
+sba(i__main__
+Place
+p79
+(dp80
+g3
+(lp81
+VRestaurants
+p82
+asg6
+g27
+sg8
+VSadguru Restaurant
+p83
+sg10
+Vhttp://mumbai.burrp.com/listing/sadguru-restaurant_jogeshwari-east_mumbai_restaurants/12710171782
+p84
+sg12
+VJogeshwari East
+p85
+sg14
+(lp86
+V28256603
+p87
+aV 28346152
+p88
+asg19
+g27
+sg21
+VShop No 4/5 Dinabhai Bldg, Caves Road, Jogeshwari East, Mumbai
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VRestaurants
+p93
+asg6
+g27
+sg8
+VKalash Restaurant
+p94
+sg10
+Vhttp://mumbai.burrp.com/listing/kalash-restaurant_jogeshwari-east_mumbai_restaurants/17310185336
+p95
+sg12
+VJogeshwari East
+p96
+sg14
+(lp97
+V28263428
+p98
+asg19
+g27
+sg21
+VJogeshwari Caves Road, Near Police Station, Jogeshwari East, Mumbai
+p99
+sba(i__main__
+Place
+p100
+(dp101
+g3
+(lp102
+VRestaurants
+p103
+asg6
+g27
+sg8
+VTaskan Restaurant
+p104
+sg10
+Vhttp://mumbai.burrp.com/listing/taskan-restaurant_jogeshwari-east_mumbai_restaurants/12510189584
+p105
+sg12
+VJogeshwari East
+p106
+sg14
+(lp107
+V26782243
+p108
+aV 26789927
+p109
+asg19
+g27
+sg21
+VAjeet Glass Factory, S V Road, Jogeshwari East, Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VRestaurants
+p114
+asg6
+g27
+sg8
+VAishwarya Bar & Restaurant
+p115
+sg10
+Vhttp://mumbai.burrp.com/listing/aishwarya-bar-restaurant_jogeshwari-east_mumbai_restaurants/17733171732
+p116
+sg12
+VJogeshwari East
+p117
+sg14
+(lp118
+V28243327
+p119
+asg19
+g20
+sg21
+VShop No 8, Gandhi Nagar, Jogeshwari East, Mumbai
+p120
+sba.

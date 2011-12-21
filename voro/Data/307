@@ -1,0 +1,737 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBars & Pubs
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VTimbuctoo
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/timbuctoo_vikhroli-west_mumbai_bars-pubs-restaurants/1843760425
+p12
+sS'region'
+p13
+VVikhroli West
+p14
+sS'phone'
+p15
+(lp16
+V40110949
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VKailash Complex, Above Pop Tates, Godrej Hiranandani Link Road, Vikhroli West, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg7
+V5
+p26
+sg9
+VMoksh Restaurant
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/moksh-restaurant_vikhroli-west_mumbai_restaurants/12914986980
+p28
+sg13
+VVikhroli West
+p29
+sg15
+(lp30
+V25770303
+p31
+asg18
+V2
+p32
+sg20
+VFood Court, 1st Floor, B-Wing, 247 Park, Hincon House, L.B.S Marg, Vikhroli West, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VBars & Pubs
+p37
+aV Restaurants
+p38
+asg7
+V3
+p39
+sg9
+VPop Tate's
+p40
+sg11
+Vhttp://mumbai.burrp.com/listing/pop-tates_vikhroli-west_mumbai_bars-pubs-restaurants/1201963089
+p41
+sg13
+VVikhroli West
+p42
+sg15
+(lp43
+V40110946
+p44
+aV 40110947
+p45
+aV 40110948
+p46
+asg18
+g32
+sg20
+VC/13, Mayfair Sonata Green, Kailash Complex, Godrej Hiranandani Link Road, Vikhroli West, Mumbai
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VRestaurants
+p51
+asg7
+g8
+sg9
+VMalvan Samudra 
+p52
+sg11
+Vhttp://mumbai.burrp.com/listing/malvan-samudra-_vikhroli-west_mumbai_restaurants/16513289544
+p53
+sg13
+VVikhroli West
+p54
+sg15
+(lp55
+V25782909
+p56
+aV 66990294
+p57
+aV 67990294
+p58
+asg18
+g32
+sg20
+VNarendra Bhavan, Station Road, Vikhroli West, Mumbai
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg7
+g19
+sg9
+V360 Degree
+p64
+sg11
+Vhttp://mumbai.burrp.com/listing/360-degree_vikhroli-west_mumbai_restaurants/19733794712
+p65
+sg13
+VVikhroli West
+p66
+sg15
+(lp67
+V61775253
+p68
+aV 8879262509
+p69
+asg18
+g32
+sg20
+VFirst Floor, Vikhroli West, Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VFast Food Shops
+p74
+aV Ice-cream Parlours
+p75
+aV Restaurants
+p76
+aV Juice Parlours
+p77
+asg7
+g19
+sg9
+VSatkar Hotel
+p78
+sg11
+Vhttp://mumbai.burrp.com/listing/satkar-hotel_vikhroli-west_mumbai_fast-food-shops-ice-cream-parlours-restaurants/18513291524
+p79
+sg13
+VVikhroli West
+p80
+sg15
+(lp81
+V25783819
+p82
+aV 25785521
+p83
+asg18
+g32
+sg20
+VStation Road, Near St Joseph Church, Vikhroli West, Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg7
+g19
+sg9
+VMohini Vilas
+p89
+sg11
+Vhttp://mumbai.burrp.com/listing/mohini-vilas_vikhroli-west_mumbai_restaurants/1224492287
+p90
+sg13
+VVikhroli West
+p91
+sg15
+(lp92
+V25782638
+p93
+asg18
+g32
+sg20
+VOpp. Rly. Station, Vikhroli West, Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VRestaurants
+p98
+asg7
+g19
+sg9
+VAadarsh
+p99
+sg11
+Vhttp://mumbai.burrp.com/listing/aadarsh_vikhroli-west_mumbai_restaurants/18523560524
+p100
+sg13
+VVikhroli West
+p101
+sg15
+(lp102
+V25780162
+p103
+aV 25784866
+p104
+asg18
+g32
+sg20
+VL.B.S Marg, Vikhroli West, Mumbai
+p105
+sba(i__main__
+Place
+p106
+(dp107
+g3
+(lp108
+VRestaurants
+p109
+asg7
+g19
+sg9
+VAkarshan
+p110
+sg11
+Vhttp://mumbai.burrp.com/listing/akarshan_vikhroli-west_mumbai_restaurants/134101475
+p111
+sg13
+VVikhroli West
+p112
+sg15
+(lp113
+V25791964
+p114
+aV 25779477
+p115
+asg18
+g19
+sg20
+VStation Road, Vikhroli (W), Vikhroli (W), Vikhroli West, Mumbai
+p116
+sba(i__main__
+Place
+p117
+(dp118
+g3
+(lp119
+VRestaurants
+p120
+asg7
+g19
+sg9
+VChopsticks
+p121
+sg11
+Vhttp://mumbai.burrp.com/listing/chopsticks_vikhroli-west_mumbai_restaurants/188718821
+p122
+sg13
+VVikhroli West
+p123
+sg15
+(lp124
+V25775518
+p125
+aV 25781804
+p126
+asg18
+g32
+sg20
+VOpposite Saraswat Cooperative Bank, Vikhroli (W), Vikhroli West, Mumbai
+p127
+sba(i__main__
+Place
+p128
+(dp129
+g3
+(lp130
+VRestaurants
+p131
+asg7
+g19
+sg9
+VChopssticks Chinese Cuisine
+p132
+sg11
+Vhttp://mumbai.burrp.com/listing/chopssticks-chinese-cuisine_vikhroli-west_mumbai_restaurants/1654415544
+p133
+sg13
+VVikhroli West
+p134
+sg15
+(lp135
+V25781804 
+p136
+aV 25775518
+p137
+asg18
+g19
+sg20
+VStation Road, Vikhroli (W), Vikhroli West, Mumbai
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VRestaurants
+p142
+asg7
+g19
+sg9
+VShashi Restaurant & Bar 
+p143
+sg11
+Vhttp://mumbai.burrp.com/listing/shashi-restaurant-bar-_vikhroli-west_mumbai_restaurants/1724479237
+p144
+sg13
+VVikhroli West
+p145
+sg15
+(lp146
+V25783076 
+p147
+asg18
+g19
+sg20
+VStation Road , Vikhroli (W), Vikhroli West, Mumbai
+p148
+sba(i__main__
+Place
+p149
+(dp150
+g3
+(lp151
+VRestaurants
+p152
+asg7
+g19
+sg9
+VSatkar Lunch Home 
+p153
+sg11
+Vhttp://mumbai.burrp.com/listing/satkar-lunch-home-_vikhroli-west_mumbai_restaurants/1224483287
+p154
+sg13
+VVikhroli West
+p155
+sg15
+(lp156
+V25783819 
+p157
+asg18
+g19
+sg20
+VParas Sadan, Station Road, St. Joseph School , Vikhroli (W), Vikhroli West, Mumbai
+p158
+sba(i__main__
+Place
+p159
+(dp160
+g3
+(lp161
+VRestaurants
+p162
+asg7
+g19
+sg9
+VAmbika Hotel
+p163
+sg11
+Vhttp://mumbai.burrp.com/listing/ambika-hotel_vikhroli-west_mumbai_restaurants/14313287366
+p164
+sg13
+VVikhroli West
+p165
+sg15
+(lp166
+V25782618
+p167
+asg18
+g19
+sg20
+VBaristan Building, Vikhroli West, Mumbai
+p168
+sba(i__main__
+Place
+p169
+(dp170
+g3
+(lp171
+VRestaurants
+p172
+asg7
+g19
+sg9
+VArpan Restaurant & Bar
+p173
+sg11
+Vhttp://mumbai.burrp.com/listing/arpan-restaurant-bar_vikhroli-west_mumbai_restaurants/14713287762
+p174
+sg13
+VVikhroli West
+p175
+sg15
+(lp176
+V25772855
+p177
+aV 25777675
+p178
+asg18
+g32
+sg20
+VStation Road, Vikhroli West, Mumbai
+p179
+sba(i__main__
+Place
+p180
+(dp181
+g3
+(lp182
+VRestaurants
+p183
+asg7
+g19
+sg9
+VCafe Ajwa
+p184
+sg11
+Vhttp://mumbai.burrp.com/listing/cafe-ajwa_vikhroli-west_mumbai_restaurants/14913287960
+p185
+sg13
+VVikhroli West
+p186
+sg15
+(lp187
+V25172506
+p188
+asg18
+g19
+sg20
+VApar Depo Pada, Park Site, Vikhroli West, Mumbai
+p189
+sba(i__main__
+Place
+p190
+(dp191
+g3
+(lp192
+VRestaurants
+p193
+asg7
+g19
+sg9
+VShruti Udipi Restaurant
+p194
+sg11
+Vhttp://mumbai.burrp.com/listing/shruti-udipi-restaurant_vikhroli-west_mumbai_restaurants/19313292316
+p195
+sg13
+VVikhroli West
+p196
+sg15
+(lp197
+V25181316
+p198
+asg18
+g19
+sg20
+VC 30, Kailash Industrial Complex, L B S Marg, Vikhroli West, Mumbai
+p199
+sba(i__main__
+Place
+p200
+(dp201
+g3
+(lp202
+VDessert Shops
+p203
+aV Restaurants
+p204
+aV Cafes
+p205
+aV Bakery Shops
+p206
+asg7
+g19
+sg9
+VAsian Bakers And Sweets
+p207
+sg11
+Vhttp://mumbai.burrp.com/listing/asian-bakers-and-sweets_vikhroli-west_mumbai_dessert-shops-restaurants-cafes/12713294782
+p208
+sg13
+VVikhroli West
+p209
+sg15
+(lp210
+V
+p211
+aV 9022131611
+p212
+aV 9821313215
+p213
+asg18
+g19
+sg20
+VRoad No 1, Parksite, Vikhroli West, Mumbai
+p214
+sba(i__main__
+Place
+p215
+(dp216
+g3
+(lp217
+VRestaurants
+p218
+asg7
+g19
+sg9
+VArpit Restaurant
+p219
+sg11
+Vhttp://mumbai.burrp.com/listing/arpit-restaurant_vikhroli-west_mumbai_restaurants/12913294980
+p220
+sg13
+VVikhroli West
+p221
+sg15
+(lp222
+V25793259
+p223
+aV 9869425689
+p224
+asg18
+g19
+sg20
+VShop No C/12, Adke Compound, Vikhroli West, Mumbai
+p225
+sba(i__main__
+Place
+p226
+(dp227
+g3
+(lp228
+VRestaurants
+p229
+asg7
+g19
+sg9
+VAmbika Lunch Home
+p230
+sg11
+Vhttp://mumbai.burrp.com/listing/ambika-lunch-home_vikhroli-west_mumbai_restaurants/13113295178
+p231
+sg13
+VVikhroli West
+p232
+sg15
+(lp233
+V25782618
+p234
+asg18
+g19
+sg20
+VShop No 26, Baristan Building, Vikhroli West, Mumbai
+p235
+sba(i__main__
+Place
+p236
+(dp237
+g3
+(lp238
+VRestaurants
+p239
+asg7
+g19
+sg9
+VShanghai Express Restaurant
+p240
+sg11
+Vhttp://mumbai.burrp.com/listing/shanghai-express-restaurant_vikhroli-west_mumbai_restaurants/19713301712
+p241
+sg13
+VVikhroli West
+p242
+sg15
+(lp243
+V25778419
+p244
+aV 25798519
+p245
+asg18
+g19
+sg20
+VSamrat Mill Compound, L B S Marg, Vikhroli West, Mumbai
+p246
+sba(i__main__
+Place
+p247
+(dp248
+g3
+(lp249
+VRestaurants
+p250
+asg7
+g19
+sg9
+VShiv Chhaya Hotel
+p251
+sg11
+Vhttp://mumbai.burrp.com/listing/shiv-chhaya-hotel_vikhroli-west_mumbai_restaurants/11113302198
+p252
+sg13
+VVikhroli West
+p253
+sg15
+(lp254
+V25773336
+p255
+asg18
+g19
+sg20
+VMarine Villa Building, Station Road, Vikhroli West, Mumbai
+p256
+sba(i__main__
+Place
+p257
+(dp258
+g3
+(lp259
+VBars & Pubs
+p260
+aV Restaurants
+p261
+asg7
+g19
+sg9
+VKausars Food Delight Restaurant
+p262
+sg11
+Vhttp://mumbai.burrp.com/listing/kausars-food-delight-restaurant_vikhroli-west_mumbai_bars-pubs-restaurants/15713306752
+p263
+sg13
+VVikhroli West
+p264
+sg15
+(lp265
+V25770953
+p266
+aV 25795001
+p267
+asg18
+g19
+sg20
+VGala No 39 Damji Shamji Indl Estate, Lbs Marg, Vikhroli West, Mumbai
+p268
+sba(i__main__
+Place
+p269
+(dp270
+g3
+(lp271
+VRestaurants
+p272
+asg7
+g19
+sg9
+VKashish Resto & Bar
+p273
+sg11
+Vhttp://mumbai.burrp.com/listing/kashish-resto-bar_vikhroli-west_mumbai_restaurants/11324201396
+p274
+sg13
+VVikhroli West
+p275
+sg15
+(lp276
+V25790598
+p277
+asg18
+g19
+sg20
+VGopal Sadan, Station Road, Vikhroli West, Mumbai
+p278
+sba.

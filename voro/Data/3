@@ -1,0 +1,74 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VPakwaan
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/pakwaan_agripada_mumbai_restaurants/1537222356
+p11
+sS'region'
+p12
+VAgripada
+p13
+sS'phone'
+p14
+(lp15
+V23050950
+p16
+aV 32441900
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VClassic Tower , Dr Nair Road, Agripada, Byculla, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g19
+sg8
+VGoan Cart
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/goan-cart_agripada_mumbai_restaurants/1517222158
+p27
+sg12
+VAgripada
+p28
+sg14
+(lp29
+V
+p30
+aV 9820534076
+p31
+aV 9820756797
+p32
+asg18
+g19
+sg20
+VSundar Lane, Agripada, Byculla, Mumbai
+p33
+sba.

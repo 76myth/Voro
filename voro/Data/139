@@ -1,0 +1,2768 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VRed Indian Sizzlers
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/red-indian-sizzlers_mahavir-nagar_mumbai_restaurants/165248544
+p11
+sS'region'
+p12
+VMahavir Nagar
+p13
+sS'phone'
+p14
+(lp15
+V28084343
+p16
+aV 28090096
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VS.V. Road, Mahavir Nagar, Kandivali West, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V3
+p26
+sg8
+VSankalp Restaurant
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/sankalp-restaurant_kandivali-west_mumbai_restaurants/130749079
+p28
+sg12
+VKandivali West
+p29
+sg14
+(lp30
+V28695959
+p31
+aV 32566577
+p32
+asg18
+g19
+sg20
+VProfit Centre, Mahavir Nagar, Kandivali West, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+g26
+sg8
+V Village
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/village_kandivali-west_mumbai_restaurants/142165267
+p39
+sg12
+VKandivali West
+p40
+sg14
+(lp41
+V28092809
+p42
+aV 28081199
+p43
+aV 9987131348
+p44
+asg18
+g26
+sg20
+V1st Floor, Raghuleela Mall, SV Road, Kandivali (W), Kandivali West, Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g26
+sg8
+VKalash
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/kalash_kandivali-west_mumbai_restaurants/141255168
+p51
+sg12
+VKandivali West
+p52
+sg14
+(lp53
+V32501146
+p54
+aV 32425499
+p55
+asg18
+V1
+p56
+sg20
+VRaghuleela Megamall, 3rd floor, Behind Poisar Depot, Kandivali (W), Kandivali West, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VBars & Pubs
+p61
+aV Banquet Halls
+p62
+aV Restaurants
+p63
+asg6
+g19
+sg8
+VChilli 2 Vanilla
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/chilli-2-vanilla_kandivali-west_mumbai_bars-pubs-banquet-halls-restaurants/1741338435
+p65
+sg12
+VKandivali West
+p66
+sg14
+(lp67
+V29678151
+p68
+aV 29678152
+p69
+aV 29678153
+p70
+aV 9320607903
+p71
+asg18
+g26
+sg20
+VDahanukar Wadi, M G Road, Off Link Road, Kandivali West, Mumbai
+p72
+sba(i__main__
+Place
+p73
+(dp74
+g3
+(lp75
+VRestaurants
+p76
+aV Banquet Halls
+p77
+aV Outdoor Caterers
+p78
+asg6
+V5
+p79
+sg8
+VBhagwati Veg. Restaurant
+p80
+sg10
+Vhttp://mumbai.burrp.com/listing/bhagwati-veg-restaurant_kandivali-west_mumbai_restaurants-banquet-halls-outdoor-caterers/1216238188
+p81
+sg12
+VKandivali West
+p82
+sg14
+(lp83
+V28073217
+p84
+aV 28663728
+p85
+aV 28618567
+p86
+asg18
+V0
+p87
+sg20
+VShop No. 9 & 10, Geeta Sadan, H. K. Road, Iraniwadi, Kandivali West, Mumbai
+p88
+sba(i__main__
+Place
+p89
+(dp90
+g3
+(lp91
+VRestaurants
+p92
+asg6
+g7
+sg8
+VAmma's Kitchen
+p93
+sg10
+Vhttp://mumbai.burrp.com/listing/ammas-kitchen_mahavir-nagar_mumbai_restaurants/130281079
+p94
+sg12
+VMahavir Nagar
+p95
+sg14
+(lp96
+V9930084433
+p97
+aV 9619374433
+p98
+asg18
+g19
+sg20
+VShop No.31, Raj Garden Building, Near Pancholiya High School, Mahavir Nagar, Kandivali West, Mumbai
+p99
+sba(i__main__
+Place
+p100
+(dp101
+g3
+(lp102
+VRestaurants
+p103
+asg6
+g19
+sg8
+VSarovar Pure Veg
+p104
+sg10
+Vhttp://mumbai.burrp.com/listing/sarovar-pure-veg_kandivali-west_mumbai_restaurants/18952920
+p105
+sg12
+VKandivali West
+p106
+sg14
+(lp107
+V28011468
+p108
+aV 28012877
+p109
+aV 28010732
+p110
+aV 28012876
+p111
+asg18
+g87
+sg20
+VPayyade International, V.L. Road, Kandivali West, Mumbai
+p112
+sba(i__main__
+Place
+p113
+(dp114
+g3
+(lp115
+VRestaurants
+p116
+asg6
+g19
+sg8
+VParatha King
+p117
+sg10
+Vhttp://mumbai.burrp.com/listing/paratha-king_kandivali-west_mumbai_restaurants/13522214574
+p118
+sg12
+VKandivali West
+p119
+sg14
+(lp120
+V64480444
+p121
+aV 64480004
+p122
+asg18
+g56
+sg20
+VShop No. 70, Raj Arcade, Mahavir Nagar, Kandivali West, Mumbai
+p123
+sba(i__main__
+Place
+p124
+(dp125
+g3
+(lp126
+VRestaurants
+p127
+asg6
+g79
+sg8
+VBhagwati Veg Restaurant
+p128
+sg10
+Vhttp://mumbai.burrp.com/listing/bhagwati-veg-restaurant_charkop_mumbai_restaurants/1738394336
+p129
+sg12
+VCharkop
+p130
+sg14
+(lp131
+V28674522
+p132
+aV 28674833
+p133
+aV 28676656
+p134
+aV 28689822
+p135
+asg18
+g87
+sg20
+VKesar Residency, Sector-3, Charkop, Kandivali West, Mumbai
+p136
+sba(i__main__
+Place
+p137
+(dp138
+g3
+(lp139
+VRestaurants
+p140
+asg6
+g7
+sg8
+VTulsi Vihar
+p141
+sg10
+Vhttp://mumbai.burrp.com/listing/tulsi-vihar_kandivali-west_mumbai_restaurants/15310768356
+p142
+sg12
+VKandivali West
+p143
+sg14
+(lp144
+V28686834
+p145
+aV 28688800
+p146
+aV 28696588
+p147
+aV 28689966
+p148
+asg18
+g19
+sg20
+V10/11, Suman Co-Operative Housing Society Ltd, Prabodhan Thackeray Nagar, 1/2, Charkop, Kandivali West, Mumbai
+p149
+sba(i__main__
+Place
+p150
+(dp151
+g3
+(lp152
+VRestaurants
+p153
+asg6
+g7
+sg8
+VParatha House
+p154
+sg10
+Vhttp://mumbai.burrp.com/listing/paratha-house_kandivali-west_mumbai_restaurants/1336167376
+p155
+sg12
+VKandivali West
+p156
+sg14
+(lp157
+V32714328
+p158
+asg18
+g19
+sg20
+VShop No 7, Safalya Building, Mahavir Nagar, Kandivali (W), Kandivali West, Mumbai
+p159
+sba(i__main__
+Place
+p160
+(dp161
+g3
+(lp162
+VRestaurants
+p163
+asg6
+g7
+sg8
+VSannidhi
+p164
+sg10
+Vhttp://mumbai.burrp.com/listing/sannidhi_kandivali-west_mumbai_restaurants/18052029
+p165
+sg12
+VKandivali West
+p166
+sg14
+(lp167
+V28010732
+p168
+aV 28012876
+p169
+aV 28011468
+p170
+aV 28012877
+p171
+asg18
+g87
+sg20
+VPayyade International, VL Road, Kandivali (W), Kandivali West, Mumbai
+p172
+sba(i__main__
+Place
+p173
+(dp174
+g3
+(lp175
+VRestaurants
+p176
+asg6
+g26
+sg8
+VLata Restaurant and Bar
+p177
+sg10
+Vhttp://mumbai.burrp.com/listing/lata-restaurant-and-bar_kandivali-west_mumbai_restaurants/167437742
+p178
+sg12
+VKandivali West
+p179
+sg14
+(lp180
+V28062043
+p181
+aV 28062059
+p182
+asg18
+g19
+sg20
+VGround Floor, Laxmi Shopping Center, Vasanji Lalji Road, Kandivali West, Mumbai
+p183
+sba(i__main__
+Place
+p184
+(dp185
+g3
+(lp186
+VRestaurants
+p187
+aV Outdoor Caterers
+p188
+aV Home Caterers
+p189
+asg6
+g87
+sg8
+VPunjab Da Mela
+p190
+sg10
+Vhttp://mumbai.burrp.com/listing/punjab-da-mela_mahavir-nagar_mumbai_restaurants-outdoor-caterers-home-caterers/18318322326
+p191
+sg12
+VMahavir Nagar
+p192
+sg14
+(lp193
+V65114020
+p194
+aV 65164020
+p195
+asg18
+g19
+sg20
+V65 , Raj Arcade, Mahavir Nagar, Kandivali West, Mumbai
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VFast Food Shops
+p200
+aV Restaurants
+p201
+aV Outdoor Caterers
+p202
+asg6
+g87
+sg8
+VAtithi Fast Food
+p203
+sg10
+Vhttp://mumbai.burrp.com/listing/atithi-fast-food_kandivali-west_mumbai_fast-food-shops-restaurants-outdoor-caterers/12522636584
+p204
+sg12
+VKandivali West
+p205
+sg14
+(lp206
+V67028975
+p207
+aV 9022463396
+p208
+aV 9321428768
+p209
+asg18
+g56
+sg20
+V41, Raj Arcade, Mahavir Nagar, Kandivali West, Mumbai
+p210
+sba(i__main__
+Place
+p211
+(dp212
+g3
+(lp213
+VRestaurants
+p214
+asg6
+g87
+sg8
+VHotel Kokan Kinara
+p215
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-kokan-kinara_kandivali-west_mumbai_restaurants/1818404128
+p216
+sg12
+VKandivali West
+p217
+sg14
+(lp218
+V28684858
+p219
+aV 28699980
+p220
+asg18
+g19
+sg20
+VShri Sadguru Bhalchandra Maharaj CHS Ltd, Plot No. 284, Sector No. 1, Charkop, Kandivali West, Mumbai
+p221
+sba(i__main__
+Place
+p222
+(dp223
+g3
+(lp224
+VRestaurants
+p225
+aV Outdoor Caterers
+p226
+aV Bars & Pubs
+p227
+asg6
+g87
+sg8
+VAdarsh Restaurant & Bar
+p228
+sg10
+Vhttp://mumbai.burrp.com/listing/adarsh-restaurant-bar_kandivali-west_mumbai_restaurants-outdoor-caterers-bars-pubs/17122632138
+p229
+sg12
+VKandivali West
+p230
+sg14
+(lp231
+V28054125
+p232
+aV 28062292
+p233
+asg18
+g87
+sg20
+VGuruprasad Shopping Centre, V. L. Road, Kandivali West, Mumbai
+p234
+sba(i__main__
+Place
+p235
+(dp236
+g3
+(lp237
+VOutdoor Caterers
+p238
+aV Restaurants
+p239
+asg6
+g87
+sg8
+VCafe Toscana
+p240
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-toscana_charkop_mumbai_outdoor-caterers-restaurants/15122621158
+p241
+sg12
+VCharkop
+p242
+sg14
+(lp243
+V32256864
+p244
+aV 9969202679
+p245
+aV 9619789111
+p246
+asg18
+g87
+sg20
+VShop No. 12, Sea Mist, Sector No. 8, Plot No. 3, Charkop, Kandivali West, Mumbai
+p247
+sba(i__main__
+Place
+p248
+(dp249
+g3
+(lp250
+VRestaurants
+p251
+asg6
+g87
+sg8
+VRutuja Pure Veg 
+p252
+sg10
+Vhttp://mumbai.burrp.com/listing/rutuja-pure-veg-_charkop_mumbai_restaurants/1504495059
+p253
+sg12
+VCharkop
+p254
+sg14
+(lp255
+V28690561
+p256
+aV 28691047 
+p257
+asg18
+g87
+sg20
+VPriyanka Building, Sector No. 3, Charkop, Kandivali West, Mumbai
+p258
+sba(i__main__
+Place
+p259
+(dp260
+g3
+(lp261
+VRestaurants
+p262
+aV Fast Food Shops
+p263
+asg6
+g87
+sg8
+VMcDonald's
+p264
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_kandivali-west_mumbai_restaurants-fast-food-shops/1832500326
+p265
+sg12
+VKandivali West
+p266
+sg14
+(lp267
+V28635001
+p268
+aV 9867446001
+p269
+asg18
+g19
+sg20
+VOm Sai Plaza, Opp Jain Sweets, Kandivali (W), Kandivali West, Mumbai
+p270
+sba(i__main__
+Place
+p271
+(dp272
+g3
+(lp273
+VTake Away Shops
+p274
+aV Restaurants
+p275
+asg6
+g87
+sg8
+VRassa
+p276
+sg10
+Vhttp://mumbai.burrp.com/listing/rassa_charkop_mumbai_take-away-shops-restaurants/1795829930
+p277
+sg12
+VCharkop
+p278
+sg14
+(lp279
+V28676833
+p280
+asg18
+g19
+sg20
+VShop No. 1, Gandhar Society, Sector-3, Charkop, Kandivali West, Mumbai
+p281
+sba(i__main__
+Place
+p282
+(dp283
+g3
+(lp284
+VRestaurants
+p285
+asg6
+g87
+sg8
+VLittle Punjab
+p286
+sg10
+Vhttp://mumbai.burrp.com/listing/little-punjab_kandivali-west_mumbai_restaurants/1332324376
+p287
+sg12
+VKandivali West
+p288
+sg14
+(lp289
+V28059410
+p290
+asg18
+g19
+sg20
+VRaghuleela Mall, Food-Court, Unit 6, Off S.V. Road, Kandivali West, Mumbai
+p291
+sba(i__main__
+Place
+p292
+(dp293
+g3
+(lp294
+VRestaurants
+p295
+asg6
+g87
+sg8
+VSukh Sagar
+p296
+sg10
+Vhttp://mumbai.burrp.com/listing/sukh-sagar_kandivali-west_mumbai_restaurants/19122661118
+p297
+sg12
+VKandivali West
+p298
+sg14
+(lp299
+V28068737
+p300
+aV 28068718
+p301
+aV 28649976
+p302
+asg18
+g19
+sg20
+V11, Subhkamma, Mahavir Nagar, Kandivali West, Mumbai
+p303
+sba(i__main__
+Place
+p304
+(dp305
+g3
+(lp306
+VRestaurants
+p307
+asg6
+g87
+sg8
+VThe Chandni Chowk Express
+p308
+sg10
+Vhttp://mumbai.burrp.com/listing/the-chandni-chowk-express_charkop_mumbai_restaurants/11522617594
+p309
+sg12
+VCharkop
+p310
+sg14
+(lp311
+V9702365484
+p312
+aV 9702365124
+p313
+asg18
+g87
+sg20
+VShop No. 9, Astar Place, Plot No. 235, Sector-3, Charkop, Kandivali West, Mumbai
+p314
+sba(i__main__
+Place
+p315
+(dp316
+g3
+(lp317
+VRestaurants
+p318
+asg6
+g87
+sg8
+VThe 
+p319
+sg10
+Vhttp://mumbai.burrp.com/listing/the-wow-treat_charkop_mumbai_restaurants/13322619376
+p320
+sg12
+VCharkop
+p321
+sg14
+(lp322
+V9146687757
+p323
+aV 9146687787
+p324
+asg18
+g87
+sg20
+VShop No. 3, Sea Mist Building, Turzan Point, Sector-8, Charkop, Kandivali West, Mumbai
+p325
+sba(i__main__
+Place
+p326
+(dp327
+g3
+(lp328
+VRestaurants
+p329
+asg6
+g87
+sg8
+VPizza Hut
+p330
+sg10
+Vhttp://mumbai.burrp.com/listing/pizza-hut_kandivali-west_mumbai_restaurants/1775766732
+p331
+sg12
+VKandivali West
+p332
+sg14
+(lp333
+V28066088 
+p334
+aV 39883988
+p335
+asg18
+g87
+sg20
+VRaghuleela, Unit no.5, 3rd floor, Food Court, Kandivali (W), Kandivali West, Mumbai
+p336
+sba(i__main__
+Place
+p337
+(dp338
+g3
+(lp339
+VRestaurants
+p340
+asg6
+g87
+sg8
+VPizza Hut
+p341
+sg10
+Vhttp://mumbai.burrp.com/listing/pizza-hut_kandivali-west_mumbai_restaurants/1445772465
+p342
+sg12
+VKandivali West
+p343
+sg14
+(lp344
+V39883988
+p345
+aV 28674445
+p346
+asg18
+g87
+sg20
+VShop# G3, F2, Profit Centre, 120 Feet Road, Borsapada, Mahaveer Nagar, Kandivali (W), Kandivali West, Mumbai
+p347
+sba(i__main__
+Place
+p348
+(dp349
+g3
+(lp350
+VCafes
+p351
+aV Restaurants
+p352
+aV Food-court Stalls
+p353
+aV Fast Food Shops
+p354
+asg6
+g87
+sg8
+VFood Nexus
+p355
+sg10
+Vhttp://mumbai.burrp.com/listing/food-nexus_charkop_mumbai_cafes-restaurants-food-court-stalls/1938387316
+p356
+sg12
+VCharkop
+p357
+sg14
+(lp358
+V28608030
+p359
+aV 9321316660
+p360
+asg18
+g87
+sg20
+VShop No 87, 1st Floor, Sunrise Shopping Centre, Charkop Market, Charkop, Kandivali West, Mumbai
+p361
+sba(i__main__
+Place
+p362
+(dp363
+g3
+(lp364
+VFood-court Stalls
+p365
+aV Cafes
+p366
+aV Restaurants
+p367
+asg6
+g87
+sg8
+VDomino's Pizza
+p368
+sg10
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_kandivali-west_mumbai_food-court-stalls-cafes-restaurants/12110639188
+p369
+sg12
+VKandivali West
+p370
+sg14
+(lp371
+V28609472
+p372
+aV 28609583
+p373
+aV 28609584
+p374
+aV 28609586
+p375
+asg18
+g87
+sg20
+VShop No 2, Ground Floor, Charkop Akhand Bharat Cooperative Housing Society, Plot no 151, Sector 6, RDP 7, Municipal R-Ward, Charkop, Kandivali West, Mumbai
+p376
+sba(i__main__
+Place
+p377
+(dp378
+g3
+(lp379
+VRestaurants
+p380
+aV Food-court Stalls
+p381
+aV Cafes
+p382
+asg6
+g87
+sg8
+VPizza Hut
+p383
+sg10
+Vhttp://mumbai.burrp.com/listing/pizza-hut_kandivali-west_mumbai_restaurants-food-court-stalls-cafes/12310765386
+p384
+sg12
+VKandivali West
+p385
+sg14
+(lp386
+V28601122
+p387
+aV 28674445
+p388
+aV 39883988
+p389
+asg18
+g87
+sg20
+VShop No G3, F2, Profit Centre, 120 Feet Road, Borsapada, Mahaveer Nagar, Kandivali West, Mumbai
+p390
+sba(i__main__
+Place
+p391
+(dp392
+g3
+(lp393
+VRestaurants
+p394
+asg6
+g87
+sg8
+VLake Garden Family Restaurant & Bar
+p395
+sg10
+Vhttp://mumbai.burrp.com/listing/lake-garden-family-restaurant-bar_charkop_mumbai_restaurants/1478382762
+p396
+sg12
+VCharkop
+p397
+sg14
+(lp398
+V28694813
+p399
+aV 28696110
+p400
+asg18
+g87
+sg20
+VCharkop Kedarnath Co-Operative Housing Soceity Limited, Ground Floor, Plot No. 7, RDP-5, Charkop, Kandivali West, Mumbai
+p401
+sba(i__main__
+Place
+p402
+(dp403
+g3
+(lp404
+VRestaurants
+p405
+asg6
+g87
+sg8
+VHotel Navjeevan
+p406
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-navjeevan_kandivali-west_mumbai_restaurants/1698384940
+p407
+sg12
+VKandivali West
+p408
+sg14
+(lp409
+V65076111
+p410
+aV 29674177
+p411
+asg18
+g87
+sg20
+VR.M.C.38 Link Road, Ganesh Nagar, Charkop, Kandivali West, Mumbai
+p412
+sba(i__main__
+Place
+p413
+(dp414
+g3
+(lp415
+VRestaurants
+p416
+asg6
+g87
+sg8
+VSandhya Restaurant  And  Bar
+p417
+sg10
+Vhttp://mumbai.burrp.com/listing/sandhya-restaurant-and-bar_charkop_mumbai_restaurants/1858395524
+p418
+sg12
+VCharkop
+p419
+sg14
+(lp420
+V28689219
+p421
+asg18
+g87
+sg20
+V108, Government Industrial Estate, Sector 1, Charkop, Kandivali West, Mumbai
+p422
+sba(i__main__
+Place
+p423
+(dp424
+g3
+(lp425
+VRestaurants
+p426
+asg6
+g87
+sg8
+VShree Krishna Chinese
+p427
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-krishna-chinese_kandivali-west_mumbai_restaurants/17310599336
+p428
+sg12
+VKandivali West
+p429
+sg14
+(lp430
+V9619002867
+p431
+aV 9920309371
+p432
+asg18
+g19
+sg20
+VShree Vinayak Co-Operative Housing Soceity Ltd, Shop No. 1, Sector No. 1, Charkop, Kandivali West, Mumbai
+p433
+sba(i__main__
+Place
+p434
+(dp435
+g3
+(lp436
+VRestaurants
+p437
+asg6
+g87
+sg8
+VShri Sai 
+p438
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-sai-_kandivali-west_mumbai_restaurants/16322631346
+p439
+sg12
+VKandivali West
+p440
+sg14
+(lp441
+V28542451
+p442
+aV 28542405
+p443
+aV 28542406
+p444
+aV 9920282674
+p445
+asg18
+g87
+sg20
+VMaruti Tower, Shop No 5, Thakur Complex, Kandivali West, Mumbai
+p446
+sba(i__main__
+Place
+p447
+(dp448
+g3
+(lp449
+VRestaurants
+p450
+asg6
+g87
+sg8
+VChina Camp Fast Food
+p451
+sg10
+Vhttp://mumbai.burrp.com/listing/china-camp-fast-food_kandivali-west_mumbai_restaurants/1358399574
+p452
+sg12
+VKandivali West
+p453
+sg14
+(lp454
+V28683834
+p455
+aV 65185155
+p456
+asg18
+g87
+sg20
+VShop No 3, Sargam Cooperative Housing Society, Sector No 1, Plot No 4, Charkop, Kandivali West, Mumbai
+p457
+sba(i__main__
+Place
+p458
+(dp459
+g3
+(lp460
+VRestaurants
+p461
+asg6
+g87
+sg8
+VRadha Krishna Restaurant
+p462
+sg10
+Vhttp://mumbai.burrp.com/listing/radha-krishna-restaurant_kandivali-west_mumbai_restaurants/18110672128
+p463
+sg12
+VKandivali West
+p464
+sg14
+(lp465
+V28050315
+p466
+aV 28050316
+p467
+asg18
+g87
+sg20
+VShop No 52/53, Panchsheel Gardens, Dahanukar Wadi, Mahavir Nagar, Kandivali West, Mumbai
+p468
+sba(i__main__
+Place
+p469
+(dp470
+g3
+(lp471
+VRestaurants
+p472
+asg6
+g87
+sg8
+VSahyadri Restaurant & Bar
+p473
+sg10
+Vhttp://mumbai.burrp.com/listing/sahyadri-restaurant-bar_kandivali-west_mumbai_restaurants/17710725732
+p474
+sg12
+VKandivali West
+p475
+sg14
+(lp476
+V28056015
+p477
+asg18
+g87
+sg20
+VDalvi Building, S V Road, Kandivali West, Mumbai
+p478
+sba(i__main__
+Place
+p479
+(dp480
+g3
+(lp481
+VDessert Shops
+p482
+aV Shops
+p483
+aV Restaurants
+p484
+asg6
+g87
+sg8
+VShreeram Sweets
+p485
+sg10
+Vhttp://mumbai.burrp.com/listing/shreeram-sweets_kandivali-west_mumbai_dessert-shops-shops-restaurants/13710730772
+p486
+sg12
+VKandivali West
+p487
+sg14
+(lp488
+V28639063
+p489
+asg18
+g87
+sg20
+VShop No 43 & 44, 90 Feet Rd, Mahavir Nagar, Kandivali West, Mumbai
+p490
+sba(i__main__
+Place
+p491
+(dp492
+g3
+(lp493
+VRestaurants
+p494
+asg6
+g87
+sg8
+VAsha Refreshment
+p495
+sg10
+Vhttp://mumbai.burrp.com/listing/asha-refreshment_kandivali-west_mumbai_restaurants/1534405356
+p496
+sg12
+VKandivali West
+p497
+sg14
+(lp498
+V28698896
+p499
+aV 28676130
+p500
+asg18
+g87
+sg20
+VShop No 5, Joy Co-op Hsg.Society , Sector No.1, Prabodhankar Thakare Nagar, Charkop, Kandivali West, Mumbai
+p501
+sba(i__main__
+Place
+p502
+(dp503
+g3
+(lp504
+VRestaurants
+p505
+asg6
+g87
+sg8
+VDevilaxmi
+p506
+sg10
+Vhttp://mumbai.burrp.com/listing/devilaxmi_kandivali-west_mumbai_restaurants/1934418316
+p507
+sg12
+VKandivali West
+p508
+sg14
+(lp509
+V9987030316
+p510
+asg18
+g87
+sg20
+V40, Rock Avenue, E Block, Hindustan Naka, Charkop, Kandivali (W), Kandivali West, Mumbai
+p511
+sba(i__main__
+Place
+p512
+(dp513
+g3
+(lp514
+VRestaurants
+p515
+asg6
+g87
+sg8
+VHotel Garuda
+p516
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-garuda_kandivali-west_mumbai_restaurants/1224438287
+p517
+sg12
+VKandivali West
+p518
+sg14
+(lp519
+V28010561
+p520
+asg18
+g87
+sg20
+VKandivali Laxmi Shopping Centre, V.L. Road, Kandivali (W), Kandivali West, Mumbai
+p521
+sba(i__main__
+Place
+p522
+(dp523
+g3
+(lp524
+VRestaurants
+p525
+asg6
+g87
+sg8
+VVeg - Point 
+p526
+sg10
+Vhttp://mumbai.burrp.com/listing/veg---point-_kandivali-west_mumbai_restaurants/1964454613
+p527
+sg12
+VKandivali West
+p528
+sg14
+(lp529
+V65246017
+p530
+aV 9819791953 
+p531
+asg18
+g87
+sg20
+VSukhkarta, Shop No. 11, 12, Sector No. 8, Plot No. 26, Charkop , Kandivali (W), Kandivali West, Mumbai
+p532
+sba(i__main__
+Place
+p533
+(dp534
+g3
+(lp535
+VRestaurants
+p536
+asg6
+g87
+sg8
+VSeason's Veg. Treat 
+p537
+sg10
+Vhttp://mumbai.burrp.com/listing/seasons-veg-treat-_kandivali-west_mumbai_restaurants/1984481811
+p538
+sg12
+VKandivali West
+p539
+sg14
+(lp540
+V28619264 
+p541
+aV 28629182
+p542
+asg18
+g87
+sg20
+VGodavari Chamber, S.V. Road, Kandivali West, Mumbai
+p543
+sba(i__main__
+Place
+p544
+(dp545
+g3
+(lp546
+VRestaurants
+p547
+asg6
+g87
+sg8
+VMcDonald's
+p548
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_kandivali-west_mumbai_restaurants/1604487049
+p549
+sg12
+VKandivali West
+p550
+sg14
+(lp551
+V28635001
+p552
+asg18
+g87
+sg20
+VOm Plaza, V.L.Road, Kandivali (W), Kandivali West, Mumbai
+p553
+sba(i__main__
+Place
+p554
+(dp555
+g3
+(lp556
+VRestaurants
+p557
+aV Bars & Pubs
+p558
+asg6
+g87
+sg8
+VPreeti Bar & Restaurant
+p559
+sg10
+Vhttp://mumbai.burrp.com/listing/preeti-bar-restaurant_charkop_mumbai_restaurants-bars-pubs/1278380782
+p560
+sg12
+VCharkop
+p561
+sg14
+(lp562
+V28683826
+p563
+asg18
+g87
+sg20
+VPlot No 68, Government Industrial Estate, Bhabrekar Nagar, Charkop, Kandivali West, Mumbai
+p564
+sba(i__main__
+Place
+p565
+(dp566
+g3
+(lp567
+VOutdoor Caterers
+p568
+aV Restaurants
+p569
+asg6
+g87
+sg8
+VDisha Family Restaurant & Bar
+p570
+sg10
+Vhttp://mumbai.burrp.com/listing/disha-family-restaurant-bar_charkop_mumbai_outdoor-caterers-restaurants/1538392356
+p571
+sg12
+VCharkop
+p572
+sg14
+(lp573
+V28682550
+p574
+aV 28692801
+p575
+aV 28671642
+p576
+asg18
+g87
+sg20
+VGround Floor, Vaibhav Co-Operative Housing Society, Dr. Ambedkar Road, Charkop, Kandivali West, Mumbai
+p577
+sba(i__main__
+Place
+p578
+(dp579
+g3
+(lp580
+VRestaurants
+p581
+asg6
+g87
+sg8
+VHotbrands International
+p582
+sg10
+Vhttp://mumbai.burrp.com/listing/hotbrands-international_charkop_mumbai_restaurants/1458400564
+p583
+sg12
+VCharkop
+p584
+sg14
+(lp585
+V28681853
+p586
+aV 28681852
+p587
+asg18
+g87
+sg20
+VA 504, Sai Mangal, Sector 8, Plot No 18, Charkop, Kandivali West, Mumbai
+p588
+sba(i__main__
+Place
+p589
+(dp590
+g3
+(lp591
+VDessert Shops
+p592
+aV Fast Food Shops
+p593
+aV Cafes
+p594
+aV Restaurants
+p595
+asg6
+g87
+sg8
+VG M Amrut Foods
+p596
+sg10
+Vhttp://mumbai.burrp.com/listing/g-m-amrut-foods_charkop_mumbai_dessert-shops-fast-food-shops-cafes/1618402148
+p597
+sg12
+VCharkop
+p598
+sg14
+(lp599
+V32500545
+p600
+aV 9819398438
+p601
+aV 9821054348
+p602
+asg18
+g87
+sg20
+VPlot No 24 Govt Indl Est, Charkop, Kandivali West, Mumbai
+p603
+sba(i__main__
+Place
+p604
+(dp605
+g3
+(lp606
+VRestaurants
+p607
+asg6
+g87
+sg8
+VKalash Restaurant and Bar
+p608
+sg10
+Vhttp://mumbai.burrp.com/listing/kalash-restaurant-and-bar_charkop_mumbai_restaurants/1838404326
+p609
+sg12
+VCharkop
+p610
+sg14
+(lp611
+V28630315
+p612
+aV 28658415
+p613
+aV 29674315
+p614
+aV 29678415
+p615
+asg18
+g87
+sg20
+VPlot No 555, M G Road, Charkop, Kandivali West, Mumbai
+p616
+sba(i__main__
+Place
+p617
+(dp618
+g3
+(lp619
+VRestaurants
+p620
+aV Fast Food Shops
+p621
+asg6
+g87
+sg8
+VAlbela Chinese Home
+p622
+sg10
+Vhttp://mumbai.burrp.com/listing/albela-chinese-home_kandivali-west_mumbai_restaurants-fast-food-shops/15510633554
+p623
+sg12
+VKandivali West
+p624
+sg14
+(lp625
+V28649886
+p626
+aV 9892308279
+p627
+asg18
+g87
+sg20
+V32, Raj Arcade, Dahanukar Wadi, Kandivali West, Mumbai
+p628
+sba(i__main__
+Place
+p629
+(dp630
+g3
+(lp631
+VRestaurants
+p632
+asg6
+g87
+sg8
+VGarden Hotel
+p633
+sg10
+Vhttp://mumbai.burrp.com/listing/garden-hotel_kandivali-west_mumbai_restaurants/17710644732
+p634
+sg12
+VKandivali West
+p635
+sg14
+(lp636
+V28089385
+p637
+asg18
+g87
+sg20
+VShop  No 2/3 , Dr Dalvi Road , Kandivali Shopping Centre , Kandivali West, Mumbai
+p638
+sba(i__main__
+Place
+p639
+(dp640
+g3
+(lp641
+VRestaurants
+p642
+asg6
+g87
+sg8
+VHotel Ananteshwar
+p643
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-ananteshwar_kandivali-west_mumbai_restaurants/11510647594
+p644
+sg12
+VKandivali West
+p645
+sg14
+(lp646
+V28617590
+p647
+aV 28629572
+p648
+asg18
+g87
+sg20
+VShop No 3 & 4, Vanik Niwas, V L Road, Kandivali West, Mumbai
+p649
+sba(i__main__
+Place
+p650
+(dp651
+g3
+(lp652
+VRestaurants
+p653
+aV Bars & Pubs
+p654
+asg6
+g87
+sg8
+VHotel Om Palace
+p655
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-om-palace_kandivali-west_mumbai_restaurants-bars-pubs/11710647792
+p656
+sg12
+VKandivali West
+p657
+sg14
+(lp658
+V28074185
+p659
+aV 28078576
+p660
+asg18
+g87
+sg20
+VKamal Apartments, Shankar Lane, Kandivali West, Mumbai
+p661
+sba(i__main__
+Place
+p662
+(dp663
+g3
+(lp664
+VRestaurants
+p665
+asg6
+g87
+sg8
+VHotel Sandhya Restaurant & Bar
+p666
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sandhya-restaurant-bar_kandivali-west_mumbai_restaurants/11910647990
+p667
+sg12
+VKandivali West
+p668
+sg14
+(lp669
+V28689219
+p670
+asg18
+g87
+sg20
+V108, Government Industrial Estate, Charkop, Kandivali West, Mumbai
+p671
+sba(i__main__
+Place
+p672
+(dp673
+g3
+(lp674
+VRestaurants
+p675
+asg6
+g87
+sg8
+VHotel Tulsi
+p676
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-tulsi_kandivali-west_mumbai_restaurants/12110648188
+p677
+sg12
+VKandivali West
+p678
+sg14
+(lp679
+V28629573
+p680
+aV 28659827
+p681
+asg18
+g87
+sg20
+VModi Market, Kandivali West, Mumbai
+p682
+sba(i__main__
+Place
+p683
+(dp684
+g3
+(lp685
+VRestaurants
+p686
+asg6
+g87
+sg8
+VKrishna Sagar Fast Food
+p687
+sg10
+Vhttp://mumbai.burrp.com/listing/krishna-sagar-fast-food_kandivali-west_mumbai_restaurants/16110652148
+p688
+sg12
+VKandivali West
+p689
+sg14
+(lp690
+V28072387
+p691
+aV 28083492
+p692
+asg18
+g87
+sg20
+VGround Floor, Ajanta Shopping Centre, Trikamdas Road, Near Cinestar, Kandivali West, Mumbai
+p693
+sba(i__main__
+Place
+p694
+(dp695
+g3
+(lp696
+VRestaurants
+p697
+asg6
+g87
+sg8
+VPreetam Family Restaurant And Bar
+p698
+sg10
+Vhttp://mumbai.burrp.com/listing/preetam-family-restaurant-and-bar_kandivali-west_mumbai_restaurants/19110655118
+p699
+sg12
+VKandivali West
+p700
+sg14
+(lp701
+V28638939
+p702
+aV 28659266
+p703
+asg18
+g87
+sg20
+VMilap Apartment, S V Road, Kandivali West, Mumbai
+p704
+sba(i__main__
+Place
+p705
+(dp706
+g3
+(lp707
+VBars & Pubs
+p708
+aV Restaurants
+p709
+asg6
+g87
+sg8
+VSamruddhi Restaurant & Bar
+p710
+sg10
+Vhttp://mumbai.burrp.com/listing/samruddhi-restaurant-bar_kandivali-west_mumbai_bars-pubs-restaurants/13510658574
+p711
+sg12
+VKandivali West
+p712
+sg14
+(lp713
+V28013562
+p714
+aV 28659265
+p715
+asg18
+g87
+sg20
+VShop No 3 And 4, Rainbow Apartment, Shantilal Modi Road, Kandivali West, Mumbai
+p716
+sba(i__main__
+Place
+p717
+(dp718
+g3
+(lp719
+VBars & Pubs
+p720
+aV Restaurants
+p721
+asg6
+g87
+sg8
+VSavor Family Resto Bar
+p722
+sg10
+Vhttp://mumbai.burrp.com/listing/savor-family-resto-bar_kandivali-west_mumbai_bars-pubs-restaurants/16510661544
+p723
+sg12
+VKandivali West
+p724
+sg14
+(lp725
+V64463290
+p726
+aV 64463291
+p727
+aV 28016276
+p728
+asg18
+g87
+sg20
+VJay Sukh Sagar, M G Road, Kandivali West, Mumbai
+p729
+sba(i__main__
+Place
+p730
+(dp731
+g3
+(lp732
+VRestaurants
+p733
+asg6
+g87
+sg8
+VOm Palace Restaurant And Bar
+p734
+sg10
+Vhttp://mumbai.burrp.com/listing/om-palace-restaurant-and-bar_kandivali-west_mumbai_restaurants/12910675980
+p735
+sg12
+VKandivali West
+p736
+sg14
+(lp737
+V28074185
+p738
+aV 28078576
+p739
+asg18
+g87
+sg20
+VKamal Apartment, Shankar Lane, Kandivali West, Mumbai
+p740
+sba(i__main__
+Place
+p741
+(dp742
+g3
+(lp743
+VDessert Shops
+p744
+aV Restaurants
+p745
+aV Ice-cream Parlours
+p746
+aV Juice Parlours
+p747
+aV Cafes
+p748
+asg6
+g87
+sg8
+VOcean
+p749
+sg10
+Vhttp://mumbai.burrp.com/listing/ocean_kandivali-west_mumbai_dessert-shops-restaurants-ice-cream-parlours/15110678158
+p750
+sg12
+VKandivali West
+p751
+sg14
+(lp752
+V
+p753
+aV 9930771849
+p754
+asg18
+g87
+sg20
+VShop No 1, Gorund Floor, Vishwadeep Society  , Off Link Road, Mahavir Nagar, Near Mamta Vidyalaya, Kandivali West, Mumbai
+p755
+sba(i__main__
+Place
+p756
+(dp757
+g3
+(lp758
+VRestaurants
+p759
+asg6
+g87
+sg8
+VNityanand Restaurant And Bar
+p760
+sg10
+Vhttp://mumbai.burrp.com/listing/nityanand-restaurant-and-bar_kandivali-west_mumbai_restaurants/19310682316
+p761
+sg12
+VKandivali West
+p762
+sg14
+(lp763
+V29670016
+p764
+aV 29670314
+p765
+aV 9869407353
+p766
+asg18
+g87
+sg20
+VGround Floor, Dhanukar Building, M G Road, Dhanukarwadi, Kandivali West, Mumbai
+p767
+sba(i__main__
+Place
+p768
+(dp769
+g3
+(lp770
+VRestaurants
+p771
+asg6
+g87
+sg8
+VAnanteshwar Hotel
+p772
+sg10
+Vhttp://mumbai.burrp.com/listing/ananteshwar-hotel_kandivali-west_mumbai_restaurants/11710683792
+p773
+sg12
+VKandivali West
+p774
+sg14
+(lp775
+V28629572
+p776
+aV 9930653933
+p777
+asg18
+g87
+sg20
+VShop No 3 & 4, Vanik Nivas, V L Road , Kandivali West, Mumbai
+p778
+sba(i__main__
+Place
+p779
+(dp780
+g3
+(lp781
+VRestaurants
+p782
+asg6
+g87
+sg8
+VHotel Ashish
+p783
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-ashish_kandivali-west_mumbai_restaurants/12910684980
+p784
+sg12
+VKandivali West
+p785
+sg14
+(lp786
+V32910229
+p787
+aV 29675373
+p788
+aV 9870262807
+p789
+asg18
+g19
+sg20
+VGanesh Nagar, Ekta Nagar, Kandivali West, Mumbai
+p790
+sba(i__main__
+Place
+p791
+(dp792
+g3
+(lp793
+VRestaurants
+p794
+asg6
+g87
+sg8
+VImperial Banquet
+p795
+sg10
+Vhttp://mumbai.burrp.com/listing/imperial-banquet_kandivali-west_mumbai_restaurants/18910690920
+p796
+sg12
+VKandivali West
+p797
+sg14
+(lp798
+V28081199
+p799
+aV 28642864
+p800
+aV 67749920
+p801
+aV 67749999
+p802
+asg18
+g87
+sg20
+VLevel 4, Raghuleela Mega Mall, S V Road, Kandivali West, Mumbai
+p803
+sba(i__main__
+Place
+p804
+(dp805
+g3
+(lp806
+VRestaurants
+p807
+asg6
+g87
+sg8
+VDelicacy Pure Veg
+p808
+sg10
+Vhttp://mumbai.burrp.com/listing/delicacy-pure-veg_kandivali-west_mumbai_restaurants/15910696950
+p809
+sg12
+VKandivali West
+p810
+sg14
+(lp811
+V28636050
+p812
+aV 28636053
+p813
+aV 28636055
+p814
+aV 28636056
+p815
+asg18
+g87
+sg20
+VShop No 2/3, Abhilasha Apartment, S V Road, Kandivali West, Mumbai
+p816
+sba(i__main__
+Place
+p817
+(dp818
+g3
+(lp819
+VRestaurants
+p820
+aV Dessert Shops
+p821
+aV Cafes
+p822
+asg6
+g87
+sg8
+VDubai Novelties
+p823
+sg10
+Vhttp://mumbai.burrp.com/listing/dubai-novelties_kandivali-west_mumbai_restaurants-dessert-shops-cafes/18110699128
+p824
+sg12
+VKandivali West
+p825
+sg14
+(lp826
+V28079185
+p827
+aV 28659495
+p828
+asg18
+g87
+sg20
+VShop No 30/31, super Shopping Complex, Dr Dalvi Road, Behind Top Ten Mobile Shop, Kandivali West, Mumbai
+p829
+sba(i__main__
+Place
+p830
+(dp831
+g3
+(lp832
+VRestaurants
+p833
+asg6
+g87
+sg8
+VBalaji Food Court
+p834
+sg10
+Vhttp://mumbai.burrp.com/listing/balaji-food-court_kandivali-west_mumbai_restaurants/17710716732
+p835
+sg12
+VKandivali West
+p836
+sg14
+(lp837
+V29672138
+p838
+aV 29672139
+p839
+aV 29672140
+p840
+asg18
+g87
+sg20
+VShop No 1/2, Panchsheel Arcade, Mahavir Nagar, Kandivali West, Mumbai
+p841
+sba(i__main__
+Place
+p842
+(dp843
+g3
+(lp844
+VBanquet Halls
+p845
+aV Restaurants
+p846
+aV Outdoor Caterers
+p847
+asg6
+g87
+sg8
+VSplash Family Restaurant & Bar
+p848
+sg10
+Vhttp://mumbai.burrp.com/listing/splash-family-restaurant-bar_kandivali-west_mumbai_banquet-halls-restaurants-outdoor-caterers/14110722168
+p849
+sg12
+VKandivali West
+p850
+sg14
+(lp851
+V28695071
+p852
+aV 28695074
+p853
+aV 65736776
+p854
+asg18
+g87
+sg20
+VDattatraya Building, Dr. B. A. Road, Kandivali West, Mumbai
+p855
+sba(i__main__
+Place
+p856
+(dp857
+g3
+(lp858
+VRestaurants
+p859
+asg6
+g87
+sg8
+VShraddha Hotel
+p860
+sg10
+Vhttp://mumbai.burrp.com/listing/shraddha-hotel_kandivali-west_mumbai_restaurants/11710728792
+p861
+sg12
+VKandivali West
+p862
+sg14
+(lp863
+V28014747
+p864
+asg18
+g87
+sg20
+VParekh Nagar, S V Road, Opp Police Chowki, Kandivali West, Mumbai
+p865
+sba(i__main__
+Place
+p866
+(dp867
+g3
+(lp868
+VRestaurants
+p869
+asg6
+g87
+sg8
+VSannidhi
+p870
+sg10
+Vhttp://mumbai.burrp.com/listing/sannidhi_kandivali-west_mumbai_restaurants/14510731564
+p871
+sg12
+VKandivali West
+p872
+sg14
+(lp873
+V28010732
+p874
+aV 28011468
+p875
+aV 28012876
+p876
+aV 28012877
+p877
+asg18
+g87
+sg20
+VVasanji Lalji Road, Kandivali West, Mumbai
+p878
+sba(i__main__
+Place
+p879
+(dp880
+g3
+(lp881
+VRestaurants
+p882
+asg6
+g87
+sg8
+VMaruti Lunch Home
+p883
+sg10
+Vhttp://mumbai.burrp.com/listing/maruti-lunch-home_kandivali-west_mumbai_restaurants/17710734732
+p884
+sg12
+VKandivali West
+p885
+sg14
+(lp886
+V28659446
+p887
+asg18
+g87
+sg20
+VShop No 7, Jai Sukh Sagar, M G Road, Kandivali West, Mumbai
+p888
+sba(i__main__
+Place
+p889
+(dp890
+g3
+(lp891
+VCafes
+p892
+aV Fast Food Shops
+p893
+aV Restaurants
+p894
+aV Dessert Shops
+p895
+asg6
+g87
+sg8
+VJainam Dryfruits
+p896
+sg10
+Vhttp://mumbai.burrp.com/listing/jainam-dryfruits_kandivali-west_mumbai_cafes-fast-food-shops-restaurants/17710752732
+p897
+sg12
+VKandivali West
+p898
+sg14
+(lp899
+V28092292
+p900
+aV 28618769
+p901
+aV 9870194634
+p902
+asg18
+g87
+sg20
+VShop No 1, Ground Floor, Manu Niwas, Pathak Road, Kandivali West, Mumbai
+p903
+sba(i__main__
+Place
+p904
+(dp905
+g3
+(lp906
+VRestaurants
+p907
+asg6
+g87
+sg8
+VKambala Hospitality Pvt Ltd
+p908
+sg10
+Vhttp://mumbai.burrp.com/listing/kambala-hospitality-pvt-ltd_kandivali-west_mumbai_restaurants/14110758168
+p909
+sg12
+VKandivali West
+p910
+sg14
+(lp911
+V28081199
+p912
+aV 28642864
+p913
+aV 67749928
+p914
+aV 67749999
+p915
+asg18
+g87
+sg20
+V5th Floor, Raghuleela Mall, Kandivali West, Mumbai
+p916
+sba(i__main__
+Place
+p917
+(dp918
+g3
+(lp919
+VRestaurants
+p920
+asg6
+g87
+sg8
+VPreetam Restaurant And Bar
+p921
+sg10
+Vhttp://mumbai.burrp.com/listing/preetam-restaurant-and-bar_kandivali-west_mumbai_restaurants/18110762128
+p922
+sg12
+VKandivali West
+p923
+sg14
+(lp924
+V28638939
+p925
+aV 28659266
+p926
+asg18
+g87
+sg20
+VGround Floor, Milap Apartment, S V Road, Kandivali West, Mumbai
+p927
+sba(i__main__
+Place
+p928
+(dp929
+g3
+(lp930
+VRestaurants
+p931
+asg6
+g87
+sg8
+VSukh Sagar Restaurant
+p932
+sg10
+Vhttp://mumbai.burrp.com/listing/sukh-sagar-restaurant_mahavir-nagar_mumbai_restaurants/14311298366
+p933
+sg12
+VMahavir Nagar
+p934
+sg14
+(lp935
+V28068718
+p936
+aV 28068737
+p937
+asg18
+g87
+sg20
+VShop No 11, Shubhkamna ApPartment, Mahavir Nagar, Kandivali West, Mumbai
+p938
+sba(i__main__
+Place
+p939
+(dp940
+g3
+(lp941
+VRestaurants
+p942
+aV Outdoor Caterers
+p943
+asg6
+g87
+sg8
+VSiddhi Fast Food
+p944
+sg10
+Vhttp://mumbai.burrp.com/listing/siddhi-fast-food_kandivali-west_mumbai_restaurants-outdoor-caterers/11315579396
+p945
+sg12
+VKandivali West
+p946
+sg14
+(lp947
+V9821725386
+p948
+aV 9870712449
+p949
+aV 9870712448
+p950
+aV 9819952269
+p951
+asg18
+g87
+sg20
+VShop No.13, 3rd Floor, Kandivali West, Mumbai
+p952
+sba(i__main__
+Place
+p953
+(dp954
+g3
+(lp955
+VRestaurants
+p956
+asg6
+g87
+sg8
+VGanesh Hotel
+p957
+sg10
+Vhttp://mumbai.burrp.com/listing/ganesh-hotel_kandivali-west_mumbai_restaurants/15922621950
+p958
+sg12
+VKandivali West
+p959
+sg14
+(lp960
+V28683852
+p961
+aV 28677591
+p962
+asg18
+g87
+sg20
+VShop No. 7, Charkop Industrial Estate, Kandivali West, Mumbai
+p963
+sba(i__main__
+Place
+p964
+(dp965
+g3
+(lp966
+VRestaurants
+p967
+asg6
+g87
+sg8
+VManik's Fast Forward
+p968
+sg10
+Vhttp://mumbai.burrp.com/listing/maniks-fast-forward_kandivali-west_mumbai_restaurants/16122622148
+p969
+sg12
+VKandivali West
+p970
+sg14
+(lp971
+V9167821985
+p972
+aV 9619802698
+p973
+asg18
+g19
+sg20
+VRock Enclave, A - Wing, Shop No. 45, Hindustan Naka, Kandivali West, Mumbai
+p974
+sba(i__main__
+Place
+p975
+(dp976
+g3
+(lp977
+VRestaurants
+p978
+asg6
+g87
+sg8
+VLucky Wok
+p979
+sg10
+Vhttp://mumbai.burrp.com/listing/lucky-wok_kandivali-west_mumbai_restaurants/16522622544
+p980
+sg12
+VKandivali West
+p981
+sg14
+(lp982
+V65258168
+p983
+aV 9930898986
+p984
+aV 8108618987
+p985
+aV 9892222543
+p986
+asg18
+g19
+sg20
+VGajanana CHS, Sea Mist, Shop No. 10, Plot No. 3, Sector No. 8, Charkop, Kandivali West, Mumbai
+p987
+sba(i__main__
+Place
+p988
+(dp989
+g3
+(lp990
+VRestaurants
+p991
+asg6
+g87
+sg8
+VKolhapuri Katta
+p992
+sg10
+Vhttp://mumbai.burrp.com/listing/kolhapuri-katta_kandivali-west_mumbai_restaurants/16922622940
+p993
+sg12
+VKandivali West
+p994
+sg14
+(lp995
+V9029631772
+p996
+asg18
+g87
+sg20
+VShop No.5, Shree Vinayak CHS, Sector 1, Kandivali West, Mumbai
+p997
+sba(i__main__
+Place
+p998
+(dp999
+g3
+(lp1000
+VBanquet Halls
+p1001
+aV Bars & Pubs
+p1002
+aV Restaurants
+p1003
+asg6
+g87
+sg8
+VGaurav Family Restaurant & Bar
+p1004
+sg10
+Vhttp://mumbai.burrp.com/listing/gaurav-family-restaurant-bar_kandivali-west_mumbai_banquet-halls-bars-pubs-restaurants/19322625316
+p1005
+sg12
+VKandivali West
+p1006
+sg14
+(lp1007
+V29671676
+p1008
+aV 29675664
+p1009
+asg18
+g87
+sg20
+VRMC-12/13, Hindustan Naka, Signal Charkop Marve, Link Road, Kandivali West, Mumbai
+p1010
+sba(i__main__
+Place
+p1011
+(dp1012
+g3
+(lp1013
+VRestaurants
+p1014
+asg6
+g87
+sg8
+VYummy Kitchen 
+p1015
+sg10
+Vhttp://mumbai.burrp.com/listing/yummy-kitchen-_kandivali-west_mumbai_restaurants/12722627782
+p1016
+sg12
+VKandivali West
+p1017
+sg14
+(lp1018
+V28672725
+p1019
+aV 28672726
+p1020
+asg18
+g19
+sg20
+VShop No 7, Royal Co-op Housing Society , Charkop Sector 3, Kandivali West, Mumbai
+p1021
+sba(i__main__
+Place
+p1022
+(dp1023
+g3
+(lp1024
+VRestaurants
+p1025
+asg6
+g87
+sg8
+VFlavours Only Veg
+p1026
+sg10
+Vhttp://mumbai.burrp.com/listing/flavours-only-veg_kandivali-west_mumbai_restaurants/16522631544
+p1027
+sg12
+VKandivali West
+p1028
+sg14
+(lp1029
+V28092990
+p1030
+aV 28092991
+p1031
+asg18
+g87
+sg20
+VM. G. Road, Kandivali West, Mumbai
+p1032
+sba(i__main__
+Place
+p1033
+(dp1034
+g3
+(lp1035
+VRestaurants
+p1036
+asg6
+g87
+sg8
+VShivanand Special
+p1037
+sg10
+Vhttp://mumbai.burrp.com/listing/shivanand-special_kandivali-west_mumbai_restaurants/12322636386
+p1038
+sg12
+VKandivali West
+p1039
+sg14
+(lp1040
+V32183643
+p1041
+asg18
+g87
+sg20
+VFood Court, Unit-15, Kandivali West, Mumbai
+p1042
+sba.

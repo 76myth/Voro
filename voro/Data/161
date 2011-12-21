@@ -1,0 +1,77 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VIce-cream Parlours
+p5
+aV Cafes
+p6
+aV Juice Parlours
+p7
+aV Restaurants
+p8
+aV Food-court Stalls
+p9
+asS'rating'
+p10
+V0
+p11
+sS'name'
+p12
+VSaffron Restaurant
+p13
+sS'url'
+p14
+Vhttp://mumbai.burrp.com/listing/saffron-restaurant_kora-kendra_mumbai_ice-cream-parlours-cafes-juice-parlours/17311031336
+p15
+sS'region'
+p16
+VKora Kendra
+p17
+sS'phone'
+p18
+(lp19
+V28338976
+p20
+aV 28338977
+p21
+asS'cost'
+p22
+g11
+sS'addr'
+p23
+VShop No 1/3, Mangal Aarambh, Near Kora Kendra, Kora Kendra, Borivali West, Mumbai
+p24
+sba(i__main__
+Place
+p25
+(dp26
+g3
+(lp27
+VRestaurants
+p28
+asg10
+g11
+sg12
+VGrace Chinese Restaurant
+p29
+sg14
+Vhttp://mumbai.burrp.com/listing/grace-chinese-restaurant_kora-kendra_mumbai_restaurants/18511032524
+p30
+sg16
+VKora Kendra
+p31
+sg18
+(lp32
+V65923875
+p33
+asg22
+g11
+sg23
+VHaridas Nagar, S V Road, Kora Kendra, Borivali West, Mumbai
+p34
+sba.

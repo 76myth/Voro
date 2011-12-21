@@ -1,0 +1,77 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VCafe Yadgaar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/cafe-yadgaar_s-v-road-andheri-west_mumbai_restaurants/12522942584
+p11
+sS'region'
+p12
+VS V Road-Andheri West
+p13
+sS'phone'
+p14
+(lp15
+V26774868
+p16
+aV 26774888
+p17
+aV 9870464060
+p18
+asS'cost'
+p19
+V1
+p20
+sS'addr'
+p21
+VShop No. 4-17 A, S V Road-Andheri West, Andheri West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+g7
+sg8
+VSavera
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/savera_s-v-road-andheri-west_mumbai_restaurants/11123022198
+p28
+sg12
+VS V Road-Andheri West
+p29
+sg14
+(lp30
+V
+p31
+aV 2628138
+p32
+aV 7208634183
+p33
+asg19
+V2
+p34
+sg21
+VSukhmi Building, S V Road-Andheri West, Andheri West, Mumbai
+p35
+sba.

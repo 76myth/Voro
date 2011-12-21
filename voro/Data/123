@@ -1,0 +1,2344 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VSammy Sosa
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/sammy-sosa_oshiwara_mumbai_restaurants/120865089
+p11
+sS'region'
+p12
+VOshiwara
+p13
+sS'phone'
+p14
+(lp15
+V65278722
+p16
+aV 65278744
+p17
+asS'cost'
+p18
+V3
+p19
+sS'addr'
+p20
+VShop No.18, Meera Co-Operative Housing Society, Oshiwara Link Road, Oshiwara, Jogeshwari West, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VPratap's: The Dhaba
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/prataps-the-dhaba_oshiwara_mumbai_restaurants/13211277
+p27
+sg12
+VOshiwara
+p28
+sg14
+(lp29
+V26322323
+p30
+aV 26342323
+p31
+aV 26362323
+p32
+aV 9821355306
+p33
+asg18
+V2
+p34
+sg20
+VShop No 31 & 32, Link Plaza, MHADA Complex, Next to Punjab & Maharashtra Bank, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+g7
+sg8
+VPratap's Wild Dining - A Jungle Theme Restaurant
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/prataps-wild-dining---a-jungle-theme-restaurant_oshiwara_mumbai_restaurants/168878841
+p41
+sg12
+VOshiwara
+p42
+sg14
+(lp43
+V26362020
+p44
+aV 26363030
+p45
+asg18
+g34
+sg20
+V3rd Floor, Om Heera Panna Mall, Oshiwara, Jogeshwari West, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g7
+sg8
+VSernyaa Tibetan Chinese Restaurant
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/sernyaa-tibetan-chinese-restaurant_oshiwara_mumbai_restaurants/19653613
+p52
+sg12
+VOshiwara
+p53
+sg14
+(lp54
+V66784645
+p55
+aV 65741005
+p56
+aV 9820531935
+p57
+asg18
+g34
+sg20
+V185, Adarsh Nagar, Oshiwara Link Road, Oshiwara, Jogeshwari West, Mumbai
+p58
+sba(i__main__
+Place
+p59
+(dp60
+g3
+(lp61
+VRestaurants
+p62
+asg6
+g19
+sg8
+V5 Spice
+p63
+sg10
+Vhttp://mumbai.burrp.com/listing/5-spice_oshiwara_mumbai_restaurants/1121206297
+p64
+sg12
+VOshiwara
+p65
+sg14
+(lp66
+V26335550
+p67
+aV 26335551
+p68
+aV 26335552
+p69
+aV 26335553
+p70
+asg18
+g34
+sg20
+VSwati Apartment, Anand Nagar, Oshiwara-Link Road, Oshiwara, Jogeshwari West, Mumbai
+p71
+sba(i__main__
+Place
+p72
+(dp73
+g3
+(lp74
+VFast Food Shops
+p75
+aV Restaurants
+p76
+asg6
+g7
+sg8
+VOye! Punjabi
+p77
+sg10
+Vhttp://mumbai.burrp.com/listing/oye-punjabi_oshiwara_mumbai_fast-food-shops-restaurants/1851384524
+p78
+sg12
+VOshiwara
+p79
+sg14
+(lp80
+V32992134
+p81
+aV 32992135
+p82
+asg18
+g34
+sg20
+VShop No 3, Ground Floor, MHADA Complex, Bldg. No 12, Link Road, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p83
+sba(i__main__
+Place
+p84
+(dp85
+g3
+(lp86
+VRestaurants
+p87
+asg6
+g19
+sg8
+VThe Calcutta Club
+p88
+sg10
+Vhttp://mumbai.burrp.com/listing/the-calcutta-club_oshiwara_mumbai_restaurants/145156564
+p89
+sg12
+VOshiwara
+p90
+sg14
+(lp91
+V65013733
+p92
+aV 9870424395
+p93
+asg18
+g34
+sg20
+V818 Adarsh Nagar, Opp Gujarati Hall, Oshiwara, Jogeshwari West, Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VRestaurants
+p98
+asg6
+g19
+sg8
+VKoyla
+p99
+sg10
+Vhttp://mumbai.burrp.com/listing/koyla_oshiwara_mumbai_restaurants/1195346990
+p100
+sg12
+VOshiwara
+p101
+sg14
+(lp102
+V40066060
+p103
+asg18
+g34
+sg20
+VB47, Paramount, 2nd Floor, New Link Road, Oshiwara, Jogeshwari West, Mumbai
+p104
+sba(i__main__
+Place
+p105
+(dp106
+g3
+(lp107
+VRestaurants
+p108
+asg6
+g7
+sg8
+VMaroosh
+p109
+sg10
+Vhttp://mumbai.burrp.com/listing/maroosh_oshiwara_mumbai_restaurants/1555152554
+p110
+sg12
+VOshiwara
+p111
+sg14
+(lp112
+V26333344
+p113
+aV 26333345
+p114
+aV 9594664488
+p115
+asg18
+g34
+sg20
+V13, Meera CHS Ltd, New Link Road, Oshiwara, Jogeshwari West, Mumbai
+p116
+sba(i__main__
+Place
+p117
+(dp118
+g3
+(lp119
+VCafes
+p120
+aV Take Away Shops
+p121
+aV Restaurants
+p122
+asg6
+g19
+sg8
+VBrewer's Cafe
+p123
+sg10
+Vhttp://mumbai.burrp.com/listing/brewers-cafe_oshiwara_mumbai_cafes-take-away-shops-restaurants/1875263722
+p124
+sg12
+VOshiwara
+p125
+sg14
+(lp126
+V42646194
+p127
+aV 9833303073
+p128
+asg18
+g34
+sg20
+VWindermere Building, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p129
+sba(i__main__
+Place
+p130
+(dp131
+g3
+(lp132
+VRestaurants
+p133
+asg6
+g19
+sg8
+VKakori House
+p134
+sg10
+Vhttp://mumbai.burrp.com/listing/kakori-house_oshiwara_mumbai_restaurants/1435853366
+p135
+sg12
+VOshiwara
+p136
+sg14
+(lp137
+V64539951
+p138
+aV 64539952
+p139
+aV 64539953
+p140
+aV 64539954
+p141
+asg18
+g19
+sg20
+VShop No. 4 & 5, Building 25, Linkway Society, New Link Road, Near Oshiwara Police Station, Oshiwara, Jogeshwari West, Mumbai
+p142
+sba(i__main__
+Place
+p143
+(dp144
+g3
+(lp145
+VRestaurants
+p146
+aV Banquet Halls
+p147
+asg6
+g19
+sg8
+VTime and Again
+p148
+sg10
+Vhttp://mumbai.burrp.com/listing/time-and-again_oshiwara_mumbai_restaurants-banquet-halls/13665673
+p149
+sg12
+VOshiwara
+p150
+sg14
+(lp151
+V26351119
+p152
+aV 26351121
+p153
+asg18
+g34
+sg20
+V9, Raheja Classique, Oshiwara Link Road, Oshiwara, Jogeshwari West, Mumbai
+p154
+sba(i__main__
+Place
+p155
+(dp156
+g3
+(lp157
+VBanquet Halls
+p158
+aV Restaurants
+p159
+asg6
+g7
+sg8
+VPind Mughal Mahal
+p160
+sg10
+Vhttp://mumbai.burrp.com/listing/pind-mughal-mahal_oshiwara_mumbai_banquet-halls-restaurants/1205392089
+p161
+sg12
+VOshiwara
+p162
+sg14
+(lp163
+V42648686
+p164
+aV 42647870
+p165
+asg18
+g34
+sg20
+VGround Floor, Reliable Business Centre, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p166
+sba(i__main__
+Place
+p167
+(dp168
+g3
+(lp169
+VRestaurants
+p170
+asg6
+g19
+sg8
+VYoko Sizzlers
+p171
+sg10
+Vhttp://mumbai.burrp.com/listing/yoko-sizzlers_oshiwara_mumbai_restaurants/1736336
+p172
+sg12
+VOshiwara
+p173
+sg14
+(lp174
+V26395851
+p175
+aV 26395852
+p176
+asg18
+V0
+p177
+sg20
+V8 & 9, Mhada Shopping Complex. New link Road, Near Oshiwara Police Station, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p178
+sba(i__main__
+Place
+p179
+(dp180
+g3
+(lp181
+VRestaurants
+p182
+asg6
+g7
+sg8
+VKolkata Konnection
+p183
+sg10
+Vhttp://mumbai.burrp.com/listing/kolkata-konnection_oshiwara_mumbai_restaurants/1451353564
+p184
+sg12
+VOshiwara
+p185
+sg14
+(lp186
+V32075574
+p187
+aV 9702007569
+p188
+asg18
+g34
+sg20
+VShop No. S-5/A-13, BMC Colony, Link Road, Opposite Mega Mall, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p189
+sba(i__main__
+Place
+p190
+(dp191
+g3
+(lp192
+VRestaurants
+p193
+asg6
+g7
+sg8
+VLucky Biryani
+p194
+sg10
+Vhttp://mumbai.burrp.com/listing/lucky-biryani_jogeshwari-west_mumbai_restaurants/1454458564
+p195
+sg12
+VJogeshwari West
+p196
+sg14
+(lp197
+V65904446
+p198
+aV 65904447
+p199
+asg18
+g177
+sg20
+VShop No. 4 & 5, A - Wing, Vaibhav Place Building, Andheri Link Road, Oishwara, Jogeshwari West, Mumbai
+p200
+sba(i__main__
+Place
+p201
+(dp202
+g3
+(lp203
+VRestaurants
+p204
+asg6
+g7
+sg8
+VBhojohori Manna 
+p205
+sg10
+Vhttp://mumbai.burrp.com/listing/bhojohori-manna-_oshiwara_mumbai_restaurants/16722199742
+p206
+sg12
+VOshiwara
+p207
+sg14
+(lp208
+V65993385 
+p209
+aV 9223173135
+p210
+asg18
+g34
+sg20
+VReliable Business Center, Off Link Road, Oshiwara, Jogeshwari West, Mumbai
+p211
+sba(i__main__
+Place
+p212
+(dp213
+g3
+(lp214
+VRestaurants
+p215
+asg6
+g7
+sg8
+VShreejee's Veg Wonders
+p216
+sg10
+Vhttp://mumbai.burrp.com/listing/shreejees-veg-wonders_oshiwara_mumbai_restaurants/111270198
+p217
+sg12
+VOshiwara
+p218
+sg14
+(lp219
+V26341230
+p220
+aV 26341231
+p221
+aV 26359444
+p222
+aV 32451230
+p223
+asg18
+g34
+sg20
+V24, MHADA Commercial Complex, Opposite Tarapore Gardens, Oshiwara, Jogeshwari West, Mumbai
+p224
+sba(i__main__
+Place
+p225
+(dp226
+g3
+(lp227
+VRestaurants
+p228
+asg6
+g19
+sg8
+VShabari Next
+p229
+sg10
+Vhttp://mumbai.burrp.com/listing/shabari-next_oshiwara_mumbai_restaurants/146867663
+p230
+sg12
+VOshiwara
+p231
+sg14
+(lp232
+V26328585
+p233
+aV 26329595
+p234
+aV 65719100
+p235
+aV 67605222
+p236
+asg18
+g34
+sg20
+VBldg. No. 12, Lotus Co-Op Hsg. Society, Shop No. 4, Oshiwara MHADA, New Link Rd, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p237
+sba(i__main__
+Place
+p238
+(dp239
+g3
+(lp240
+VRestaurants
+p241
+asg6
+g7
+sg8
+VSahibaan
+p242
+sg10
+Vhttp://mumbai.burrp.com/listing/sahibaan_oshiwara_mumbai_restaurants/19314975316
+p243
+sg12
+VOshiwara
+p244
+sg14
+(lp245
+V32257784
+p246
+aV 32257785
+p247
+asg18
+g34
+sg20
+VReliable Business Center , Behind Oshiwara  Police Station , Oshiwara, Jogeshwari West, Mumbai
+p248
+sba(i__main__
+Place
+p249
+(dp250
+g3
+(lp251
+VCafes
+p252
+aV Bars & Pubs
+p253
+aV Restaurants
+p254
+asg6
+g19
+sg8
+VCrepe Coffee & Conversations
+p255
+sg10
+Vhttp://mumbai.burrp.com/listing/crepe-coffee-conversations_oshiwara_mumbai_cafes-bars-pubs-restaurants/1253205584
+p256
+sg12
+VOshiwara
+p257
+sg14
+(lp258
+V26360918
+p259
+aV 65249385
+p260
+aV 65249386
+p261
+aV 9930255925
+p262
+aV  9930255923
+p263
+asg18
+g34
+sg20
+VShop No-21/22, Meera CHS, Oshiwara Link Road, Next to VSNL Staff Quaters, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p264
+sba(i__main__
+Place
+p265
+(dp266
+g3
+(lp267
+VRestaurants
+p268
+asg6
+g7
+sg8
+VNew Skyway
+p269
+sg10
+Vhttp://mumbai.burrp.com/listing/new-skyway_jogeshwari-west_mumbai_restaurants/141840168
+p270
+sg12
+VJogeshwari West
+p271
+sg14
+(lp272
+V26786526
+p273
+aV 26786527
+p274
+aV 26786528
+p275
+asg18
+g34
+sg20
+VAyesha Tower, Shop No. 8 & 9, S.V. Road, Jogeshwari West, Mumbai
+p276
+sba(i__main__
+Place
+p277
+(dp278
+g3
+(lp279
+VRestaurants
+p280
+asg6
+V5
+p281
+sg8
+VLucky
+p282
+sg10
+Vhttp://mumbai.burrp.com/listing/lucky_jogeshwari-west_mumbai_restaurants/164761445
+p283
+sg12
+VJogeshwari West
+p284
+sg14
+(lp285
+V65904446
+p286
+aV 65904447
+p287
+asg18
+V1
+p288
+sg20
+VShop No 4/5 Vaibhav Palace, Malad-Andheri Link Rd., Opposite Mega Mall, Near Oshiwara Bus Depot, Jogeshwari (W), Jogeshwari West, Mumbai
+p289
+sba(i__main__
+Place
+p290
+(dp291
+g3
+(lp292
+VRestaurants
+p293
+asg6
+g34
+sg8
+VFire Bowl
+p294
+sg10
+Vhttp://mumbai.burrp.com/listing/fire-bowl_oshiwara_mumbai_restaurants/162842247
+p295
+sg12
+VOshiwara
+p296
+sg14
+(lp297
+V65226060
+p298
+aV 26326061
+p299
+aV 26326062
+p300
+asg18
+g34
+sg20
+VShop No. 17, Link Plaza, New Link Road, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p301
+sba(i__main__
+Place
+p302
+(dp303
+g3
+(lp304
+VRestaurants
+p305
+asg6
+g34
+sg8
+VEggsunday
+p306
+sg10
+Vhttp://mumbai.burrp.com/listing/eggsunday_oshiwara_mumbai_restaurants/1315744178
+p307
+sg12
+VOshiwara
+p308
+sg14
+(lp309
+V26319228
+p310
+aV 26319229
+p311
+aV 8767076144
+p312
+aV 8767076145
+p313
+asg18
+g34
+sg20
+VShop Number 6, Mira Tower, Oshiwara, Jogeshwari West, Mumbai
+p314
+sba(i__main__
+Place
+p315
+(dp316
+g3
+(lp317
+VRestaurants
+p318
+asg6
+g19
+sg8
+VPanchvati Gaurav
+p319
+sg10
+Vhttp://mumbai.burrp.com/listing/panchvati-gaurav_oshiwara_mumbai_restaurants/1395375970
+p320
+sg12
+VOshiwara
+p321
+sg14
+(lp322
+V6347575
+p323
+aV 9833340431
+p324
+aV 9769102178
+p325
+asg18
+g34
+sg20
+VUnit No. 206, Second Floor, link Road, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p326
+sba(i__main__
+Place
+p327
+(dp328
+g3
+(lp329
+VRestaurants
+p330
+asg6
+g34
+sg8
+VSheesha
+p331
+sg10
+Vhttp://mumbai.burrp.com/listing/sheesha_oshiwara_mumbai_restaurants/187880722
+p332
+sg12
+VOshiwara
+p333
+sg14
+(lp334
+V26350555
+p335
+asg18
+g34
+sg20
+V5th Floor, Mega Mall, Oshiwara Link Road, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p336
+sba(i__main__
+Place
+p337
+(dp338
+g3
+(lp339
+VLounges
+p340
+aV Bars & Pubs
+p341
+aV Restaurants
+p342
+asg6
+g7
+sg8
+VMorell Sixto
+p343
+sg10
+Vhttp://mumbai.burrp.com/listing/morell-sixto_oshiwara_mumbai_lounges-bars-pubs-restaurants/1141431495
+p344
+sg12
+VOshiwara
+p345
+sg14
+(lp346
+V26372082
+p347
+aV 26372083
+p348
+aV 9967199448
+p349
+aV 9819784237
+p350
+asg18
+g34
+sg20
+V26, New Oshiwara Commercial Society, New Link Plaza, Mahada, Oshiwara, Jogeshwari West, Mumbai
+p351
+sba(i__main__
+Place
+p352
+(dp353
+g3
+(lp354
+VRestaurants
+p355
+asg6
+g34
+sg8
+VHyderabad Spice
+p356
+sg10
+Vhttp://mumbai.burrp.com/listing/hyderabad-spice_oshiwara_mumbai_restaurants/1861384623
+p357
+sg12
+VOshiwara
+p358
+sg14
+(lp359
+V32052200
+p360
+aV 32715009
+p361
+aV 32690783
+p362
+asg18
+g34
+sg20
+VShop No 2, Bldg. No 27, MHADA complex, New Link Road, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p363
+sba(i__main__
+Place
+p364
+(dp365
+g3
+(lp366
+VHome Caterers
+p367
+aV Restaurants
+p368
+asg6
+g34
+sg8
+VHotel Sadaf
+p369
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sadaf_oshiwara_mumbai_home-caterers-restaurants/166410643
+p370
+sg12
+VOshiwara
+p371
+sg14
+(lp372
+V65821718
+p373
+aV 26340668
+p374
+aV 26339199
+p375
+asg18
+g34
+sg20
+VSwati Apartment, Sector 5/B, MC Colony, Oshiwara, Jogeshwari West, Mumbai
+p376
+sba(i__main__
+Place
+p377
+(dp378
+g3
+(lp379
+VRestaurants
+p380
+asg6
+g281
+sg8
+VIyer's Kitchen
+p381
+sg10
+Vhttp://mumbai.burrp.com/listing/iyers-kitchen_oshiwara_mumbai_restaurants/1945264415
+p382
+sg12
+VOshiwara
+p383
+sg14
+(lp384
+V9833025645
+p385
+asg18
+g34
+sg20
+VAndheri (W), Oshiwara, Jogeshwari West, Mumbai
+p386
+sba(i__main__
+Place
+p387
+(dp388
+g3
+(lp389
+VRoad-side Stalls
+p390
+aV Restaurants
+p391
+asg6
+g7
+sg8
+VSardarji da Dhaba
+p392
+sg10
+Vhttp://mumbai.burrp.com/listing/sardarji-da-dhaba_oshiwara_mumbai_road-side-stalls-restaurants/133875376
+p393
+sg12
+VOshiwara
+p394
+sg14
+(lp395
+V9224632000
+p396
+aV 9222050030
+p397
+asg18
+g288
+sg20
+VSardarji Nivas, Opposite Green Park, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p398
+sba(i__main__
+Place
+p399
+(dp400
+g3
+(lp401
+VRestaurants
+p402
+asg6
+g7
+sg8
+VGateway Restaurant
+p403
+sg10
+Vhttp://mumbai.burrp.com/listing/gateway-restaurant_jogeshwari-west_mumbai_restaurants/1685369841
+p404
+sg12
+VJogeshwari West
+p405
+sg14
+(lp406
+V26311530
+p407
+aV 26312530
+p408
+aV 9833503429
+p409
+asg18
+g34
+sg20
+V17, Raigad Military School & Commercial Bluiding, New Link Road, Oshiwara, Jogeshwari West, Mumbai
+p410
+sba(i__main__
+Place
+p411
+(dp412
+g3
+(lp413
+VRestaurants
+p414
+asg6
+g7
+sg8
+VKawa Kawa
+p415
+sg10
+Vhttp://mumbai.burrp.com/listing/kawa-kawa_oshiwara_mumbai_restaurants/1995561910
+p416
+sg12
+VOshiwara
+p417
+sg14
+(lp418
+V9820283700
+p419
+aV 64466437
+p420
+asg18
+g34
+sg20
+V891 Adarsh Nagar, New Link Road, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p421
+sba(i__main__
+Place
+p422
+(dp423
+g3
+(lp424
+VRestaurants
+p425
+asg6
+g7
+sg8
+VBling
+p426
+sg10
+Vhttp://mumbai.burrp.com/listing/bling_oshiwara_mumbai_restaurants/1736216336
+p427
+sg12
+VOshiwara
+p428
+sg14
+(lp429
+V9820141090
+p430
+asg18
+g288
+sg20
+VSwati Building, Shop No.1, BMC Colony, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p431
+sba(i__main__
+Place
+p432
+(dp433
+g3
+(lp434
+VRestaurants
+p435
+asg6
+g19
+sg8
+VRoti Punjab
+p436
+sg10
+Vhttp://mumbai.burrp.com/listing/roti-punjab_oshiwara_mumbai_restaurants/146849663
+p437
+sg12
+VOshiwara
+p438
+sg14
+(lp439
+V26350456
+p440
+asg18
+g34
+sg20
+V27/4 Mhada, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p441
+sba(i__main__
+Place
+p442
+(dp443
+g3
+(lp444
+VRestaurants
+p445
+asg6
+g19
+sg8
+VPunjabi Tadka
+p446
+sg10
+Vhttp://mumbai.burrp.com/listing/punjabi-tadka_oshiwara_mumbai_restaurants/178915831
+p447
+sg12
+VOshiwara
+p448
+sg14
+(lp449
+V32150060
+p450
+aV 32150070
+p451
+asg18
+g34
+sg20
+VShop No 3, Building No 12, Link Road, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p452
+sba(i__main__
+Place
+p453
+(dp454
+g3
+(lp455
+VHotels
+p456
+aV Restaurants
+p457
+asg6
+g19
+sg8
+VMumbai Darbar
+p458
+sg10
+Vhttp://mumbai.burrp.com/listing/mumbai-darbar_oshiwara_mumbai_hotels-restaurants/1116228198
+p459
+sg12
+VOshiwara
+p460
+sg14
+(lp461
+V42649135
+p462
+aV 42649136
+p463
+aV 9930068655
+p464
+aV 9930068657
+p465
+asg18
+g177
+sg20
+VNew Link Road, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p466
+sba(i__main__
+Place
+p467
+(dp468
+g3
+(lp469
+VLounges
+p470
+aV Restaurants
+p471
+asg6
+g19
+sg8
+VThe Metro
+p472
+sg10
+Vhttp://mumbai.burrp.com/listing/the-metro_oshiwara_mumbai_lounges-restaurants/14514943564
+p473
+sg12
+VOshiwara
+p474
+sg14
+(lp475
+V9967833183
+p476
+asg18
+g34
+sg20
+V1056, Adarsh Nagar , New Link Road, Oshiwara, Jogeshwari West, Mumbai
+p477
+sba(i__main__
+Place
+p478
+(dp479
+g3
+(lp480
+VRestaurants
+p481
+asg6
+g19
+sg8
+VPratap Da Dhaba
+p482
+sg10
+Vhttp://mumbai.burrp.com/listing/pratap-da-dhaba_oshiwara_mumbai_restaurants/19515281514
+p483
+sg12
+VOshiwara
+p484
+sg14
+(lp485
+V26362323
+p486
+aV 9029075566
+p487
+asg18
+g288
+sg20
+VShop No.30/31, Oshiwara, Jogeshwari West, Mumbai
+p488
+sba(i__main__
+Place
+p489
+(dp490
+g3
+(lp491
+VRestaurants
+p492
+asg6
+g177
+sg8
+VKareem's
+p493
+sg10
+Vhttp://mumbai.burrp.com/listing/kareems_oshiwara_mumbai_restaurants/19523030514
+p494
+sg12
+VOshiwara
+p495
+sg14
+(lp496
+V26328841
+p497
+aV 26328842
+p498
+aV 26328843
+p499
+aV 9320824161
+p500
+asg18
+g34
+sg20
+V10, Meera Building, Off. Link Road , Oshiwara, Jogeshwari West, Mumbai
+p501
+sba(i__main__
+Place
+p502
+(dp503
+g3
+(lp504
+VRestaurants
+p505
+asg6
+g177
+sg8
+VHotel Gurudaya
+p506
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-gurudaya_jogeshwari-west_mumbai_restaurants/13123771178
+p507
+sg12
+VJogeshwari West
+p508
+sg14
+(lp509
+V26796496
+p510
+aV 64469115
+p511
+asg18
+g34
+sg20
+VPatel Building, Station Road, Jogeshwari West, Mumbai
+p512
+sba(i__main__
+Place
+p513
+(dp514
+g3
+(lp515
+VRestaurants
+p516
+asg6
+g177
+sg8
+VHotel A-1 Darbar
+p517
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-a-1-darbar_jogeshwari-west_mumbai_restaurants/14523124564
+p518
+sg12
+VJogeshwari West
+p519
+sg14
+(lp520
+V26783989
+p521
+asg18
+g34
+sg20
+VOshiwara Bridge, S. V. Road, Jogeshwari West, Mumbai
+p522
+sba(i__main__
+Place
+p523
+(dp524
+g3
+(lp525
+VRestaurants
+p526
+asg6
+g177
+sg8
+VWok Inn Cafe
+p527
+sg10
+Vhttp://mumbai.burrp.com/listing/wok-inn-cafe_oshiwara_mumbai_restaurants/1616665148
+p528
+sg12
+VOshiwara
+p529
+sg14
+(lp530
+V32228761
+p531
+aV 9167632255
+p532
+asg18
+g177
+sg20
+VShop 1 , Municipal Market, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p533
+sba(i__main__
+Place
+p534
+(dp535
+g3
+(lp536
+VRestaurants
+p537
+asg6
+g177
+sg8
+VComfort Family Restaurant
+p538
+sg10
+Vhttp://mumbai.burrp.com/listing/comfort-family-restaurant_jogeshwari-west_mumbai_restaurants/14318723366
+p539
+sg12
+VJogeshwari West
+p540
+sg14
+(lp541
+V67426650
+p542
+aV 67426651
+p543
+aV 9321426650
+p544
+aV 9320626651
+p545
+asg18
+g34
+sg20
+VLilly Tower, Building No. 5, Shop No. 7, Next to Dewan Centre, Jogeshwari West, Mumbai
+p546
+sba(i__main__
+Place
+p547
+(dp548
+g3
+(lp549
+VRestaurants
+p550
+asg6
+g177
+sg8
+VGoodluck
+p551
+sg10
+Vhttp://mumbai.burrp.com/listing/goodluck_jogeshwari-west_mumbai_restaurants/1595350950
+p552
+sg12
+VJogeshwari West
+p553
+sg14
+(lp554
+V26780120
+p555
+aV 26780799
+p556
+asg18
+g177
+sg20
+VNear Oshiwara Petrol Pump, S.V. Road, Jogeshwari (W), Jogeshwari West, Mumbai
+p557
+sba(i__main__
+Place
+p558
+(dp559
+g3
+(lp560
+VRestaurants
+p561
+asg6
+g177
+sg8
+VSabri Restaurant
+p562
+sg10
+Vhttp://mumbai.burrp.com/listing/sabri-restaurant_jogeshwari-west_mumbai_restaurants/18310213326
+p563
+sg12
+VJogeshwari West
+p564
+sg14
+(lp565
+V26796423
+p566
+aV 26799201
+p567
+asg18
+g34
+sg20
+VS.V. Road, Jogeshwari West, Mumbai
+p568
+sba(i__main__
+Place
+p569
+(dp570
+g3
+(lp571
+VRestaurants
+p572
+asg6
+g177
+sg8
+VBismilla Restaurant
+p573
+sg10
+Vhttp://mumbai.burrp.com/listing/bismilla-restaurant_jogeshwari-west_mumbai_restaurants/11923769990
+p574
+sg12
+VJogeshwari West
+p575
+sg14
+(lp576
+V26793508
+p577
+asg18
+g34
+sg20
+VS.V Road, Jogeshwari West, Mumbai
+p578
+sba(i__main__
+Place
+p579
+(dp580
+g3
+(lp581
+VRestaurants
+p582
+asg6
+g177
+sg8
+VPicasso Pizza
+p583
+sg10
+Vhttp://mumbai.burrp.com/listing/picasso-pizza_oshiwara_mumbai_restaurants/157904752
+p584
+sg12
+VOshiwara
+p585
+sg14
+(lp586
+V32074700
+p587
+asg18
+g34
+sg20
+V90 Ft., DP Road and New Link Road, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p588
+sba(i__main__
+Place
+p589
+(dp590
+g3
+(lp591
+VRestaurants
+p592
+asg6
+g177
+sg8
+VNoronha's Kitchen
+p593
+sg10
+Vhttp://mumbai.burrp.com/listing/noronhas-kitchen_oshiwara_mumbai_restaurants/135272574
+p594
+sg12
+VOshiwara
+p595
+sg14
+(lp596
+V20313979
+p597
+aV 9820030847
+p598
+asg18
+g34
+sg20
+VLink Plaza, Opp. Punjab & Mah Bank, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p599
+sba(i__main__
+Place
+p600
+(dp601
+g3
+(lp602
+VRestaurants
+p603
+asg6
+g177
+sg8
+VCafe Simla
+p604
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-simla_oshiwara_mumbai_restaurants/1281333881
+p605
+sg12
+VOshiwara
+p606
+sg14
+(lp607
+V26329260
+p608
+aV 26379892
+p609
+aV 9029139013 
+p610
+aV 9757272509
+p611
+asg18
+g288
+sg20
+V183/184, Link Road, Adarsh Nagar, Oshiwara, Jogeshwari West, Mumbai
+p612
+sba(i__main__
+Place
+p613
+(dp614
+g3
+(lp615
+VRestaurants
+p616
+asg6
+g177
+sg8
+VPal's Fish Corner
+p617
+sg10
+Vhttp://mumbai.burrp.com/listing/pals-fish-corner_oshiwara_mumbai_restaurants/1141350495
+p618
+sg12
+VOshiwara
+p619
+sg14
+(lp620
+V32650008
+p621
+aV 32691313
+p622
+asg18
+g34
+sg20
+VShop No. 710, Adarsh Nagar, Near Tarapore Gardens, Oshiwara, Jogeshwari West, Mumbai
+p623
+sba(i__main__
+Place
+p624
+(dp625
+g3
+(lp626
+VRestaurants
+p627
+aV Bars & Pubs
+p628
+asg6
+g177
+sg8
+VRuchi Bar & Restaurant
+p629
+sg10
+Vhttp://mumbai.burrp.com/listing/ruchi-bar-restaurant_jogeshwari-west_mumbai_restaurants-bars-pubs/1895344920
+p630
+sg12
+VJogeshwari West
+p631
+sg14
+(lp632
+V26781519
+p633
+asg18
+g34
+sg20
+VShop No.13, Saraf Kaskar Indl Premises CHSL, SV Road, Jogeshwari West, Mumbai
+p634
+sba(i__main__
+Place
+p635
+(dp636
+g3
+(lp637
+VRestaurants
+p638
+asg6
+g177
+sg8
+VStar Food Restaurant
+p639
+sg10
+Vhttp://mumbai.burrp.com/listing/star-food-restaurant_oshiwara_mumbai_restaurants/13112494178
+p640
+sg12
+VOshiwara
+p641
+sg14
+(lp642
+V
+p643
+aV 9833310178
+p644
+asg18
+g177
+sg20
+VMega Mall, Food Court, New Link Road, Oshiwara, Jogeshwari West, Mumbai
+p645
+sba(i__main__
+Place
+p646
+(dp647
+g3
+(lp648
+VRestaurants
+p649
+asg6
+g177
+sg8
+VChhoti Bites 
+p650
+sg10
+Vhttp://mumbai.burrp.com/listing/chhoti-bites-_jogeshwari-west_mumbai_restaurants/15523629554
+p651
+sg12
+VJogeshwari West
+p652
+sg14
+(lp653
+V26787748
+p654
+asg18
+g288
+sg20
+VShop No 7, Nagina Housing Co-op, Jogeshwari West, Mumbai
+p655
+sba(i__main__
+Place
+p656
+(dp657
+g3
+(lp658
+VRestaurants
+p659
+asg6
+g177
+sg8
+VAbabeel
+p660
+sg10
+Vhttp://mumbai.burrp.com/listing/ababeel_oshiwara_mumbai_restaurants/1261683
+p661
+sg12
+VOshiwara
+p662
+sg14
+(lp663
+V26304444
+p664
+aV 26304142
+p665
+aV 26390243
+p666
+asg18
+g177
+sg20
+VBldg no 41, MHADA Complex, Nr. Oshiwara Police Station, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p667
+sba(i__main__
+Place
+p668
+(dp669
+g3
+(lp670
+VRestaurants
+p671
+asg6
+g177
+sg8
+VTurmerik - Grills and Kurries
+p672
+sg10
+Vhttp://mumbai.burrp.com/listing/turmerik---grills-and-kurries_oshiwara_mumbai_restaurants/1271782
+p673
+sg12
+VOshiwara
+p674
+sg14
+(lp675
+V66078810
+p676
+aV 26350764
+p677
+asg18
+g177
+sg20
+V17, MHADA Shopping Complex, New Link Road, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p678
+sba(i__main__
+Place
+p679
+(dp680
+g3
+(lp681
+VRestaurants
+p682
+asg6
+g177
+sg8
+VHotel Bostan
+p683
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-bostan_jogeshwari-west_mumbai_restaurants/139119970
+p684
+sg12
+VJogeshwari West
+p685
+sg14
+(lp686
+V26799282
+p687
+aV 26793926
+p688
+asg18
+g177
+sg20
+VSV Road, Near Railway Station, Jogeshwari (W), Jogeshwari West, Mumbai
+p689
+sba(i__main__
+Place
+p690
+(dp691
+g3
+(lp692
+VRestaurants
+p693
+aV Bars & Pubs
+p694
+asg6
+g177
+sg8
+VBela Punjab Restaurant & Bar
+p695
+sg10
+Vhttp://mumbai.burrp.com/listing/bela-punjab-restaurant-bar_jogeshwari-west_mumbai_restaurants-bars-pubs/184169425
+p696
+sg12
+VJogeshwari West
+p697
+sg14
+(lp698
+V26791874
+p699
+asg18
+g177
+sg20
+V1, Station Road, Corner of SV Road & Jogeshwari Station Road, Jogeshwari (W), Jogeshwari West, Mumbai
+p700
+sba(i__main__
+Place
+p701
+(dp702
+g3
+(lp703
+VRestaurants
+p704
+asg6
+g177
+sg8
+VTrisha Restaurant
+p705
+sg10
+Vhttp://mumbai.burrp.com/listing/trisha-restaurant_oshiwara_mumbai_restaurants/1393116970
+p706
+sg12
+VOshiwara
+p707
+sg14
+(lp708
+V9322789747
+p709
+aV 28766187
+p710
+asg18
+g34
+sg20
+VIndira Nagar, Near Oshiwara Bus Depot, Oshiwara, Jogeshwari West, Mumbai
+p711
+sba(i__main__
+Place
+p712
+(dp713
+g3
+(lp714
+VRestaurants
+p715
+asg6
+g177
+sg8
+VFatoush
+p716
+sg10
+Vhttp://mumbai.burrp.com/listing/fatoush_jogeshwari-west_mumbai_restaurants/1453693564
+p717
+sg12
+VJogeshwari West
+p718
+sg14
+(lp719
+V26360918
+p720
+aV 65249385
+p721
+aV 65249386
+p722
+asg18
+g34
+sg20
+V21/22, Meera Co Operative Hsg Society, Link Road, Oshiwara, Jogeshwari (W), Jogeshwari West, Mumbai
+p723
+sba(i__main__
+Place
+p724
+(dp725
+g3
+(lp726
+VRestaurants
+p727
+asg6
+g177
+sg8
+VThe Kulcha Hut
+p728
+sg10
+Vhttp://mumbai.burrp.com/listing/the-kulcha-hut_oshiwara_mumbai_restaurants/1263853683
+p729
+sg12
+VOshiwara
+p730
+sg14
+(lp731
+V42646460
+p732
+aV 9320297788
+p733
+asg18
+g34
+sg20
+VShop No.2B, Swati Apartments, Anand Nagar, Next to 5 Spice Restaurant, Andheri (W), Oshiwara, Jogeshwari West, Mumbai
+p734
+sba(i__main__
+Place
+p735
+(dp736
+g3
+(lp737
+VRestaurants
+p738
+asg6
+g177
+sg8
+VMarkaz Restaurant Veg. & Non Veg.
+p739
+sg10
+Vhttp://mumbai.burrp.com/listing/markaz-restaurant-veg-non-veg_jogeshwari-west_mumbai_restaurants/1364484673
+p740
+sg12
+VJogeshwari West
+p741
+sg14
+(lp742
+V26791203
+p743
+aV 26786465
+p744
+aV 26791204
+p745
+asg18
+g177
+sg20
+VShop No. Crystal Park Co. Op. Hsg. Soc. Ltd., 134, S.V. RD, Sagar Malkani Complex, Jogeshwari (W), Jogeshwari West, Mumbai
+p746
+sba(i__main__
+Place
+p747
+(dp748
+g3
+(lp749
+VRestaurants
+p750
+asg6
+g177
+sg8
+VShahi Darbar
+p751
+sg10
+Vhttp://mumbai.burrp.com/listing/shahi-darbar_jogeshwari-west_mumbai_restaurants/1805191029
+p752
+sg12
+VJogeshwari West
+p753
+sg14
+(lp754
+V64406883
+p755
+aV 64461744
+p756
+asg18
+g34
+sg20
+VChaudhary House, New Link Road, Jogeshwari (W), Jogeshwari West, Mumbai
+p757
+sba(i__main__
+Place
+p758
+(dp759
+g3
+(lp760
+VRestaurants
+p761
+asg6
+g177
+sg8
+VGopal Da Dhaba
+p762
+sg10
+Vhttp://mumbai.burrp.com/listing/gopal-da-dhaba_jogeshwari-west_mumbai_restaurants/1595386950
+p763
+sg12
+VJogeshwari West
+p764
+sg14
+(lp765
+V9321334133
+p766
+aV 9619700023
+p767
+asg18
+g288
+sg20
+V3-A, Seva Co-operative Housing Society, Oshiwara, Jogeshwari West, Mumbai
+p768
+sba(i__main__
+Place
+p769
+(dp770
+g3
+(lp771
+VRestaurants
+p772
+asg6
+g177
+sg8
+VCinema Cafe
+p773
+sg10
+Vhttp://mumbai.burrp.com/listing/cinema-cafe_oshiwara_mumbai_restaurants/1565764653
+p774
+sg12
+VOshiwara
+p775
+sg14
+(lp776
+V32228773
+p777
+asg18
+g34
+sg20
+VOm Heera Panna Mall, Shreeji\u2019s Lane, off New Link Road, Oshiwara, Jogeshwari West, Mumbai
+p778
+sba(i__main__
+Place
+p779
+(dp780
+g3
+(lp781
+VRestaurants
+p782
+asg6
+g177
+sg8
+VCafe Tashkend
+p783
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-tashkend_jogeshwari-west_mumbai_restaurants/1236850386
+p784
+sg12
+VJogeshwari West
+p785
+sg14
+(lp786
+V26786649
+p787
+aV 26782243
+p788
+aV 26789927
+p789
+asg18
+g177
+sg20
+VS.V.Road, Jogeshwari (W), Jogeshwari West, Mumbai
+p790
+sba(i__main__
+Place
+p791
+(dp792
+g3
+(lp793
+VRestaurants
+p794
+asg6
+g177
+sg8
+VCafe Alif
+p795
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-alif_jogeshwari-west_mumbai_restaurants/1296850980
+p796
+sg12
+VJogeshwari West
+p797
+sg14
+(lp798
+V26780982
+p799
+aV 26786694
+p800
+asg18
+g177
+sg20
+VMathra Apartment, S V Road, Jogeshwari (W), Jogeshwari West, Mumbai
+p801
+sba(i__main__
+Place
+p802
+(dp803
+g3
+(lp804
+VRestaurants
+p805
+asg6
+g177
+sg8
+VCorner Darbar Restaurant
+p806
+sg10
+Vhttp://mumbai.burrp.com/listing/corner-darbar-restaurant_jogeshwari-west_mumbai_restaurants/1959872514
+p807
+sg12
+VJogeshwari West
+p808
+sg14
+(lp809
+V26393676
+p810
+asg18
+g288
+sg20
+VAnand Nagar, New Link Road, Jogeshwari West, Mumbai
+p811
+sba(i__main__
+Place
+p812
+(dp813
+g3
+(lp814
+VRestaurants
+p815
+asg6
+g177
+sg8
+VA1 Darbar Restaurant
+p816
+sg10
+Vhttp://mumbai.burrp.com/listing/a1-darbar-restaurant_jogeshwari-west_mumbai_restaurants/13310190376
+p817
+sg12
+VJogeshwari West
+p818
+sg14
+(lp819
+V26783989
+p820
+aV 26789603
+p821
+asg18
+g177
+sg20
+VS V Road, Oshiwara Bridge, Jogeshwari West, Mumbai
+p822
+sba(i__main__
+Place
+p823
+(dp824
+g3
+(lp825
+VRestaurants
+p826
+aV Bars & Pubs
+p827
+asg6
+g177
+sg8
+VAdarsh Bar & Restaurant
+p828
+sg10
+Vhttp://mumbai.burrp.com/listing/adarsh-bar-restaurant_jogeshwari-west_mumbai_restaurants-bars-pubs/13510190574
+p829
+sg12
+VJogeshwari West
+p830
+sg14
+(lp831
+V26741503
+p832
+aV 26741727
+p833
+asg18
+g177
+sg20
+V736, Adarsh Nagar, Link Rd, Jogeshwari West, Mumbai
+p834
+sba(i__main__
+Place
+p835
+(dp836
+g3
+(lp837
+VRestaurants
+p838
+asg6
+g177
+sg8
+VSkyway Restaurant
+p839
+sg10
+Vhttp://mumbai.burrp.com/listing/skyway-restaurant_jogeshwari-west_mumbai_restaurants/18910213920
+p840
+sg12
+VJogeshwari West
+p841
+sg14
+(lp842
+V26786526
+p843
+aV 26786527
+p844
+aV 26786528
+p845
+asg18
+g177
+sg20
+VShop No 8 And 9, Ayesha Tower, S V Road, Jogeshwari West, Mumbai
+p846
+sba(i__main__
+Place
+p847
+(dp848
+g3
+(lp849
+VRestaurants
+p850
+asg6
+g177
+sg8
+VMomin Restaurant
+p851
+sg10
+Vhttp://mumbai.burrp.com/listing/momin-restaurant_jogeshwari-west_mumbai_restaurants/14510218564
+p852
+sg12
+VJogeshwari West
+p853
+sg14
+(lp854
+V26799896
+p855
+asg18
+g177
+sg20
+VMomin Nagar, Near Momin Nagar Gate, Jogeshwari West, Mumbai
+p856
+sba(i__main__
+Place
+p857
+(dp858
+g3
+(lp859
+VRestaurants
+p860
+asg6
+g177
+sg8
+VCafe Alsafa
+p861
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-alsafa_jogeshwari-west_mumbai_restaurants/16910220940
+p862
+sg12
+VJogeshwari West
+p863
+sg14
+(lp864
+V26799133
+p865
+asg18
+g177
+sg20
+VS V Road, Opp Veena Indl Estate, Nr Ajit Glass, Jogeshwari West, Mumbai
+p866
+sba(i__main__
+Place
+p867
+(dp868
+g3
+(lp869
+VBars & Pubs
+p870
+aV Restaurants
+p871
+asg6
+g177
+sg8
+VCafe Alif
+p872
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-alif_jogeshwari-west_mumbai_bars-pubs-restaurants/17110221138
+p873
+sg12
+VJogeshwari West
+p874
+sg14
+(lp875
+V26780982
+p876
+aV 26786694
+p877
+asg18
+g177
+sg20
+VMathra Apts, S V Road, Opp Ramshyam Behram Baug Corner, Jogeshwari West, Mumbai
+p878
+sba.

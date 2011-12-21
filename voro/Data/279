@@ -1,0 +1,41 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VVikas Restaurant And Bar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/vikas-restaurant-and-bar_th-kataria-marg_mumbai_restaurants/15913207950
+p11
+sS'region'
+p12
+VTH Kataria Marg
+p13
+sS'phone'
+p14
+(lp15
+V24322428
+p16
+aV 24372071
+p17
+asS'cost'
+p18
+g7
+sS'addr'
+p19
+VRatan Terrace, Below Matunga Bridge, TH Kataria Marg, Matunga, Mumbai
+p20
+sba.

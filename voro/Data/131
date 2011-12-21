@@ -1,0 +1,662 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VRite On Coal 
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/rite-on-coal-_kalina_mumbai_restaurants/1674496742
+p11
+sS'region'
+p12
+VKalina
+p13
+sS'phone'
+p14
+(lp15
+V26667632 
+p16
+aV 26662934
+p17
+aV 9870904642
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VNear Bank Of Baroda, Kalina, Santacruz East, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+V4
+p27
+sg8
+VMeena Family Restaurant & Bar
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/meena-family-restaurant-bar_kalina_mumbai_restaurants/13510532574
+p29
+sg12
+VKalina
+p30
+sg14
+(lp31
+V26528090
+p32
+aV 26528926
+p33
+aV 9867214388
+p34
+asg19
+V0
+p35
+sg21
+VUniversity Campus, CST Road Vidyanagari Road, Kalina, Santacruz East, Mumbai
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VRestaurants
+p40
+asg6
+V3
+p41
+sg8
+VSAI Chinese Restaurant
+p42
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-chinese-restaurant_kalina_mumbai_restaurants/11710530792
+p43
+sg12
+VKalina
+p44
+sg14
+(lp45
+V26660689
+p46
+aV 26663580
+p47
+asg19
+g35
+sg21
+V10 Lovely Home, Kalina Church Rd, Kalina, Santacruz East, Mumbai
+p48
+sba(i__main__
+Place
+p49
+(dp50
+g3
+(lp51
+VRestaurants
+p52
+asg6
+g20
+sg8
+VHotel Mahesh Restaurant & Bar
+p53
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-mahesh-restaurant-bar_kalina_mumbai_restaurants/13510523574
+p54
+sg12
+VKalina
+p55
+sg14
+(lp56
+V26652084
+p57
+aV 66925020
+p58
+aV 9819008357
+p59
+asg19
+g35
+sg21
+VBuilding No 2, Govind Sagar, Ground Floor , Vidyanagari Marg, CST Road, Kalina, Santacruz East, Mumbai
+p60
+sba(i__main__
+Place
+p61
+(dp62
+g3
+(lp63
+VRestaurants
+p64
+asg6
+g35
+sg8
+VLucky Restaurant
+p65
+sg10
+Vhttp://mumbai.burrp.com/listing/lucky-restaurant_kalina_mumbai_restaurants/14510524564
+p66
+sg12
+VKalina
+p67
+sg14
+(lp68
+V26663622
+p69
+asg19
+g35
+sg21
+VOpp Airindia Colony, Kalina Kurla Rd, Kalina, Santacruz East, Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+asg6
+g35
+sg8
+VRavi Restaurant
+p75
+sg10
+Vhttp://mumbai.burrp.com/listing/ravi-restaurant_kalina_mumbai_restaurants/14710524762
+p76
+sg12
+VKalina
+p77
+sg14
+(lp78
+V26650570
+p79
+aV 26654269
+p80
+asg19
+g35
+sg21
+VKailas Parvat, Ground Floor, C S T Road, Kalina, Santacruz East, Mumbai
+p81
+sba(i__main__
+Place
+p82
+(dp83
+g3
+(lp84
+VRestaurants
+p85
+asg6
+g35
+sg8
+VNityanand Restaurant
+p86
+sg10
+Vhttp://mumbai.burrp.com/listing/nityanand-restaurant_kalina_mumbai_restaurants/16510526544
+p87
+sg12
+VKalina
+p88
+sg14
+(lp89
+V26654420
+p90
+aV 26655512
+p91
+asg19
+g35
+sg21
+V297, CST Road, Kalina, Santacruz East, Mumbai
+p92
+sba(i__main__
+Place
+p93
+(dp94
+g3
+(lp95
+VJuice Parlours
+p96
+aV Restaurants
+p97
+asg6
+g35
+sg8
+VSainath Restaurant
+p98
+sg10
+Vhttp://mumbai.burrp.com/listing/sainath-restaurant_kalina_mumbai_juice-parlours-restaurants/19710529712
+p99
+sg12
+VKalina
+p100
+sg14
+(lp101
+V26523131
+p102
+asg19
+g35
+sg21
+VShop No 6 , C S T Road , Kalina, Santacruz East, Mumbai
+p103
+sba(i__main__
+Place
+p104
+(dp105
+g3
+(lp106
+VFast Food Shops
+p107
+aV Restaurants
+p108
+asg6
+g35
+sg8
+VThe HUB
+p109
+sg10
+Vhttp://mumbai.burrp.com/listing/the-hub_kalina_mumbai_fast-food-shops-restaurants/14910533960
+p110
+sg12
+VKalina
+p111
+sg14
+(lp112
+V26660494
+p113
+aV 9821672568
+p114
+asg19
+g35
+sg21
+VShop No 1/A, Universal Apartment, Coliveniry Lane, Kalina, Santacruz East, Mumbai
+p115
+sba(i__main__
+Place
+p116
+(dp117
+g3
+(lp118
+VRestaurants
+p119
+asg6
+g35
+sg8
+VChina Gate Restaurants Pvt Ltd
+p120
+sg10
+Vhttp://mumbai.burrp.com/listing/china-gate-restaurants-pvt-ltd_kalina_mumbai_restaurants/13310523376
+p121
+sg12
+VKalina
+p122
+sg14
+(lp123
+V26501010
+p124
+aV 26505050
+p125
+aV 26526248
+p126
+aV 26542654
+p127
+asg19
+g35
+sg21
+V20, Amar Industrial Estate, 159, CST Road, Kalina, Santacruz East, Mumbai
+p128
+sba(i__main__
+Place
+p129
+(dp130
+g3
+(lp131
+VRestaurants
+p132
+asg6
+g35
+sg8
+VNityanand Restaurant
+p133
+sg10
+Vhttp://mumbai.burrp.com/listing/nityanand-restaurant_kalina_mumbai_restaurants/13710523772
+p134
+sg12
+VKalina
+p135
+sg14
+(lp136
+V26654420
+p137
+aV 26655512
+p138
+asg19
+g35
+sg21
+V297 C S T Road, Kalina, Santacruz East, Mumbai
+p139
+sba(i__main__
+Place
+p140
+(dp141
+g3
+(lp142
+VRestaurants
+p143
+asg6
+g35
+sg8
+VRite On Coal Restaurant
+p144
+sg10
+Vhttp://mumbai.burrp.com/listing/rite-on-coal-restaurant_kalina_mumbai_restaurants/14910524960
+p145
+sg12
+VKalina
+p146
+sg14
+(lp147
+V26662934
+p148
+aV 26667632
+p149
+asg19
+g35
+sg21
+VShop No 2, Gwenns Apartment, Kalina Kurla Road, Kalina, Santacruz East, Mumbai
+p150
+sba(i__main__
+Place
+p151
+(dp152
+g3
+(lp153
+VRestaurants
+p154
+asg6
+g35
+sg8
+VRoyal Cuisine
+p155
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-cuisine_kalina_mumbai_restaurants/15310525356
+p156
+sg12
+VKalina
+p157
+sg14
+(lp158
+V26549144
+p159
+aV 26549625
+p160
+asg19
+g35
+sg21
+VVidhyanagari,  Next To Vidyanagari Post Office, Kalina, Santacruz East, Mumbai
+p161
+sba(i__main__
+Place
+p162
+(dp163
+g3
+(lp164
+VRestaurants
+p165
+asg6
+g35
+sg8
+VBhuwalka Steel Industries Ltd
+p166
+sg10
+Vhttp://mumbai.burrp.com/listing/bhuwalka-steel-industries-ltd_kalina_mumbai_restaurants/19310529316
+p167
+sg12
+VKalina
+p168
+sg14
+(lp169
+V26654771
+p170
+aV 9323313904
+p171
+aV 9323313907
+p172
+aV 9967335337
+p173
+asg19
+g35
+sg21
+VNo 176, Shashmira Center, CST Road, 2nd Floor, Kalina, Santacruz East, Mumbai
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VBars & Pubs
+p178
+aV Restaurants
+p179
+asg6
+g35
+sg8
+VSAI Garden
+p180
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-garden_kalina_mumbai_bars-pubs-restaurants/11310530396
+p181
+sg12
+VKalina
+p182
+sg14
+(lp183
+V26540506
+p184
+asg19
+g35
+sg21
+VShop No.182, Cst Road, Near Bombay University, Kalina, Santacruz East, Mumbai
+p185
+sba(i__main__
+Place
+p186
+(dp187
+g3
+(lp188
+VRestaurants
+p189
+asg6
+g35
+sg8
+VMahesh Bar & Restaurant
+p190
+sg10
+Vhttp://mumbai.burrp.com/listing/mahesh-bar-restaurant_kalina_mumbai_restaurants/13310532376
+p191
+sg12
+VKalina
+p192
+sg14
+(lp193
+V26652084
+p194
+asg19
+g35
+sg21
+VCST Road, Kalina, Santacruz East, Mumbai
+p195
+sba(i__main__
+Place
+p196
+(dp197
+g3
+(lp198
+VRestaurants
+p199
+asg6
+g35
+sg8
+VCamp Restaurant & Bar
+p200
+sg10
+Vhttp://mumbai.burrp.com/listing/camp-restaurant-bar_kalina_mumbai_restaurants/14310533366
+p201
+sg12
+VKalina
+p202
+sg14
+(lp203
+V26660092
+p204
+aV 26666811
+p205
+asg19
+g35
+sg21
+VAnnes Premises Coopeartive Housing Society, Kalina Kurla Road, Kalina Market, Kalina, Santacruz East, Mumbai
+p206
+sba(i__main__
+Place
+p207
+(dp208
+g3
+(lp209
+VShops
+p210
+aV Cafes
+p211
+aV Restaurants
+p212
+aV Dessert Shops
+p213
+asg6
+g35
+sg8
+VPrabhu Snacks
+p214
+sg10
+Vhttp://mumbai.burrp.com/listing/prabhu-snacks_kalina_mumbai_shops-cafes-restaurants/15710534752
+p215
+sg12
+VKalina
+p216
+sg14
+(lp217
+V26660604
+p218
+aV 26661060
+p219
+aV 9820694227
+p220
+asg19
+g35
+sg21
+V7/3rd Rustic View, Kalina Village Kalina Church, Opp Kalina Masjid, Kalina, Santacruz East, Mumbai
+p221
+sba(i__main__
+Place
+p222
+(dp223
+g3
+(lp224
+VRestaurants
+p225
+asg6
+g35
+sg8
+VPushparaj Restaurant And Bar
+p226
+sg10
+Vhttp://mumbai.burrp.com/listing/pushparaj-restaurant-and-bar_kalina_mumbai_restaurants/16110535148
+p227
+sg12
+VKalina
+p228
+sg14
+(lp229
+V26661639
+p230
+asg19
+g35
+sg21
+VShop No 1, Athod Mansion, Kurla Kalina Road, Santacruz, Kalina, Santacruz East, Mumbai
+p231
+sba(i__main__
+Place
+p232
+(dp233
+g3
+(lp234
+VRestaurants
+p235
+asg6
+g35
+sg8
+VWalk Inn Restaurant
+p236
+sg10
+Vhttp://mumbai.burrp.com/listing/walk-inn-restaurant_kalina_mumbai_restaurants/16710535742
+p237
+sg12
+VKalina
+p238
+sg14
+(lp239
+V26651355
+p240
+aV 26653057
+p241
+asg19
+g35
+sg21
+VC/O Tirupati Restaurant, Vidya Nagari Kalina, Kalina, Santacruz East, Mumbai
+p242
+sba(i__main__
+Place
+p243
+(dp244
+g3
+(lp245
+VRestaurants
+p246
+asg6
+g35
+sg8
+VThe Camp
+p247
+sg10
+Vhttp://mumbai.burrp.com/listing/the-camp_kalina_mumbai_restaurants/16122676148
+p248
+sg12
+VKalina
+p249
+sg14
+(lp250
+V26660092
+p251
+asg19
+V1
+p252
+sg21
+VKalina, Santacruz East, Mumbai
+p253
+sba.

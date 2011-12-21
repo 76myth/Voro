@@ -1,0 +1,336 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VJhakas Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/jhakas-restaurant_dharavi_mumbai_restaurants/13724194772
+p11
+sS'region'
+p12
+VDharavi
+p13
+sS'phone'
+p14
+(lp15
+V32604908
+p16
+asS'cost'
+p17
+V0
+p18
+sS'addr'
+p19
+VT-Junction, Sion Bandra Link Road, Dharavi, Sion, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g18
+sg8
+VRafique U P Restaurant
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/rafique-u-p-restaurant_dharavi_mumbai_restaurants/1799366930
+p26
+sg12
+VDharavi
+p27
+sg14
+(lp28
+V24020093
+p29
+asg17
+g18
+sg19
+VShop No 2 And 3, B M C Building, Main Road, Dharavi, Sion, Mumbai
+p30
+sba(i__main__
+Place
+p31
+(dp32
+g3
+(lp33
+VRestaurants
+p34
+asg6
+g18
+sg8
+VHotel Sholay
+p35
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sholay_dharavi_mumbai_restaurants/1479363762
+p36
+sg12
+VDharavi
+p37
+sg14
+(lp38
+V24076248
+p39
+aV 9321024184
+p40
+asg17
+g18
+sg19
+V196 Dharavi Main Road, Dharavi, Sion, Mumbai
+p41
+sba(i__main__
+Place
+p42
+(dp43
+g3
+(lp44
+VRestaurants
+p45
+asg6
+g18
+sg8
+VSudarshan Lunch Home
+p46
+sg10
+Vhttp://mumbai.burrp.com/listing/sudarshan-lunch-home_dharavi_mumbai_restaurants/1659365544
+p47
+sg12
+VDharavi
+p48
+sg14
+(lp49
+V24039266
+p50
+aV 24097015
+p51
+asg17
+g18
+sg19
+V90 Feet Road, Dharavi, Sion, Mumbai
+p52
+sba(i__main__
+Place
+p53
+(dp54
+g3
+(lp55
+VRestaurants
+p56
+asg6
+g18
+sg8
+VVenus Restaurant
+p57
+sg10
+Vhttp://mumbai.burrp.com/listing/venus-restaurant_dharavi_mumbai_restaurants/1679365742
+p58
+sg12
+VDharavi
+p59
+sg14
+(lp60
+V24074414
+p61
+asg17
+g18
+sg19
+V90 Feet Road, Dharavi, Sion, Mumbai
+p62
+sba(i__main__
+Place
+p63
+(dp64
+g3
+(lp65
+VBars & Pubs
+p66
+aV Restaurants
+p67
+asg6
+g18
+sg8
+VRoyal Pure Veg
+p68
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-pure-veg_dharavi_mumbai_bars-pubs-restaurants/1819367128
+p69
+sg12
+VDharavi
+p70
+sg14
+(lp71
+V24017086
+p72
+asg17
+g18
+sg19
+VDharavi Main Rd, Nr Mahim Pathak, Dharavi, Sion, Mumbai
+p73
+sba(i__main__
+Place
+p74
+(dp75
+g3
+(lp76
+VRestaurants
+p77
+asg6
+g18
+sg8
+VCafe Sagar
+p78
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-sagar_dharavi_mumbai_restaurants/1899376920
+p79
+sg12
+VDharavi
+p80
+sg14
+(lp81
+V24037587
+p82
+aV 9820371320
+p83
+asg17
+g18
+sg19
+V90 Feet Road, Sai Baba Nagar, Dharavi, Sion, Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg6
+g18
+sg8
+VCitizen Restaurant
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/citizen-restaurant_dharavi_mumbai_restaurants/1939377316
+p90
+sg12
+VDharavi
+p91
+sg14
+(lp92
+V24084953
+p93
+asg17
+g18
+sg19
+VShop No A/4-325, 90 Feet Road, Kalakilla, Dharavi, Sion, Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VBars & Pubs
+p98
+aV Restaurants
+p99
+asg6
+g18
+sg8
+VCafe Arfa
+p100
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-arfa_dharavi_mumbai_bars-pubs-restaurants/1959377514
+p101
+sg12
+VDharavi
+p102
+sg14
+(lp103
+V24022973
+p104
+asg17
+g18
+sg19
+VDharavi Main Rd, Dharavi, Sion, Mumbai
+p105
+sba(i__main__
+Place
+p106
+(dp107
+g3
+(lp108
+VRestaurants
+p109
+asg6
+g18
+sg8
+VHotel Himalaya Guest House & Restaurant
+p110
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-himalaya-guest-house-restaurant_dharavi_mumbai_restaurants/1999377910
+p111
+sg12
+VDharavi
+p112
+sg14
+(lp113
+V24033153
+p114
+aV 24073727
+p115
+aV 24074292
+p116
+asg17
+g18
+sg19
+V90 Feet Road, Dharavi, Sion, Mumbai
+p117
+sba(i__main__
+Place
+p118
+(dp119
+g3
+(lp120
+VRestaurants
+p121
+aV Bars & Pubs
+p122
+asg6
+g18
+sg8
+VGulshan Restaurant
+p123
+sg10
+Vhttp://mumbai.burrp.com/listing/gulshan-restaurant_dharavi_mumbai_restaurants-bars-pubs/1119378198
+p124
+sg12
+VDharavi
+p125
+sg14
+(lp126
+V24072815
+p127
+asg17
+g18
+sg19
+VAshok Mill Compound, St Rohidas Mg Bandra Link Road, Sion Dharavi, Dharavi, Sion, Mumbai
+p128
+sba.

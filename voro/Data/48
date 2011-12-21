@@ -1,0 +1,461 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VBhagwati Veg Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/bhagwati-veg-restaurant_charkop_mumbai_restaurants/1738394336
+p11
+sS'region'
+p12
+VCharkop
+p13
+sS'phone'
+p14
+(lp15
+V28674522
+p16
+aV 28674833
+p17
+aV 28676656
+p18
+aV 28689822
+p19
+asS'cost'
+p20
+V0
+p21
+sS'addr'
+p22
+VKesar Residency, Sector-3, Charkop, Kandivali West, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VOutdoor Caterers
+p27
+aV Restaurants
+p28
+asg6
+g21
+sg8
+VCafe Toscana
+p29
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-toscana_charkop_mumbai_outdoor-caterers-restaurants/15122621158
+p30
+sg12
+VCharkop
+p31
+sg14
+(lp32
+V32256864
+p33
+aV 9969202679
+p34
+aV 9619789111
+p35
+asg20
+g21
+sg22
+VShop No. 12, Sea Mist, Sector No. 8, Plot No. 3, Charkop, Kandivali West, Mumbai
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VRestaurants
+p40
+asg6
+g21
+sg8
+VRutuja Pure Veg 
+p41
+sg10
+Vhttp://mumbai.burrp.com/listing/rutuja-pure-veg-_charkop_mumbai_restaurants/1504495059
+p42
+sg12
+VCharkop
+p43
+sg14
+(lp44
+V28690561
+p45
+aV 28691047 
+p46
+asg20
+g21
+sg22
+VPriyanka Building, Sector No. 3, Charkop, Kandivali West, Mumbai
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VTake Away Shops
+p51
+aV Restaurants
+p52
+asg6
+g21
+sg8
+VRassa
+p53
+sg10
+Vhttp://mumbai.burrp.com/listing/rassa_charkop_mumbai_take-away-shops-restaurants/1795829930
+p54
+sg12
+VCharkop
+p55
+sg14
+(lp56
+V28676833
+p57
+asg20
+V2
+p58
+sg22
+VShop No. 1, Gandhar Society, Sector-3, Charkop, Kandivali West, Mumbai
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg6
+g21
+sg8
+VThe Chandni Chowk Express
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/the-chandni-chowk-express_charkop_mumbai_restaurants/11522617594
+p65
+sg12
+VCharkop
+p66
+sg14
+(lp67
+V9702365484
+p68
+aV 9702365124
+p69
+asg20
+g21
+sg22
+VShop No. 9, Astar Place, Plot No. 235, Sector-3, Charkop, Kandivali West, Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+asg6
+g21
+sg8
+VThe 
+p75
+sg10
+Vhttp://mumbai.burrp.com/listing/the-wow-treat_charkop_mumbai_restaurants/13322619376
+p76
+sg12
+VCharkop
+p77
+sg14
+(lp78
+V9146687757
+p79
+aV 9146687787
+p80
+asg20
+g21
+sg22
+VShop No. 3, Sea Mist Building, Turzan Point, Sector-8, Charkop, Kandivali West, Mumbai
+p81
+sba(i__main__
+Place
+p82
+(dp83
+g3
+(lp84
+VCafes
+p85
+aV Restaurants
+p86
+aV Food-court Stalls
+p87
+aV Fast Food Shops
+p88
+asg6
+g21
+sg8
+VFood Nexus
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/food-nexus_charkop_mumbai_cafes-restaurants-food-court-stalls/1938387316
+p90
+sg12
+VCharkop
+p91
+sg14
+(lp92
+V28608030
+p93
+aV 9321316660
+p94
+asg20
+g21
+sg22
+VShop No 87, 1st Floor, Sunrise Shopping Centre, Charkop Market, Charkop, Kandivali West, Mumbai
+p95
+sba(i__main__
+Place
+p96
+(dp97
+g3
+(lp98
+VRestaurants
+p99
+asg6
+g21
+sg8
+VLake Garden Family Restaurant & Bar
+p100
+sg10
+Vhttp://mumbai.burrp.com/listing/lake-garden-family-restaurant-bar_charkop_mumbai_restaurants/1478382762
+p101
+sg12
+VCharkop
+p102
+sg14
+(lp103
+V28694813
+p104
+aV 28696110
+p105
+asg20
+g21
+sg22
+VCharkop Kedarnath Co-Operative Housing Soceity Limited, Ground Floor, Plot No. 7, RDP-5, Charkop, Kandivali West, Mumbai
+p106
+sba(i__main__
+Place
+p107
+(dp108
+g3
+(lp109
+VRestaurants
+p110
+asg6
+g21
+sg8
+VSandhya Restaurant  And  Bar
+p111
+sg10
+Vhttp://mumbai.burrp.com/listing/sandhya-restaurant-and-bar_charkop_mumbai_restaurants/1858395524
+p112
+sg12
+VCharkop
+p113
+sg14
+(lp114
+V28689219
+p115
+asg20
+g21
+sg22
+V108, Government Industrial Estate, Sector 1, Charkop, Kandivali West, Mumbai
+p116
+sba(i__main__
+Place
+p117
+(dp118
+g3
+(lp119
+VRestaurants
+p120
+aV Bars & Pubs
+p121
+asg6
+g21
+sg8
+VPreeti Bar & Restaurant
+p122
+sg10
+Vhttp://mumbai.burrp.com/listing/preeti-bar-restaurant_charkop_mumbai_restaurants-bars-pubs/1278380782
+p123
+sg12
+VCharkop
+p124
+sg14
+(lp125
+V28683826
+p126
+asg20
+g21
+sg22
+VPlot No 68, Government Industrial Estate, Bhabrekar Nagar, Charkop, Kandivali West, Mumbai
+p127
+sba(i__main__
+Place
+p128
+(dp129
+g3
+(lp130
+VOutdoor Caterers
+p131
+aV Restaurants
+p132
+asg6
+g21
+sg8
+VDisha Family Restaurant & Bar
+p133
+sg10
+Vhttp://mumbai.burrp.com/listing/disha-family-restaurant-bar_charkop_mumbai_outdoor-caterers-restaurants/1538392356
+p134
+sg12
+VCharkop
+p135
+sg14
+(lp136
+V28682550
+p137
+aV 28692801
+p138
+aV 28671642
+p139
+asg20
+g21
+sg22
+VGround Floor, Vaibhav Co-Operative Housing Society, Dr. Ambedkar Road, Charkop, Kandivali West, Mumbai
+p140
+sba(i__main__
+Place
+p141
+(dp142
+g3
+(lp143
+VRestaurants
+p144
+asg6
+g21
+sg8
+VHotbrands International
+p145
+sg10
+Vhttp://mumbai.burrp.com/listing/hotbrands-international_charkop_mumbai_restaurants/1458400564
+p146
+sg12
+VCharkop
+p147
+sg14
+(lp148
+V28681853
+p149
+aV 28681852
+p150
+asg20
+g21
+sg22
+VA 504, Sai Mangal, Sector 8, Plot No 18, Charkop, Kandivali West, Mumbai
+p151
+sba(i__main__
+Place
+p152
+(dp153
+g3
+(lp154
+VDessert Shops
+p155
+aV Fast Food Shops
+p156
+aV Cafes
+p157
+aV Restaurants
+p158
+asg6
+g21
+sg8
+VG M Amrut Foods
+p159
+sg10
+Vhttp://mumbai.burrp.com/listing/g-m-amrut-foods_charkop_mumbai_dessert-shops-fast-food-shops-cafes/1618402148
+p160
+sg12
+VCharkop
+p161
+sg14
+(lp162
+V32500545
+p163
+aV 9819398438
+p164
+aV 9821054348
+p165
+asg20
+g21
+sg22
+VPlot No 24 Govt Indl Est, Charkop, Kandivali West, Mumbai
+p166
+sba(i__main__
+Place
+p167
+(dp168
+g3
+(lp169
+VRestaurants
+p170
+asg6
+g21
+sg8
+VKalash Restaurant and Bar
+p171
+sg10
+Vhttp://mumbai.burrp.com/listing/kalash-restaurant-and-bar_charkop_mumbai_restaurants/1838404326
+p172
+sg12
+VCharkop
+p173
+sg14
+(lp174
+V28630315
+p175
+aV 28658415
+p176
+aV 29674315
+p177
+aV 29678415
+p178
+asg20
+g21
+sg22
+VPlot No 555, M G Road, Charkop, Kandivali West, Mumbai
+p179
+sba.

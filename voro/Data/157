@@ -1,0 +1,508 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VV Kitchen Cafe Restuarant and Bar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/v-kitchen-cafe-restuarant-and-bar_kopar-khairane_navi-mumbai_restaurants/15113765158
+p11
+sS'region'
+p12
+VKopar Khairane
+p13
+sS'phone'
+p14
+(lp15
+V27540197
+p16
+aV 27540198
+p17
+aV 27540199
+p18
+asS'cost'
+p19
+V0
+p20
+sS'addr'
+p21
+VPlot No 55/B, C/O Varishtta Hotel , Main Road, Sector 2/A, Kopar Khairane, Navi Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+g7
+sg8
+VRabz Den Cafe
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/rabz-den-cafe_kopar-khairane_navi-mumbai_restaurants/17721975732
+p28
+sg12
+VKopar Khairane
+p29
+sg14
+(lp30
+V65220117
+p31
+aV 65220118
+p32
+asg19
+V2
+p33
+sg21
+VSea Queen Plaza, Shop No. 10, 11, 12, Sector 4A, Kopar Khairane, Navi Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg6
+V4
+p39
+sg8
+VZenzibu Orientals
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/zenzibu-orientals_kopar-khairane_navi-mumbai_restaurants/15713765752
+p41
+sg12
+VKopar Khairane
+p42
+sg14
+(lp43
+V27554010
+p44
+aV 65126858
+p45
+aV 65206223
+p46
+aV 9004173737
+p47
+asg19
+g20
+sg21
+VShop No 301, Shubham Palace, Sector No 15, Near D Mart Showroom, Kopar Khairane, Navi Mumbai
+p48
+sba(i__main__
+Place
+p49
+(dp50
+g3
+(lp51
+VRestaurants
+p52
+asg6
+g20
+sg8
+VHotel Shree Devi
+p53
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shree-devi_kopar-khairane_navi-mumbai_restaurants/15513846554
+p54
+sg12
+VKopar Khairane
+p55
+sg14
+(lp56
+V27546933
+p57
+aV 27549655
+p58
+asg19
+g33
+sg21
+VGround Floor, Mayur Apartment, Sector 12 A, Bankode, Kopar Khairane, Navi Mumbai
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg6
+g20
+sg8
+VShri Sai Ganesh
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-sai-ganesh_kopar-khairane_navi-mumbai_restaurants/19723606712
+p65
+sg12
+VKopar Khairane
+p66
+sg14
+(lp67
+V27540219
+p68
+aV 9967372628
+p69
+asg19
+g33
+sg21
+VShop No 6, Plot No 20, Anmol Terrance, Sector 5, Kopar Khairane, Navi Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VRestaurants
+p74
+asg6
+g20
+sg8
+VRuchi Restaurant
+p75
+sg10
+Vhttp://mumbai.burrp.com/listing/ruchi-restaurant_kopar-khairane_navi-mumbai_restaurants/19913751910
+p76
+sg12
+VKopar Khairane
+p77
+sg14
+(lp78
+V22988991
+p79
+aV 27551810
+p80
+asg19
+g20
+sg21
+V1-A 1st Floor, Sahakar Bhavan, Sector 10, Kopar Khairane, Navi Mumbai
+p81
+sba(i__main__
+Place
+p82
+(dp83
+g3
+(lp84
+VRestaurants
+p85
+asg6
+g20
+sg8
+VMohit Family Restaurant
+p86
+sg10
+Vhttp://mumbai.burrp.com/listing/mohit-family-restaurant_kopar-khairane_navi-mumbai_restaurants/19723651712
+p87
+sg12
+VKopar Khairane
+p88
+sg14
+(lp89
+V65222611
+p90
+aV 27546209
+p91
+aV 27546210
+p92
+aV 8097200621
+p93
+asg19
+g33
+sg21
+VPratiksha Building, Plot No 55 , Shop No 1/2, Sector 15 , Kopar Khairane, Navi Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VRestaurants
+p98
+asg6
+g20
+sg8
+VShalimar Restaurant
+p99
+sg10
+Vhttp://mumbai.burrp.com/listing/shalimar-restaurant_kopar-khairane_navi-mumbai_restaurants/12113762188
+p100
+sg12
+VKopar Khairane
+p101
+sg14
+(lp102
+V27541697
+p103
+aV 27546102
+p104
+asg19
+g20
+sg21
+V1, 3, 4, 5 Orchid Building, Plot No 56, Sector 15, Kopar Khairane, Navi Mumbai
+p105
+sba(i__main__
+Place
+p106
+(dp107
+g3
+(lp108
+VCafes
+p109
+aV Restaurants
+p110
+aV Food-court Stalls
+p111
+asg6
+g20
+sg8
+VJava Green
+p112
+sg10
+Vhttp://mumbai.burrp.com/listing/java-green_kopar-khairane_navi-mumbai_cafes-restaurants-food-court-stalls/16313766346
+p113
+sg12
+VKopar Khairane
+p114
+sg14
+(lp115
+V30380344
+p116
+asg19
+g20
+sg21
+VDAKC, B Block, Reliance Communication, Kopar Khairane, Navi Mumbai
+p117
+sba(i__main__
+Place
+p118
+(dp119
+g3
+(lp120
+VRestaurants
+p121
+asg6
+g20
+sg8
+VHotel Girija
+p122
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-girija_kopar-khairane_navi-mumbai_restaurants/12913744980
+p123
+sg12
+VKopar Khairane
+p124
+sg14
+(lp125
+V27544535
+p126
+aV 27550789
+p127
+asg19
+g20
+sg21
+VShop No 5/6, Plot No 104, Nucon Classic Building, Sector 7, Kopar Khairane, Navi Mumbai
+p128
+sba(i__main__
+Place
+p129
+(dp130
+g3
+(lp131
+VRestaurants
+p132
+asg6
+g20
+sg8
+VAdarsh Restaurant & Bar
+p133
+sg10
+Vhttp://mumbai.burrp.com/listing/adarsh-restaurant-bar_kopar-khairane_navi-mumbai_restaurants/14313755366
+p134
+sg12
+VKopar Khairane
+p135
+sg14
+(lp136
+V27541121
+p137
+aV 65190245
+p138
+aV 66190245
+p139
+aV 9819469664
+p140
+asg19
+g20
+sg21
+VPlot No 23, Secto No 1/A, Ghansoli Road, Kopar Khairane, Navi Mumbai
+p141
+sba(i__main__
+Place
+p142
+(dp143
+g3
+(lp144
+VRestaurants
+p145
+asg6
+g20
+sg8
+VPanchratna Restaurant
+p146
+sg10
+Vhttp://mumbai.burrp.com/listing/panchratna-restaurant_kopar-khairane_navi-mumbai_restaurants/17513767534
+p147
+sg12
+VKopar Khairane
+p148
+sg14
+(lp149
+V27547545
+p150
+aV 27547554
+p151
+aV 27547558
+p152
+asg19
+g20
+sg21
+VPlot No 10, Sahkar Bhavan, Sector 10, Kopar Khairane, Navi Mumbai
+p153
+sba(i__main__
+Place
+p154
+(dp155
+g3
+(lp156
+VRestaurants
+p157
+asg6
+g20
+sg8
+VHotel Sachi
+p158
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sachi_kopar-khairane_navi-mumbai_restaurants/13918236970
+p159
+sg12
+VKopar Khairane
+p160
+sg14
+(lp161
+V8097877875
+p162
+asg19
+g20
+sg21
+VSachi Building, Plot No. 4, Sector - 4A, Kopar Khairane, Navi Mumbai
+p163
+sba(i__main__
+Place
+p164
+(dp165
+g3
+(lp166
+VRestaurants
+p167
+asg6
+g20
+sg8
+VMumbai Chef
+p168
+sg10
+Vhttp://mumbai.burrp.com/listing/mumbai-chef_kopar-khairane_navi-mumbai_restaurants/15523647554
+p169
+sg12
+VKopar Khairane
+p170
+sg14
+(lp171
+V27540175
+p172
+asg19
+g33
+sg21
+VPlot No 83, Shop No 3 & 4 , Sector 6, Kopar Khairane, Navi Mumbai
+p173
+sba(i__main__
+Place
+p174
+(dp175
+g3
+(lp176
+VRestaurants
+p177
+asg6
+g20
+sg8
+VKolkata Special Restaurant 
+p178
+sg10
+Vhttp://mumbai.burrp.com/listing/kolkata-special-restaurant-_kopar-khairane_navi-mumbai_restaurants/19323660316
+p179
+sg12
+VKopar Khairane
+p180
+sg14
+(lp181
+V9930245733
+p182
+aV 9819763716
+p183
+asg19
+g33
+sg21
+VBalaram Niwas, Sector 19, Kopar Khairane, Navi Mumbai
+p184
+sba(i__main__
+Place
+p185
+(dp186
+g3
+(lp187
+VRestaurants
+p188
+asg6
+g20
+sg8
+VShanthi Palace
+p189
+sg10
+Vhttp://mumbai.burrp.com/listing/shanthi-palace_kopar-khairane_navi-mumbai_restaurants/14323754366
+p190
+sg12
+VKopar Khairane
+p191
+sg14
+(lp192
+V27544470
+p193
+aV 8286538645
+p194
+asg19
+g33
+sg21
+VSector 19, Kopar Khairane, Navi Mumbai
+p195
+sba.

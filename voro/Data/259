@@ -1,0 +1,45 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Cafes
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VAmbrosia Cafe & Restaurant
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/ambrosia-cafe-restaurant_saki-vihar-road_mumbai_restaurants-cafes/14112774168
+p12
+sS'region'
+p13
+VSaki Vihar Road
+p14
+sS'phone'
+p15
+(lp16
+V28585000
+p17
+aV 28585019
+p18
+aV 67776000
+p19
+asS'cost'
+p20
+g8
+sS'addr'
+p21
+VC/o Ramada Hotel, Next To Convention Centre, Saki Vihar Road, Andheri East, Mumbai
+p22
+sba.

@@ -1,0 +1,634 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Outdoor Caterers
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VShanghai Restaurant
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/shanghai-restaurant_nerul_navi-mumbai_restaurants-outdoor-caterers/18713804722
+p12
+sS'region'
+p13
+VNerul
+p14
+sS'phone'
+p15
+(lp16
+V27704810
+p17
+aV 27707310
+p18
+aV 9892854804
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VOm Surya, Shop No. 11, 12, 12A, 22, 23 , Sector 15, Nerul, Navi Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VFast Food Shops
+p27
+aV Restaurants
+p28
+asg7
+g8
+sg9
+VKaygees Fast Food & Ice Cream Parlour
+p29
+sg11
+Vhttp://mumbai.burrp.com/listing/kaygees-fast-food-ice-cream-parlour_nerul_navi-mumbai_fast-food-shops-restaurants/18913777920
+p30
+sg13
+VNerul
+p31
+sg15
+(lp32
+V27707882
+p33
+aV 66129989
+p34
+asg20
+g8
+sg22
+VShop 10, Twinsland, Sector 1, Nerul, Navi Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg7
+g8
+sg9
+VRamdev Restaurant
+p40
+sg11
+Vhttp://mumbai.burrp.com/listing/ramdev-restaurant_nerul_navi-mumbai_restaurants/19513787514
+p41
+sg13
+VNerul
+p42
+sg15
+(lp43
+V27727695
+p44
+aV 9892454175
+p45
+asg20
+g8
+sg22
+VBuilding No 32, Shop No 7, Ground Floor, Agarwal Arcade, Sector No 1, Mumbai Pune Road, Nerul, Navi Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg7
+g8
+sg9
+VHotel Sanman
+p51
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-sanman_nerul_navi-mumbai_restaurants/16913775940
+p52
+sg13
+VNerul
+p53
+sg15
+(lp54
+V27701492
+p55
+aV 27702828
+p56
+asg20
+g8
+sg22
+VIsha Complex, Sector 15, Nerul, Navi Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg7
+g8
+sg9
+VHotel Vin Vina
+p62
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-vin-vina_nerul_navi-mumbai_restaurants/17113776138
+p63
+sg13
+VNerul
+p64
+sg15
+(lp65
+V27710326
+p66
+aV 27717069
+p67
+asg20
+g8
+sg22
+VPlot No 14/A, Sector 3, Nerul, Navi Mumbai
+p68
+sba(i__main__
+Place
+p69
+(dp70
+g3
+(lp71
+VRestaurants
+p72
+asg7
+g8
+sg9
+VIndian Spices Hotel
+p73
+sg11
+Vhttp://mumbai.burrp.com/listing/indian-spices-hotel_nerul_navi-mumbai_restaurants/17513776534
+p74
+sg13
+VNerul
+p75
+sg15
+(lp76
+V27714444
+p77
+aV 27719922
+p78
+asg20
+g8
+sg22
+V1st Floor, Neighbourhood Shopping Complex, Sector No 4, Nerul, Navi Mumbai
+p79
+sba(i__main__
+Place
+p80
+(dp81
+g3
+(lp82
+VRestaurants
+p83
+aV Bars & Pubs
+p84
+asg7
+g8
+sg9
+VKirti Bar And Restaurant
+p85
+sg11
+Vhttp://mumbai.burrp.com/listing/kirti-bar-and-restaurant_nerul_navi-mumbai_restaurants-bars-pubs/19113778118
+p86
+sg13
+VNerul
+p87
+sg15
+(lp88
+V27700838
+p89
+aV 9967661099
+p90
+asg20
+g8
+sg22
+VShop No 15/16, Sector 15, Aakarshan Apartment, Nerul, Navi Mumbai
+p91
+sba(i__main__
+Place
+p92
+(dp93
+g3
+(lp94
+VRestaurants
+p95
+asg7
+g8
+sg9
+VSahil Restaurant
+p96
+sg11
+Vhttp://mumbai.burrp.com/listing/sahil-restaurant_nerul_navi-mumbai_restaurants/13713781772
+p97
+sg13
+VNerul
+p98
+sg15
+(lp99
+V27708485
+p100
+aV 27721093
+p101
+asg20
+g8
+sg22
+VShop No 16, F 2 Type Building, Sector 3, Nerul, Navi Mumbai
+p102
+sba(i__main__
+Place
+p103
+(dp104
+g3
+(lp105
+VOutdoor Caterers
+p106
+aV Restaurants
+p107
+asg7
+g8
+sg9
+VTirupati Prasad
+p108
+sg11
+Vhttp://mumbai.burrp.com/listing/tirupati-prasad_nerul_navi-mumbai_outdoor-caterers-restaurants/16913784940
+p109
+sg13
+VNerul
+p110
+sg15
+(lp111
+V27700016
+p112
+aV 27709718
+p113
+aV 27711791
+p114
+asg20
+g21
+sg22
+VShop No. 1, Shiv Parvati CHS, Sector 21, Next to ICICI ATM Centre, Nerul, Navi Mumbai
+p115
+sba(i__main__
+Place
+p116
+(dp117
+g3
+(lp118
+VRestaurants
+p119
+asg7
+g8
+sg9
+VNew Mini Mahal Hotel
+p120
+sg11
+Vhttp://mumbai.burrp.com/listing/new-mini-mahal-hotel_nerul_navi-mumbai_restaurants/12113789188
+p121
+sg13
+VNerul
+p122
+sg15
+(lp123
+V27715355
+p124
+aV 69528284
+p125
+asg20
+g8
+sg22
+VPlot No 311, Shiravane, Sector No 1, Petrol Pump, Nerul, Navi Mumbai
+p126
+sba(i__main__
+Place
+p127
+(dp128
+g3
+(lp129
+VRestaurants
+p130
+aV Outdoor Caterers
+p131
+asg7
+g8
+sg9
+VDwarka
+p132
+sg11
+Vhttp://mumbai.burrp.com/listing/dwarka_nerul_navi-mumbai_restaurants-outdoor-caterers/15713792752
+p133
+sg13
+VNerul
+p134
+sg15
+(lp135
+V27866186
+p136
+aV 32590952
+p137
+asg20
+g21
+sg22
+VShop No. H/001, Nerul, Navi Mumbai
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VIce-cream Parlours
+p142
+aV Restaurants
+p143
+asg7
+g8
+sg9
+VBlack Pepper The Restaurant
+p144
+sg11
+Vhttp://mumbai.burrp.com/listing/black-pepper-the-restaurant_nerul_navi-mumbai_ice-cream-parlours-restaurants/12713798782
+p145
+sg13
+VNerul
+p146
+sg15
+(lp147
+V32198866
+p148
+aV 9833449696
+p149
+asg20
+g8
+sg22
+VShop No 4 and 5, Plot No 103,  Veegaland Co Operative Housing Society, Sector 21, Nerul, Navi Mumbai
+p150
+sba(i__main__
+Place
+p151
+(dp152
+g3
+(lp153
+VRestaurants
+p154
+aV Hotels
+p155
+asg7
+g8
+sg9
+VSunrise Hotel
+p156
+sg11
+Vhttp://mumbai.burrp.com/listing/sunrise-hotel_nerul_navi-mumbai_restaurants-hotels/14313800366
+p157
+sg13
+VNerul
+p158
+sg15
+(lp159
+V27719698
+p160
+aV 9773429354
+p161
+asg20
+g8
+sg22
+VPlot No.309, Sector 1, Shiravane Village, Nerul, Navi Mumbai
+p162
+sba(i__main__
+Place
+p163
+(dp164
+g3
+(lp165
+VRestaurants
+p166
+asg7
+g8
+sg9
+VSagar Darbar Restaurant
+p167
+sg11
+Vhttp://mumbai.burrp.com/listing/sagar-darbar-restaurant_nerul_navi-mumbai_restaurants/15513801554
+p168
+sg13
+VNerul
+p169
+sg15
+(lp170
+V27823782
+p171
+aV 9819400801
+p172
+aV 9819400803
+p173
+asg20
+g8
+sg22
+VSagar Vihar Sector 8, Nxt Chinab Restaurant, Nerul, Navi Mumbai
+p174
+sba(i__main__
+Place
+p175
+(dp176
+g3
+(lp177
+VCafes
+p178
+aV Dessert Shops
+p179
+aV Restaurants
+p180
+asg7
+g8
+sg9
+VMasala Chai Deli And Cafe
+p181
+sg11
+Vhttp://mumbai.burrp.com/listing/masala-chai-deli-and-cafe_nerul_navi-mumbai_cafes-dessert-shops-restaurants/11513806594
+p182
+sg13
+VNerul
+p183
+sg15
+(lp184
+V65170436
+p185
+asg20
+g8
+sg22
+VPlot No 21, Shop No 1/2, Center Point, 1st Cross Lane, Sector 6, Nerul, Navi Mumbai
+p186
+sba(i__main__
+Place
+p187
+(dp188
+g3
+(lp189
+VRestaurants
+p190
+asg7
+g8
+sg9
+VVin Vina Restaurant And Bar
+p191
+sg11
+Vhttp://mumbai.burrp.com/listing/vin-vina-restaurant-and-bar_nerul_navi-mumbai_restaurants/13513808574
+p192
+sg13
+VNerul
+p193
+sg15
+(lp194
+V27710326
+p195
+aV 27717069
+p196
+asg20
+g8
+sg22
+VPlot No 14, Sector 3, Nerul, Navi Mumbai
+p197
+sba(i__main__
+Place
+p198
+(dp199
+g3
+(lp200
+VRestaurants
+p201
+asg7
+g8
+sg9
+VTaath Restaurant
+p202
+sg11
+Vhttp://mumbai.burrp.com/listing/taath-restaurant_nerul_navi-mumbai_restaurants/18113813128
+p203
+sg13
+VNerul
+p204
+sg15
+(lp205
+V27715892
+p206
+aV 66102711
+p207
+aV 9987644547
+p208
+asg20
+g8
+sg22
+VShop No 1, Safal Park , Plot No 3 & 12, Sector 25, Nerul, Navi Mumbai
+p209
+sba(i__main__
+Place
+p210
+(dp211
+g3
+(lp212
+VRestaurants
+p213
+asg7
+g8
+sg9
+VNew Welcome
+p214
+sg11
+Vhttp://mumbai.burrp.com/listing/new-welcome_nerul_navi-mumbai_restaurants/16518500544
+p215
+sg13
+VNerul
+p216
+sg15
+(lp217
+V69838333
+p218
+aV 69831666
+p219
+asg20
+g8
+sg22
+VChandrai Arcade, Shop No 6, Plot No 12/24, 25, 26-A, Sector 20, Nerul, Navi Mumbai
+p220
+sba(i__main__
+Place
+p221
+(dp222
+g3
+(lp223
+VRestaurants
+p224
+asg7
+g8
+sg9
+VHotel Sai Baba
+p225
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-sai-baba_nerul_navi-mumbai_restaurants/14522170564
+p226
+sg13
+VNerul
+p227
+sg15
+(lp228
+V27716266
+p229
+aV 27716216
+p230
+asg20
+g21
+sg22
+VPlot No. A - 1, Sector-10, Phase - II, Nerul, Navi Mumbai
+p231
+sba(i__main__
+Place
+p232
+(dp233
+g3
+(lp234
+VRestaurants
+p235
+asg7
+g8
+sg9
+VMumbai Chef
+p236
+sg11
+Vhttp://mumbai.burrp.com/listing/mumbai-chef_nerul_navi-mumbai_restaurants/17923649930
+p237
+sg13
+VNerul
+p238
+sg15
+(lp239
+V27721818
+p240
+asg20
+g21
+sg22
+VPlot No 4, Sector 18A, Near Daily Need Super Market, Nerul, Navi Mumbai
+p241
+sba.

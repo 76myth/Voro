@@ -1,0 +1,75 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Fast Food Shops
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VSatkar Hotel
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/satkar-hotel_apmc-market_navi-mumbai_restaurants-fast-food-shops/16913694940
+p12
+sS'region'
+p13
+VAPMC Market
+p14
+sS'phone'
+p15
+(lp16
+V27888344
+p17
+aV 27891243
+p18
+asS'cost'
+p19
+g8
+sS'addr'
+p20
+VGala No A/1, Mahavir Market Building, Sector 18, Vashi Turbhe Road, APMC Market, Vashi, Navi Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg7
+g8
+sg9
+VKrishna Lunch Home And Bar
+p26
+sg11
+Vhttp://mumbai.burrp.com/listing/krishna-lunch-home-and-bar_apmc-market_navi-mumbai_restaurants/17113695138
+p27
+sg13
+VAPMC Market
+p28
+sg15
+(lp29
+V27888437
+p30
+aV 9820123442
+p31
+aV 9820255009
+p32
+asg19
+g8
+sg20
+VAnnapurna Premises, Turbhe Road, Sector No 18, APMC Market, Vashi, Navi Mumbai
+p33
+sba.

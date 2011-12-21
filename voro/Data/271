@@ -1,0 +1,226 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VSanjeeda's
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/sanjeedas_sewri_mumbai_restaurants/14124870168
+p11
+sS'region'
+p12
+VSewri
+p13
+sS'phone'
+p14
+(lp15
+V24127867
+p16
+aV 24127868
+p17
+aV 24127869
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VShop No.13/14, Al Raza Tower, Ground Floor, R.A.Kidwai Road Sewri West, Sewri, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VBars & Pubs
+p26
+aV Restaurants
+p27
+asg6
+V0
+p28
+sg8
+VJagdamba Bar and Restaurant
+p29
+sg10
+Vhttp://mumbai.burrp.com/listing/jagdamba-bar-and-restaurant_sewri_mumbai_bars-pubs-restaurants/128829881
+p30
+sg12
+VSewri
+p31
+sg14
+(lp32
+V24125881
+p33
+asg19
+V1
+p34
+sg21
+VOil Depot Road, Sewri (E), Sewri, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+asg6
+g28
+sg8
+VSewri Arab Restaurant
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/sewri-arab-restaurant_sewri_mumbai_restaurants/11713023792
+p41
+sg12
+VSewri
+p42
+sg14
+(lp43
+V24162682
+p44
+asg19
+g28
+sg21
+VShop No 1/2, Sewri Cross Road, Sukhi Fish Maraket, Sewri, Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g28
+sg8
+VMalhar Pure Veg
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/malhar-pure-veg_sewri_mumbai_restaurants/18923812920
+p51
+sg12
+VSewri
+p52
+sg14
+(lp53
+V24126093
+p54
+aV 24149592
+p55
+aV 9920848535
+p56
+asg19
+g20
+sg21
+VCD/27-A, Veena Beena Apts., A.D.Marg, Opp. Sewri Bus Depot, Sewri, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g28
+sg8
+VHotel Swagat Restaurant & Bar 
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-swagat-restaurant-bar-_sewri_mumbai_restaurants/15932818950
+p63
+sg12
+VSewri
+p64
+sg14
+(lp65
+V24131131
+p66
+aV 9172046899
+p67
+aV 9987091195
+p68
+asg19
+g20
+sg21
+VA.D Marg , Sewri, Mumbai
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VRestaurants
+p73
+asg6
+g28
+sg8
+VRashtriya
+p74
+sg10
+Vhttp://mumbai.burrp.com/listing/rashtriya_sewri_mumbai_restaurants/13332969376
+p75
+sg12
+VSewri
+p76
+sg14
+(lp77
+V24130604
+p78
+aV 24110003
+p79
+asg19
+g20
+sg21
+VMithibai Building, A. D. Marg, Sewri, Mumbai
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VRestaurants
+p84
+asg6
+g28
+sg8
+VKonkan Malhar
+p85
+sg10
+Vhttp://mumbai.burrp.com/listing/konkan-malhar_sewri_mumbai_restaurants/16732990742
+p86
+sg12
+VSewri
+p87
+sg14
+(lp88
+V9769768535
+p89
+asg19
+g20
+sg21
+VA D Marg , Sewri, Mumbai
+p90
+sba.

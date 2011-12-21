@@ -1,0 +1,598 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VBalwas Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/balwas-restaurant_marine-lines_mumbai_restaurants/165104544
+p11
+sS'region'
+p12
+VMarine Lines
+p13
+sS'phone'
+p14
+(lp15
+V22058569
+p16
+aV 22051108
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VMaker Bhavan No 3, 19 New Marine Lines, Marine Lines, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V5
+p26
+sg8
+VPanchavati Gaurav
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/panchavati-gaurav_marine-lines_mumbai_restaurants/1323818277
+p28
+sg12
+VMarine Lines
+p29
+sg14
+(lp30
+V22084877
+p31
+asg18
+V2
+p32
+sg20
+VBombay Hospital Lane, Marine Lines, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+aV Outdoor Caterers
+p38
+asg6
+g19
+sg8
+VJaffer Bhai's Delhi Darbar
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/jaffer-bhais-delhi-darbar_marine-lines_mumbai_restaurants-outdoor-caterers/178375831
+p40
+sg12
+VMarine Lines
+p41
+sg14
+(lp42
+V22014949
+p43
+aV 22015335
+p44
+aV 22016363
+p45
+asg18
+g32
+sg20
+VPrincess Street, Marine Lines, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g19
+sg8
+VSuruchi Family Restaurant 
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/suruchi-family-restaurant-_marine-lines_mumbai_restaurants/1294465980
+p52
+sg12
+VMarine Lines
+p53
+sg14
+(lp54
+V22098213 
+p55
+aV 66346971
+p56
+asg18
+g19
+sg20
+VDalamal Chambers, 29, New Marine Lines , Marine Lines, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g19
+sg8
+VShreeji Sagar
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/shreeji-sagar_marine-lines_mumbai_restaurants/1125166297
+p63
+sg12
+VMarine Lines
+p64
+sg14
+(lp65
+V22006700
+p66
+aV 22006800
+p67
+aV 22006900  
+p68
+asg18
+g32
+sg20
+V11 Kakad House, Marine Lines, Mumbai
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VRestaurants
+p73
+asg6
+g19
+sg8
+VVishal Zunka Bhakar Kendra
+p74
+sg10
+Vhttp://mumbai.burrp.com/listing/vishal-zunka-bhakar-kendra_marine-lines_mumbai_restaurants/17711850732
+p75
+sg12
+VMarine Lines
+p76
+sg14
+(lp77
+V22644531
+p78
+aV 9892355594
+p79
+asg18
+g19
+sg20
+VJally Bhavan, Galli No 2, Marine Lines, Mumbai
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VIce-cream Parlours
+p84
+aV Juice Parlours
+p85
+aV Restaurants
+p86
+asg6
+g19
+sg8
+VSanman
+p87
+sg10
+Vhttp://mumbai.burrp.com/listing/sanman_marine-lines_mumbai_ice-cream-parlours-juice-parlours-restaurants/18452425
+p88
+sg12
+VMarine Lines
+p89
+sg14
+(lp90
+V22624871
+p91
+aV 22624872
+p92
+asg18
+g19
+sg20
+VChurchgate Chambers, 5, New Marine Lines, Marine Lines, Mumbai
+p93
+sba(i__main__
+Place
+p94
+(dp95
+g3
+(lp96
+VRestaurants
+p97
+asg6
+g19
+sg8
+VMadhyantar
+p98
+sg10
+Vhttp://mumbai.burrp.com/listing/madhyantar_marine-lines_mumbai_restaurants/115126594
+p99
+sg12
+VMarine Lines
+p100
+sg14
+(lp101
+V22066470
+p102
+asg18
+g19
+sg20
+VBirla Matushree Auditorium, New Marine Lines, Marine Lines, Mumbai
+p103
+sba(i__main__
+Place
+p104
+(dp105
+g3
+(lp106
+VRestaurants
+p107
+asg6
+g19
+sg8
+VMarine Restaurant & Store
+p108
+sg10
+Vhttp://mumbai.burrp.com/listing/marine-restaurant-store_marine-lines_mumbai_restaurants/1354484574
+p109
+sg12
+VMarine Lines
+p110
+sg14
+(lp111
+V22945656
+p112
+aV 22031689
+p113
+asg18
+g19
+sg20
+VMarine line Dhobi Talav, Marine Lines, Mumbai
+p114
+sba(i__main__
+Place
+p115
+(dp116
+g3
+(lp117
+VRestaurants
+p118
+asg6
+g19
+sg8
+VHarvic Beer Bar & Restaurant
+p119
+sg10
+Vhttp://mumbai.burrp.com/listing/harvic-beer-bar-restaurant_marine-lines_mumbai_restaurants/12311827386
+p120
+sg12
+VMarine Lines
+p121
+sg14
+(lp122
+V22011868
+p123
+asg18
+g19
+sg20
+V1st Marine Lines Street, dhobi Talao, Marine Lines, Mumbai
+p124
+sba(i__main__
+Place
+p125
+(dp126
+g3
+(lp127
+VRestaurants
+p128
+asg6
+g19
+sg8
+VHotel Anand Ashram
+p129
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-anand-ashram_marine-lines_mumbai_restaurants/12511827584
+p130
+sg12
+VMarine Lines
+p131
+sg14
+(lp132
+V22058887
+p133
+aV 22058888
+p134
+asg18
+g19
+sg20
+V448, J Shankar Sheth Road, Chirabazar, Marine Lines, Mumbai
+p135
+sba(i__main__
+Place
+p136
+(dp137
+g3
+(lp138
+VRestaurants
+p139
+asg6
+g19
+sg8
+VMayrose Restaurant & Bar
+p140
+sg10
+Vhttp://mumbai.burrp.com/listing/mayrose-restaurant-bar_marine-lines_mumbai_restaurants/13111828178
+p141
+sg12
+VMarine Lines
+p142
+sg14
+(lp143
+V22005421
+p144
+aV 22081104
+p145
+asg18
+g19
+sg20
+VKapadia Chambers, Metro Cinema Road, Marine Lines, Mumbai
+p146
+sba(i__main__
+Place
+p147
+(dp148
+g3
+(lp149
+VRestaurants
+p150
+asg6
+g19
+sg8
+VPanchavati Gavrav Restaurant
+p151
+sg10
+Vhttp://mumbai.burrp.com/listing/panchavati-gavrav-restaurant_marine-lines_mumbai_restaurants/17311841336
+p152
+sg12
+VMarine Lines
+p153
+sg14
+(lp154
+V22086688
+p155
+asg18
+g19
+sg20
+VHotel Panchavati, Marine Lines, Mumbai
+p156
+sba(i__main__
+Place
+p157
+(dp158
+g3
+(lp159
+VShops
+p160
+aV Dessert Shops
+p161
+aV Restaurants
+p162
+aV Cafes
+p163
+asg6
+g19
+sg8
+VS N Foods
+p164
+sg10
+Vhttp://mumbai.burrp.com/listing/s-n-foods_marine-lines_mumbai_shops-dessert-shops-restaurants/12311845386
+p165
+sg12
+VMarine Lines
+p166
+sg14
+(lp167
+V22000107
+p168
+aV 66519029
+p169
+aV 9869512125
+p170
+asg18
+g19
+sg20
+VShop No 215, Rbt Mansion, Dhobi Talav, Dr Cowasji Hormasji Street, Marine Lines, Mumbai
+p171
+sba(i__main__
+Place
+p172
+(dp173
+g3
+(lp174
+VHotels
+p175
+aV Restaurants
+p176
+asg6
+g19
+sg8
+VCafe Metro
+p177
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-metro_marine-lines_mumbai_hotels-restaurants/15511848554
+p178
+sg12
+VMarine Lines
+p179
+sg14
+(lp180
+V22032418
+p181
+aV 65204638
+p182
+asg18
+g19
+sg20
+VJehangir Mansion, 1st Marine Street, Marine Lines, Mumbai
+p183
+sba(i__main__
+Place
+p184
+(dp185
+g3
+(lp186
+VRestaurants
+p187
+asg6
+g19
+sg8
+VSaffron Media Pvt Ltd
+p188
+sg10
+Vhttp://mumbai.burrp.com/listing/saffron-media-pvt-ltd_marine-lines_mumbai_restaurants/17111850138
+p189
+sg12
+VMarine Lines
+p190
+sg14
+(lp191
+V30272400
+p192
+aV 30272412
+p193
+aV 9867610986
+p194
+aV 30272414
+p195
+asg18
+g19
+sg20
+VSterlin House, Sorabji Santuk Lane, Marine Lines, Mumbai
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VBars & Pubs
+p200
+aV Restaurants
+p201
+asg6
+g19
+sg8
+VGeofferys PUB
+p202
+sg10
+Vhttp://mumbai.burrp.com/listing/geofferys-pub_marine-lines_mumbai_bars-pubs-restaurants/17511850534
+p203
+sg12
+VMarine Lines
+p204
+sg14
+(lp205
+V22851212
+p206
+asg18
+g19
+sg20
+VC/O Marine Plaza Hotel, 29, Marine Drive, Marine Lines, Mumbai
+p207
+sba(i__main__
+Place
+p208
+(dp209
+g3
+(lp210
+VRestaurants
+p211
+asg6
+g19
+sg8
+VVireshwar Hotel
+p212
+sg10
+Vhttp://mumbai.burrp.com/listing/vireshwar-hotel_marine-lines_mumbai_restaurants/17911850930
+p213
+sg12
+VMarine Lines
+p214
+sg14
+(lp215
+V22050643
+p216
+asg18
+g19
+sg20
+V42 Mangaldas Road, Lohar Chawl, Marine Lines, Mumbai
+p217
+sba(i__main__
+Place
+p218
+(dp219
+g3
+(lp220
+VRestaurants
+p221
+asg6
+g19
+sg8
+VGreen Onion
+p222
+sg10
+Vhttp://mumbai.burrp.com/listing/green-onion_marine-lines_mumbai_restaurants/14718480762
+p223
+sg12
+VMarine Lines
+p224
+sg14
+(lp225
+V22194040
+p226
+aV 9967666464
+p227
+asg18
+g19
+sg20
+VMarine Lines, Mumbai
+p228
+sba.

@@ -1,0 +1,170 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VGostana
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/gostana_pali-naka_mumbai_restaurants/1663227643
+p11
+sS'region'
+p12
+VPali Naka
+p13
+sS'phone'
+p14
+(lp15
+V64533359
+p16
+asS'cost'
+p17
+V2
+p18
+sS'addr'
+p19
+VFatima Villa, 29th Road, Bandra (W), Pali Naka, Bandra West, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+V3
+p25
+sg8
+VPali Village Cafe
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/pali-village-cafe_pali-naka_mumbai_restaurants/1645306445
+p27
+sg12
+VPali Naka
+p28
+sg14
+(lp29
+V26050401
+p30
+aV 26050402
+p31
+asg17
+g25
+sg19
+VPlot No.602, Ambedakar Road, Pali Naka, Bandra West, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+aV Cafes
+p37
+asg6
+g25
+sg8
+VCafé Basilico Bistro & Deli
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-basilico-bistro-deli_pali-naka_mumbai_restaurants-cafes/15213257
+p39
+sg12
+VPali Naka
+p40
+sg14
+(lp41
+V67039999
+p42
+aV 67100000
+p43
+asg17
+g25
+sg19
+VShop No 7, Gasper Enclave, St. John Road, Pali Naka, Bandra West, Mumbai
+p44
+sba(i__main__
+Place
+p45
+(dp46
+g3
+(lp47
+VRestaurants
+p48
+asg6
+g7
+sg8
+VGondola
+p49
+sg10
+Vhttp://mumbai.burrp.com/listing/gondola_pali-naka_mumbai_restaurants/12910980
+p50
+sg12
+VPali Naka
+p51
+sg14
+(lp52
+V26040046
+p53
+aV 26040294
+p54
+aV 65552152
+p55
+aV 26055826
+p56
+asg17
+g25
+sg19
+V4 Silver Croft, Pali Mala Road, Opposite Pali Market, Pali Naka, Bandra West, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g7
+sg8
+VSager Hukka 'N' Tikka 
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/sager-hukka-n-tikka-_pali-naka_mumbai_restaurants/1434494366
+p63
+sg12
+VPali Naka
+p64
+sg14
+(lp65
+V32523280
+p66
+aV 26005521
+p67
+aV 26006391 
+p68
+asg17
+V0
+p69
+sg19
+VLuis Belle, Corner Of 16th & 30th Road, Bandra (W), Pali Naka, Bandra West, Mumbai
+p70
+sba.

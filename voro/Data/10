@@ -1,0 +1,4862 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Lounges
+p6
+aV Bars & Pubs
+p7
+asS'rating'
+p8
+V4
+p9
+sS'name'
+p10
+VGrillopolis
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/grillopolis_andheri-west_mumbai_restaurants-lounges-bars-pubs/1975858712
+p13
+sS'region'
+p14
+VAndheri West
+p15
+sS'phone'
+p16
+(lp17
+V64559900 
+p18
+aV 64569900
+p19
+aV 9223209555
+p20
+asS'cost'
+p21
+V2
+p22
+sS'addr'
+p23
+VGo1-1o1, Morya Landmark 1, New Link Road, Andheri West, Mumbai
+p24
+sba(i__main__
+Place
+p25
+(dp26
+g3
+(lp27
+VRestaurants
+p28
+asg8
+V5
+p29
+sg10
+VAlmond Flower
+p30
+sg12
+Vhttp://mumbai.burrp.com/listing/almond-flower_link-road-andheri-west_mumbai_restaurants/11318360396
+p31
+sg14
+VLink Road-Andheri West
+p32
+sg16
+(lp33
+V26316888
+p34
+aV 26316999
+p35
+aV 9870856691
+p36
+asg21
+g22
+sg23
+V461, Adarsh Nagar, Oshiwara, Link Road-Andheri West, Andheri West, Mumbai
+p37
+sba(i__main__
+Place
+p38
+(dp39
+g3
+(lp40
+VRestaurants
+p41
+asg8
+g9
+sg10
+VIndigo Cafe
+p42
+sg12
+Vhttp://mumbai.burrp.com/listing/indigo-cafe_lokhandwala-andheri_mumbai_restaurants/136920673
+p43
+sg14
+VLokhandwala (Andheri)
+p44
+sg16
+(lp45
+V26335709
+p46
+aV 65278989
+p47
+aV 26336262
+p48
+asg21
+V3
+p49
+sg23
+VClifton Trishool Housing Society, Oshiwara Village, Link Road, Lokhandwala (Andheri), Andheri West, Mumbai
+p50
+sba(i__main__
+Place
+p51
+(dp52
+g3
+(lp53
+VRestaurants
+p54
+asg8
+g9
+sg10
+VMasala Mantar
+p55
+sg12
+Vhttp://mumbai.burrp.com/listing/masala-mantar_4-bungalows_mumbai_restaurants/132389277
+p56
+sg14
+V4 Bungalows
+p57
+sg16
+(lp58
+V26396032
+p59
+aV 26396033
+p60
+aV 65028944
+p61
+asg21
+g22
+sg23
+V1st Floor, Mohid Heights, Lokhandwala Road, 4 Bungalows, Andheri West, Mumbai
+p62
+sba(i__main__
+Place
+p63
+(dp64
+g3
+(lp65
+VRestaurants
+p66
+asg8
+g9
+sg10
+VAromas of China
+p67
+sg12
+Vhttp://mumbai.burrp.com/listing/aromas-of-china_andheri-west_mumbai_restaurants/184277425
+p68
+sg14
+VAndheri West
+p69
+sg16
+(lp70
+V67254444
+p71
+aV 67253691
+p72
+asg21
+g49
+sg23
+VCrystal Paradise - The Mall, Plot No. 30, Shah Industrial Estate Layout, Veera Desai Road, Andheri West, Mumbai
+p73
+sba(i__main__
+Place
+p74
+(dp75
+g3
+(lp76
+VRestaurants
+p77
+aV Bars & Pubs
+p78
+asg8
+g9
+sg10
+VFat Cat Kitchen & Bar
+p79
+sg12
+Vhttp://mumbai.burrp.com/listing/fat-cat-kitchen-bar_andheri-west_mumbai_restaurants-bars-pubs/1115931198
+p80
+sg14
+VAndheri West
+p81
+sg16
+(lp82
+V26732040
+p83
+aV 9820455833
+p84
+asg21
+V0
+p85
+sg23
+VShop No. 9/10, Bharat Ark, Veera Desai Road, Andheri West, Mumbai
+p86
+sba(i__main__
+Place
+p87
+(dp88
+g3
+(lp89
+VRestaurants
+p90
+asg8
+g9
+sg10
+VMainland China
+p91
+sg12
+Vhttp://mumbai.burrp.com/listing/mainland-china_andheri-west_mumbai_restaurants/17542534
+p92
+sg14
+VAndheri West
+p93
+sg16
+(lp94
+V66780011
+p95
+aV 39448754
+p96
+aV 65244369
+p97
+asg21
+g49
+sg23
+VShalimar Morya Park, Grd. and first floor, Off New Link Road, Andheri West, Mumbai
+p98
+sba(i__main__
+Place
+p99
+(dp100
+g3
+(lp101
+VRestaurants
+p102
+asg8
+g9
+sg10
+VPizzaroma
+p103
+sg12
+Vhttp://mumbai.burrp.com/listing/pizzaroma_lokhandwala-andheri_mumbai_restaurants/1303764079
+p104
+sg14
+VLokhandwala (Andheri)
+p105
+sg16
+(lp106
+V26329995
+p107
+aV 8097509909 
+p108
+aV 42649995
+p109
+asg21
+g22
+sg23
+VShop No. 16, Link Palace Building, Lokhandwala (Andheri), Andheri West, Mumbai
+p110
+sba(i__main__
+Place
+p111
+(dp112
+g3
+(lp113
+VCafes
+p114
+aV Restaurants
+p115
+aV Bars & Pubs
+p116
+asg8
+g9
+sg10
+VSome Like It Hot
+p117
+sg12
+Vhttp://mumbai.burrp.com/listing/some-like-it-hot_4-bungalows_mumbai_cafes-restaurants-bars-pubs/1285527881
+p118
+sg14
+V4 Bungalows
+p119
+sg16
+(lp120
+V26396003
+p121
+aV 26396004
+p122
+asg21
+g22
+sg23
+V1st Floor, Mohid Heights, Lokhandwala Road, Versova, 4 Bungalows, Andheri West, Mumbai
+p123
+sba(i__main__
+Place
+p124
+(dp125
+g3
+(lp126
+VRestaurants
+p127
+asg8
+g9
+sg10
+VJoey's Pizza
+p128
+sg12
+Vhttp://mumbai.burrp.com/listing/joeys-pizza_andheri-west_mumbai_restaurants/165122544
+p129
+sg14
+VAndheri West
+p130
+sg16
+(lp131
+V26304808
+p132
+aV 26304809
+p133
+asg21
+g22
+sg23
+VShop No.6 and 7, Upvan Building, Behind Indian Oil Colony, Andheri (W), Andheri West, Mumbai
+p134
+sba(i__main__
+Place
+p135
+(dp136
+g3
+(lp137
+VLounges
+p138
+aV Restaurants
+p139
+asg8
+g9
+sg10
+VThe Wedding Cafe & Lounge
+p140
+sg12
+Vhttp://mumbai.burrp.com/listing/the-wedding-cafe-lounge_andheri-west_mumbai_lounges-restaurants/1877009722
+p141
+sg14
+VAndheri West
+p142
+sg16
+(lp143
+V61558999
+p144
+aV 61558910
+p145
+asg21
+g85
+sg23
+VB-104/106, Kotia Nirman, 1st Floor, New Link Road, Andheri West, Mumbai
+p146
+sba(i__main__
+Place
+p147
+(dp148
+g3
+(lp149
+VRestaurants
+p150
+asg8
+g9
+sg10
+VOh! Calcutta Express
+p151
+sg12
+Vhttp://mumbai.burrp.com/listing/oh-calcutta-express_andheri-west_mumbai_restaurants/14912960
+p152
+sg14
+VAndheri West
+p153
+sg16
+(lp154
+V26364975
+p155
+aV 26327924
+p156
+aV 32467902
+p157
+asg21
+g49
+sg23
+VMelbourne Society, Shastri Nagar, Andheri West, Mumbai
+p158
+sba(i__main__
+Place
+p159
+(dp160
+g3
+(lp161
+VRestaurants
+p162
+asg8
+g49
+sg10
+VBanana Leaf
+p163
+sg12
+Vhttp://mumbai.burrp.com/listing/banana-leaf_versova_mumbai_restaurants/150814059
+p164
+sg14
+VVersova
+p165
+sg16
+(lp166
+V26289999
+p167
+aV 26709999
+p168
+aV 26289090
+p169
+aV 9930488080
+p170
+asg21
+g22
+sg23
+VSubham CHS, Opposite Vikram Petrol Pump, Versova, Andheri West, Mumbai
+p171
+sba(i__main__
+Place
+p172
+(dp173
+g3
+(lp174
+VRestaurants
+p175
+asg8
+g9
+sg10
+VChina 1
+p176
+sg12
+Vhttp://mumbai.burrp.com/listing/china-1_andheri-west_mumbai_restaurants/1996425910
+p177
+sg14
+VAndheri West
+p178
+sg16
+(lp179
+V42723333
+p180
+asg21
+g85
+sg23
+VG-05, Morya Landmark 1, Plot B-25, Off Link Road, Andheri West, Mumbai
+p181
+sba(i__main__
+Place
+p182
+(dp183
+g3
+(lp184
+VRestaurants
+p185
+aV Bars & Pubs
+p186
+asg8
+g49
+sg10
+VFirangi Paani
+p187
+sg12
+Vhttp://mumbai.burrp.com/listing/firangi-paani_andheri-west_mumbai_restaurants-bars-pubs/171834138
+p188
+sg14
+VAndheri West
+p189
+sg16
+(lp190
+V26735158
+p191
+aV 26744144
+p192
+aV 26734730
+p193
+aV 26734731
+p194
+asg21
+g49
+sg23
+VFun Republic, Level 3, link road, Opposite Laxmi Industrial Estate, Andheri West, Mumbai
+p195
+sba(i__main__
+Place
+p196
+(dp197
+g3
+(lp198
+VRestaurants
+p199
+asg8
+g9
+sg10
+VWild Wild West
+p200
+sg12
+Vhttp://mumbai.burrp.com/listing/wild-wild-west_andheri-west_mumbai_restaurants/13719217772
+p201
+sg14
+VAndheri West
+p202
+sg16
+(lp203
+V26732916
+p204
+aV 26732917
+p205
+aV 9892402323
+p206
+aV 9820959618
+p207
+asg21
+g22
+sg23
+VFun Republic Building, 2nd Floor, Link Road, Andheri West, Mumbai
+p208
+sba(i__main__
+Place
+p209
+(dp210
+g3
+(lp211
+VRestaurants
+p212
+asg8
+g9
+sg10
+VLegacy Of China
+p213
+sg12
+Vhttp://mumbai.burrp.com/listing/legacy-of-china_versova_mumbai_restaurants/110126099
+p214
+sg14
+VVersova
+p215
+sg16
+(lp216
+V26368223
+p217
+aV 26311332
+p218
+aV 26312061
+p219
+asg21
+g49
+sg23
+VTirupati Towers, JP Road, Andheri (W), Versova, Andheri West, Mumbai
+p220
+sba(i__main__
+Place
+p221
+(dp222
+g3
+(lp223
+VRestaurants
+p224
+asg8
+g49
+sg10
+VUrban Tadka
+p225
+sg12
+Vhttp://mumbai.burrp.com/listing/urban-tadka_7-bungalows_mumbai_restaurants/18970920
+p226
+sg14
+V7 Bungalows
+p227
+sg16
+(lp228
+V26328172
+p229
+aV 26328173
+p230
+aV 26392413
+p231
+asg21
+g22
+sg23
+V8, Shiv Shopping Centre, Junction of Bon-Bon Lane & Juhu, 7 Bungalows, Andheri West, Mumbai
+p232
+sba(i__main__
+Place
+p233
+(dp234
+g3
+(lp235
+VRestaurants
+p236
+asg8
+g9
+sg10
+VTrishna
+p237
+sg12
+Vhttp://mumbai.burrp.com/listing/trishna_andheri-west_mumbai_restaurants/147156762
+p238
+sg14
+VAndheri West
+p239
+sg16
+(lp240
+V32661146
+p241
+aV 32661147
+p242
+aV 32431145
+p243
+aV 32431147
+p244
+aV 32433631
+p245
+asg21
+g49
+sg23
+V3/A Crystal Plaza, Opp. Infiniti Mall & Cinemax, New Link Road, Andheri West, Mumbai
+p246
+sba(i__main__
+Place
+p247
+(dp248
+g3
+(lp249
+VRestaurants
+p250
+aV Bars & Pubs
+p251
+asg8
+g49
+sg10
+VRed Box Café
+p252
+sg12
+Vhttp://mumbai.burrp.com/listing/red-box-cafe_andheri-west_mumbai_restaurants-bars-pubs/134272475
+p253
+sg14
+VAndheri West
+p254
+sg16
+(lp255
+V26390001
+p256
+aV 26390002
+p257
+aV 26390003
+p258
+aV 26390004
+p259
+aV  26390005
+p260
+asg21
+g22
+sg23
+VRoyal Plaza, New Link Road, Next to Citi Mall, Near Fame Adlabs, Andheri (W), Andheri West, Mumbai
+p261
+sba(i__main__
+Place
+p262
+(dp263
+g3
+(lp264
+VRestaurants
+p265
+aV Bars & Pubs
+p266
+asg8
+g49
+sg10
+VPop Tate's
+p267
+sg12
+Vhttp://mumbai.burrp.com/listing/pop-tates_versova_mumbai_restaurants-bars-pubs/138137871
+p268
+sg14
+VVersova
+p269
+sg16
+(lp270
+V26345664
+p271
+aV 26345666
+p272
+aV 65283036
+p273
+aV 26342890
+p274
+asg21
+g85
+sg23
+VShiv Shopping Centre, 5 1/2 Bungalows, J.P. Road, Andheri (W), Versova, Andheri West, Mumbai
+p275
+sba(i__main__
+Place
+p276
+(dp277
+g3
+(lp278
+VRestaurants
+p279
+asg8
+g9
+sg10
+VSasural
+p280
+sg12
+Vhttp://mumbai.burrp.com/listing/sasural_lokhandwala-andheri_mumbai_restaurants/19053019
+p281
+sg14
+VLokhandwala (Andheri)
+p282
+sg16
+(lp283
+V26368222
+p284
+aV 26338906
+p285
+asg21
+g85
+sg23
+VAndheri Apna Ghar, Unit No 9, Lokhandwala Complex, Lokhandwala, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p286
+sba(i__main__
+Place
+p287
+(dp288
+g3
+(lp289
+VRestaurants
+p290
+asg8
+g49
+sg10
+VKhaugalli
+p291
+sg12
+Vhttp://mumbai.burrp.com/listing/khaugalli_4-bungalows_mumbai_restaurants/1115184198
+p292
+sg14
+V4 Bungalows
+p293
+sg16
+(lp294
+V42225252
+p295
+asg21
+g22
+sg23
+VVersova Shree Darshan Co-Op Hsg Society, 4 Bungalows, Andheri West, Mumbai
+p296
+sba(i__main__
+Place
+p297
+(dp298
+g3
+(lp299
+VRestaurants
+p300
+aV Banquet Halls
+p301
+aV Outdoor Caterers
+p302
+asg8
+g49
+sg10
+VKailash Parbat
+p303
+sg12
+Vhttp://mumbai.burrp.com/listing/kailash-parbat_andheri-west_mumbai_restaurants-banquet-halls-outdoor-caterers/116693
+p304
+sg14
+VAndheri West
+p305
+sg16
+(lp306
+V67023300
+p307
+aV 9833913450
+p308
+aV 26743810
+p309
+asg21
+g22
+sg23
+V7A, Crystal Plaza, Opposite Infiniti Mall, New Link Road, Andheri West, Mumbai
+p310
+sba(i__main__
+Place
+p311
+(dp312
+g3
+(lp313
+VRestaurants
+p314
+asg8
+g9
+sg10
+VDimSum&more
+p315
+sg12
+Vhttp://mumbai.burrp.com/listing/dimsummore_versova_mumbai_restaurants/1576988752
+p316
+sg14
+VVersova
+p317
+sg16
+(lp318
+V26373057
+p319
+aV 9167995551
+p320
+aV 9167995552
+p321
+aV 9167995553
+p322
+asg21
+g22
+sg23
+VShop No. 6, Gold Crown Building, J.P Road, Versova, Andheri West, Mumbai
+p323
+sba(i__main__
+Place
+p324
+(dp325
+g3
+(lp326
+VOutdoor Caterers
+p327
+aV Restaurants
+p328
+asg8
+g9
+sg10
+VDiscovery Restaurant
+p329
+sg12
+Vhttp://mumbai.burrp.com/listing/discovery-restaurant_7-bungalows_mumbai_outdoor-caterers-restaurants/168167841
+p330
+sg14
+V7 Bungalows
+p331
+sg16
+(lp332
+V26398504
+p333
+aV 26398505
+p334
+aV 9930891110
+p335
+aV 9322879323
+p336
+asg21
+g22
+sg23
+VShop No. 4, Varsha Bldg., Bank of Mah. Lane, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p337
+sba(i__main__
+Place
+p338
+(dp339
+g3
+(lp340
+VRestaurants
+p341
+asg8
+g9
+sg10
+VFood Inn Restaurant
+p342
+sg12
+Vhttp://mumbai.burrp.com/listing/food-inn-restaurant_andheri-west_mumbai_restaurants/196440613
+p343
+sg14
+VAndheri West
+p344
+sg16
+(lp345
+V66963230
+p346
+aV 26334139
+p347
+aV 26319114
+p348
+aV 26365646
+p349
+asg21
+V1
+p350
+sg23
+V27/C Shiv Sadan Building, Apna Ghar , 1st Cross Lane, Lokhandwala Market, Andheri West, Mumbai
+p351
+sba(i__main__
+Place
+p352
+(dp353
+g3
+(lp354
+VRestaurants
+p355
+asg8
+g9
+sg10
+VGuru Da Dhaba
+p356
+sg12
+Vhttp://mumbai.burrp.com/listing/guru-da-dhaba_lokhandwala-andheri_mumbai_restaurants/150760059
+p357
+sg14
+VLokhandwala (Andheri)
+p358
+sg16
+(lp359
+V26320440
+p360
+aV 26321031
+p361
+asg21
+g350
+sg23
+V1st Cross Lane, Next to Domino's Pizza, Lokhandwala Complex, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p362
+sba(i__main__
+Place
+p363
+(dp364
+g3
+(lp365
+VRestaurants
+p366
+asg8
+g9
+sg10
+VMalwani Kkalwan
+p367
+sg12
+Vhttp://mumbai.burrp.com/listing/malwani-kkalwan_versova_mumbai_restaurants/1213178188
+p368
+sg14
+VVersova
+p369
+sg16
+(lp370
+V65220404
+p371
+aV 65220505
+p372
+aV 9870370399
+p373
+aV 9870770799
+p374
+asg21
+g22
+sg23
+V77-A, Om Cottage, J.P. Road, Versova, Andheri West, Mumbai
+p375
+sba(i__main__
+Place
+p376
+(dp377
+g3
+(lp378
+VRestaurants
+p379
+aV Lounges
+p380
+asg8
+g9
+sg10
+VEnigma The Lounge
+p381
+sg12
+Vhttp://mumbai.burrp.com/listing/enigma-the-lounge_versova_mumbai_restaurants-lounges/123145386
+p382
+sg14
+VVersova
+p383
+sg16
+(lp384
+V26312061
+p385
+aV 26311332
+p386
+aV 26368223
+p387
+asg21
+g22
+sg23
+V6 1/2 Bungalow, Legacy of China, Tirupati Towers, JP Road, Versova, Andheri West, Mumbai
+p388
+sba(i__main__
+Place
+p389
+(dp390
+g3
+(lp391
+VRestaurants
+p392
+aV Bars & Pubs
+p393
+asg8
+g49
+sg10
+VChina Gate
+p394
+sg12
+Vhttp://mumbai.burrp.com/listing/china-gate_andheri-west_mumbai_restaurants-bars-pubs/136272673
+p395
+sg14
+VAndheri West
+p396
+sg16
+(lp397
+V26390001
+p398
+aV 26390002
+p399
+aV 26390003
+p400
+aV 26390004
+p401
+aV 26390005
+p402
+aV 42631000
+p403
+asg21
+g22
+sg23
+VRoyal Plaza, New Link Road, Next to Citi Mall, Andheri West, Mumbai
+p404
+sba(i__main__
+Place
+p405
+(dp406
+g3
+(lp407
+VRestaurants
+p408
+aV Lounges
+p409
+asg8
+g49
+sg10
+VLa Kebabiya
+p410
+sg12
+Vhttp://mumbai.burrp.com/listing/la-kebabiya_lokhandwala-andheri_mumbai_restaurants-lounges/1315114178
+p411
+sg14
+VLokhandwala (Andheri)
+p412
+sg16
+(lp413
+V26742541
+p414
+aV 26742542
+p415
+aV  26742543
+p416
+asg21
+g22
+sg23
+VPlot No 1059 & 1060, Off New Link Road, Near Infiniti Mall, Lokhandwala (Andheri), Andheri West, Mumbai
+p417
+sba(i__main__
+Place
+p418
+(dp419
+g3
+(lp420
+VRestaurants
+p421
+asg8
+g9
+sg10
+VStar Of China
+p422
+sg12
+Vhttp://mumbai.burrp.com/listing/star-of-china_lokhandwala-andheri_mumbai_restaurants/1116489198
+p423
+sg14
+VLokhandwala (Andheri)
+p424
+sg16
+(lp425
+V65892242
+p426
+aV 9820247935
+p427
+aV 9619831494
+p428
+aV 9769456044
+p429
+asg21
+g22
+sg23
+VSun Shine Building, Shop No. 18, Apna Ghar Unit No. 7, 1st Cross Lane, Lokhandwala (Andheri), Andheri West, Mumbai
+p430
+sba(i__main__
+Place
+p431
+(dp432
+g3
+(lp433
+VRestaurants
+p434
+asg8
+g29
+sg10
+VHotel Radhakrishna
+p435
+sg12
+Vhttp://mumbai.burrp.com/listing/hotel-radhakrishna_andheri-west_mumbai_restaurants/144120465
+p436
+sg14
+VAndheri West
+p437
+sg16
+(lp438
+V26285642
+p439
+aV 26280197
+p440
+aV 66951078
+p441
+aV 40722222
+p442
+asg21
+g350
+sg23
+VOpposite Shopper's Stop, SV Road, Andheri West, Mumbai
+p443
+sba(i__main__
+Place
+p444
+(dp445
+g3
+(lp446
+VBars & Pubs
+p447
+aV Restaurants
+p448
+asg8
+g49
+sg10
+VKino 108 - The Retro Restro Bar
+p449
+sg12
+Vhttp://mumbai.burrp.com/listing/kino-108---the-retro-restro-bar_7-bungalows_mumbai_bars-pubs-restaurants/1995003910
+p450
+sg14
+V7 Bungalows
+p451
+sg16
+(lp452
+V9820052222
+p453
+aV 26289562
+p454
+asg21
+g49
+sg23
+VVeera Desai Junction, JP Road, 7 Bungalows, Andheri West, Mumbai
+p455
+sba(i__main__
+Place
+p456
+(dp457
+g3
+(lp458
+VRestaurants
+p459
+asg8
+g49
+sg10
+VTGI Friday's
+p460
+sg12
+Vhttp://mumbai.burrp.com/listing/tgi-fridays_andheri-west_mumbai_restaurants/149156960
+p461
+sg14
+VAndheri West
+p462
+sg16
+(lp463
+V67032063
+p464
+aV 26367047
+p465
+aV 67032065
+p466
+asg21
+g49
+sg23
+VInfiniti Mall, 2nd Floor, New Link Road, Andheri West, Mumbai
+p467
+sba(i__main__
+Place
+p468
+(dp469
+g3
+(lp470
+VRestaurants
+p471
+asg8
+g9
+sg10
+VPeppr Pinch
+p472
+sg12
+Vhttp://mumbai.burrp.com/listing/peppr-pinch_7-bungalows_mumbai_restaurants/1734776336
+p473
+sg14
+V7 Bungalows
+p474
+sg16
+(lp475
+V66931070
+p476
+aV 66992070
+p477
+aV 9769076661
+p478
+asg21
+g22
+sg23
+VShop 25, Evershine Bldg. No:2, 7 Bungalows, Andheri West, Mumbai
+p479
+sba(i__main__
+Place
+p480
+(dp481
+g3
+(lp482
+VCafes
+p483
+aV Restaurants
+p484
+aV Bakery Shops
+p485
+asg8
+g9
+sg10
+VIdeal Restaurant, Bakery and Store
+p486
+sg12
+Vhttp://mumbai.burrp.com/listing/ideal-restaurant-bakery-and-store_andheri-west_mumbai_cafes-restaurants-bakery-shops/115252594
+p487
+sg14
+VAndheri West
+p488
+sg16
+(lp489
+V26110711
+p490
+aV 60000600
+p491
+aV 26249595
+p492
+asg21
+g22
+sg23
+VOutside Andheri (W) Station, Opposite McDonalds, Andheri West, Mumbai
+p493
+sba(i__main__
+Place
+p494
+(dp495
+g3
+(lp496
+VRestaurants
+p497
+asg8
+g9
+sg10
+VPanchavati Gaurav
+p498
+sg12
+Vhttp://mumbai.burrp.com/listing/panchavati-gaurav_lokhandwala-andheri_mumbai_restaurants/1701428039
+p499
+sg14
+VLokhandwala (Andheri)
+p500
+sg16
+(lp501
+V26347575
+p502
+asg21
+g22
+sg23
+V3rd Floor, Lokhandwala (Andheri), Andheri West, Mumbai
+p503
+sba(i__main__
+Place
+p504
+(dp505
+g3
+(lp506
+VLounges
+p507
+aV Restaurants
+p508
+asg8
+g9
+sg10
+VFaham - The Sheesha Lounge
+p509
+sg12
+Vhttp://mumbai.burrp.com/listing/faham---the-sheesha-lounge_lokhandwala-andheri_mumbai_lounges-restaurants/1385222871
+p510
+sg14
+VLokhandwala (Andheri)
+p511
+sg16
+(lp512
+V9892501764
+p513
+aV 9833470650
+p514
+asg21
+g22
+sg23
+VRamesh Nagar, Opp Mahada Telephone Exchange, RTO Lane, Lokhandwala, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p515
+sba(i__main__
+Place
+p516
+(dp517
+g3
+(lp518
+VRestaurants
+p519
+asg8
+g49
+sg10
+VSoda
+p520
+sg12
+Vhttp://mumbai.burrp.com/listing/soda_7-bungalows_mumbai_restaurants/112855297
+p521
+sg14
+V7 Bungalows
+p522
+sg16
+(lp523
+V26364466
+p524
+aV 26364467
+p525
+aV 32689866
+p526
+asg21
+g22
+sg23
+VJ.P. Road, 7 Bungalows, Andheri West, Mumbai
+p527
+sba(i__main__
+Place
+p528
+(dp529
+g3
+(lp530
+VRestaurants
+p531
+asg8
+g49
+sg10
+VUbuntu Fine Dine
+p532
+sg12
+Vhttp://mumbai.burrp.com/listing/ubuntu-fine-dine_andheri-west_mumbai_restaurants/1292071980
+p533
+sg14
+VAndheri West
+p534
+sg16
+(lp535
+V26733333
+p536
+aV 26731181
+p537
+aV 9833300526
+p538
+aV 9833377006
+p539
+asg21
+g22
+sg23
+VDream Square, C 18/21, Dalia Estate, Off New Link Road, Veera Desai Road, Andheri West, Mumbai
+p540
+sba(i__main__
+Place
+p541
+(dp542
+g3
+(lp543
+VBars & Pubs
+p544
+aV Restaurants
+p545
+asg8
+g49
+sg10
+VFingers Cross - The All Day
+p546
+sg12
+Vhttp://mumbai.burrp.com/listing/fingers-cross---the-all-day_andheri-west_mumbai_bars-pubs-restaurants/177762732
+p547
+sg14
+VAndheri West
+p548
+sg16
+(lp549
+V26365367
+p550
+aV 26339997
+p551
+aV 26351119
+p552
+aV 26351120
+p553
+asg21
+g22
+sg23
+V9, Raheja Classique, Link Road, Lokhandwala, Andheri West, Mumbai
+p554
+sba(i__main__
+Place
+p555
+(dp556
+g3
+(lp557
+VRestaurants
+p558
+asg8
+g49
+sg10
+VCaravan Serai
+p559
+sg12
+Vhttp://mumbai.burrp.com/listing/caravan-serai_lokhandwala-andheri_mumbai_restaurants/1274735782
+p560
+sg14
+VLokhandwala (Andheri)
+p561
+sg16
+(lp562
+V26390001
+p563
+aV 26390002
+p564
+aV 26390003
+p565
+asg21
+g49
+sg23
+VRed Box Building, Andheri Link Road, Lokhandwala, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p566
+sba(i__main__
+Place
+p567
+(dp568
+g3
+(lp569
+VRestaurants
+p570
+aV Banquet Halls
+p571
+aV Outdoor Caterers
+p572
+asg8
+g9
+sg10
+VGoa Portuguesa
+p573
+sg12
+Vhttp://mumbai.burrp.com/listing/goa-portuguesa_4-bungalows_mumbai_restaurants-banquet-halls-outdoor-caterers/14314997366
+p574
+sg14
+V4 Bungalows
+p575
+sg16
+(lp576
+V26313222
+p577
+aV 26313777
+p578
+aV 26313999
+p579
+aV 9619961818
+p580
+asg21
+g49
+sg23
+VSVP Nagar, Lokhandwala Road, 4 Bungalows, Andheri West, Mumbai
+p581
+sba(i__main__
+Place
+p582
+(dp583
+g3
+(lp584
+VRestaurants
+p585
+asg8
+g9
+sg10
+VJughead's -The Unrestaurant
+p586
+sg12
+Vhttp://mumbai.burrp.com/listing/jugheads--the-unrestaurant_andheri-west_mumbai_restaurants/1336482376
+p587
+sg14
+VAndheri West
+p588
+sg16
+(lp589
+V26731761
+p590
+aV 26731762
+p591
+aV 26731760
+p592
+asg21
+g350
+sg23
+VDe-Mall, 103/104, Veera Desai Road, Andheri (W), Andheri West, Mumbai
+p593
+sba(i__main__
+Place
+p594
+(dp595
+g3
+(lp596
+VRestaurants
+p597
+asg8
+g49
+sg10
+VFirangi Dhaba
+p598
+sg12
+Vhttp://mumbai.burrp.com/listing/firangi-dhaba_andheri-west_mumbai_restaurants/128163881
+p599
+sg14
+VAndheri West
+p600
+sg16
+(lp601
+V26743535
+p602
+aV 26731516
+p603
+asg21
+g22
+sg23
+V9, Remi Bizcourt, Opposite Supreme Plastic, Andheri West, Mumbai
+p604
+sba(i__main__
+Place
+p605
+(dp606
+g3
+(lp607
+VRestaurants
+p608
+aV Outdoor Caterers
+p609
+asg8
+g49
+sg10
+VJaffer Bhai's Delhi Darbar
+p610
+sg12
+Vhttp://mumbai.burrp.com/listing/jaffer-bhais-delhi-darbar_lokhandwala-andheri_mumbai_restaurants-outdoor-caterers/159850950
+p611
+sg14
+VLokhandwala (Andheri)
+p612
+sg16
+(lp613
+V26321370
+p614
+aV 26321371
+p615
+aV 26321372
+p616
+asg21
+g22
+sg23
+VRendezvous Bldg, Shop 6 & 7, Raviraj Oberoi Complex, Lokhandwala (Andheri), Andheri West, Mumbai
+p617
+sba(i__main__
+Place
+p618
+(dp619
+g3
+(lp620
+VBars & Pubs
+p621
+aV Restaurants
+p622
+asg8
+g49
+sg10
+VCafe Ivy Bar & Bistro
+p623
+sg12
+Vhttp://mumbai.burrp.com/listing/cafe-ivy-bar-bistro_versova_mumbai_bars-pubs-restaurants/121829188
+p624
+sg14
+VVersova
+p625
+sg16
+(lp626
+V65260829
+p627
+aV 26395995
+p628
+asg21
+g22
+sg23
+VGala No. 2, Aaram Nagar Part - 1, J. P. Road, Versova, Andheri West, Mumbai
+p629
+sba(i__main__
+Place
+p630
+(dp631
+g3
+(lp632
+VRestaurants
+p633
+asg8
+g49
+sg10
+VMia Cucina
+p634
+sg12
+Vhttp://mumbai.burrp.com/listing/mia-cucina_versova_mumbai_restaurants/1595908950
+p635
+sg14
+VVersova
+p636
+sg16
+(lp637
+V42414000
+p638
+asg21
+g22
+sg23
+VJewel Shopping Centre, JP Road, Versova, Andheri West, Mumbai
+p639
+sba(i__main__
+Place
+p640
+(dp641
+g3
+(lp642
+VRestaurants
+p643
+asg8
+g9
+sg10
+VAcross D Coast
+p644
+sg12
+Vhttp://mumbai.burrp.com/listing/across-d-coast_jp-road_mumbai_restaurants/1736585336
+p645
+sg14
+VJP Road
+p646
+sg16
+(lp647
+V26731945
+p648
+aV 26731946
+p649
+aV 26731947
+p650
+asg21
+g22
+sg23
+VAzad Nagar No.2, Veera Desai Road, J.P. Road, Andheri (W), JP Road, Andheri West, Mumbai
+p651
+sba(i__main__
+Place
+p652
+(dp653
+g3
+(lp654
+VRestaurants
+p655
+aV Cafes
+p656
+aV Bakery Shops
+p657
+asg8
+g9
+sg10
+VScrumptious
+p658
+sg12
+Vhttp://mumbai.burrp.com/listing/scrumptious_jp-road_mumbai_restaurants-cafes-bakery-shops/133821376
+p659
+sg14
+VJP Road
+p660
+sg16
+(lp661
+V26311576
+p662
+aV 9324153255
+p663
+aV 32952187
+p664
+aV 9820772452
+p665
+asg21
+g350
+sg23
+VShop No. 9 & 10, Everest Apt, Versova, JP Road, Andheri West, Mumbai
+p666
+sba(i__main__
+Place
+p667
+(dp668
+g3
+(lp669
+VRestaurants
+p670
+asg8
+g9
+sg10
+VMiro Restaurant
+p671
+sg12
+Vhttp://mumbai.burrp.com/listing/miro-restaurant_lokhandwala-andheri_mumbai_restaurants/1976038712
+p672
+sg14
+VLokhandwala (Andheri)
+p673
+sg16
+(lp674
+V44310000
+p675
+asg21
+g9
+sg23
+VLevel 1, Lokhandwala (Andheri), Andheri West, Mumbai
+p676
+sba(i__main__
+Place
+p677
+(dp678
+g3
+(lp679
+VDelicatessens
+p680
+aV Restaurants
+p681
+asg8
+g9
+sg10
+VMesa Bistro
+p682
+sg12
+Vhttp://mumbai.burrp.com/listing/mesa-bistro_lokhandwala-andheri_mumbai_delicatessens-restaurants/1916038118
+p683
+sg14
+VLokhandwala (Andheri)
+p684
+sg16
+(lp685
+V44310000
+p686
+asg21
+g49
+sg23
+VGround Floor, Lokhandwala (Andheri), Andheri West, Mumbai
+p687
+sba(i__main__
+Place
+p688
+(dp689
+g3
+(lp690
+VRestaurants
+p691
+asg8
+g9
+sg10
+VSigara
+p692
+sg12
+Vhttp://mumbai.burrp.com/listing/sigara_andheri-west_mumbai_restaurants/1918118
+p693
+sg14
+VAndheri West
+p694
+sg16
+(lp695
+V65130367
+p696
+aV 9820822662
+p697
+asg21
+g22
+sg23
+VShop No. 3, Royal Classic, Andheri Link Road, Andheri (W), Andheri West, Mumbai
+p698
+sba(i__main__
+Place
+p699
+(dp700
+g3
+(lp701
+VTake Away Shops
+p702
+aV Restaurants
+p703
+asg8
+g9
+sg10
+VThe Hideaway Beach
+p704
+sg12
+Vhttp://mumbai.burrp.com/listing/the-hideaway-beach_versova_mumbai_take-away-shops-restaurants/1575755752
+p705
+sg14
+VVersova
+p706
+sg16
+(lp707
+V26332929
+p708
+aV 9923653015
+p709
+asg21
+g22
+sg23
+VNew Neelam Apartments, J P Road, Versova, Andheri West, Mumbai
+p710
+sba(i__main__
+Place
+p711
+(dp712
+g3
+(lp713
+VRestaurants
+p714
+asg8
+g49
+sg10
+VStomach II
+p715
+sg12
+Vhttp://mumbai.burrp.com/listing/stomach-ii_versova_mumbai_restaurants/16459445
+p716
+sg14
+VVersova
+p717
+sg16
+(lp718
+V26343300
+p719
+aV 26341978
+p720
+aV 26341141
+p721
+aV 26342301
+p722
+asg21
+g85
+sg23
+VSea Green Apartments, Raheja Complex, Versova, Andheri West, Mumbai
+p723
+sba(i__main__
+Place
+p724
+(dp725
+g3
+(lp726
+VRestaurants
+p727
+asg8
+g49
+sg10
+VKalinga
+p728
+sg12
+Vhttp://mumbai.burrp.com/listing/kalinga_andheri-west_mumbai_restaurants/157490752
+p729
+sg14
+VAndheri West
+p730
+sg16
+(lp731
+V66963450
+p732
+aV 66963773
+p733
+aV 66963774
+p734
+aV 66963775
+p735
+aV  66963776
+p736
+asg21
+g350
+sg23
+VNew Link Road, Behind SAB TV Tower, Near Fame Adlabs, Andheri (W), Andheri West, Mumbai
+p737
+sba(i__main__
+Place
+p738
+(dp739
+g3
+(lp740
+VRestaurants
+p741
+aV Bars & Pubs
+p742
+aV Lounges
+p743
+asg8
+g49
+sg10
+VBlue Waters
+p744
+sg12
+Vhttp://mumbai.burrp.com/listing/blue-waters_andheri-west_mumbai_restaurants-bars-pubs-lounges/181268128
+p745
+sg14
+VAndheri West
+p746
+sg16
+(lp747
+V26743615
+p748
+aV 26743213
+p749
+aV 26744805
+p750
+asg21
+g22
+sg23
+VNew Link Road, Andheri West, Mumbai
+p751
+sba(i__main__
+Place
+p752
+(dp753
+g3
+(lp754
+VRestaurants
+p755
+aV Fast Food Shops
+p756
+asg8
+g49
+sg10
+VCrepe Station Resto Bar
+p757
+sg12
+Vhttp://mumbai.burrp.com/listing/crepe-station-resto-bar_versova_mumbai_restaurants-fast-food-shops/1895272920
+p758
+sg14
+VVersova
+p759
+sg16
+(lp760
+V26302334 
+p761
+aV 26314158
+p762
+asg21
+g85
+sg23
+VTirupati Towers, 7 Bungalows, J. P Road , Versova, Andheri West, Mumbai
+p763
+sba(i__main__
+Place
+p764
+(dp765
+g3
+(lp766
+VRestaurants
+p767
+asg8
+g9
+sg10
+VChina Suburb - 1
+p768
+sg12
+Vhttp://mumbai.burrp.com/listing/china-suburb---1_versova_mumbai_restaurants/138110871
+p769
+sg14
+VVersova
+p770
+sg16
+(lp771
+V26351090
+p772
+aV 26335033
+p773
+aV 65852008
+p774
+aV 9820514917
+p775
+asg21
+g22
+sg23
+VShop 1, Beach Apartments, Picnic Cottage, Versova, Andheri West, Mumbai
+p776
+sba(i__main__
+Place
+p777
+(dp778
+g3
+(lp779
+VRestaurants
+p780
+asg8
+g49
+sg10
+VJust Biryani
+p781
+sg12
+Vhttp://mumbai.burrp.com/listing/just-biryani_andheri-west_mumbai_restaurants/173123336
+p782
+sg14
+VAndheri West
+p783
+sg16
+(lp784
+V26355110
+p785
+aV 65794713
+p786
+aV 26301166
+p787
+aV 26390695
+p788
+asg21
+g49
+sg23
+VShop No. 4 & 5, Building No. 25, Link Road Extn, Andheri West, Mumbai
+p789
+sba(i__main__
+Place
+p790
+(dp791
+g3
+(lp792
+VRestaurants
+p793
+asg8
+g9
+sg10
+VCafe Alfa
+p794
+sg12
+Vhttp://mumbai.burrp.com/listing/cafe-alfa_andheri-west_mumbai_restaurants/111927198
+p795
+sg14
+VAndheri West
+p796
+sg16
+(lp797
+V26286875
+p798
+asg21
+g350
+sg23
+VNo.188, S.V. Road, Opposite Narco Shopping Center, Andheri West, Mumbai
+p799
+sba(i__main__
+Place
+p800
+(dp801
+g3
+(lp802
+VRestaurants
+p803
+asg8
+g9
+sg10
+VChinese Corner
+p804
+sg12
+Vhttp://mumbai.burrp.com/listing/chinese-corner_7-bungalows_mumbai_restaurants/152454257
+p805
+sg14
+V7 Bungalows
+p806
+sg16
+(lp807
+V65856688
+p808
+aV 65747070
+p809
+aV 9821032808
+p810
+asg21
+g22
+sg23
+VShop No. 1, Shivam Apts, Shiv Shopping Center, JP Road, 7 Bungalows, Andheri West, Mumbai
+p811
+sba(i__main__
+Place
+p812
+(dp813
+g3
+(lp814
+VRestaurants
+p815
+asg8
+g29
+sg10
+VNorthern Tadka
+p816
+sg12
+Vhttp://mumbai.burrp.com/listing/northern-tadka_link-road-andheri-west_mumbai_restaurants/18315181326
+p817
+sg14
+VLink Road-Andheri West
+p818
+sg16
+(lp819
+V26731763
+p820
+aV 26731764
+p821
+aV 26731765
+p822
+asg21
+g49
+sg23
+VNear Jugheads, Off Link Road, Veera Desai Road, Link Road-Andheri West, Andheri West, Mumbai
+p823
+sba(i__main__
+Place
+p824
+(dp825
+g3
+(lp826
+VRestaurants
+p827
+asg8
+g49
+sg10
+VFil Fil
+p828
+sg12
+Vhttp://mumbai.burrp.com/listing/fil-fil_7-bungalows_mumbai_restaurants/1215734188
+p829
+sg14
+V7 Bungalows
+p830
+sg16
+(lp831
+V26397788
+p832
+aV 26366688
+p833
+asg21
+g22
+sg23
+VAram Nagar, Unit No. 18, JP Road, 7 Bungalows, Andheri West, Mumbai
+p834
+sba(i__main__
+Place
+p835
+(dp836
+g3
+(lp837
+VRestaurants
+p838
+aV Bars & Pubs
+p839
+asg8
+g49
+sg10
+VRainforest Resto Bar
+p840
+sg12
+Vhttp://mumbai.burrp.com/listing/rainforest-resto-bar_andheri-west_mumbai_restaurants-bars-pubs/16515629544
+p841
+sg14
+VAndheri West
+p842
+sg16
+(lp843
+V65176567
+p844
+aV 65176569
+p845
+aV 9167788035
+p846
+asg21
+g85
+sg23
+VCrystal Paradise, Off.  Veera Desai Road, Andheri West, Mumbai
+p847
+sba(i__main__
+Place
+p848
+(dp849
+g3
+(lp850
+VRestaurants
+p851
+asg8
+g49
+sg10
+VBombay Blue
+p852
+sg12
+Vhttp://mumbai.burrp.com/listing/bombay-blue_andheri-west_mumbai_restaurants/17833831
+p853
+sg14
+VAndheri West
+p854
+sg16
+(lp855
+V26232222
+p856
+aV 26237000
+p857
+asg21
+g85
+sg23
+VShopper's Stop, D-211, S V Road, Andheri (W), Andheri West, Mumbai
+p858
+sba(i__main__
+Place
+p859
+(dp860
+g3
+(lp861
+VRestaurants
+p862
+asg8
+g9
+sg10
+VGarden Court Restaurant
+p863
+sg12
+Vhttp://mumbai.burrp.com/listing/garden-court-restaurant_andheri-west_mumbai_restaurants/186115623
+p864
+sg14
+VAndheri West
+p865
+sg16
+(lp866
+V26770318
+p867
+aV 26770253
+p868
+aV 66920915
+p869
+asg21
+g22
+sg23
+VJunction of JP Road and Veera Desai Road, Next to Sports Complex, Andheri West, Mumbai
+p870
+sba(i__main__
+Place
+p871
+(dp872
+g3
+(lp873
+VRestaurants
+p874
+aV Cafes
+p875
+asg8
+g9
+sg10
+VKaffe Kona
+p876
+sg12
+Vhttp://mumbai.burrp.com/listing/kaffe-kona_andheri-west_mumbai_restaurants-cafes/1293574980
+p877
+sg14
+VAndheri West
+p878
+sg16
+(lp879
+V67425868
+p880
+asg21
+g22
+sg23
+VShop No. 4, Royal Classic CHS, Andheri Link Road, Andheri (W), Andheri West, Mumbai
+p881
+sba(i__main__
+Place
+p882
+(dp883
+g3
+(lp884
+VRestaurants
+p885
+asg8
+g49
+sg10
+VThe Rice Boat
+p886
+sg12
+Vhttp://mumbai.burrp.com/listing/the-rice-boat_7-bungalows_mumbai_restaurants/123163386
+p887
+sg14
+V7 Bungalows
+p888
+sg16
+(lp889
+V26326688
+p890
+aV 26336688
+p891
+asg21
+g85
+sg23
+VSeven Bungalows, Versova Road, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p892
+sba(i__main__
+Place
+p893
+(dp894
+g3
+(lp895
+VRestaurants
+p896
+asg8
+g49
+sg10
+VShabari
+p897
+sg12
+Vhttp://mumbai.burrp.com/listing/shabari_andheri-west_mumbai_restaurants/1998910
+p898
+sg14
+VAndheri West
+p899
+sg16
+(lp900
+V26335566
+p901
+aV 26356677
+p902
+aV 26369999
+p903
+aV 65732122
+p904
+aV  65120514
+p905
+asg21
+g22
+sg23
+VSai-Dwar, Oberoi Complex Road, SAB TV Lane, Andheri West, Mumbai
+p906
+sba(i__main__
+Place
+p907
+(dp908
+g3
+(lp909
+VRestaurants
+p910
+asg8
+g49
+sg10
+VCourtyard Restaurant & Bar
+p911
+sg12
+Vhttp://mumbai.burrp.com/listing/courtyard-restaurant-bar_andheri-west_mumbai_restaurants/166851643
+p912
+sg14
+VAndheri West
+p913
+sg16
+(lp914
+V26734165
+p915
+aV 26734159
+p916
+asg21
+g49
+sg23
+VMinoo Minar Building, Off Veera Desai Road, Andheri (W), Andheri West, Mumbai
+p917
+sba(i__main__
+Place
+p918
+(dp919
+g3
+(lp920
+VRestaurants
+p921
+asg8
+g49
+sg10
+VTall Grass
+p922
+sg12
+Vhttp://mumbai.burrp.com/listing/tall-grass_lokhandwala-andheri_mumbai_restaurants/1581336851
+p923
+sg14
+VLokhandwala (Andheri)
+p924
+sg16
+(lp925
+V26730646
+p926
+aV 26730647
+p927
+asg21
+g22
+sg23
+V1055/109, Adarsh Nagar, Near Infiniti Mall, Lokhandwala (Andheri), Andheri West, Mumbai
+p928
+sba(i__main__
+Place
+p929
+(dp930
+g3
+(lp931
+VLounges
+p932
+aV Bars & Pubs
+p933
+aV Restaurants
+p934
+asg8
+g49
+sg10
+VMarimba Lounge
+p935
+sg12
+Vhttp://mumbai.burrp.com/listing/marimba-lounge_andheri-west_mumbai_lounges-bars-pubs-restaurants/1451893564
+p936
+sg14
+VAndheri West
+p937
+sg16
+(lp938
+V26733333
+p939
+asg21
+g22
+sg23
+VDream Square, C 18/21, Dalia Estate, Near Fun Republic Mall, Off Veera Desai Road, Andheri West, Mumbai
+p940
+sba(i__main__
+Place
+p941
+(dp942
+g3
+(lp943
+VLounges
+p944
+aV Cafes
+p945
+aV Restaurants
+p946
+asg8
+g49
+sg10
+VBarcode 053
+p947
+sg12
+Vhttp://mumbai.burrp.com/listing/barcode-053_lokhandwala-andheri_mumbai_lounges-cafes-restaurants/1495529960
+p948
+sg14
+VLokhandwala (Andheri)
+p949
+sg16
+(lp950
+V26301660
+p951
+aV 26362345
+p952
+asg21
+g22
+sg23
+VRoyal Classic, New Link Road, Lokhandwala (Andheri), Andheri West, Mumbai
+p953
+sba(i__main__
+Place
+p954
+(dp955
+g3
+(lp956
+VRestaurants
+p957
+asg8
+g29
+sg10
+VMelody Cafe
+p958
+sg12
+Vhttp://mumbai.burrp.com/listing/melody-cafe_versova_mumbai_restaurants/1224465287
+p959
+sg14
+VVersova
+p960
+sg16
+(lp961
+V9664384296
+p962
+asg21
+g22
+sg23
+V2, Corner View, Off Yari Road, Near Bianca Tower, Andheri (W), Versova, Andheri West, Mumbai
+p963
+sba(i__main__
+Place
+p964
+(dp965
+g3
+(lp966
+VBars & Pubs
+p967
+aV Restaurants
+p968
+asg8
+g29
+sg10
+VMadhuban Garden Restaurant & Bar
+p969
+sg12
+Vhttp://mumbai.burrp.com/listing/madhuban-garden-restaurant-bar_versova_mumbai_bars-pubs-restaurants/1635711346
+p970
+sg14
+VVersova
+p971
+sg16
+(lp972
+V26379713
+p973
+aV 26360742
+p974
+asg21
+g22
+sg23
+VMadhuban Apartment, Yari Road, Andheri (W), Versova, Andheri West, Mumbai
+p975
+sba(i__main__
+Place
+p976
+(dp977
+g3
+(lp978
+VRestaurants
+p979
+asg8
+g49
+sg10
+VZus Sizzlers
+p980
+sg12
+Vhttp://mumbai.burrp.com/listing/zus-sizzlers_lokhandwala-andheri_mumbai_restaurants/145750564
+p981
+sg14
+VLokhandwala (Andheri)
+p982
+sg16
+(lp983
+V66716419
+p984
+aV 66716298
+p985
+asg21
+g22
+sg23
+V1 Samarth Vaibhav Complex, New Lokhandwala Complex, Lokhandwala, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p986
+sba(i__main__
+Place
+p987
+(dp988
+g3
+(lp989
+VRestaurants
+p990
+asg8
+g49
+sg10
+VCafe Arfa
+p991
+sg12
+Vhttp://mumbai.burrp.com/listing/cafe-arfa_andheri-west_mumbai_restaurants/114279495
+p992
+sg14
+VAndheri West
+p993
+sg16
+(lp994
+V26789298
+p995
+aV 26791700
+p996
+aV 26790191
+p997
+asg21
+g350
+sg23
+VSajid Tower, S V Road, Amboli, Andheri West, Mumbai
+p998
+sba(i__main__
+Place
+p999
+(dp1000
+g3
+(lp1001
+VRestaurants
+p1002
+asg8
+g9
+sg10
+VSwadesh
+p1003
+sg12
+Vhttp://mumbai.burrp.com/listing/swadesh_7-bungalows_mumbai_restaurants/18161128
+p1004
+sg14
+V7 Bungalows
+p1005
+sg16
+(lp1006
+V65269018
+p1007
+aV 26340210
+p1008
+asg21
+g22
+sg23
+VSea Glimpse Co-Operative Housing Society, Seven Bungalows, JP Road, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p1009
+sba(i__main__
+Place
+p1010
+(dp1011
+g3
+(lp1012
+VRestaurants
+p1013
+asg8
+g9
+sg10
+VMini China
+p1014
+sg12
+Vhttp://mumbai.burrp.com/listing/mini-china_andheri-west_mumbai_restaurants/1928217
+p1015
+sg14
+VAndheri West
+p1016
+sg16
+(lp1017
+V26301772
+p1018
+aV 26393141
+p1019
+aV 26338506
+p1020
+asg21
+g22
+sg23
+VDecor, Shop No. 8, Shastri Nagar, Andheri (W), Andheri West, Mumbai
+p1021
+sba(i__main__
+Place
+p1022
+(dp1023
+g3
+(lp1024
+VBars & Pubs
+p1025
+aV Restaurants
+p1026
+asg8
+g9
+sg10
+VOasis
+p1027
+sg12
+Vhttp://mumbai.burrp.com/listing/oasis_andheri-west_mumbai_bars-pubs-restaurants/187133722
+p1028
+sg14
+VAndheri West
+p1029
+sg16
+(lp1030
+V26205205
+p1031
+aV 26209471
+p1032
+asg21
+g85
+sg23
+V211-D, SV Road, Next to Shopper's Stop, Andheri West, Mumbai
+p1033
+sba(i__main__
+Place
+p1034
+(dp1035
+g3
+(lp1036
+VRestaurants
+p1037
+aV Outdoor Caterers
+p1038
+asg8
+g9
+sg10
+VSpice Cottage
+p1039
+sg12
+Vhttp://mumbai.burrp.com/listing/spice-cottage_andheri-west_mumbai_restaurants-outdoor-caterers/175798534
+p1040
+sg14
+VAndheri West
+p1041
+sg16
+(lp1042
+V26398500
+p1043
+aV 26398501
+p1044
+aV 9930891116
+p1045
+aV 9322879323
+p1046
+asg21
+g22
+sg23
+V6, D.N. Nagar, Andheri (W), Andheri West, Mumbai
+p1047
+sba(i__main__
+Place
+p1048
+(dp1049
+g3
+(lp1050
+VDelicatessens
+p1051
+aV Fast Food Shops
+p1052
+aV Restaurants
+p1053
+aV Cafes
+p1054
+asg8
+g49
+sg10
+VFusion Grubz
+p1055
+sg12
+Vhttp://mumbai.burrp.com/listing/fusion-grubz_lokhandwala-andheri_mumbai_delicatessens-fast-food-shops-restaurants/1335690376
+p1056
+sg14
+VLokhandwala (Andheri)
+p1057
+sg16
+(lp1058
+V8080381627
+p1059
+aV 40162071
+p1060
+aV 9699301637
+p1061
+asg21
+g22
+sg23
+VGreenVille Apartment, Millat Nagar Circle, Next to PizzaHut & CCD, Lokhandwala (Andheri), Andheri West, Mumbai
+p1062
+sba(i__main__
+Place
+p1063
+(dp1064
+g3
+(lp1065
+VOutdoor Caterers
+p1066
+aV Ice-cream Parlours
+p1067
+aV Fast Food Shops
+p1068
+aV Juice Parlours
+p1069
+aV Restaurants
+p1070
+aV Cafes
+p1071
+asg8
+g49
+sg10
+VVrindavan
+p1072
+sg12
+Vhttp://mumbai.burrp.com/listing/vrindavan_andheri-west_mumbai_outdoor-caterers-ice-cream-parlours-fast-food-shops/130776079
+p1073
+sg14
+VAndheri West
+p1074
+sg16
+(lp1075
+V26707987
+p1076
+aV 26714872
+p1077
+aV 26714942
+p1078
+aV 9594633999
+p1079
+asg21
+g22
+sg23
+VBhavans College Main Gate, Dadabhai Road, Andheri West, Mumbai
+p1080
+sba(i__main__
+Place
+p1081
+(dp1082
+g3
+(lp1083
+VLounges
+p1084
+aV Restaurants
+p1085
+asg8
+g22
+sg10
+VDhuan Coffee & Grill
+p1086
+sg12
+Vhttp://mumbai.burrp.com/listing/dhuan-coffee-grill_versova_mumbai_lounges-restaurants/178267831
+p1087
+sg14
+VVersova
+p1088
+sg16
+(lp1089
+V26316350
+p1090
+aV 26332379
+p1091
+aV 40166907
+p1092
+aV 65225344
+p1093
+aV  9819834826
+p1094
+asg21
+g49
+sg23
+V9 A/B, Aram Nagar II, J P Road, Versova, Andheri West, Mumbai
+p1095
+sba(i__main__
+Place
+p1096
+(dp1097
+g3
+(lp1098
+VRestaurants
+p1099
+asg8
+g22
+sg10
+VHigh Point
+p1100
+sg12
+Vhttp://mumbai.burrp.com/listing/high-point_lokhandwala-andheri_mumbai_restaurants/132119277
+p1101
+sg14
+VLokhandwala (Andheri)
+p1102
+sg16
+(lp1103
+V66935060
+p1104
+aV 26365363
+p1105
+aV 26317150
+p1106
+aV 66935441
+p1107
+asg21
+g85
+sg23
+VShop No 1-2, Citizen, Lokhandwala Complex, Lokhandwala (Andheri), Andheri West, Mumbai
+p1108
+sba(i__main__
+Place
+p1109
+(dp1110
+g3
+(lp1111
+VRestaurants
+p1112
+asg8
+g22
+sg10
+VChai-Coffi
+p1113
+sg12
+Vhttp://mumbai.burrp.com/listing/chai-coffi_versova_mumbai_restaurants/1376653772
+p1114
+sg14
+VVersova
+p1115
+sg16
+(lp1116
+V66714141
+p1117
+aV 66369999
+p1118
+asg21
+g85
+sg23
+VShop No. 1 & 2, Beach Queen CHSL,  J.P. Road, Versova, Andheri West, Mumbai
+p1119
+sba(i__main__
+Place
+p1120
+(dp1121
+g3
+(lp1122
+VRestaurants
+p1123
+asg8
+g49
+sg10
+VFanoos
+p1124
+sg12
+Vhttp://mumbai.burrp.com/listing/fanoos_lokhandwala-andheri_mumbai_restaurants/1281881
+p1125
+sg14
+VLokhandwala (Andheri)
+p1126
+sg16
+(lp1127
+V65986369
+p1128
+aV 9820637286
+p1129
+asg21
+g22
+sg23
+VSamarth Vaibhav, Next to Citibank, Opp. Café Coffee Day, Lokhandwala, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p1130
+sba(i__main__
+Place
+p1131
+(dp1132
+g3
+(lp1133
+VRestaurants
+p1134
+asg8
+g9
+sg10
+VMonsoon The Chaat Corner
+p1135
+sg12
+Vhttp://mumbai.burrp.com/listing/monsoon-the-chaat-corner_lokhandwala-andheri_mumbai_restaurants/1891312920
+p1136
+sg14
+VLokhandwala (Andheri)
+p1137
+sg16
+(lp1138
+V66935457
+p1139
+aV 26313740
+p1140
+asg21
+g22
+sg23
+VShop No 16, Banzar Society, Lokhandwala Complex, 2nd Cross Lane, Lokhandwala, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p1141
+sba(i__main__
+Place
+p1142
+(dp1143
+g3
+(lp1144
+VRestaurants
+p1145
+asg8
+g9
+sg10
+VClassic Chinese
+p1146
+sg12
+Vhttp://mumbai.burrp.com/listing/classic-chinese_andheri-west_mumbai_restaurants/151112158
+p1147
+sg14
+VAndheri West
+p1148
+sg16
+(lp1149
+V26792042 
+p1150
+aV 26798008 
+p1151
+aV 9920152447
+p1152
+asg21
+g22
+sg23
+VShop No.1, La Princess Apartment, Amboli, Caesar Road, Andheri West, Mumbai
+p1153
+sba(i__main__
+Place
+p1154
+(dp1155
+g3
+(lp1156
+VBars & Pubs
+p1157
+aV Restaurants
+p1158
+asg8
+g22
+sg10
+VSalt 'n' Pepper
+p1159
+sg12
+Vhttp://mumbai.burrp.com/listing/salt-n-pepper_lokhandwala-andheri_mumbai_bars-pubs-restaurants/1685841
+p1160
+sg14
+VLokhandwala (Andheri)
+p1161
+sg16
+(lp1162
+V26372637
+p1163
+aV 26301234
+p1164
+aV 26365859
+p1165
+asg21
+g85
+sg23
+VA/5 Royal Classic, Link Road, Lokhandwala (Andheri), Andheri West, Mumbai
+p1166
+sba(i__main__
+Place
+p1167
+(dp1168
+g3
+(lp1169
+VRestaurants
+p1170
+asg8
+g22
+sg10
+VGinger Marie
+p1171
+sg12
+Vhttp://mumbai.burrp.com/listing/ginger-marie_andheri-west_mumbai_restaurants/193116316
+p1172
+sg14
+VAndheri West
+p1173
+sg16
+(lp1174
+V67100952
+p1175
+aV 26365374
+p1176
+asg21
+g22
+sg23
+VA-7, Royal Classic, Andheri Link Road, Andheri (W), Andheri West, Mumbai
+p1177
+sba(i__main__
+Place
+p1178
+(dp1179
+g3
+(lp1180
+VDiscotheques
+p1181
+aV Restaurants
+p1182
+asg8
+g22
+sg10
+VD Ultimate
+p1183
+sg12
+Vhttp://mumbai.burrp.com/listing/d-ultimate_andheri-west_mumbai_discotheques-restaurants/167806742
+p1184
+sg14
+VAndheri West
+p1185
+sg16
+(lp1186
+V26742515
+p1187
+asg21
+g49
+sg23
+VB/509/510/511 Crystal Plaza, Oberoi Chambers, New Link Road, Andheri West, Mumbai
+p1188
+sba(i__main__
+Place
+p1189
+(dp1190
+g3
+(lp1191
+VRestaurants
+p1192
+asg8
+g49
+sg10
+VThe Grand Nawabs
+p1193
+sg12
+Vhttp://mumbai.burrp.com/listing/the-grand-nawabs_lokhandwala-andheri_mumbai_restaurants/1545719455
+p1194
+sg14
+VLokhandwala (Andheri)
+p1195
+sg16
+(lp1196
+V26364403
+p1197
+aV 26325959
+p1198
+aV 8898012325
+p1199
+aV 8898012326
+p1200
+asg21
+g85
+sg23
+VShop No.1 & 2, Green Feild Apartments, Main Lokhandwala Market, Lokhandwala (Andheri), Andheri West, Mumbai
+p1201
+sba(i__main__
+Place
+p1202
+(dp1203
+g3
+(lp1204
+VRestaurants
+p1205
+asg8
+g49
+sg10
+VDomino's Pizza
+p1206
+sg12
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_lokhandwala-andheri_mumbai_restaurants/14639663
+p1207
+sg14
+VLokhandwala (Andheri)
+p1208
+sg16
+(lp1209
+V26326699
+p1210
+aV 26326725
+p1211
+aV 26326726
+p1212
+aV 26324465
+p1213
+asg21
+g22
+sg23
+V12 & 13, Kamdhenu Shopping Complex, Lokhandwala Complex, Lokhandwala, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p1214
+sba(i__main__
+Place
+p1215
+(dp1216
+g3
+(lp1217
+VRestaurants
+p1218
+asg8
+g29
+sg10
+VMelody Cafe - Chinese Corner
+p1219
+sg12
+Vhttp://mumbai.burrp.com/listing/melody-cafe---chinese-corner_7-bungalows_mumbai_restaurants/1925489217
+p1220
+sg14
+V7 Bungalows
+p1221
+sg16
+(lp1222
+V9664384296
+p1223
+aV 9664384297
+p1224
+asg21
+g22
+sg23
+VJP Road, 7 Bungalows, Andheri West, Mumbai
+p1225
+sba(i__main__
+Place
+p1226
+(dp1227
+g3
+(lp1228
+VRestaurants
+p1229
+asg8
+g29
+sg10
+VQuarter Deck Restaurant
+p1230
+sg12
+Vhttp://mumbai.burrp.com/listing/quarter-deck-restaurant_4-bungalows_mumbai_restaurants/1897207920
+p1231
+sg14
+V4 Bungalows
+p1232
+sg16
+(lp1233
+V26355932
+p1234
+aV 26355933
+p1235
+aV 9892957191
+p1236
+asg21
+g85
+sg23
+VShop No 1, Ground Floor, Ratan Nagar, 4 Bungalows, Andheri West, Mumbai
+p1237
+sba(i__main__
+Place
+p1238
+(dp1239
+g3
+(lp1240
+VRestaurants
+p1241
+asg8
+g29
+sg10
+VSaffron Springs
+p1242
+sg12
+Vhttp://mumbai.burrp.com/listing/saffron-springs_andheri-west_mumbai_restaurants/16350346
+p1243
+sg14
+VAndheri West
+p1244
+sg16
+(lp1245
+V26250549
+p1246
+aV 26250550
+p1247
+asg21
+g85
+sg23
+V36 Hotel Karl Residency, Lallubhai Park, Andheri (W), Andheri West, Mumbai
+p1248
+sba(i__main__
+Place
+p1249
+(dp1250
+g3
+(lp1251
+VRestaurants
+p1252
+asg8
+g22
+sg10
+VKareem's
+p1253
+sg12
+Vhttp://mumbai.burrp.com/listing/kareems_versova_mumbai_restaurants/165851544
+p1254
+sg14
+VVersova
+p1255
+sg16
+(lp1256
+V26280674
+p1257
+aV 26280675
+p1258
+asg21
+g22
+sg23
+VShubham Bldg, Juhu Versova Linking Road, Versova, Andheri West, Mumbai
+p1259
+sba(i__main__
+Place
+p1260
+(dp1261
+g3
+(lp1262
+VRestaurants
+p1263
+asg8
+g22
+sg10
+VKadi Patta
+p1264
+sg12
+Vhttp://mumbai.burrp.com/listing/kadi-patta_7-bungalows_mumbai_restaurants/1715829138
+p1265
+sg14
+V7 Bungalows
+p1266
+sg16
+(lp1267
+V9819032132
+p1268
+asg21
+g85
+sg23
+VOne, Aram Nagar, J.P. Road, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p1269
+sba(i__main__
+Place
+p1270
+(dp1271
+g3
+(lp1272
+VRestaurants
+p1273
+aV Lounges
+p1274
+asg8
+g22
+sg10
+VRio the Met Lounge
+p1275
+sg12
+Vhttp://mumbai.burrp.com/listing/rio-the-met-lounge_versova_mumbai_restaurants-lounges/183376326
+p1276
+sg14
+VVersova
+p1277
+sg16
+(lp1278
+V65021389
+p1279
+aV 65021390
+p1280
+aV 65249753
+p1281
+asg21
+g22
+sg23
+V7/11 Meera Apts, Juhu Versova Link Rd, Seven Bunglows, Versova, Andheri West, Mumbai
+p1282
+sba(i__main__
+Place
+p1283
+(dp1284
+g3
+(lp1285
+VRestaurants
+p1286
+aV Fast Food Shops
+p1287
+asg8
+g49
+sg10
+VMuncheeze
+p1288
+sg12
+Vhttp://mumbai.burrp.com/listing/muncheeze_andheri-west_mumbai_restaurants-fast-food-shops/1837135326
+p1289
+sg14
+VAndheri West
+p1290
+sg16
+(lp1291
+V32074690
+p1292
+aV 65751144
+p1293
+asg21
+g22
+sg23
+VShop No.1, Bharat Arc CHS Ltd, Azad Nagar, Veera Desai Road, Andheri West, Mumbai
+p1294
+sba(i__main__
+Place
+p1295
+(dp1296
+g3
+(lp1297
+VRestaurants
+p1298
+asg8
+g49
+sg10
+VAppointment
+p1299
+sg12
+Vhttp://mumbai.burrp.com/listing/appointment_andheri-west_mumbai_restaurants/147102762
+p1300
+sg14
+VAndheri West
+p1301
+sg16
+(lp1302
+V26341235
+p1303
+aV 26340734
+p1304
+asg21
+g22
+sg23
+V13, Shiv Shopping Centre, Opposite Pratap Society, Andheri West, Mumbai
+p1305
+sba(i__main__
+Place
+p1306
+(dp1307
+g3
+(lp1308
+VRestaurants
+p1309
+aV Bars & Pubs
+p1310
+asg8
+g49
+sg10
+VWoodside Inn
+p1311
+sg12
+Vhttp://mumbai.burrp.com/listing/woodside-inn_andheri-west_mumbai_restaurants-bars-pubs/18322651326
+p1312
+sg14
+VAndheri West
+p1313
+sg16
+(lp1314
+V26328963
+p1315
+aV 26336549
+p1316
+asg21
+g85
+sg23
+VNew Link Plaza, Oshiwara Link Road, Andheri West, Mumbai
+p1317
+sba(i__main__
+Place
+p1318
+(dp1319
+g3
+(lp1320
+VRestaurants
+p1321
+aV Bars & Pubs
+p1322
+asg8
+g49
+sg10
+VRhythm Restaurant & Bar
+p1323
+sg12
+Vhttp://mumbai.burrp.com/listing/rhythm-restaurant-bar_lokhandwala-andheri_mumbai_restaurants-bars-pubs/197440712
+p1324
+sg14
+VLokhandwala (Andheri)
+p1325
+sg16
+(lp1326
+V26362784
+p1327
+aV 26321601
+p1328
+aV 66926916
+p1329
+aV 26333304
+p1330
+asg21
+g22
+sg23
+VLokhandwala Market Lane, Near Swami Samarth Temple, Lokhandwala (Andheri), Andheri West, Mumbai
+p1331
+sba(i__main__
+Place
+p1332
+(dp1333
+g3
+(lp1334
+VRestaurants
+p1335
+asg8
+g49
+sg10
+VGurma Gurum
+p1336
+sg12
+Vhttp://mumbai.burrp.com/listing/gurma-gurum_lokhandwala-andheri_mumbai_restaurants/1851492524
+p1337
+sg14
+VLokhandwala (Andheri)
+p1338
+sg16
+(lp1339
+V67102930
+p1340
+aV 67102939
+p1341
+asg21
+g22
+sg23
+VOpposite HDFC, Green Acres, Lokhandwala, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p1342
+sba(i__main__
+Place
+p1343
+(dp1344
+g3
+(lp1345
+VRestaurants
+p1346
+asg8
+g49
+sg10
+VKaansa
+p1347
+sg12
+Vhttp://mumbai.burrp.com/listing/kaansa_lokhandwala-andheri_mumbai_restaurants/1533163356
+p1348
+sg14
+VLokhandwala (Andheri)
+p1349
+sg16
+(lp1350
+V65149136
+p1351
+aV 65224873
+p1352
+aV 65224874
+p1353
+aV 65224875
+p1354
+asg21
+g22
+sg23
+V34 B, T-Series Lane, Opposite Fame Adlabs, Off New Link Road, Lokhandwala (Andheri), Andheri West, Mumbai
+p1355
+sba(i__main__
+Place
+p1356
+(dp1357
+g3
+(lp1358
+VRestaurants
+p1359
+aV Banquet Halls
+p1360
+asg8
+g49
+sg10
+VDiva Maharashtracha
+p1361
+sg12
+Vhttp://mumbai.burrp.com/listing/diva-maharashtracha_andheri-west_mumbai_restaurants-banquet-halls/14714997762
+p1362
+sg14
+VAndheri West
+p1363
+sg16
+(lp1364
+V26313222
+p1365
+aV 26313777
+p1366
+aV 9619961818
+p1367
+aV 9167096460
+p1368
+asg21
+g49
+sg23
+VSVP Nagar, Lokhandwala Road, Andheri West, Mumbai
+p1369
+sba(i__main__
+Place
+p1370
+(dp1371
+g3
+(lp1372
+VRestaurants
+p1373
+asg8
+g9
+sg10
+VPebbles
+p1374
+sg12
+Vhttp://mumbai.burrp.com/listing/pebbles_link-road-andheri-west_mumbai_restaurants/19923354910
+p1375
+sg14
+VLink Road-Andheri West
+p1376
+sg16
+(lp1377
+V26733030
+p1378
+aV 26736262
+p1379
+aV 26733131
+p1380
+asg21
+g22
+sg23
+VA 10, Crystal Plaza,  New Link Road, Link Road-Andheri West, Andheri West, Mumbai
+p1381
+sba(i__main__
+Place
+p1382
+(dp1383
+g3
+(lp1384
+VRestaurants
+p1385
+asg8
+g9
+sg10
+VChinthai
+p1386
+sg12
+Vhttp://mumbai.burrp.com/listing/chinthai_andheri-west_mumbai_restaurants/145111564
+p1387
+sg14
+VAndheri West
+p1388
+sg16
+(lp1389
+V26343897
+p1390
+aV 26395715
+p1391
+aV 9322766791
+p1392
+aV 9324030110
+p1393
+asg21
+g22
+sg23
+VShop No.5, Beach Apartments, Picnic Cottage, Andheri West, Mumbai
+p1394
+sba(i__main__
+Place
+p1395
+(dp1396
+g3
+(lp1397
+VRestaurants
+p1398
+asg8
+g9
+sg10
+VJumbo King
+p1399
+sg12
+Vhttp://mumbai.burrp.com/listing/jumbo-king_andheri-west_mumbai_restaurants/16441445
+p1400
+sg14
+VAndheri West
+p1401
+sg16
+(lp1402
+V26230234
+p1403
+asg21
+g85
+sg23
+VMukund House, Shop No 1, Andheri Naka, Andheri West, Mumbai
+p1404
+sba(i__main__
+Place
+p1405
+(dp1406
+g3
+(lp1407
+VRestaurants
+p1408
+asg8
+g9
+sg10
+VMcDonald's
+p1409
+sg12
+Vhttp://mumbai.burrp.com/listing/mcdonalds_andheri-west_mumbai_restaurants/19344316
+p1410
+sg14
+VAndheri West
+p1411
+sg16
+(lp1412
+V26719195
+p1413
+asg21
+g22
+sg23
+V18, Unity Mansion, Gazdar Road, Opp Andheri Station, Andheri (W), Andheri West, Mumbai
+p1414
+sba(i__main__
+Place
+p1415
+(dp1416
+g3
+(lp1417
+VRestaurants
+p1418
+aV Bars & Pubs
+p1419
+asg8
+g9
+sg10
+VPrangan
+p1420
+sg12
+Vhttp://mumbai.burrp.com/listing/prangan_andheri-west_mumbai_restaurants-bars-pubs/147138762
+p1421
+sg14
+VAndheri West
+p1422
+sg16
+(lp1423
+V26208088
+p1424
+aV 26208089
+p1425
+aV 66949977
+p1426
+asg21
+g85
+sg23
+VGolden Gate, Laram Centre, SV Road, Andheri West, Mumbai
+p1427
+sba(i__main__
+Place
+p1428
+(dp1429
+g3
+(lp1430
+VRestaurants
+p1431
+asg8
+g9
+sg10
+VZayka'z Grill And Bar
+p1432
+sg12
+Vhttp://mumbai.burrp.com/listing/zaykaz-grill-and-bar_7-bungalows_mumbai_restaurants/11721969792
+p1433
+sg14
+V7 Bungalows
+p1434
+sg16
+(lp1435
+V26336688
+p1436
+aV 26326688
+p1437
+asg21
+g22
+sg23
+V7/A/B, Aram Nagar 2, J.P. Road, 7 Bungalows, Andheri West, Mumbai
+p1438
+sba(i__main__
+Place
+p1439
+(dp1440
+g3
+(lp1441
+VRestaurants
+p1442
+asg8
+g22
+sg10
+VFrontier Kebbabs and Kurries
+p1443
+sg12
+Vhttp://mumbai.burrp.com/listing/frontier-kebbabs-and-kurries_lokhandwala-andheri_mumbai_restaurants/129838980
+p1444
+sg14
+VLokhandwala (Andheri)
+p1445
+sg16
+(lp1446
+V26742541
+p1447
+asg21
+g22
+sg23
+V11059/60, Opp Inchibaan Honda Showroom, Shalimar Morya Estate, Near Infiniti Mall, New Link Rd, Lokhandwala (Andheri), Andheri West, Mumbai
+p1448
+sba(i__main__
+Place
+p1449
+(dp1450
+g3
+(lp1451
+VRestaurants
+p1452
+asg8
+g49
+sg10
+VSeven Hills
+p1453
+sg12
+Vhttp://mumbai.burrp.com/listing/seven-hills_7-bungalows_mumbai_restaurants/12510584
+p1454
+sg14
+V7 Bungalows
+p1455
+sg16
+(lp1456
+V26390165
+p1457
+aV 26351538
+p1458
+aV 26365068
+p1459
+asg21
+g85
+sg23
+VShop No 4, Shivam Shopping Center, J P Road, 7 Bungalows, Andheri West, Mumbai
+p1460
+sba(i__main__
+Place
+p1461
+(dp1462
+g3
+(lp1463
+VRestaurants
+p1464
+asg8
+g49
+sg10
+VRice Bowl
+p1465
+sg12
+Vhttp://mumbai.burrp.com/listing/rice-bowl_versova_mumbai_restaurants/188934821
+p1466
+sg14
+VVersova
+p1467
+sg16
+(lp1468
+V2634010
+p1469
+aV 26343638
+p1470
+aV 26352111
+p1471
+asg21
+g22
+sg23
+VNo. 3, Shiv Shoping Centre, 7 Bunglows J.P. road, Versova, Andheri West, Mumbai
+p1472
+sba(i__main__
+Place
+p1473
+(dp1474
+g3
+(lp1475
+VFast Food Shops
+p1476
+aV Restaurants
+p1477
+asg8
+g49
+sg10
+VMcDonald's
+p1478
+sg12
+Vhttp://mumbai.burrp.com/listing/mcdonalds_lokhandwala-andheri_mumbai_fast-food-shops-restaurants/18143128
+p1479
+sg14
+VLokhandwala (Andheri)
+p1480
+sg16
+(lp1481
+V32552349
+p1482
+aV 66000666
+p1483
+asg21
+g22
+sg23
+V28 B, Sunrise Apartments, Lokhandwala Market, Lokhandwala, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p1484
+sba(i__main__
+Place
+p1485
+(dp1486
+g3
+(lp1487
+VRestaurants
+p1488
+asg8
+g49
+sg10
+VNootan Pure Veg Restaurant
+p1489
+sg12
+Vhttp://mumbai.burrp.com/listing/nootan-pure-veg-restaurant_andheri-west_mumbai_restaurants/165167544
+p1490
+sg14
+VAndheri West
+p1491
+sg16
+(lp1492
+V26284664
+p1493
+aV 26700569
+p1494
+asg21
+g22
+sg23
+VUnity Mansion, Next to McDonalds, Opp. Railway Station, Andheri West, Mumbai
+p1495
+sba(i__main__
+Place
+p1496
+(dp1497
+g3
+(lp1498
+VRestaurants
+p1499
+aV Bars & Pubs
+p1500
+asg8
+g49
+sg10
+VCan Can Restaurant And Permit Room
+p1501
+sg12
+Vhttp://mumbai.burrp.com/listing/can-can-restaurant-and-permit-room_lokhandwala-andheri_mumbai_restaurants-bars-pubs/151850158
+p1502
+sg14
+VLokhandwala (Andheri)
+p1503
+sg16
+(lp1504
+V26311644
+p1505
+asg21
+g22
+sg23
+VLokhandwala Market, Opposite High Point, Lokhandwala, Andheri (W), Lokhandwala (Andheri), Andheri West, Mumbai
+p1506
+sba(i__main__
+Place
+p1507
+(dp1508
+g3
+(lp1509
+VRestaurants
+p1510
+asg8
+g49
+sg10
+VShetty's Corner
+p1511
+sg12
+Vhttp://mumbai.burrp.com/listing/shettys-corner_andheri-west_mumbai_restaurants/19323075316
+p1512
+sg14
+VAndheri West
+p1513
+sg16
+(lp1514
+V65398743
+p1515
+aV 26708365
+p1516
+asg21
+g22
+sg23
+VBhavan's College, Andheri West, Mumbai
+p1517
+sba(i__main__
+Place
+p1518
+(dp1519
+g3
+(lp1520
+VCafes
+p1521
+aV Bakery Shops
+p1522
+aV Restaurants
+p1523
+asg8
+g22
+sg10
+VKafe D'Or
+p1524
+sg12
+Vhttp://mumbai.burrp.com/listing/kafe-dor_andheri-west_mumbai_cafes-bakery-shops-restaurants/1515332158
+p1525
+sg14
+VAndheri West
+p1526
+sg16
+(lp1527
+V26744696
+p1528
+aV 26744697
+p1529
+aV 26744698
+p1530
+asg21
+g22
+sg23
+VOberoi Chambers, Off New Link Road, Andheri West, Mumbai
+p1531
+sba(i__main__
+Place
+p1532
+(dp1533
+g3
+(lp1534
+VRestaurants
+p1535
+asg8
+g350
+sg10
+VNonsense
+p1536
+sg12
+Vhttp://mumbai.burrp.com/listing/nonsense_versova_mumbai_restaurants/1776765732
+p1537
+sg14
+VVersova
+p1538
+sg16
+(lp1539
+V65233056
+p1540
+asg21
+g49
+sg23
+VHetkunj Building, Andheri (W), Versova, Andheri West, Mumbai
+p1541
+sba(i__main__
+Place
+p1542
+(dp1543
+g3
+(lp1544
+VRestaurants
+p1545
+asg8
+g22
+sg10
+VGolden Fork
+p1546
+sg12
+Vhttp://mumbai.burrp.com/listing/golden-fork_andheri-west_mumbai_restaurants/111117198
+p1547
+sg14
+VAndheri West
+p1548
+sg16
+(lp1549
+V26395106
+p1550
+aV 26351025
+p1551
+aV 26311166
+p1552
+aV 26311177
+p1553
+asg21
+g22
+sg23
+VBuilding No. 24, Shop No.5 / 6, Mhada Oshiwara Complex, Andheri West, Mumbai
+p1554
+sba(i__main__
+Place
+p1555
+(dp1556
+g3
+(lp1557
+VRestaurants
+p1558
+asg8
+g350
+sg10
+VSubway
+p1559
+sg12
+Vhttp://mumbai.burrp.com/listing/subway_versova_mumbai_restaurants/125910584
+p1560
+sg14
+VVersova
+p1561
+sg16
+(lp1562
+V26352244
+p1563
+asg21
+g22
+sg23
+VShops No. 3 & 4, Darya Darshan CHS Ltd., JP Road Seaface, Andheri (W), Versova, Andheri West, Mumbai
+p1564
+sba(i__main__
+Place
+p1565
+(dp1566
+g3
+(lp1567
+VHome Caterers
+p1568
+aV Fast Food Shops
+p1569
+aV Restaurants
+p1570
+aV Take Away Shops
+p1571
+aV Tiffin Services
+p1572
+asg8
+g29
+sg10
+VMega Bites
+p1573
+sg12
+Vhttp://mumbai.burrp.com/listing/mega-bites_4-bungalows_mumbai_home-caterers-fast-food-shops-restaurants/15924907950
+p1574
+sg14
+V4 Bungalows
+p1575
+sg16
+(lp1576
+V26327025
+p1577
+asg21
+g22
+sg23
+VD2/ 94, SVP Nagar, Mhada, 4 Bungalows, Andheri West, Mumbai
+p1578
+sba(i__main__
+Place
+p1579
+(dp1580
+g3
+(lp1581
+VRestaurants
+p1582
+asg8
+g29
+sg10
+VRaafae's Route 61
+p1583
+sg12
+Vhttp://mumbai.burrp.com/listing/raafaes-route-61_versova_mumbai_restaurants/1755136534
+p1584
+sg14
+VVersova
+p1585
+sg16
+(lp1586
+V26363431
+p1587
+aV 26363432
+p1588
+asg21
+g22
+sg23
+VShop no C-12, Zohra Aghadi Nagar , Yari Road , Andheri (W), Versova, Andheri West, Mumbai
+p1589
+sba(i__main__
+Place
+p1590
+(dp1591
+g3
+(lp1592
+VRestaurants
+p1593
+asg8
+g29
+sg10
+VLand Mark Family Restaurant
+p1594
+sg12
+Vhttp://mumbai.burrp.com/listing/land-mark-family-restaurant_andheri-west_mumbai_restaurants/1911385118
+p1595
+sg14
+VAndheri West
+p1596
+sg16
+(lp1597
+V65222668
+p1598
+aV 26372275
+p1599
+asg21
+g350
+sg23
+VBeach Apts, Shop No.5, JP Road, Seven Bungalow Picnic Cottage, Andheri (W), Andheri West, Mumbai
+p1600
+sba(i__main__
+Place
+p1601
+(dp1602
+g3
+(lp1603
+VRestaurants
+p1604
+aV Dessert Shops
+p1605
+aV Cafes
+p1606
+asg8
+g29
+sg10
+VThe Chocolate Room
+p1607
+sg12
+Vhttp://mumbai.burrp.com/listing/the-chocolate-room_andheri-west_mumbai_restaurants-dessert-shops-cafes/17533792534
+p1608
+sg14
+VAndheri West
+p1609
+sg16
+(lp1610
+V61271117
+p1611
+asg21
+g22
+sg23
+VRoyal Classic Building, Shop No. 007, Off Link Road, Andheri West, Mumbai
+p1612
+sba(i__main__
+Place
+p1613
+(dp1614
+g3
+(lp1615
+VRestaurants
+p1616
+asg8
+g29
+sg10
+VLaxmi Chhaya Restaurant
+p1617
+sg12
+Vhttp://mumbai.burrp.com/listing/laxmi-chhaya-restaurant_andheri-west_mumbai_restaurants/141417168
+p1618
+sg14
+VAndheri West
+p1619
+sg16
+(lp1620
+V26363946
+p1621
+aV 26369725
+p1622
+aV 66922992
+p1623
+aV 9967593573
+p1624
+asg21
+g350
+sg23
+VLaxmi Indl Estate, New Link Road, Andheri (W), Andheri West, Mumbai
+p1625
+sba(i__main__
+Place
+p1626
+(dp1627
+g3
+(lp1628
+VRestaurants
+p1629
+asg8
+g29
+sg10
+VFire N Spice
+p1630
+sg12
+Vhttp://mumbai.burrp.com/listing/fire-n-spice_andheri-west_mumbai_restaurants/11733273792
+p1631
+sg14
+VAndheri West
+p1632
+sg16
+(lp1633
+V26322227
+p1634
+aV 26322228
+p1635
+asg21
+g22
+sg23
+VMeera Tower, Shop No 4, New Link Road, Near Mega Mall, Andheri West, Mumbai
+p1636
+sba(i__main__
+Place
+p1637
+(dp1638
+g3
+(lp1639
+VRestaurants
+p1640
+aV Bars & Pubs
+p1641
+asg8
+g9
+sg10
+VFinger Cross - The Lounge Bar
+p1642
+sg12
+Vhttp://mumbai.burrp.com/listing/finger-cross---the-lounge-bar_andheri-west_mumbai_restaurants-bars-pubs/1394421970
+p1643
+sg14
+VAndheri West
+p1644
+sg16
+(lp1645
+V26351119 
+p1646
+aV 26351120
+p1647
+aV 26351121
+p1648
+asg21
+g85
+sg23
+V9, Raheja Classique, Oshiwara Link Road, Lokhandwala Complex, Andheri West, Mumbai
+p1649
+sba(i__main__
+Place
+p1650
+(dp1651
+g3
+(lp1652
+VRestaurants
+p1653
+asg8
+g9
+sg10
+VGettogether
+p1654
+sg12
+Vhttp://mumbai.burrp.com/listing/gettogether_4-bungalows_mumbai_restaurants/1395546970
+p1655
+sg14
+V4 Bungalows
+p1656
+sg16
+(lp1657
+V26353392
+p1658
+aV 26353112
+p1659
+aV 8828005862
+p1660
+asg21
+g22
+sg23
+VShop No. 12, Bldg. No 1 , 4 Bungalows, Andheri West, Mumbai
+p1661
+sba(i__main__
+Place
+p1662
+(dp1663
+g3
+(lp1664
+VRestaurants
+p1665
+asg8
+g9
+sg10
+VGajalee
+p1666
+sg12
+Vhttp://mumbai.burrp.com/listing/gajalee_7-bungalows_mumbai_restaurants/18922453920
+p1667
+sg14
+V7 Bungalows
+p1668
+sg16
+(lp1669
+V26341614
+p1670
+aV 26341615
+p1671
+asg21
+g85
+sg23
+VAkhsay Villa, Ground Floor, Plot 24, J P Road, Versova, 7 Bungalows, Andheri West, Mumbai
+p1672
+sba(i__main__
+Place
+p1673
+(dp1674
+g3
+(lp1675
+VRestaurants
+p1676
+asg8
+g9
+sg10
+VNawab Seekh Paratha
+p1677
+sg12
+Vhttp://mumbai.burrp.com/listing/nawab-seekh-paratha_versova_mumbai_restaurants/1351433574
+p1678
+sg14
+VVersova
+p1679
+sg16
+(lp1680
+V26324116
+p1681
+aV 26358975
+p1682
+aV 26333483
+p1683
+aV 9867915786
+p1684
+asg21
+g22
+sg23
+VA Wing, Shop No.8, Mangal Orchid Soc., Off Yari Road, Andheri (W), Versova, Andheri West, Mumbai
+p1685
+sba(i__main__
+Place
+p1686
+(dp1687
+g3
+(lp1688
+VRestaurants
+p1689
+asg8
+g9
+sg10
+VShree Laxmi Gujarati Thali
+p1690
+sg12
+Vhttp://mumbai.burrp.com/listing/shree-laxmi-gujarati-thali_andheri-west_mumbai_restaurants/1711302138
+p1691
+sg14
+VAndheri West
+p1692
+sg16
+(lp1693
+V32946167
+p1694
+aV 26238462
+p1695
+asg21
+g22
+sg23
+V4/B Shirin Mansion, Andheri (W), Andheri West, Mumbai
+p1696
+sba(i__main__
+Place
+p1697
+(dp1698
+g3
+(lp1699
+VRestaurants
+p1700
+asg8
+g9
+sg10
+VFire Bowl
+p1701
+sg12
+Vhttp://mumbai.burrp.com/listing/fire-bowl_versova_mumbai_restaurants/1971385712
+p1702
+sg14
+VVersova
+p1703
+sg16
+(lp1704
+V26315497
+p1705
+aV 65742005
+p1706
+aV 26392941
+p1707
+asg21
+g22
+sg23
+VA/1, Mangal Orchid Bldg., Off Yari Road, Versova, Andheri West, Mumbai
+p1708
+sba(i__main__
+Place
+p1709
+(dp1710
+g3
+(lp1711
+VRestaurants
+p1712
+asg8
+g9
+sg10
+VUdipi Shree Krishna Restaurant
+p1713
+sg12
+Vhttp://mumbai.burrp.com/listing/udipi-shree-krishna-restaurant_andheri-west_mumbai_restaurants/1997442910
+p1714
+sg14
+VAndheri West
+p1715
+sg16
+(lp1716
+V26743220
+p1717
+aV 26743347
+p1718
+aV 26744153
+p1719
+aV 9920846825
+p1720
+asg21
+g85
+sg23
+VJ P Road, Next To Apna Bazar, Andheri West, Mumbai
+p1721
+sba(i__main__
+Place
+p1722
+(dp1723
+g3
+(lp1724
+VRestaurants
+p1725
+asg8
+g9
+sg10
+VShree Lakshmi Gujarati Thali
+p1726
+sg12
+Vhttp://mumbai.burrp.com/listing/shree-lakshmi-gujarati-thali_andheri-west_mumbai_restaurants/1177551792
+p1727
+sg14
+VAndheri West
+p1728
+sg16
+(lp1729
+V26238462
+p1730
+aV 26286135
+p1731
+aV 30946167
+p1732
+asg21
+g85
+sg23
+V2nd Floor, Shirin Shopping Centre, Andheri West, Mumbai
+p1733
+sba(i__main__
+Place
+p1734
+(dp1735
+g3
+(lp1736
+VRestaurants
+p1737
+asg8
+g9
+sg10
+VTreatway Inn Food Corner
+p1738
+sg12
+Vhttp://mumbai.burrp.com/listing/treatway-inn-food-corner_andheri-west_mumbai_restaurants/1437662366
+p1739
+sg14
+VAndheri West
+p1740
+sg16
+(lp1741
+V26318057
+p1742
+aV 26352287
+p1743
+aV 26352840
+p1744
+asg21
+g85
+sg23
+VA/23, Mangal Nagar, Versova, Next To Anjumam Islam School, Andheri West, Mumbai
+p1745
+sba(i__main__
+Place
+p1746
+(dp1747
+g3
+(lp1748
+VRestaurants
+p1749
+asg8
+g9
+sg10
+VShalimar
+p1750
+sg12
+Vhttp://mumbai.burrp.com/listing/shalimar_jp-road_mumbai_restaurants/11923031990
+p1751
+sg14
+VJP Road
+p1752
+sg16
+(lp1753
+V26719910
+p1754
+aV 26719911
+p1755
+aV 26719912
+p1756
+asg21
+g22
+sg23
+VJP Road, Andheri West, Mumbai
+p1757
+sba(i__main__
+Place
+p1758
+(dp1759
+g3
+(lp1760
+VRestaurants
+p1761
+asg8
+g9
+sg10
+VThe Bubblegum Route
+p1762
+sg12
+Vhttp://mumbai.burrp.com/listing/the-bubblegum-route_andheri-west_mumbai_restaurants/15523296554
+p1763
+sg14
+VAndheri West
+p1764
+sg16
+(lp1765
+V26302600
+p1766
+aV 26302601
+p1767
+aV 26302626
+p1768
+aV 26362525
+p1769
+asg21
+g22
+sg23
+VRoyal Sands Building, Ground Floor, Off Lokhandwala Complex, Andheri West, Mumbai
+p1770
+sba(i__main__
+Place
+p1771
+(dp1772
+g3
+(lp1773
+VRestaurants
+p1774
+asg8
+g350
+sg10
+VSmokin' Joe's
+p1775
+sg12
+Vhttp://mumbai.burrp.com/listing/smokin-joes_andheri-west_mumbai_restaurants/19117118
+p1776
+sg14
+VAndheri West
+p1777
+sg16
+(lp1778
+V66939417
+p1779
+aV 66939427
+p1780
+asg21
+g85
+sg23
+V480, Adarsh Nagar, New link Road, Opposite Highland Park, Andheri (W), Andheri West, Mumbai
+p1781
+sba(i__main__
+Place
+p1782
+(dp1783
+g3
+(lp1784
+VRestaurants
+p1785
+asg8
+g49
+sg10
+VGolden Gate
+p1786
+sg12
+Vhttp://mumbai.burrp.com/listing/golden-gate_andheri-west_mumbai_restaurants/15840851
+p1787
+sg14
+VAndheri West
+p1788
+sg16
+(lp1789
+V26208089
+p1790
+aV 26208088
+p1791
+asg21
+g85
+sg23
+VLaram Centre, S V Road, Andheri (W), Andheri West, Mumbai
+p1792
+sba(i__main__
+Place
+p1793
+(dp1794
+g3
+(lp1795
+VOutdoor Caterers
+p1796
+aV Restaurants
+p1797
+asg8
+g49
+sg10
+VShan-e-Punjab Family Restaurant
+p1798
+sg12
+Vhttp://mumbai.burrp.com/listing/shan-e-punjab-family-restaurant_4-bungalows_mumbai_outdoor-caterers-restaurants/146255663
+p1799
+sg14
+V4 Bungalows
+p1800
+sg16
+(lp1801
+V26353112
+p1802
+aV 26353392
+p1803
+asg21
+g22
+sg23
+VGuru Nagar Bldg. No. 1, Shop No. 12, Andheri (W), 4 Bungalows, Andheri West, Mumbai
+p1804
+sba(i__main__
+Place
+p1805
+(dp1806
+g3
+(lp1807
+VRestaurants
+p1808
+asg8
+g49
+sg10
+VRaj Palace
+p1809
+sg12
+Vhttp://mumbai.burrp.com/listing/raj-palace_andheri-west_mumbai_restaurants/188853821
+p1810
+sg14
+VAndheri West
+p1811
+sg16
+(lp1812
+V26244139
+p1813
+aV 26712443
+p1814
+asg21
+g22
+sg23
+VNand Bhavan Bldg, J.P. Road, Near Andheri Sports Complex, Andheri West, Mumbai
+p1815
+sba(i__main__
+Place
+p1816
+(dp1817
+g3
+(lp1818
+VRestaurants
+p1819
+aV Bars & Pubs
+p1820
+asg8
+g49
+sg10
+VHouse Of Food
+p1821
+sg12
+Vhttp://mumbai.burrp.com/listing/house-of-food_andheri-west_mumbai_restaurants-bars-pubs/1851231524
+p1822
+sg14
+VAndheri West
+p1823
+sg16
+(lp1824
+V26233970
+p1825
+asg21
+g350
+sg23
+VUniversal Industrial Estate, Dhake Colony, JP Road, Andheri (W), Andheri West, Mumbai
+p1826
+sba(i__main__
+Place
+p1827
+(dp1828
+g3
+(lp1829
+VRestaurants
+p1830
+asg8
+g49
+sg10
+VMista Paaji
+p1831
+sg12
+Vhttp://mumbai.burrp.com/listing/mista-paaji_7-bungalows_mumbai_restaurants/1301433079
+p1832
+sg14
+V7 Bungalows
+p1833
+sg16
+(lp1834
+V26302334
+p1835
+aV 26314158
+p1836
+asg21
+g22
+sg23
+VShop No.1/2, Tirupati Towers, JP Road, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p1837
+sba.

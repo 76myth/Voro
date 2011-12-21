@@ -1,0 +1,42 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VNavi Udipi
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/navi-udipi_dadar-tt_mumbai_restaurants/11332868396
+p11
+sS'region'
+p12
+VDadar TT
+p13
+sS'phone'
+p14
+(lp15
+V64145383
+p16
+aV 24145643
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VEmpress Mahal, No.2, Khodadad Circle, Dadar TT, Dadar East, Mumbai
+p21
+sba.

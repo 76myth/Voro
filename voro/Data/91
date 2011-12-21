@@ -1,0 +1,71 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Cafes
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VFood for Thought
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/food-for-thought_flora-fountain_mumbai_restaurants-cafes/13514942574
+p12
+sS'region'
+p13
+VFlora Fountain
+p14
+sS'phone'
+p15
+(lp16
+V22844242
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VKitabkhana, Somaiya Bhavan, 45/47, Mahatma Gandhi Road, Flora Fountain, Fort, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg7
+V0
+p26
+sg9
+VWhite House Restaurant & Bar
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/white-house-restaurant-bar_flora-fountain_mumbai_restaurants/1879421722
+p28
+sg13
+VFlora Fountain
+p29
+sg15
+(lp30
+V22674668
+p31
+asg18
+g26
+sg20
+VShop No 69, M G Road, Flora Fountain, Fort, Mumbai
+p32
+sba.

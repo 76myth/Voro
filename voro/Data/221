@@ -1,0 +1,42 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VHotel Sanman
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/hotel-sanman_nala-sopara-w_thane_restaurants/131254178
+p11
+sS'region'
+p12
+VNala Sopara (W)
+p13
+sS'phone'
+p14
+(lp15
+V2404271
+p16
+aV 2402011
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VShop No 6, Himalaya Bldg, Station Road, Kapurbawdi Circle, Nala Sopara (W), Thane
+p21
+sba.

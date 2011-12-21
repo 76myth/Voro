@@ -1,0 +1,1160 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+ViBistro
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/ibistro_kurla-west_mumbai_restaurants/1224969287
+p11
+sS'region'
+p12
+VKurla West
+p13
+sS'phone'
+p14
+(lp15
+V25032130
+p16
+aV 25032131
+p17
+aV 25032132
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VA Wing, Aeroview Society, 1st Floor, Behind Domestic Airport, L.B.S Marg, Kurla West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+V5
+p27
+sg8
+VPoncho
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/poncho_kurla-west_mumbai_restaurants/12322555386
+p29
+sg12
+VKurla West
+p30
+sg14
+(lp31
+V67448407
+p32
+asg19
+g20
+sg21
+VEquinox Business Park (Peninsula TechnoPark), Tower B, Off Bandra Kurla Complex, LBS Marg, Kurla West, Mumbai
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VRestaurants
+p37
+asg6
+V3
+p38
+sg8
+VPritam Da Dhaba
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/pritam-da-dhaba_kurla-west_mumbai_restaurants/17924378930
+p40
+sg12
+VKurla West
+p41
+sg14
+(lp42
+V31909933
+p43
+aV 31909944
+p44
+asg19
+g20
+sg21
+VKohinoor City Mall, 2nd Floor, LBS Marg, Kurla West, Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g38
+sg8
+VNaaz
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/naaz_kurla-west_mumbai_restaurants/129514980
+p51
+sg12
+VKurla West
+p52
+sg14
+(lp53
+V25041273
+p54
+aV 25041054
+p55
+aV 25035837
+p56
+asg19
+g20
+sg21
+VKanthari Mahal, LBS Road, Opposite Mukund Iron, Kurla (W), Kurla West, Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VCafes
+p61
+aV Restaurants
+p62
+asg6
+g27
+sg8
+VCafe Bean Garu
+p63
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-bean-garu_kurla-west_mumbai_cafes-restaurants/11733201792
+p64
+sg12
+VKurla West
+p65
+sg14
+(lp66
+V9833955644
+p67
+asg19
+g20
+sg21
+VShop No. S-FC-12B, Kurla West, Mumbai
+p68
+sba(i__main__
+Place
+p69
+(dp70
+g3
+(lp71
+VRestaurants
+p72
+asg6
+g7
+sg8
+VNaaz  Hotel
+p73
+sg10
+Vhttp://mumbai.burrp.com/listing/naaz-hotel_kurla-west_mumbai_restaurants/15711101752
+p74
+sg12
+VKurla West
+p75
+sg14
+(lp76
+V25031111
+p77
+aV 25035837
+p78
+aV 25041054
+p79
+aV 25041273
+p80
+asg19
+V0
+p81
+sg21
+VKurla Kamani, Kantharia Mahal , Kurla West, Mumbai
+p82
+sba(i__main__
+Place
+p83
+(dp84
+g3
+(lp85
+VRestaurants
+p86
+asg6
+g38
+sg8
+VNew Royal Restaurant
+p87
+sg10
+Vhttp://mumbai.burrp.com/listing/new-royal-restaurant_kurla-west_mumbai_restaurants/1497059960
+p88
+sg12
+VKurla West
+p89
+sg14
+(lp90
+V25034489
+p91
+aV 9594642858
+p92
+asg19
+g81
+sg21
+VC.S.T. Road, Kurla (W), Kurla West, Mumbai
+p93
+sba(i__main__
+Place
+p94
+(dp95
+g3
+(lp96
+VRestaurants
+p97
+asg6
+g38
+sg8
+VSai Leela Restaurant & Bar
+p98
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-leela-restaurant-bar_kurla-west_mumbai_restaurants/17311058336
+p99
+sg12
+VKurla West
+p100
+sg14
+(lp101
+V25039139
+p102
+aV 25042067
+p103
+asg19
+g81
+sg21
+VDoshi Building, Lbs Marg, Kurla West, Mumbai
+p104
+sba(i__main__
+Place
+p105
+(dp106
+g3
+(lp107
+VRestaurants
+p108
+asg6
+g20
+sg8
+VNiranjan Restaurant And Bar
+p109
+sg10
+Vhttp://mumbai.burrp.com/listing/niranjan-restaurant-and-bar_kurla-west_mumbai_restaurants/17911067930
+p110
+sg12
+VKurla West
+p111
+sg14
+(lp112
+V25039103
+p113
+aV 25040539
+p114
+asg19
+g81
+sg21
+VKamani, L B S Marg, Opposite Mukund Company, Kurla West, Mumbai
+p115
+sba(i__main__
+Place
+p116
+(dp117
+g3
+(lp118
+VRestaurants
+p119
+asg6
+g81
+sg8
+VCream Centre
+p120
+sg10
+Vhttp://mumbai.burrp.com/listing/cream-centre_kurla-west_mumbai_restaurants/14733195762
+p121
+sg12
+VKurla West
+p122
+sg14
+(lp123
+V9833955644
+p124
+asg19
+g20
+sg21
+VShop No. F-41, 42, 43, Kurla West, Mumbai
+p125
+sba(i__main__
+Place
+p126
+(dp127
+g3
+(lp128
+VRestaurants
+p129
+asg6
+g81
+sg8
+VCafe Royal
+p130
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-royal_kurla-west_mumbai_restaurants/12933193980
+p131
+sg12
+VKurla West
+p132
+sg14
+(lp133
+V9833955644
+p134
+asg19
+g20
+sg21
+VNo. S-46, Kurla West, Mumbai
+p135
+sba(i__main__
+Place
+p136
+(dp137
+g3
+(lp138
+VRestaurants
+p139
+asg6
+g81
+sg8
+VNaaz Restaurant
+p140
+sg10
+Vhttp://mumbai.burrp.com/listing/naaz-restaurant_kurla-west_mumbai_restaurants/18911068920
+p141
+sg12
+VKurla West
+p142
+sg14
+(lp143
+V25035837
+p144
+aV 25041054
+p145
+aV 25041273
+p146
+asg19
+g81
+sg21
+VKansariai Mahal, LBS Road, Kurla West, Mumbai
+p147
+sba(i__main__
+Place
+p148
+(dp149
+g3
+(lp150
+VRestaurants
+p151
+asg6
+g81
+sg8
+VShalimar
+p152
+sg10
+Vhttp://mumbai.burrp.com/listing/shalimar_kurla-west_mumbai_restaurants/11154198
+p153
+sg12
+VKurla West
+p154
+sg14
+(lp155
+V26503718
+p156
+asg19
+g81
+sg21
+VOpposite Kurla Railway Station, Kurla (W), Kurla West, Mumbai
+p157
+sba(i__main__
+Place
+p158
+(dp159
+g3
+(lp160
+VRestaurants
+p161
+asg6
+g81
+sg8
+VZam Zam Restaurant
+p162
+sg10
+Vhttp://mumbai.burrp.com/listing/zam-zam-restaurant_kurla-west_mumbai_restaurants/1762778633
+p163
+sg12
+VKurla West
+p164
+sg14
+(lp165
+V9920189519
+p166
+aV 9821797614
+p167
+asg19
+V1
+p168
+sg21
+VShop No.1, Navashee Building, Pipe Road, Kurla (W), Kurla West, Mumbai
+p169
+sba(i__main__
+Place
+p170
+(dp171
+g3
+(lp172
+VRestaurants
+p173
+asg6
+g81
+sg8
+VHotel Uma
+p174
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-uma_kurla-west_mumbai_restaurants/1934445316
+p175
+sg12
+VKurla West
+p176
+sg14
+(lp177
+V28560343
+p178
+asg19
+g81
+sg21
+VSarita Industrial Estate, Uma Maheshwari Mandir Road, Kajupada, Kurla Jari Mari., Kurla (W), Kurla West, Mumbai
+p179
+sba(i__main__
+Place
+p180
+(dp181
+g3
+(lp182
+VRestaurants
+p183
+asg6
+g81
+sg8
+VWahid 
+p184
+sg10
+Vhttp://mumbai.burrp.com/listing/wahid-_kurla-west_mumbai_restaurants/1536853356
+p185
+sg12
+VKurla West
+p186
+sg14
+(lp187
+V9892535887
+p188
+aV 9892345306
+p189
+aV 9224334470
+p190
+aV 9220740774
+p191
+asg19
+g81
+sg21
+VSami Compound, Pipe Road, Kurla (W), Kurla West, Mumbai
+p192
+sba(i__main__
+Place
+p193
+(dp194
+g3
+(lp195
+VRestaurants
+p196
+asg6
+g81
+sg8
+VAlankar Restaurant
+p197
+sg10
+Vhttp://mumbai.burrp.com/listing/alankar-restaurant_kurla-west_mumbai_restaurants/13311045376
+p198
+sg12
+VKurla West
+p199
+sg14
+(lp200
+V26502896
+p201
+aV 26549710
+p202
+asg19
+g81
+sg21
+VShop No 7, House No 85, Chota Gol Building, Belgrami Road, Kurla West, Mumbai
+p203
+sba(i__main__
+Place
+p204
+(dp205
+g3
+(lp206
+VRestaurants
+p207
+asg6
+g81
+sg8
+VBaby Casba Restaurant
+p208
+sg10
+Vhttp://mumbai.burrp.com/listing/baby-casba-restaurant_kurla-west_mumbai_restaurants/15111047158
+p209
+sg12
+VKurla West
+p210
+sg14
+(lp211
+V25039409
+p212
+asg19
+g81
+sg21
+VPathan Wadi, L B S Marg, Kurla West, Mumbai
+p213
+sba(i__main__
+Place
+p214
+(dp215
+g3
+(lp216
+VRestaurants
+p217
+asg6
+g81
+sg8
+VBombay Skyways
+p218
+sg10
+Vhttp://mumbai.burrp.com/listing/bombay-skyways_kurla-west_mumbai_restaurants/15511047554
+p219
+sg12
+VKurla West
+p220
+sg14
+(lp221
+V25034448
+p222
+aV 25037682
+p223
+aV 9321470806
+p224
+asg19
+g81
+sg21
+V1st Floor, 185 Tayyeb Manzil, LBS Road, Kurla West, Mumbai
+p225
+sba(i__main__
+Place
+p226
+(dp227
+g3
+(lp228
+VBars & Pubs
+p229
+aV Hotels
+p230
+aV Restaurants
+p231
+asg6
+g81
+sg8
+VHotel Golden Palace Pvt Ltd
+p232
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-golden-palace-pvt-ltd_kurla-west_mumbai_bars-pubs-hotels-restaurants/19911051910
+p233
+sg12
+VKurla West
+p234
+sg14
+(lp235
+V25133220
+p236
+aV 25133245
+p237
+aV 25146879
+p238
+asg19
+g81
+sg21
+VPlot No 9, LBS Marg, Narayan Nagar , Kurla West, Mumbai
+p239
+sba(i__main__
+Place
+p240
+(dp241
+g3
+(lp242
+VRestaurants
+p243
+asg6
+g81
+sg8
+VNirmal Punjab Hotel
+p244
+sg10
+Vhttp://mumbai.burrp.com/listing/nirmal-punjab-hotel_kurla-west_mumbai_restaurants/15111056158
+p245
+sg12
+VKurla West
+p246
+sg14
+(lp247
+V25032340
+p248
+aV 25040614
+p249
+asg19
+g81
+sg21
+VGround Floor, Block No 5/514, Wadia  Estate, Kurla West, Mumbai
+p250
+sba(i__main__
+Place
+p251
+(dp252
+g3
+(lp253
+VRestaurants
+p254
+asg6
+g81
+sg8
+VNirmal Punjab Restaurant
+p255
+sg10
+Vhttp://mumbai.burrp.com/listing/nirmal-punjab-restaurant_kurla-west_mumbai_restaurants/15311056356
+p256
+sg12
+VKurla West
+p257
+sg14
+(lp258
+V25040614
+p259
+asg19
+g81
+sg21
+VGround Floor, Wadia Estate, Bail Bazar, Wadia Street, Kurla West, Mumbai
+p260
+sba(i__main__
+Place
+p261
+(dp262
+g3
+(lp263
+VBars & Pubs
+p264
+aV Restaurants
+p265
+asg6
+g81
+sg8
+VSalim Restaurant
+p266
+sg10
+Vhttp://mumbai.burrp.com/listing/salim-restaurant_kurla-west_mumbai_bars-pubs-restaurants/17511058534
+p267
+sg12
+VKurla West
+p268
+sg14
+(lp269
+V26521437
+p270
+asg19
+g81
+sg21
+VL B S Marg, Near S T Depot Opp Deluxe Hot, Kurla West, Mumbai
+p271
+sba(i__main__
+Place
+p272
+(dp273
+g3
+(lp274
+VRestaurants
+p275
+asg6
+g81
+sg8
+VDashmesh Punjab Bar And Restaurant
+p276
+sg10
+Vhttp://mumbai.burrp.com/listing/dashmesh-punjab-bar-and-restaurant_kurla-west_mumbai_restaurants/18911077920
+p277
+sg12
+VKurla West
+p278
+sg14
+(lp279
+V25036652
+p280
+aV 9322493237
+p281
+asg19
+g81
+sg21
+VL B S Marg, Kurla West, Mumbai
+p282
+sba(i__main__
+Place
+p283
+(dp284
+g3
+(lp285
+VRestaurants
+p286
+asg6
+g81
+sg8
+VDasmesh Restaurant
+p287
+sg10
+Vhttp://mumbai.burrp.com/listing/dasmesh-restaurant_kurla-west_mumbai_restaurants/12911080980
+p288
+sg12
+VKurla West
+p289
+sg14
+(lp290
+V25032340
+p291
+aV 25040614
+p292
+asg19
+g81
+sg21
+VBuilding No 5, MTDC, Wadia Estate, Bail Bazar, Kurla West, Mumbai
+p293
+sba(i__main__
+Place
+p294
+(dp295
+g3
+(lp296
+VRestaurants
+p297
+asg6
+g81
+sg8
+VSkyway Restaurant
+p298
+sg10
+Vhttp://mumbai.burrp.com/listing/skyway-restaurant_kurla-west_mumbai_restaurants/17711085732
+p299
+sg12
+VKurla West
+p300
+sg14
+(lp301
+V25034448
+p302
+aV 25037682
+p303
+aV 9987664338
+p304
+asg19
+g81
+sg21
+VShop No 185 , Tayyab Manzil, L B S Marg, Kurla West, Mumbai
+p305
+sba(i__main__
+Place
+p306
+(dp307
+g3
+(lp308
+VRestaurants
+p309
+asg6
+g81
+sg8
+VHimalaya Hotel
+p310
+sg10
+Vhttp://mumbai.burrp.com/listing/himalaya-hotel_kurla-west_mumbai_restaurants/11511097594
+p311
+sg12
+VKurla West
+p312
+sg14
+(lp313
+V25039839
+p314
+aV 25039919
+p315
+asg19
+g81
+sg21
+VAgra Mahal, LBS Marg, Kurla West, Mumbai
+p316
+sba(i__main__
+Place
+p317
+(dp318
+g3
+(lp319
+VRestaurants
+p320
+aV Hotels
+p321
+asg6
+g81
+sg8
+VGolden Palace Hotel
+p322
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-palace-hotel_kurla-west_mumbai_restaurants-hotels/11711097792
+p323
+sg12
+VKurla West
+p324
+sg14
+(lp325
+V25133220
+p326
+aV 25133245
+p327
+aV 25145127
+p328
+asg19
+g81
+sg21
+VPlot No 9, L B S Marg, Narayan Nagar, Kurla West, Mumbai
+p329
+sba(i__main__
+Place
+p330
+(dp331
+g3
+(lp332
+VRestaurants
+p333
+asg6
+g81
+sg8
+VGuest Inn Restaurant
+p334
+sg10
+Vhttp://mumbai.burrp.com/listing/guest-inn-restaurant_kurla-west_mumbai_restaurants/12511098584
+p335
+sg12
+VKurla West
+p336
+sg14
+(lp337
+V22909451
+p338
+aV 26506891
+p339
+asg19
+g81
+sg21
+VPlot No 162 A, L B S Marg, Kurla West, Mumbai
+p340
+sba(i__main__
+Place
+p341
+(dp342
+g3
+(lp343
+VRestaurants
+p344
+asg6
+g81
+sg8
+VVrindavan Bar & Restaurant
+p345
+sg10
+Vhttp://mumbai.burrp.com/listing/vrindavan-bar-restaurant_kurla-west_mumbai_restaurants/13911099970
+p346
+sg12
+VKurla West
+p347
+sg14
+(lp348
+V26548544
+p349
+asg19
+g81
+sg21
+VOffice No 516, Gol Building, Belgrami Road, Kurla West, Mumbai
+p350
+sba(i__main__
+Place
+p351
+(dp352
+g3
+(lp353
+VRestaurants
+p354
+asg6
+g81
+sg8
+VDeluxe Restaurant
+p355
+sg10
+Vhttp://mumbai.burrp.com/listing/deluxe-restaurant_kurla-west_mumbai_restaurants/16718563742
+p356
+sg12
+VKurla West
+p357
+sg14
+(lp358
+V26509930
+p359
+asg19
+g81
+sg21
+VMubeen Manzil, L B S Marg, Kurla West, Mumbai
+p360
+sba(i__main__
+Place
+p361
+(dp362
+g3
+(lp363
+VRestaurants
+p364
+asg6
+g81
+sg8
+VChatqara
+p365
+sg10
+Vhttp://mumbai.burrp.com/listing/chatqara_kurla-west_mumbai_restaurants/17921867930
+p366
+sg12
+VKurla West
+p367
+sg14
+(lp368
+V25031108
+p369
+asg19
+g20
+sg21
+VLBS Marg, Kurla West, Mumbai
+p370
+sba(i__main__
+Place
+p371
+(dp372
+g3
+(lp373
+VRestaurants
+p374
+asg6
+g81
+sg8
+VKamani Restaurant
+p375
+sg10
+Vhttp://mumbai.burrp.com/listing/kamani-restaurant_kurla-west_mumbai_restaurants/18123227128
+p376
+sg12
+VKurla West
+p377
+sg14
+(lp378
+V25038763
+p379
+aV 25038765
+p380
+aV 8879487685
+p381
+aV 8879487695
+p382
+asg19
+g20
+sg21
+VAndheri Road, Kurla West, Mumbai
+p383
+sba(i__main__
+Place
+p384
+(dp385
+g3
+(lp386
+VRestaurants
+p387
+asg6
+g81
+sg8
+VGrapeviine
+p388
+sg10
+Vhttp://mumbai.burrp.com/listing/grapeviine_kurla-west_mumbai_restaurants/15523602554
+p389
+sg12
+VKurla West
+p390
+sg14
+(lp391
+V65652222
+p392
+asg19
+g38
+sg21
+VClub House, Peninsula Technopark, LBS Marg, Kurla West, Mumbai
+p393
+sba(i__main__
+Place
+p394
+(dp395
+g3
+(lp396
+VRestaurants
+p397
+asg6
+g81
+sg8
+VMughal Flavours
+p398
+sg10
+Vhttp://mumbai.burrp.com/listing/mughal-flavours_kurla-west_mumbai_restaurants/19124236118
+p399
+sg12
+VKurla West
+p400
+sg14
+(lp401
+V65207771
+p402
+asg19
+g81
+sg21
+VB/13, Aero View Housing Society, Nr Fauziya Hospital, LBS Marg, Kurla West, Mumbai
+p403
+sba(i__main__
+Place
+p404
+(dp405
+g3
+(lp406
+VRestaurants
+p407
+asg6
+g81
+sg8
+VSahara Hotel
+p408
+sg10
+Vhttp://mumbai.burrp.com/listing/sahara-hotel_kurla-west_mumbai_restaurants/17924297930
+p409
+sg12
+VKurla West
+p410
+sg14
+(lp411
+V25033221
+p412
+asg19
+g81
+sg21
+VShop No. 718, Solanki Apartment, Nxt to Fauziya Nursing Home , Near Kalpana Cinema, L.B.S Marg, Kurla West, Mumbai
+p413
+sba(i__main__
+Place
+p414
+(dp415
+g3
+(lp416
+VRestaurants
+p417
+asg6
+g81
+sg8
+VRajdhani
+p418
+sg10
+Vhttp://mumbai.burrp.com/listing/rajdhani_kurla-west_mumbai_restaurants/19533191514
+p419
+sg12
+VKurla West
+p420
+sg14
+(lp421
+V9833955644
+p422
+asg19
+g20
+sg21
+VShop No. S - 18 & 19, Kurla West, Mumbai
+p423
+sba(i__main__
+Place
+p424
+(dp425
+g3
+(lp426
+VRestaurants
+p427
+asg6
+g81
+sg8
+VRaafae's Route 61
+p428
+sg10
+Vhttp://mumbai.burrp.com/listing/raafaes-route-61_kurla-west_mumbai_restaurants/19733767712
+p429
+sg12
+VKurla West
+p430
+sg14
+(lp431
+V7208081133
+p432
+aV 7208081144
+p433
+asg19
+g20
+sg21
+VShop No. S-4, Kurla West, Mumbai
+p434
+sba.

@@ -1,0 +1,44 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VRasoi The Family Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/rasoi-the-family-restaurant_anushakti-nagar_mumbai_restaurants/1617673148
+p11
+sS'region'
+p12
+VAnushakti Nagar
+p13
+sS'phone'
+p14
+(lp15
+V25568016
+p16
+aV 25575501
+p17
+aV 9821151470
+p18
+asS'cost'
+p19
+V0
+p20
+sS'addr'
+p21
+VShop No 21, Sector Market, BRC Coloney, Anushakti Nagar, Trombay, Mumbai
+p22
+sba.

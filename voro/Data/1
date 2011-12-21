@@ -1,0 +1,708 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VUrban Tadka
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/urban-tadka_7-bungalows_mumbai_restaurants/18970920
+p11
+sS'region'
+p12
+V7 Bungalows
+p13
+sS'phone'
+p14
+(lp15
+V26328172
+p16
+aV 26328173
+p17
+aV 26392413
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+V8, Shiv Shopping Centre, Junction of Bon-Bon Lane & Juhu, 7 Bungalows, Andheri West, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VOutdoor Caterers
+p26
+aV Restaurants
+p27
+asg6
+V4
+p28
+sg8
+VDiscovery Restaurant
+p29
+sg10
+Vhttp://mumbai.burrp.com/listing/discovery-restaurant_7-bungalows_mumbai_outdoor-caterers-restaurants/168167841
+p30
+sg12
+V7 Bungalows
+p31
+sg14
+(lp32
+V26398504
+p33
+aV 26398505
+p34
+aV 9930891110
+p35
+aV 9322879323
+p36
+asg19
+g20
+sg21
+VShop No. 4, Varsha Bldg., Bank of Mah. Lane, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p37
+sba(i__main__
+Place
+p38
+(dp39
+g3
+(lp40
+VBars & Pubs
+p41
+aV Restaurants
+p42
+asg6
+g7
+sg8
+VKino 108 - The Retro Restro Bar
+p43
+sg10
+Vhttp://mumbai.burrp.com/listing/kino-108---the-retro-restro-bar_7-bungalows_mumbai_bars-pubs-restaurants/1995003910
+p44
+sg12
+V7 Bungalows
+p45
+sg14
+(lp46
+V9820052222
+p47
+aV 26289562
+p48
+asg19
+g7
+sg21
+VVeera Desai Junction, JP Road, 7 Bungalows, Andheri West, Mumbai
+p49
+sba(i__main__
+Place
+p50
+(dp51
+g3
+(lp52
+VRestaurants
+p53
+asg6
+g28
+sg8
+VPeppr Pinch
+p54
+sg10
+Vhttp://mumbai.burrp.com/listing/peppr-pinch_7-bungalows_mumbai_restaurants/1734776336
+p55
+sg12
+V7 Bungalows
+p56
+sg14
+(lp57
+V66931070
+p58
+aV 66992070
+p59
+aV 9769076661
+p60
+asg19
+g20
+sg21
+VShop 25, Evershine Bldg. No:2, 7 Bungalows, Andheri West, Mumbai
+p61
+sba(i__main__
+Place
+p62
+(dp63
+g3
+(lp64
+VRestaurants
+p65
+asg6
+g7
+sg8
+VSoda
+p66
+sg10
+Vhttp://mumbai.burrp.com/listing/soda_7-bungalows_mumbai_restaurants/112855297
+p67
+sg12
+V7 Bungalows
+p68
+sg14
+(lp69
+V26364466
+p70
+aV 26364467
+p71
+aV 32689866
+p72
+asg19
+g20
+sg21
+VJ.P. Road, 7 Bungalows, Andheri West, Mumbai
+p73
+sba(i__main__
+Place
+p74
+(dp75
+g3
+(lp76
+VRestaurants
+p77
+asg6
+g28
+sg8
+VChinese Corner
+p78
+sg10
+Vhttp://mumbai.burrp.com/listing/chinese-corner_7-bungalows_mumbai_restaurants/152454257
+p79
+sg12
+V7 Bungalows
+p80
+sg14
+(lp81
+V65856688
+p82
+aV 65747070
+p83
+aV 9821032808
+p84
+asg19
+g20
+sg21
+VShop No. 1, Shivam Apts, Shiv Shopping Center, JP Road, 7 Bungalows, Andheri West, Mumbai
+p85
+sba(i__main__
+Place
+p86
+(dp87
+g3
+(lp88
+VRestaurants
+p89
+asg6
+g7
+sg8
+VFil Fil
+p90
+sg10
+Vhttp://mumbai.burrp.com/listing/fil-fil_7-bungalows_mumbai_restaurants/1215734188
+p91
+sg12
+V7 Bungalows
+p92
+sg14
+(lp93
+V26397788
+p94
+aV 26366688
+p95
+asg19
+g20
+sg21
+VAram Nagar, Unit No. 18, JP Road, 7 Bungalows, Andheri West, Mumbai
+p96
+sba(i__main__
+Place
+p97
+(dp98
+g3
+(lp99
+VRestaurants
+p100
+asg6
+g7
+sg8
+VThe Rice Boat
+p101
+sg10
+Vhttp://mumbai.burrp.com/listing/the-rice-boat_7-bungalows_mumbai_restaurants/123163386
+p102
+sg12
+V7 Bungalows
+p103
+sg14
+(lp104
+V26326688
+p105
+aV 26336688
+p106
+asg19
+V0
+p107
+sg21
+VSeven Bungalows, Versova Road, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p108
+sba(i__main__
+Place
+p109
+(dp110
+g3
+(lp111
+VRestaurants
+p112
+asg6
+g28
+sg8
+VSwadesh
+p113
+sg10
+Vhttp://mumbai.burrp.com/listing/swadesh_7-bungalows_mumbai_restaurants/18161128
+p114
+sg12
+V7 Bungalows
+p115
+sg14
+(lp116
+V65269018
+p117
+aV 26340210
+p118
+asg19
+g20
+sg21
+VSea Glimpse Co-Operative Housing Society, Seven Bungalows, JP Road, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p119
+sba(i__main__
+Place
+p120
+(dp121
+g3
+(lp122
+VRestaurants
+p123
+asg6
+V5
+p124
+sg8
+VMelody Cafe - Chinese Corner
+p125
+sg10
+Vhttp://mumbai.burrp.com/listing/melody-cafe---chinese-corner_7-bungalows_mumbai_restaurants/1925489217
+p126
+sg12
+V7 Bungalows
+p127
+sg14
+(lp128
+V9664384296
+p129
+aV 9664384297
+p130
+asg19
+g20
+sg21
+VJP Road, 7 Bungalows, Andheri West, Mumbai
+p131
+sba(i__main__
+Place
+p132
+(dp133
+g3
+(lp134
+VRestaurants
+p135
+asg6
+g20
+sg8
+VKadi Patta
+p136
+sg10
+Vhttp://mumbai.burrp.com/listing/kadi-patta_7-bungalows_mumbai_restaurants/1715829138
+p137
+sg12
+V7 Bungalows
+p138
+sg14
+(lp139
+V9819032132
+p140
+asg19
+g107
+sg21
+VOne, Aram Nagar, J.P. Road, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p141
+sba(i__main__
+Place
+p142
+(dp143
+g3
+(lp144
+VRestaurants
+p145
+asg6
+g28
+sg8
+VZayka'z Grill And Bar
+p146
+sg10
+Vhttp://mumbai.burrp.com/listing/zaykaz-grill-and-bar_7-bungalows_mumbai_restaurants/11721969792
+p147
+sg12
+V7 Bungalows
+p148
+sg14
+(lp149
+V26336688
+p150
+aV 26326688
+p151
+asg19
+g20
+sg21
+V7/A/B, Aram Nagar 2, J.P. Road, 7 Bungalows, Andheri West, Mumbai
+p152
+sba(i__main__
+Place
+p153
+(dp154
+g3
+(lp155
+VRestaurants
+p156
+asg6
+g7
+sg8
+VSeven Hills
+p157
+sg10
+Vhttp://mumbai.burrp.com/listing/seven-hills_7-bungalows_mumbai_restaurants/12510584
+p158
+sg12
+V7 Bungalows
+p159
+sg14
+(lp160
+V26390165
+p161
+aV 26351538
+p162
+aV 26365068
+p163
+asg19
+g107
+sg21
+VShop No 4, Shivam Shopping Center, J P Road, 7 Bungalows, Andheri West, Mumbai
+p164
+sba(i__main__
+Place
+p165
+(dp166
+g3
+(lp167
+VRestaurants
+p168
+asg6
+g28
+sg8
+VGajalee
+p169
+sg10
+Vhttp://mumbai.burrp.com/listing/gajalee_7-bungalows_mumbai_restaurants/18922453920
+p170
+sg12
+V7 Bungalows
+p171
+sg14
+(lp172
+V26341614
+p173
+aV 26341615
+p174
+asg19
+g107
+sg21
+VAkhsay Villa, Ground Floor, Plot 24, J P Road, Versova, 7 Bungalows, Andheri West, Mumbai
+p175
+sba(i__main__
+Place
+p176
+(dp177
+g3
+(lp178
+VRestaurants
+p179
+asg6
+g7
+sg8
+VMista Paaji
+p180
+sg10
+Vhttp://mumbai.burrp.com/listing/mista-paaji_7-bungalows_mumbai_restaurants/1301433079
+p181
+sg12
+V7 Bungalows
+p182
+sg14
+(lp183
+V26302334
+p184
+aV 26314158
+p185
+asg19
+g20
+sg21
+VShop No.1/2, Tirupati Towers, JP Road, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p186
+sba(i__main__
+Place
+p187
+(dp188
+g3
+(lp189
+VRestaurants
+p190
+asg6
+g7
+sg8
+VAmritsari Tadka
+p191
+sg10
+Vhttp://mumbai.burrp.com/listing/amritsari-tadka_7-bungalows_mumbai_restaurants/18118124128
+p192
+sg12
+V7 Bungalows
+p193
+sg14
+(lp194
+V64463871
+p195
+aV 64463869
+p196
+asg19
+g20
+sg21
+VShop No. 37, Evershine 2, Bon Bon Lane, Corner of Ratan Nagar, 7 Bungalows, Andheri West, Mumbai
+p197
+sba(i__main__
+Place
+p198
+(dp199
+g3
+(lp200
+VBakery Shops
+p201
+aV Restaurants
+p202
+aV Cafes
+p203
+aV Juice Parlours
+p204
+asg6
+g107
+sg8
+VScrumptious
+p205
+sg10
+Vhttp://mumbai.burrp.com/listing/scrumptious_7-bungalows_mumbai_bakery-shops-restaurants-cafes/1833760326
+p206
+sg12
+V7 Bungalows
+p207
+sg14
+(lp208
+V26311576
+p209
+aV 32952187
+p210
+aV 9820772452
+p211
+asg19
+g20
+sg21
+VShop No 3, Varsha Building, Bank Of Maharashtra Lane, 7 Bungalows, Andheri West, Mumbai
+p212
+sba(i__main__
+Place
+p213
+(dp214
+g3
+(lp215
+VHome Caterers
+p216
+aV Restaurants
+p217
+asg6
+g107
+sg8
+VSwad
+p218
+sg10
+Vhttp://mumbai.burrp.com/listing/swad_7-bungalows_mumbai_home-caterers-restaurants/153931356
+p219
+sg12
+V7 Bungalows
+p220
+sg14
+(lp221
+V65257552
+p222
+aV 26339573
+p223
+aV 9819592492
+p224
+asg19
+V1
+p225
+sg21
+VYari Road, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p226
+sba(i__main__
+Place
+p227
+(dp228
+g3
+(lp229
+VRestaurants
+p230
+asg6
+g107
+sg8
+VKwan Chai Chinese & Thai Restaurant
+p231
+sg10
+Vhttp://mumbai.burrp.com/listing/kwan-chai-chinese-thai-restaurant_7-bungalows_mumbai_restaurants/1337211376
+p232
+sg12
+V7 Bungalows
+p233
+sg14
+(lp234
+V26340110
+p235
+aV 26343638
+p236
+asg19
+g107
+sg21
+V3, Shiv Shopping Centre, 7 Bungalows, Andheri West, Mumbai
+p237
+sba(i__main__
+Place
+p238
+(dp239
+g3
+(lp240
+VRestaurants
+p241
+asg6
+g107
+sg8
+VRedd n Pepper
+p242
+sg10
+Vhttp://mumbai.burrp.com/listing/redd-n-pepper_7-bungalows_mumbai_restaurants/11515588594
+p243
+sg12
+V7 Bungalows
+p244
+sg14
+(lp245
+V9321187788 
+p246
+aV 9920288997 
+p247
+aV 9619388997
+p248
+asg19
+g20
+sg21
+VShri Siddhnath, 293, Kamgar Nagar  , Versova Link Road , 7 Bungalows, Andheri West, Mumbai
+p249
+sba(i__main__
+Place
+p250
+(dp251
+g3
+(lp252
+VRestaurants
+p253
+asg6
+g107
+sg8
+VFriends
+p254
+sg10
+Vhttp://mumbai.burrp.com/listing/friends_7-bungalows_mumbai_restaurants/1391433970
+p255
+sg12
+V7 Bungalows
+p256
+sg14
+(lp257
+V32546885
+p258
+aV 9819808047
+p259
+asg19
+g20
+sg21
+VShop No.48/2, Opp Pink Appt, Behind Municipal Garden, Andheri (W), 7 Bungalows, Andheri West, Mumbai
+p260
+sba(i__main__
+Place
+p261
+(dp262
+g3
+(lp263
+VRestaurants
+p264
+asg6
+g107
+sg8
+VChinese And Thai Cuisine
+p265
+sg10
+Vhttp://mumbai.burrp.com/listing/chinese-and-thai-cuisine_7-bungalows_mumbai_restaurants/1917217118
+p266
+sg12
+V7 Bungalows
+p267
+sg14
+(lp268
+V39525741
+p269
+aV 9322879323
+p270
+aV 9821483738
+p271
+asg19
+g107
+sg21
+VShop 4, Varsha Building, Bank Of Maharashtra Lane, 7 Bungalows, Andheri West, Mumbai
+p272
+sba.

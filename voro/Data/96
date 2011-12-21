@@ -1,0 +1,365 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBars & Pubs
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VThe Crazy Turtle
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/the-crazy-turtle_ghodbhunder-road_thane_bars-pubs-restaurants/16318491346
+p12
+sS'region'
+p13
+VGhodbhunder Road
+p14
+sS'phone'
+p15
+(lp16
+V9820468598
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+V Shop No. 5, Pataskar Eclat, Anand Nagar, Ghodbhunder Road, Thane West, Thane
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg7
+g8
+sg9
+VThe Courtyard
+p26
+sg11
+Vhttp://mumbai.burrp.com/listing/the-courtyard_ghodbhunder-road_thane_restaurants/1825353227
+p27
+sg13
+VGhodbhunder Road
+p28
+sg15
+(lp29
+V25970530
+p30
+aV 25970080
+p31
+asg18
+V2
+p32
+sg20
+VOvala, Ghodbhunder Road, Thane West, Thane
+p33
+sba(i__main__
+Place
+p34
+(dp35
+g3
+(lp36
+VSpas
+p37
+aV Gymkhanas and Social Clubs
+p38
+aV Swimming Pools
+p39
+aV Restaurants
+p40
+asg7
+V5
+p41
+sg9
+VThe Blue Roof Club & Spa
+p42
+sg11
+Vhttp://mumbai.burrp.com/listing/the-blue-roof-club-spa_ghodbhunder-road_thane_spas-gymkhanas-and-social-clubs-swimming-pools/19914201910
+p43
+sg13
+VGhodbhunder Road
+p44
+sg15
+(lp45
+V25335275
+p46
+aV 32522353
+p47
+aV 32530000
+p48
+aV 9833671150
+p49
+asg18
+g19
+sg20
+VOffice No 3, Ground Floor, Nivara Society, Ovala Naka, Ghodbhunder Road, Thane West, Thane
+p50
+sba(i__main__
+Place
+p51
+(dp52
+g3
+(lp53
+VRestaurants
+p54
+aV Bars & Pubs
+p55
+asg7
+g41
+sg9
+VSpice Island
+p56
+sg11
+Vhttp://mumbai.burrp.com/listing/spice-island_ghodbhunder-road_thane_restaurants-bars-pubs/11718468792
+p57
+sg13
+VGhodbhunder Road
+p58
+sg15
+(lp59
+V25975879
+p60
+asg18
+g32
+sg20
+VSiddhivinayak Arcade, 3rd Floor, Owala Naka, Ghodbhunder Road, Thane West, Thane
+p61
+sba(i__main__
+Place
+p62
+(dp63
+g3
+(lp64
+VRestaurants
+p65
+aV Bars & Pubs
+p66
+asg7
+g19
+sg9
+VSpice Up
+p67
+sg11
+Vhttp://mumbai.burrp.com/listing/spice-up_ghodbhunder-road_thane_restaurants-bars-pubs/11722266792
+p68
+sg13
+VGhodbhunder Road
+p69
+sg15
+(lp70
+V25308401
+p71
+aV 67998401
+p72
+asg18
+g19
+sg20
+VGround Floor, Leonardo Shopping Centre, Hiranandani Estate, Pasli Pada, Ghodbhunder Road, Thane West, Thane
+p73
+sba(i__main__
+Place
+p74
+(dp75
+g3
+(lp76
+VRestaurants
+p77
+asg7
+g19
+sg9
+VFlavour Of Spice
+p78
+sg11
+Vhttp://mumbai.burrp.com/listing/flavour-of-spice_ghodbhunder-road_thane_restaurants/19314201316
+p79
+sg13
+VGhodbhunder Road
+p80
+sg15
+(lp81
+V25890184
+p82
+aV 25890286
+p83
+asg18
+g19
+sg20
+VShop No 9/10, Pride Park, Next To R Mall, Ghodbhunder Road, Thane West, Thane
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg7
+g19
+sg9
+VPeter & Wang
+p89
+sg11
+Vhttp://mumbai.burrp.com/listing/peter-wang_ghodbhunder-road_thane_restaurants/18114200128
+p90
+sg13
+VGhodbhunder Road
+p91
+sg15
+(lp92
+V25890184
+p93
+aV 25890286
+p94
+asg18
+g19
+sg20
+V11, Pride Park, Ghodbhunder Road, Thane West, Thane
+p95
+sba(i__main__
+Place
+p96
+(dp97
+g3
+(lp98
+VRestaurants
+p99
+asg7
+g19
+sg9
+VNisarg
+p100
+sg11
+Vhttp://mumbai.burrp.com/listing/nisarg_ghodbhunder-road_thane_restaurants/18714200722
+p101
+sg13
+VGhodbhunder Road
+p102
+sg15
+(lp103
+V
+p104
+aV 9172112425
+p105
+aV 9969562008
+p106
+asg18
+g19
+sg20
+VAmrut Surkar Wadi, Hiranandani Estate, Patlipada, Ghodbhunder Road, Thane West, Thane
+p107
+sba(i__main__
+Place
+p108
+(dp109
+g3
+(lp110
+VRestaurants
+p111
+aV Hotels
+p112
+asg7
+g19
+sg9
+VMezzban Banquets
+p113
+sg11
+Vhttp://mumbai.burrp.com/listing/mezzban-banquets_ghodbhunder-road_thane_restaurants-hotels/12514203584
+p114
+sg13
+VGhodbhunder Road
+p115
+sg15
+(lp116
+g104
+aV 9820467877
+p117
+aV 28773148
+p118
+asg18
+g19
+sg20
+VHaveli Inn Resort Sasunavghar , Mumbai Ahemdabad National Highway, Ghodbhunder Road, Thane West, Thane
+p119
+sba(i__main__
+Place
+p120
+(dp121
+g3
+(lp122
+VRestaurants
+p123
+asg7
+g19
+sg9
+VKinara Restaurant And Bar
+p124
+sg11
+Vhttp://mumbai.burrp.com/listing/kinara-restaurant-and-bar_ghodbhunder-road_thane_restaurants/13314204376
+p125
+sg13
+VGhodbhunder Road
+p126
+sg15
+(lp127
+V32504143
+p128
+aV 32513910
+p129
+aV 9987754484
+p130
+asg18
+g19
+sg20
+VMumbai Ahmedabad Highway No 8, Near Godbhunder Bridge, Sadu Pada, Ghodbhunder Road, Thane West, Thane
+p131
+sba(i__main__
+Place
+p132
+(dp133
+g3
+(lp134
+VRestaurants
+p135
+aV Outdoor Caterers
+p136
+asg7
+g19
+sg9
+VBorivali Biryani Centre
+p137
+sg11
+Vhttp://mumbai.burrp.com/listing/borivali-biryani-centre_ghodbhunder-road_thane_restaurants-outdoor-caterers/11524345594
+p138
+sg13
+VGhodbhunder Road
+p139
+sg15
+(lp140
+V9833513561
+p141
+aV 9967199950
+p142
+asg18
+g32
+sg20
+VChenna Creek, Chenna Village, Ghodbhunder Road, Thane West, Thane
+p143
+sba.

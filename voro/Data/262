@@ -1,0 +1,812 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V3
+p7
+sS'name'
+p8
+VGolden Wok
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/golden-wok_sanpada_navi-mumbai_restaurants/177411732
+p11
+sS'region'
+p12
+VSanpada
+p13
+sS'phone'
+p14
+(lp15
+V27632312
+p16
+aV 27632313
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VLokmat Building, Sector 30, Sanpada, Navi Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V5
+p26
+sg8
+VJaffer Bhai's Delhi Darbar
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/jaffer-bhais-delhi-darbar_sanpada_navi-mumbai_restaurants/1776621732
+p28
+sg12
+VSanpada
+p29
+sg14
+(lp30
+V27892378
+p31
+aV 27892379
+p32
+aV 27892380
+p33
+asg18
+g19
+sg20
+VShop NO. 1, Lot No. 5, Sector-18, Mafco Road, Ramlaxman Towers, Vashi, Sanpada, Navi Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg6
+g26
+sg8
+VFlavors
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/flavors_sanpada_navi-mumbai_restaurants/1983761811
+p40
+sg12
+VSanpada
+p41
+sg14
+(lp42
+V67683333
+p43
+aV 27834863
+p44
+aV 9867024816
+p45
+asg18
+g19
+sg20
+VSanpada, Navi Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g7
+sg8
+VShikara
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/shikara_sanpada_navi-mumbai_restaurants/180250029
+p52
+sg12
+VSanpada
+p53
+sg14
+(lp54
+V27832196
+p55
+aV 27832197
+p56
+asg18
+g19
+sg20
+VSanpada, Navi Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VBars & Pubs
+p61
+aV Restaurants
+p62
+asg6
+g7
+sg8
+VTitan Family Resturant & Bar
+p63
+sg10
+Vhttp://mumbai.burrp.com/listing/titan-family-resturant-bar_sanpada_navi-mumbai_bars-pubs-restaurants/162932247
+p64
+sg12
+VSanpada
+p65
+sg14
+(lp66
+V27751211
+p67
+aV 27751233
+p68
+aV 65229190
+p69
+asg18
+g19
+sg20
+VVasundhara Heights, Plot No. 5, Sector 11, 1st Floor, Sanpada, Navi Mumbai
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VFood-court Stalls
+p74
+aV Tiffin Services
+p75
+aV Fast Food Shops
+p76
+aV Outdoor Caterers
+p77
+aV Nutritional Supplement Stores
+p78
+aV Restaurants
+p79
+asg6
+g26
+sg8
+VAnkuran Restaurant
+p80
+sg10
+Vhttp://mumbai.burrp.com/listing/ankuran-restaurant_sanpada_navi-mumbai_food-court-stalls-tiffin-services-fast-food-shops/1736450336
+p81
+sg12
+VSanpada
+p82
+sg14
+(lp83
+V9769531616
+p84
+aV 9702531616
+p85
+aV 27810024
+p86
+aV 9594751414
+p87
+asg18
+g19
+sg20
+VShop No.6, Jai Gurudev Co-Operative Housing Society, Plot No.6, Sector-1, Palm Beach Road, Sanpada, Navi Mumbai
+p88
+sba(i__main__
+Place
+p89
+(dp90
+g3
+(lp91
+VRestaurants
+p92
+asg6
+g7
+sg8
+VA Bhagat Tarachand
+p93
+sg10
+Vhttp://mumbai.burrp.com/listing/a-bhagat-tarachand_sanpada_navi-mumbai_restaurants/1371370772
+p94
+sg12
+VSanpada
+p95
+sg14
+(lp96
+V65264939
+p97
+asg18
+g19
+sg20
+VShop No. 62 to 65, Moraj Residency, Palm Beach Road, Sector 16, Sanpada, Navi Mumbai
+p98
+sba(i__main__
+Place
+p99
+(dp100
+g3
+(lp101
+VRestaurants
+p102
+aV Fast Food Shops
+p103
+asg6
+g19
+sg8
+VShiv Sagar
+p104
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-sagar_sanpada_navi-mumbai_restaurants-fast-food-shops/1121368297
+p105
+sg12
+VSanpada
+p106
+sg14
+(lp107
+V65180101
+p108
+aV 65180202
+p109
+aV 65122229
+p110
+asg18
+V1
+p111
+sg20
+VShree Govind Complexm Plot No. 2, Sector 1, Opposite Suraj Hospital, Sanpada Palm Beach, Sanpada, Navi Mumbai
+p112
+sba(i__main__
+Place
+p113
+(dp114
+g3
+(lp115
+VRestaurants
+p116
+asg6
+V4
+p117
+sg8
+VAppetite
+p118
+sg10
+Vhttp://mumbai.burrp.com/listing/appetite_sanpada_navi-mumbai_restaurants/145102564
+p119
+sg12
+VSanpada
+p120
+sg14
+(lp121
+V27830069
+p122
+asg18
+V0
+p123
+sg20
+VPlot No 8, Sector 24, Sion-Panvel Highway, Near Sanpada Station, Sanpada, Navi Mumbai
+p124
+sba(i__main__
+Place
+p125
+(dp126
+g3
+(lp127
+VRestaurants
+p128
+aV Cafes
+p129
+asg6
+g117
+sg8
+VShamiana
+p130
+sg10
+Vhttp://mumbai.burrp.com/listing/shamiana_sanpada_navi-mumbai_restaurants-cafes/1536979356
+p131
+sg12
+VSanpada
+p132
+sg14
+(lp133
+V27832203
+p134
+aV 40899777
+p135
+asg18
+g7
+sg20
+VSanpada, Navi Mumbai
+p136
+sba(i__main__
+Place
+p137
+(dp138
+g3
+(lp139
+VFast Food Shops
+p140
+aV Restaurants
+p141
+asg6
+g19
+sg8
+VGokool Restaurant
+p142
+sg10
+Vhttp://mumbai.burrp.com/listing/gokool-restaurant_sanpada_navi-mumbai_fast-food-shops-restaurants/16913865940
+p143
+sg12
+VSanpada
+p144
+sg14
+(lp145
+V27682233
+p146
+aV 9819778134
+p147
+asg18
+g123
+sg20
+VShop No 9-14, Yashasharee Plaza, Plot No 11, Sector 8, Sanpada, Navi Mumbai
+p148
+sba(i__main__
+Place
+p149
+(dp150
+g3
+(lp151
+VRestaurants
+p152
+asg6
+g123
+sg8
+VGold Inn Punjab Family Restaurant
+p153
+sg10
+Vhttp://mumbai.burrp.com/listing/gold-inn-punjab-family-restaurant_sanpada_navi-mumbai_restaurants/18915100920
+p154
+sg12
+VSanpada
+p155
+sg14
+(lp156
+V65705040
+p157
+aV 8976005040
+p158
+asg18
+g111
+sg20
+VKiosk 183/18C, Railway Station Premises, Sanpada, Navi Mumbai
+p159
+sba(i__main__
+Place
+p160
+(dp161
+g3
+(lp162
+VRestaurants
+p163
+asg6
+g123
+sg8
+VSada Sukhi Hotel
+p164
+sg10
+Vhttp://mumbai.burrp.com/listing/sada-sukhi-hotel_sanpada_navi-mumbai_restaurants/1884948821
+p165
+sg12
+VSanpada
+p166
+sg14
+(lp167
+V27756374
+p168
+aV 27756375
+p169
+aV 9833313002
+p170
+aV 9820213002
+p171
+asg18
+g19
+sg20
+VShop No.7, Plot No. 1, Priyanka Palace, Sector - 10, Sanpada, Navi Mumbai
+p172
+sba(i__main__
+Place
+p173
+(dp174
+g3
+(lp175
+VRestaurants
+p176
+asg6
+g123
+sg8
+VVigneshwars Aromic
+p177
+sg10
+Vhttp://mumbai.burrp.com/listing/vigneshwars-aromic_sanpada_navi-mumbai_restaurants/1151350594
+p178
+sg12
+VSanpada
+p179
+sg14
+(lp180
+V27615068
+p181
+aV 27615069
+p182
+asg18
+g7
+sg20
+VF-004, Sanpada Railway Station Complex, Sanpada, Navi Mumbai
+p183
+sba(i__main__
+Place
+p184
+(dp185
+g3
+(lp186
+VRestaurants
+p187
+asg6
+g123
+sg8
+VNew Mirchi
+p188
+sg10
+Vhttp://mumbai.burrp.com/listing/new-mirchi_sanpada_navi-mumbai_restaurants/15723116752
+p189
+sg12
+VSanpada
+p190
+sg14
+(lp191
+V9819112323
+p192
+aV 9702211000
+p193
+asg18
+g19
+sg20
+VSai Sagar Complex, Shop No.10/11, Palm Beach Road, Sanpada, Navi Mumbai
+p194
+sba(i__main__
+Place
+p195
+(dp196
+g3
+(lp197
+VRestaurants
+p198
+asg6
+g123
+sg8
+VKbabs & More
+p199
+sg10
+Vhttp://mumbai.burrp.com/listing/kbabs-more_sanpada_navi-mumbai_restaurants/1241351485
+p200
+sg12
+VSanpada
+p201
+sg14
+(lp202
+V9221900817
+p203
+aV 9867399488
+p204
+asg18
+g19
+sg20
+VDatta Niwas, Plot No. 13, Shop No. 02, Sector 5, Sanpada, Navi Mumbai
+p205
+sba(i__main__
+Place
+p206
+(dp207
+g3
+(lp208
+VRestaurants
+p209
+asg6
+g111
+sg8
+VHotel Sai Datta
+p210
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sai-datta_sanpada_navi-mumbai_restaurants/1651364544
+p211
+sg12
+VSanpada
+p212
+sg14
+(lp213
+V27812591
+p214
+aV 27812904
+p215
+aV 69551876
+p216
+aV 9323643948
+p217
+asg18
+g111
+sg20
+VShop No. 3, Bhumiraj Manor, Plot No. 3, Sector-14, Palm Beach Road, Sanpada, Navi Mumbai
+p218
+sba(i__main__
+Place
+p219
+(dp220
+g3
+(lp221
+VRestaurants
+p222
+asg6
+g111
+sg8
+VBharat Hotel & Tiffin Services
+p223
+sg10
+Vhttp://mumbai.burrp.com/listing/bharat-hotel-tiffin-services_sanpada_navi-mumbai_restaurants/1671364742
+p224
+sg12
+VSanpada
+p225
+sg14
+(lp226
+V65209192
+p227
+aV 9221682818
+p228
+asg18
+g111
+sg20
+VShop No. 8, Siddharameshwar Apts, Plot No. 111, Sector-1, Sanpada, Navi Mumbai
+p229
+sba(i__main__
+Place
+p230
+(dp231
+g3
+(lp232
+VRestaurants
+p233
+asg6
+g123
+sg8
+VDiwan Saahab - Dilli Waale
+p234
+sg10
+Vhttp://mumbai.burrp.com/listing/diwan-saahab---dilli-waale_sanpada_navi-mumbai_restaurants/1131368396
+p235
+sg12
+VSanpada
+p236
+sg14
+(lp237
+V32976777
+p238
+aV 9321412248
+p239
+asg18
+g111
+sg20
+VSai Ganesh, Shop No - 22, Palm Beach Raod, Sanpada, Navi Mumbai
+p240
+sba(i__main__
+Place
+p241
+(dp242
+g3
+(lp243
+VRestaurants
+p244
+asg6
+g123
+sg8
+VHotel Sai Shraddha
+p245
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sai-shraddha_sanpada_navi-mumbai_restaurants/1361370673
+p246
+sg12
+VSanpada
+p247
+sg14
+(lp248
+V27810022
+p249
+aV 9819112323
+p250
+aV 9892094232
+p251
+asg18
+g111
+sg20
+V25, Moraj Residency, Plot No. 1, Sector -16, Palm Beach Road, Sanpada, Navi Mumbai
+p252
+sba(i__main__
+Place
+p253
+(dp254
+g3
+(lp255
+VRestaurants
+p256
+asg6
+g123
+sg8
+VLemon n Chilli
+p257
+sg10
+Vhttp://mumbai.burrp.com/listing/lemon-n-chilli_sanpada_navi-mumbai_restaurants/1372360772
+p258
+sg12
+VSanpada
+p259
+sg14
+(lp260
+V27615068
+p261
+aV 27615069
+p262
+aV 9322505159
+p263
+asg18
+g7
+sg20
+VF004, Sanpada Railway Station, Sanpada, Navi Mumbai
+p264
+sba(i__main__
+Place
+p265
+(dp266
+g3
+(lp267
+VRestaurants
+p268
+asg6
+g123
+sg8
+VBamboo Family Restro
+p269
+sg10
+Vhttp://mumbai.burrp.com/listing/bamboo-family-restro_sanpada_navi-mumbai_restaurants/1495052960
+p270
+sg12
+VSanpada
+p271
+sg14
+(lp272
+V8055743562
+p273
+aV 8080172388
+p274
+asg18
+g19
+sg20
+VShop No.5, Shiv Shankar Tower, Sector 1, Sanpada, Navi Mumbai
+p275
+sba(i__main__
+Place
+p276
+(dp277
+g3
+(lp278
+VFast Food Shops
+p279
+aV Restaurants
+p280
+asg6
+g123
+sg8
+VSchezwan Family Restaurnt
+p281
+sg10
+Vhttp://mumbai.burrp.com/listing/schezwan-family-restaurnt_sanpada_navi-mumbai_fast-food-shops-restaurants/1456438564
+p282
+sg12
+VSanpada
+p283
+sg14
+(lp284
+V27812591
+p285
+aV 27812904
+p286
+aV 9323643948
+p287
+asg18
+g111
+sg20
+VShop No 20, Bhumiraj Manor, Plot No 3, Sector-14, Palm Beach Road, Sanpada, Navi Mumbai
+p288
+sba(i__main__
+Place
+p289
+(dp290
+g3
+(lp291
+VRestaurants
+p292
+aV Hotels
+p293
+asg6
+g123
+sg8
+VFlavours Restaurant
+p294
+sg10
+Vhttp://mumbai.burrp.com/listing/flavours-restaurant_sanpada_navi-mumbai_restaurants-hotels/13313862376
+p295
+sg12
+VSanpada
+p296
+sg14
+(lp297
+V26773773
+p298
+aV 27834863
+p299
+aV 65101254
+p300
+aV 67683333
+p301
+asg18
+g123
+sg20
+VPlot No 4, Sector 23, Sanpada, Navi Mumbai
+p302
+sba(i__main__
+Place
+p303
+(dp304
+g3
+(lp305
+VRestaurants
+p306
+asg6
+g123
+sg8
+VHotel Shubham
+p307
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shubham_sanpada_navi-mumbai_restaurants/15715601752
+p308
+sg12
+VSanpada
+p309
+sg14
+(lp310
+V27812757
+p311
+asg18
+g111
+sg20
+VBhumiraj Complex, Moraj Residency Shop No.48, Plot No.1, Sector 16 , Palm Beach Road , Sanpada, Navi Mumbai
+p312
+sba.

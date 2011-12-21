@@ -1,0 +1,46 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VCelebration 365
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/celebration-365_government-colony_mumbai_restaurants/18721949722
+p11
+sS'region'
+p12
+VGovernment Colony
+p13
+sS'phone'
+p14
+(lp15
+V26431555
+p16
+aV 26439262
+p17
+aV 8652299515
+p18
+aV 9323265013
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VOpposite Building No. B-63/64, Government Colony, Bandra East, Mumbai
+p23
+sba.

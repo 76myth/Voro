@@ -1,0 +1,933 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Bars & Pubs
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VPop Tate's
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/pop-tates_sakinaka_mumbai_restaurants-bars-pubs/1948415
+p12
+sS'region'
+p13
+VSakinaka
+p14
+sS'phone'
+p15
+(lp16
+V28591277
+p17
+aV 28591278
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+V1st Floor, Sagar Palazzio, Sakinaka, Andheri East, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg7
+g8
+sg9
+VCurry Twist
+p27
+sg11
+Vhttp://mumbai.burrp.com/listing/curry-twist_sakinaka_mumbai_restaurants/111405198
+p28
+sg13
+VSakinaka
+p29
+sg15
+(lp30
+V64524040
+p31
+aV 28518800
+p32
+aV 28513300
+p33
+aV 9322995935
+p34
+asg19
+g20
+sg21
+VAndheri Kulra Road, Sakinaka, Andheri East, Mumbai
+p35
+sba(i__main__
+Place
+p36
+(dp37
+g3
+(lp38
+VRestaurants
+p39
+aV Bars & Pubs
+p40
+asg7
+g8
+sg9
+VMainland China
+p41
+sg11
+Vhttp://mumbai.burrp.com/listing/mainland-china_sakinaka_mumbai_restaurants-bars-pubs/120127089
+p42
+sg13
+VSakinaka
+p43
+sg15
+(lp44
+V28578656
+p45
+aV 65806291
+p46
+aV 28754005
+p47
+asg19
+V3
+p48
+sg21
+VSakinaka Junction, Andheri-Kurla Road, Sakinaka, Andheri East, Mumbai
+p49
+sba(i__main__
+Place
+p50
+(dp51
+g3
+(lp52
+VRestaurants
+p53
+asg7
+g8
+sg9
+VChakra
+p54
+sg11
+Vhttp://mumbai.burrp.com/listing/chakra_sakinaka_mumbai_restaurants/124109485
+p55
+sg13
+VSakinaka
+p56
+sg15
+(lp57
+V28513331
+p58
+aV 28515205
+p59
+aV 28512463
+p60
+asg19
+V0
+p61
+sg21
+VSakinaka Junction, Andheri-Kurla Road, Andheri (E), Sakinaka, Andheri East, Mumbai
+p62
+sba(i__main__
+Place
+p63
+(dp64
+g3
+(lp65
+VRestaurants
+p66
+asg7
+g48
+sg9
+V5 Spice
+p67
+sg11
+Vhttp://mumbai.burrp.com/listing/5-spice_sakinaka_mumbai_restaurants/1173627792
+p68
+sg13
+VSakinaka
+p69
+sg15
+(lp70
+V28562185
+p71
+aV 28562186
+p72
+aV 28562187
+p73
+asg19
+g20
+sg21
+VShiva Industrial Estate, Andheri Kurla Road, Sakinaka, Andheri East, Mumbai
+p74
+sba(i__main__
+Place
+p75
+(dp76
+g3
+(lp77
+VRestaurants
+p78
+aV Outdoor Caterers
+p79
+asg7
+g8
+sg9
+VKailash Parbat
+p80
+sg11
+Vhttp://mumbai.burrp.com/listing/kailash-parbat_sakinaka_mumbai_restaurants-outdoor-caterers/12123104188
+p81
+sg13
+VSakinaka
+p82
+sg15
+(lp83
+V61270927
+p84
+aV 61270928
+p85
+aV 61270929
+p86
+asg19
+g20
+sg21
+VKantilal & Co. Estate , Sakinaka, Andheri East, Mumbai
+p87
+sba(i__main__
+Place
+p88
+(dp89
+g3
+(lp90
+VRestaurants
+p91
+asg7
+g8
+sg9
+VDesi Joint
+p92
+sg11
+Vhttp://mumbai.burrp.com/listing/desi-joint_sakinaka_mumbai_restaurants/1834957326
+p93
+sg13
+VSakinaka
+p94
+sg15
+(lp95
+V28477888
+p96
+asg19
+g20
+sg21
+VSaki Vihar Road, Ansa Industrial Estate), Andheri (E), Sakinaka, Andheri East, Mumbai
+p97
+sba(i__main__
+Place
+p98
+(dp99
+g3
+(lp100
+VRestaurants
+p101
+asg7
+g20
+sg9
+VUrban Tadka
+p102
+sg11
+Vhttp://mumbai.burrp.com/listing/urban-tadka_sakinaka_mumbai_restaurants/1425727267
+p103
+sg13
+VSakinaka
+p104
+sg15
+(lp105
+V28512532
+p106
+aV 28512535
+p107
+asg19
+g20
+sg21
+V1st Floor, Sagar Pallazio, Sakinaka Junction, Sakinaka, Andheri East, Mumbai
+p108
+sba(i__main__
+Place
+p109
+(dp110
+g3
+(lp111
+VRestaurants
+p112
+asg7
+g8
+sg9
+VMahesh Lunch Home 
+p113
+sg11
+Vhttp://mumbai.burrp.com/listing/mahesh-lunch-home-_sakinaka_mumbai_restaurants/14915267960
+p114
+sg13
+VSakinaka
+p115
+sg15
+(lp116
+V28565560
+p117
+aV 28565561
+p118
+aV 28565562
+p119
+asg19
+V1
+p120
+sg21
+VAndheri Kurla Road, Opposite Mcdonalds, Sakinaka, Andheri East, Mumbai
+p121
+sba(i__main__
+Place
+p122
+(dp123
+g3
+(lp124
+VRestaurants
+p125
+asg7
+g8
+sg9
+VShiv Sagar
+p126
+sg11
+Vhttp://mumbai.burrp.com/listing/shiv-sagar_sakinaka_mumbai_restaurants/1811204128
+p127
+sg13
+VSakinaka
+p128
+sg15
+(lp129
+V28474593
+p130
+asg19
+g20
+sg21
+VK 16 Saki Vihar Road, Near Chandiwali Petrol Pump, Andheri (E), Sakinaka, Andheri East, Mumbai
+p131
+sba(i__main__
+Place
+p132
+(dp133
+g3
+(lp134
+VRestaurants
+p135
+asg7
+g20
+sg9
+VSaptami
+p136
+sg11
+Vhttp://mumbai.burrp.com/listing/saptami_sakinaka_mumbai_restaurants/1685765841
+p137
+sg13
+VSakinaka
+p138
+sg15
+(lp139
+V40851800
+p140
+aV 9004617824
+p141
+asg19
+g48
+sg21
+VLobby Level, Sakinaka, Andheri East, Mumbai
+p142
+sba(i__main__
+Place
+p143
+(dp144
+g3
+(lp145
+VRestaurants
+p146
+asg7
+g61
+sg9
+VRaina Hotel
+p147
+sg11
+Vhttp://mumbai.burrp.com/listing/raina-hotel_sakinaka_mumbai_restaurants/13312782376
+p148
+sg13
+VSakinaka
+p149
+sg15
+(lp150
+V28520667
+p151
+aV 9594980667
+p152
+aV 9869874273
+p153
+asg19
+g61
+sg21
+VGala No 1/6, Kailash Puram, Sakinaka, Andheri East, Mumbai
+p154
+sba(i__main__
+Place
+p155
+(dp156
+g3
+(lp157
+VRestaurants
+p158
+asg7
+g61
+sg9
+VHotel Samundra Swad
+p159
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-samundra-swad_sakinaka_mumbai_restaurants/15523143554
+p160
+sg13
+VSakinaka
+p161
+sg15
+(lp162
+V28472324
+p163
+asg19
+g20
+sg21
+V13, Navjivan Co-Operative Society, Sakivihar Road, Sakinaka, Andheri East, Mumbai
+p164
+sba(i__main__
+Place
+p165
+(dp166
+g3
+(lp167
+VRestaurants
+p168
+asg7
+g61
+sg9
+VVihar Punjab
+p169
+sg11
+Vhttp://mumbai.burrp.com/listing/vihar-punjab_sakinaka_mumbai_restaurants/18923227920
+p170
+sg13
+VSakinaka
+p171
+sg15
+(lp172
+V66939767
+p173
+aV 26843365
+p174
+asg19
+g20
+sg21
+VSakina Mansion, 2, S.N Road, Sakinaka, Andheri East, Mumbai
+p175
+sba(i__main__
+Place
+p176
+(dp177
+g3
+(lp178
+VRestaurants
+p179
+aV Bars & Pubs
+p180
+asg7
+g61
+sg9
+VMahalaxmi Garden Restaurant & Bar
+p181
+sg11
+Vhttp://mumbai.burrp.com/listing/mahalaxmi-garden-restaurant-bar_sakinaka_mumbai_restaurants-bars-pubs/1854948524
+p182
+sg13
+VSakinaka
+p183
+sg15
+(lp184
+V28502342
+p185
+asg19
+g20
+sg21
+VBharucha Compound, Andheri Kurla Rd, Andheri (E), Sakinaka, Andheri East, Mumbai
+p186
+sba(i__main__
+Place
+p187
+(dp188
+g3
+(lp189
+VRestaurants
+p190
+asg7
+g61
+sg9
+VAshwin Bar & Restaurant
+p191
+sg11
+Vhttp://mumbai.burrp.com/listing/ashwin-bar-restaurant_sakinaka_mumbai_restaurants/15712775752
+p192
+sg13
+VSakinaka
+p193
+sg15
+(lp194
+V28515397
+p195
+asg19
+g61
+sg21
+VAndheri Kurla Road, Sakinaka, Andheri East, Mumbai
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VRestaurants
+p200
+asg7
+g61
+sg9
+VFaruqi Hotel
+p201
+sg11
+Vhttp://mumbai.burrp.com/listing/faruqi-hotel_sakinaka_mumbai_restaurants/17312777336
+p202
+sg13
+VSakinaka
+p203
+sg15
+(lp204
+V28562854
+p205
+asg19
+g61
+sg21
+VJari Mari, Vijay Nagar, Andheri Kurla Road, Sakinaka, Andheri East, Mumbai
+p206
+sba(i__main__
+Place
+p207
+(dp208
+g3
+(lp209
+VRestaurants
+p210
+asg7
+g61
+sg9
+VHotel Vaishali
+p211
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-vaishali_sakinaka_mumbai_restaurants/18112778128
+p212
+sg13
+VSakinaka
+p213
+sg15
+(lp214
+V28512238
+p215
+aV 28591446
+p216
+asg19
+g61
+sg21
+VSafed Pool, Andheri Kurla Road, Sakinaka, Andheri East, Mumbai
+p217
+sba(i__main__
+Place
+p218
+(dp219
+g3
+(lp220
+VRestaurants
+p221
+asg7
+g61
+sg9
+VShiv Krishna Restaurant
+p222
+sg11
+Vhttp://mumbai.burrp.com/listing/shiv-krishna-restaurant_sakinaka_mumbai_restaurants/16112785148
+p223
+sg13
+VSakinaka
+p224
+sg15
+(lp225
+V28500343
+p226
+aV 28506340
+p227
+aV 66922921
+p228
+asg19
+g61
+sg21
+VMittal Industrial Estate, Andheri Kurla Road, Sakinaka, Andheri East, Mumbai
+p229
+sba(i__main__
+Place
+p230
+(dp231
+g3
+(lp232
+VRestaurants
+p233
+aV Juice Parlours
+p234
+asg7
+g61
+sg9
+VLaxmi Bar And Restaurant
+p235
+sg11
+Vhttp://mumbai.burrp.com/listing/laxmi-bar-and-restaurant_sakinaka_mumbai_restaurants-juice-parlours/18712787722
+p236
+sg13
+VSakinaka
+p237
+sg15
+(lp238
+V28523214
+p239
+asg19
+g61
+sg21
+VShop No 2, Shantha Niwas, Sakinaka Link Road, Near Maharashtra Weight Bridge, Sakinaka, Andheri East, Mumbai
+p240
+sba(i__main__
+Place
+p241
+(dp242
+g3
+(lp243
+VRestaurants
+p244
+asg7
+g61
+sg9
+VRavi Restaurant & Bar
+p245
+sg11
+Vhttp://mumbai.burrp.com/listing/ravi-restaurant-bar_sakinaka_mumbai_restaurants/19512788514
+p246
+sg13
+VSakinaka
+p247
+sg15
+(lp248
+V28516768
+p249
+asg19
+g61
+sg21
+VD Souza Compound, Safed Pool, Kurla Andheri Road, Sakinaka, Andheri East, Mumbai
+p250
+sba(i__main__
+Place
+p251
+(dp252
+g3
+(lp253
+VRestaurants
+p254
+asg7
+g61
+sg9
+VAshwini Restaurant
+p255
+sg11
+Vhttp://mumbai.burrp.com/listing/ashwini-restaurant_sakinaka_mumbai_restaurants/12912790980
+p256
+sg13
+VSakinaka
+p257
+sg15
+(lp258
+V28515397
+p259
+aV 28564389
+p260
+asg19
+g61
+sg21
+VAndheri Kurla Road, Safed Pool, Sakinaka, Andheri East, Mumbai
+p261
+sba(i__main__
+Place
+p262
+(dp263
+g3
+(lp264
+VRestaurants
+p265
+asg7
+g61
+sg9
+VFarugi Hotel
+p266
+sg11
+Vhttp://mumbai.burrp.com/listing/farugi-hotel_sakinaka_mumbai_restaurants/14912792960
+p267
+sg13
+VSakinaka
+p268
+sg15
+(lp269
+V28562854
+p270
+asg19
+g61
+sg21
+VJari Meri Andheri Road, Sakinaka, Andheri East, Mumbai
+p271
+sba(i__main__
+Place
+p272
+(dp273
+g3
+(lp274
+VRestaurants
+p275
+asg7
+g61
+sg9
+VSupremes Restaurants
+p276
+sg11
+Vhttp://mumbai.burrp.com/listing/supremes-restaurants_sakinaka_mumbai_restaurants/19112797118
+p277
+sg13
+VSakinaka
+p278
+sg15
+(lp279
+V28513478
+p280
+asg19
+g61
+sg21
+VHouse No C-1, Industrial Market, Link Road, Sakinaka, Andheri East, Mumbai
+p281
+sba(i__main__
+Place
+p282
+(dp283
+g3
+(lp284
+VRestaurants
+p285
+aV Hotels
+p286
+asg7
+g61
+sg9
+VHotel Metro International
+p287
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-metro-international_sakinaka_mumbai_restaurants-hotels/13112800178
+p288
+sg13
+VSakinaka
+p289
+sg15
+(lp290
+V66941010
+p291
+aV 66941011
+p292
+aV 66941012
+p293
+aV 66941013
+p294
+asg19
+g61
+sg21
+VSakinaka Junction, Andheri Kurla Road, Sakinaka, Andheri East, Mumbai
+p295
+sba(i__main__
+Place
+p296
+(dp297
+g3
+(lp298
+VRestaurants
+p299
+asg7
+g61
+sg9
+VMahalaxmi Again Restaurant
+p300
+sg11
+Vhttp://mumbai.burrp.com/listing/mahalaxmi-again-restaurant_sakinaka_mumbai_restaurants/13712800772
+p301
+sg13
+VSakinaka
+p302
+sg15
+(lp303
+V28500177
+p304
+aV 28505555
+p305
+aV 9819836053
+p306
+aV 9867160733
+p307
+asg19
+g61
+sg21
+VAndheri Kurla Road, Opp Mahalxmi Garden Restaurant Sakinaka, Sakinaka, Andheri East, Mumbai
+p308
+sba(i__main__
+Place
+p309
+(dp310
+g3
+(lp311
+VRestaurants
+p312
+asg7
+g61
+sg9
+VHotel Nityanand
+p313
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-nityanand_sakinaka_mumbai_restaurants/14515591564
+p314
+sg13
+VSakinaka
+p315
+sg15
+(lp316
+V28590636
+p317
+asg19
+g120
+sg21
+VSafed Pool, K.A.Road, Sakinaka, Andheri East, Mumbai
+p318
+sba(i__main__
+Place
+p319
+(dp320
+g3
+(lp321
+VRestaurants
+p322
+aV Lounges
+p323
+aV Bars & Pubs
+p324
+asg7
+g61
+sg9
+VSeven 2
+p325
+sg11
+Vhttp://mumbai.burrp.com/listing/seven-2_sakinaka_mumbai_restaurants-lounges-bars-pubs/12718910782
+p326
+sg13
+VSakinaka
+p327
+sg15
+(lp328
+V40851800
+p329
+asg19
+g61
+sg21
+VAndheri (E), Sakinaka, Andheri East, Mumbai
+p330
+sba(i__main__
+Place
+p331
+(dp332
+g3
+(lp333
+VRestaurants
+p334
+aV Bars & Pubs
+p335
+asg7
+g61
+sg9
+VRathi Resto Bar
+p336
+sg11
+Vhttp://mumbai.burrp.com/listing/rathi-resto-bar_sakinaka_mumbai_restaurants-bars-pubs/18523074524
+p337
+sg13
+VSakinaka
+p338
+sg15
+(lp339
+V28599998
+p340
+aV 9702141542
+p341
+asg19
+g20
+sg21
+VSafed Pool, Andheri-Kurla Road, Sakinaka, Andheri East, Mumbai
+p342
+sba(i__main__
+Place
+p343
+(dp344
+g3
+(lp345
+VRestaurants
+p346
+asg7
+g61
+sg9
+VHotel Shaila Shree
+p347
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-shaila-shree_sakinaka_mumbai_restaurants/19124173118
+p348
+sg13
+VSakinaka
+p349
+sg15
+(lp350
+V65004847
+p351
+asg19
+g61
+sg21
+VSaki Vihar Road, Opp. Ansa Industial Estate, Sakinaka, Andheri East, Mumbai
+p352
+sba.

@@ -1,0 +1,385 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VJaffer Bhai's Delhi Darbar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/jaffer-bhais-delhi-darbar_dhobi-talao_mumbai_restaurants/17715732
+p11
+sS'region'
+p12
+VDhobi Talao
+p13
+sS'phone'
+p14
+(lp15
+V22084613
+p16
+aV 22016363
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+V1st Marine Street, Near Round Masjid, Dhobi Talao, Kalbadevi, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V3
+p26
+sg8
+VSnowflakes
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/snowflakes_dhobi-talao_mumbai_restaurants/14757762
+p28
+sg12
+VDhobi Talao
+p29
+sg14
+(lp30
+V22014252
+p31
+asg18
+g19
+sg20
+VRebeiro Building, 1st Dhobi Talao lane, Dhobi Talao, Kalbadevi, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VRestaurants
+p36
+aV Bakery Shops
+p37
+asg6
+g19
+sg8
+VThe Boulangerie
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/the-boulangerie_dhobi-talao_mumbai_restaurants-bakery-shops/15115574158
+p39
+sg12
+VDhobi Talao
+p40
+sg14
+(lp41
+V22006198
+p42
+aV 22098001
+p43
+asg18
+g19
+sg20
+V98, Marine View , Dhobi Talao, Kalbadevi, Mumbai
+p44
+sba(i__main__
+Place
+p45
+(dp46
+g3
+(lp47
+VRestaurants
+p48
+asg6
+g19
+sg8
+VMadras Military Home
+p49
+sg10
+Vhttp://mumbai.burrp.com/listing/madras-military-home_dhobi-talao_mumbai_restaurants/116126693
+p50
+sg12
+VDhobi Talao
+p51
+sg14
+(lp52
+V22080036
+p53
+asg18
+g19
+sg20
+V17-B Jamboolwadi, Jer Mahal Annexe, Dhobi Talao, Kalbadevi, Mumbai
+p54
+sba(i__main__
+Place
+p55
+(dp56
+g3
+(lp57
+VRestaurants
+p58
+aV Bars & Pubs
+p59
+asg6
+g19
+sg8
+VPancharatna Restaurant & Bar
+p60
+sg10
+Vhttp://mumbai.burrp.com/listing/pancharatna-restaurant-bar_dhobi-talao_mumbai_restaurants-bars-pubs/114135495
+p61
+sg12
+VDhobi Talao
+p62
+sg14
+(lp63
+V22051373
+p64
+aV 22053935
+p65
+asg18
+g19
+sg20
+VSurya-Kalyani Mansion, 36/44, Wellington St, Dhobi Talao, Kalbadevi, Mumbai
+p66
+sba(i__main__
+Place
+p67
+(dp68
+g3
+(lp69
+VBars & Pubs
+p70
+aV Restaurants
+p71
+asg6
+g19
+sg8
+VJyoti Bar & Restaurant
+p72
+sg10
+Vhttp://mumbai.burrp.com/listing/jyoti-bar-restaurant_dhobi-talao_mumbai_bars-pubs-restaurants/110270099
+p73
+sg12
+VDhobi Talao
+p74
+sg14
+(lp75
+V22084327
+p76
+asg18
+V2
+p77
+sg20
+V88/90 Trinity Street, Dhobi Talao, Kalbadevi, Mumbai
+p78
+sba(i__main__
+Place
+p79
+(dp80
+g3
+(lp81
+VRestaurants
+p82
+aV Hotels
+p83
+asg6
+g19
+sg8
+VHotel Fortune
+p84
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-fortune_dhobi-talao_mumbai_restaurants-hotels/1905390019
+p85
+sg12
+VDhobi Talao
+p86
+sg14
+(lp87
+V22052502
+p88
+aV 22052503
+p89
+aV 22052504
+p90
+asg18
+g19
+sg20
+V36/38, 1st Marine Street, Metro, Dhobi Talao, Kalbadevi, Mumbai
+p91
+sba(i__main__
+Place
+p92
+(dp93
+g3
+(lp94
+VRestaurants
+p95
+asg6
+g19
+sg8
+VShreepat Restaurant
+p96
+sg10
+Vhttp://mumbai.burrp.com/listing/shreepat-restaurant_dhobi-talao_mumbai_restaurants/1879385722
+p97
+sg12
+VDhobi Talao
+p98
+sg14
+(lp99
+V22070569
+p100
+asg18
+g19
+sg20
+VBasker Lane, Bhuleshwar, Dhobi Talao, Kalbadevi, Mumbai
+p101
+sba(i__main__
+Place
+p102
+(dp103
+g3
+(lp104
+VRestaurants
+p105
+asg6
+g19
+sg8
+VSuper Point Chinese Fast Food
+p106
+sg10
+Vhttp://mumbai.burrp.com/listing/super-point-chinese-fast-food_dhobi-talao_mumbai_restaurants/1959386514
+p107
+sg12
+VDhobi Talao
+p108
+sg14
+(lp109
+V22057481
+p110
+aV 22057482
+p111
+aV 22087482
+p112
+aV 9867964234
+p113
+asg18
+V1
+p114
+sg20
+VShop No 40, A P Market, Dr C H Street, Dhobi Talao, Kalbadevi, Mumbai
+p115
+sba(i__main__
+Place
+p116
+(dp117
+g3
+(lp118
+VRestaurants
+p119
+asg6
+g19
+sg8
+VKyani And Company
+p120
+sg10
+Vhttp://mumbai.burrp.com/listing/kyani-and-company_dhobi-talao_mumbai_restaurants/1339389376
+p121
+sg12
+VDhobi Talao
+p122
+sg14
+(lp123
+V22011492
+p124
+aV 66331980
+p125
+aV 9969517760
+p126
+asg18
+g19
+sg20
+VJer Mahal Estate, Jagannath Shankar Sheth Marg , Dhobi Talao, Kalbadevi, Mumbai
+p127
+sba(i__main__
+Place
+p128
+(dp129
+g3
+(lp130
+VRestaurants
+p131
+aV Bars & Pubs
+p132
+asg6
+g19
+sg8
+VKit KAT Restaurant
+p133
+sg10
+Vhttp://mumbai.burrp.com/listing/kit-kat-restaurant_dhobi-talao_mumbai_restaurants-bars-pubs/1359389574
+p134
+sg12
+VDhobi Talao
+p135
+sg14
+(lp136
+V22011868
+p137
+aV 22094112
+p138
+asg18
+g19
+sg20
+VAnandi Lal Poddar Marg, Opp Metro Adlabs, Dhobi Talao, Kalbadevi, Mumbai
+p139
+sba(i__main__
+Place
+p140
+(dp141
+g3
+(lp142
+VRestaurants
+p143
+asg6
+g19
+sg8
+VPanchratna Restaurant & Bar
+p144
+sg10
+Vhttp://mumbai.burrp.com/listing/panchratna-restaurant-bar_dhobi-talao_mumbai_restaurants/15715412752
+p145
+sg12
+VDhobi Talao
+p146
+sg14
+(lp147
+V22051373
+p148
+aV 22053935
+p149
+asg18
+g19
+sg20
+VSurya-Kalyani Mansion, 36/44, Wellington Street, Dhobi Talao, Kalbadevi, Mumbai
+p150
+sba.

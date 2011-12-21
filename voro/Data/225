@@ -1,0 +1,921 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VPurepur Kolhapur
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/purepur-kolhapur_naupada_thane_restaurants/14115069168
+p11
+sS'region'
+p12
+VNaupada
+p13
+sS'phone'
+p14
+(lp15
+V25330405
+p16
+aV 25330402
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VShop 1/2, Ram Janak Housing Society, Ghantali Road, Naupada, Thane West, Thane
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g19
+sg8
+VHotel Sai Krupa 
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sai-krupa-_naupada_thane_restaurants/12315103386
+p27
+sg12
+VNaupada
+p28
+sg14
+(lp29
+V25367339
+p30
+aV 25428429
+p31
+aV 9773007339
+p32
+asg18
+V2
+p33
+sg20
+VNaupada, Thane West, Thane
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VBanquet Halls
+p38
+aV Restaurants
+p39
+asg6
+g19
+sg8
+VMoni's Bar & Restaurant
+p40
+sg10
+Vhttp://mumbai.burrp.com/listing/monis-bar-restaurant_naupada_thane_banquet-halls-restaurants/11714472792
+p41
+sg12
+VNaupada
+p42
+sg14
+(lp43
+V25424647
+p44
+aV 25429390
+p45
+asg18
+g19
+sg20
+V10, Satyam Apartments, M G Road, Naupada, Thane West, Thane
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+g19
+sg8
+VThe Experience Hotel
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/the-experience-hotel_naupada_thane_restaurants/17914496930
+p52
+sg12
+VNaupada
+p53
+sg14
+(lp54
+V25380725
+p55
+aV 25408251
+p56
+asg18
+g19
+sg20
+V6th Floor, Block No 601, Navrang Shop Arcade, Gokhale Road, Naupada, Thane West, Thane
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VDessert Shops
+p61
+aV Fast Food Shops
+p62
+aV Restaurants
+p63
+aV Cafes
+p64
+asg6
+g19
+sg8
+VFusion Xpress
+p65
+sg10
+Vhttp://mumbai.burrp.com/listing/fusion-xpress_naupada_thane_dessert-shops-fast-food-shops-restaurants/15314512356
+p66
+sg12
+VNaupada
+p67
+sg14
+(lp68
+V
+p69
+aV 9833659669
+p70
+aV 9892123811
+p71
+asg18
+g19
+sg20
+VShop No 11, Eternity Mall, LBS Marg, Teen Hath Naka, Naupada, Thane West, Thane
+p72
+sba(i__main__
+Place
+p73
+(dp74
+g3
+(lp75
+VRestaurants
+p76
+asg6
+g19
+sg8
+VUsha Kiran Hotel
+p77
+sg10
+Vhttp://mumbai.burrp.com/listing/usha-kiran-hotel_naupada_thane_restaurants/16914504940
+p78
+sg12
+VNaupada
+p79
+sg14
+(lp80
+V25409210
+p81
+aV 25424796
+p82
+aV 64469378
+p83
+asg18
+g19
+sg20
+VGokhale Road, Naupada, Thane West, Thane
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VRestaurants
+p88
+asg6
+g19
+sg8
+VShubh Manas Restaurant
+p89
+sg10
+Vhttp://mumbai.burrp.com/listing/shubh-manas-restaurant_naupada_thane_restaurants/16514531544
+p90
+sg12
+VNaupada
+p91
+sg14
+(lp92
+V25398381
+p93
+asg18
+g19
+sg20
+VShanti Cottage, Thakur Blocks Naupada, Nr Gautam Tower, Naupada, Thane West, Thane
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VRestaurants
+p98
+aV Fast Food Shops
+p99
+asg6
+g19
+sg8
+VMC Donalds
+p100
+sg10
+Vhttp://mumbai.burrp.com/listing/mc-donalds_naupada_thane_restaurants-fast-food-shops/18314533326
+p101
+sg12
+VNaupada
+p102
+sg14
+(lp103
+V66000666
+p104
+aV 9930468813
+p105
+asg18
+g19
+sg20
+VGround Floor, Plot No 23, Wadhavikar Wadi, Bhaubaug, Gokhale Road, Naupada, Thane West, Thane
+p106
+sba(i__main__
+Place
+p107
+(dp108
+g3
+(lp109
+VBars & Pubs
+p110
+aV Restaurants
+p111
+asg6
+g19
+sg8
+VChanakya Bar & Restaurant
+p112
+sg10
+Vhttp://mumbai.burrp.com/listing/chanakya-bar-restaurant_naupada_thane_bars-pubs-restaurants/16314450346
+p113
+sg12
+VNaupada
+p114
+sg14
+(lp115
+V25449891
+p116
+asg18
+g19
+sg20
+VMonalisa, L B S Marg, Naupada, Thane West, Thane
+p117
+sba(i__main__
+Place
+p118
+(dp119
+g3
+(lp120
+VRestaurants
+p121
+asg6
+g19
+sg8
+VDurga Hotel
+p122
+sg10
+Vhttp://mumbai.burrp.com/listing/durga-hotel_naupada_thane_restaurants/12514455584
+p123
+sg12
+VNaupada
+p124
+sg14
+(lp125
+V25407070
+p126
+asg18
+g19
+sg20
+VGokhale Road, Naupada, Thane West, Thane
+p127
+sba(i__main__
+Place
+p128
+(dp129
+g3
+(lp130
+VRestaurants
+p131
+asg6
+g19
+sg8
+VHotel Malhaar
+p132
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-malhaar_naupada_thane_restaurants/18914461920
+p133
+sg12
+VNaupada
+p134
+sg14
+(lp135
+V25332662
+p136
+aV 9920430491
+p137
+asg18
+g19
+sg20
+VPimenta House, M G Road, Opposite Saraswati Marathi High School, Naupada, Thane West, Thane
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VRestaurants
+p142
+asg6
+g19
+sg8
+VHotel Shubhmanas
+p143
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-shubhmanas_naupada_thane_restaurants/19314462316
+p144
+sg12
+VNaupada
+p145
+sg14
+(lp146
+V25398381
+p147
+asg18
+g19
+sg20
+VShanti Cottage, Gokhale Road, Thakur Blocks, Naupada, Thane West, Thane
+p148
+sba(i__main__
+Place
+p149
+(dp150
+g3
+(lp151
+VRestaurants
+p152
+asg6
+g19
+sg8
+VKrishna Bar And Restaurant
+p153
+sg10
+Vhttp://mumbai.burrp.com/listing/krishna-bar-and-restaurant_naupada_thane_restaurants/15714467752
+p154
+sg12
+VNaupada
+p155
+sg14
+(lp156
+V25301029
+p157
+aV 25415991
+p158
+asg18
+g19
+sg20
+VShop No 10, Monalisa Shopping Centre, Hari Niwas Circle, Naupada, Thane West, Thane
+p159
+sba(i__main__
+Place
+p160
+(dp161
+g3
+(lp162
+VRestaurants
+p163
+asg6
+g19
+sg8
+VNational Punjab Hotel
+p164
+sg10
+Vhttp://mumbai.burrp.com/listing/national-punjab-hotel_naupada_thane_restaurants/12714473782
+p165
+sg12
+VNaupada
+p166
+sg14
+(lp167
+V25392964
+p168
+aV 25409426
+p169
+aV 9324297201
+p170
+aV 9324297701
+p171
+asg18
+g19
+sg20
+VAjit Darshan, Agra Road, Naupada, Thane West, Thane
+p172
+sba(i__main__
+Place
+p173
+(dp174
+g3
+(lp175
+VRestaurants
+p176
+asg6
+g19
+sg8
+VPrema Sagar
+p177
+sg10
+Vhttp://mumbai.burrp.com/listing/prema-sagar_naupada_thane_restaurants/18714479722
+p178
+sg12
+VNaupada
+p179
+sg14
+(lp180
+V25372089
+p181
+aV 25431054
+p182
+asg18
+g19
+sg20
+VShop No 124, Anand Chambers, Almeda Road, Panchpakhadi, Naupada, Thane West, Thane
+p183
+sba(i__main__
+Place
+p184
+(dp185
+g3
+(lp186
+VRestaurants
+p187
+aV Bars & Pubs
+p188
+asg6
+g19
+sg8
+VSangam Pure Veg
+p189
+sg10
+Vhttp://mumbai.burrp.com/listing/sangam-pure-veg_naupada_thane_restaurants-bars-pubs/15714485752
+p190
+sg12
+VNaupada
+p191
+sg14
+(lp192
+V25404901
+p193
+aV 25405064
+p194
+aV 9819624654
+p195
+asg18
+g19
+sg20
+VPrestige Chambers, Opp Station Rd, Naupada, Thane West, Thane
+p196
+sba(i__main__
+Place
+p197
+(dp198
+g3
+(lp199
+VRestaurants
+p200
+asg6
+g19
+sg8
+VSanjeevana Restaurant and Bar
+p201
+sg10
+Vhttp://mumbai.burrp.com/listing/sanjeevana-restaurant-and-bar_naupada_thane_restaurants/15914485950
+p202
+sg12
+VNaupada
+p203
+sg14
+(lp204
+V25401651
+p205
+aV 25449421
+p206
+asg18
+g19
+sg20
+VGokhale Road, Naupada, Thane West, Thane
+p207
+sba(i__main__
+Place
+p208
+(dp209
+g3
+(lp210
+VRestaurants
+p211
+asg6
+g19
+sg8
+VSatkar Bar & Restaurant
+p212
+sg10
+Vhttp://mumbai.burrp.com/listing/satkar-bar-restaurant_naupada_thane_restaurants/16714486742
+p213
+sg12
+VNaupada
+p214
+sg14
+(lp215
+V25380191
+p216
+asg18
+g19
+sg20
+VMohan Mahal Building, LBS Road, Naupada, Thane West, Thane
+p217
+sba(i__main__
+Place
+p218
+(dp219
+g3
+(lp220
+VRestaurants
+p221
+asg6
+g19
+sg8
+VShanghai
+p222
+sg10
+Vhttp://mumbai.burrp.com/listing/shanghai_naupada_thane_restaurants/18914488920
+p223
+sg12
+VNaupada
+p224
+sg14
+(lp225
+V25421031
+p226
+aV 9820976208
+p227
+asg18
+g19
+sg20
+VGround Floor, Shripati Chhaya, Kopri Road, Near Malwer Hotel, Naupada, Thane West, Thane
+p228
+sba(i__main__
+Place
+p229
+(dp230
+g3
+(lp231
+VRestaurants
+p232
+asg6
+g19
+sg8
+VShelter Restaurant and Bar
+p233
+sg10
+Vhttp://mumbai.burrp.com/listing/shelter-restaurant-and-bar_naupada_thane_restaurants/19514489514
+p234
+sg12
+VNaupada
+p235
+sg14
+(lp236
+V25409456
+p237
+aV 25421861
+p238
+asg18
+g19
+sg20
+VSamarth Sadan, Gokhale Road, Naupada, Thane West, Thane
+p239
+sba(i__main__
+Place
+p240
+(dp241
+g3
+(lp242
+VRestaurants
+p243
+asg6
+g19
+sg8
+VShiva Prasad Restaurant
+p244
+sg10
+Vhttp://mumbai.burrp.com/listing/shiva-prasad-restaurant_naupada_thane_restaurants/19914489910
+p245
+sg12
+VNaupada
+p246
+sg14
+(lp247
+V25344242
+p248
+aV 25362247
+p249
+asg18
+g19
+sg20
+VRam Maruti Road, Naupada, Thane West, Thane
+p250
+sba(i__main__
+Place
+p251
+(dp252
+g3
+(lp253
+VRestaurants
+p254
+asg6
+g19
+sg8
+VShubha Restaurant & Bar
+p255
+sg10
+Vhttp://mumbai.burrp.com/listing/shubha-restaurant-bar_naupada_thane_restaurants/12514491584
+p256
+sg12
+VNaupada
+p257
+sg14
+(lp258
+V25401023
+p259
+aV 25448754
+p260
+asg18
+g19
+sg20
+VSita Vihar, L B S Marg, Naupada, Thane West, Thane
+p261
+sba(i__main__
+Place
+p262
+(dp263
+g3
+(lp264
+VRestaurants
+p265
+asg6
+g19
+sg8
+VSwad Thali  Restaurant
+p266
+sg10
+Vhttp://mumbai.burrp.com/listing/swad-thali-restaurant_naupada_thane_restaurants/15314494356
+p267
+sg12
+VNaupada
+p268
+sg14
+(lp269
+V25400622
+p270
+aV 25424751
+p271
+asg18
+g19
+sg20
+VBrahman Soceity, Kamala Smruti, Shivaji Nagar, Naupada, Thane West, Thane
+p272
+sba(i__main__
+Place
+p273
+(dp274
+g3
+(lp275
+VRestaurants
+p276
+asg6
+g19
+sg8
+VVaishali Hotel
+p277
+sg10
+Vhttp://mumbai.burrp.com/listing/vaishali-hotel_naupada_thane_restaurants/19514498514
+p278
+sg12
+VNaupada
+p279
+sg14
+(lp280
+V25343022
+p281
+asg18
+g19
+sg20
+VAnjurkar Estate, Jambli Naka, Naupada, Thane West, Thane
+p282
+sba(i__main__
+Place
+p283
+(dp284
+g3
+(lp285
+VRestaurants
+p286
+asg6
+g19
+sg8
+VVasant Veg Restaurant
+p287
+sg10
+Vhttp://mumbai.burrp.com/listing/vasant-veg-restaurant_naupada_thane_restaurants/11314499396
+p288
+sg12
+VNaupada
+p289
+sg14
+(lp290
+V25371782
+p291
+asg18
+g19
+sg20
+VDr M Road, Naupada, Thane West, Thane
+p292
+sba(i__main__
+Place
+p293
+(dp294
+g3
+(lp295
+VRestaurants
+p296
+asg6
+g19
+sg8
+VAruna Palace Bar & Restaurant
+p297
+sg10
+Vhttp://mumbai.burrp.com/listing/aruna-palace-bar-restaurant_naupada_thane_restaurants/14314511366
+p298
+sg12
+VNaupada
+p299
+sg14
+(lp300
+V25330999
+p301
+asg18
+g19
+sg20
+VTalao Pali, Naupada, Thane West, Thane
+p302
+sba(i__main__
+Place
+p303
+(dp304
+g3
+(lp305
+VBars & Pubs
+p306
+aV Restaurants
+p307
+asg6
+g19
+sg8
+VSAI Krupa Restaurant
+p308
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-krupa-restaurant_naupada_thane_bars-pubs-restaurants/19914525910
+p309
+sg12
+VNaupada
+p310
+sg14
+(lp311
+V25367339
+p312
+asg18
+g19
+sg20
+VDr Moose Rd, Opp Talao Pali, Naupada, Thane West, Thane
+p313
+sba(i__main__
+Place
+p314
+(dp315
+g3
+(lp316
+VRestaurants
+p317
+aV Bars & Pubs
+p318
+asg6
+g19
+sg8
+VSanjeevani Restaurant
+p319
+sg10
+Vhttp://mumbai.burrp.com/listing/sanjeevani-restaurant_naupada_thane_restaurants-bars-pubs/14514529564
+p320
+sg12
+VNaupada
+p321
+sg14
+(lp322
+V25401651
+p323
+aV 25449433
+p324
+asg18
+g19
+sg20
+VGokhale Road, Opp Malhar Cinema, Naupada, Thane West, Thane
+p325
+sba(i__main__
+Place
+p326
+(dp327
+g3
+(lp328
+VRestaurants
+p329
+asg6
+g19
+sg8
+VSanjeevani Hotel
+p330
+sg10
+Vhttp://mumbai.burrp.com/listing/sanjeevani-hotel_naupada_thane_restaurants/14714529762
+p331
+sg12
+VNaupada
+p332
+sg14
+(lp333
+V25401651
+p334
+asg18
+g19
+sg20
+VSamarth Sadan, Naupada, Thane West, Thane
+p335
+sba(i__main__
+Place
+p336
+(dp337
+g3
+(lp338
+VRestaurants
+p339
+asg6
+g19
+sg8
+VChanakya Restaurant & Bar
+p340
+sg10
+Vhttp://mumbai.burrp.com/listing/chanakya-restaurant-bar_naupada_thane_restaurants/13514537574
+p341
+sg12
+VNaupada
+p342
+sg14
+(lp343
+V25449891
+p344
+asg18
+g19
+sg20
+VMonalisa Shopping Complex, L B S Marg, Hari Niwas Circle, Naupada, Thane West, Thane
+p345
+sba.

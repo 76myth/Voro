@@ -1,0 +1,1712 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VLe Cafe
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/le-cafe_chembur-e_mumbai_restaurants/145813564
+p11
+sS'region'
+p12
+VChembur (E)
+p13
+sS'phone'
+p14
+(lp15
+V25281544
+p16
+aV 25286545
+p17
+aV 25275000
+p18
+aV 25279000
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VJewel of Chembur, Opposite Natraj Cinema, Chembur (E), Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg6
+g7
+sg8
+VRoyal Orchid
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-orchid_chembur-e_mumbai_restaurants/182250227
+p29
+sg12
+VChembur (E)
+p30
+sg14
+(lp31
+V25201234
+p32
+aV 25219000
+p33
+aV 25208844
+p34
+aV 25219100
+p35
+asg20
+V3
+p36
+sg22
+VRoyal Hotel, 83, N G Acharya Marg, Chembur (E), Mumbai
+p37
+sba(i__main__
+Place
+p38
+(dp39
+g3
+(lp40
+VRestaurants
+p41
+aV Fast Food Shops
+p42
+asg6
+g7
+sg8
+VVig Refreshment
+p43
+sg10
+Vhttp://mumbai.burrp.com/listing/vig-refreshment_chembur-e_mumbai_restaurants-fast-food-shops/130362079
+p44
+sg12
+VChembur (E)
+p45
+sg14
+(lp46
+V25531032
+p47
+asg20
+V1
+p48
+sg22
+VShop No. 17, C.G. Road, Chembur Camp, Chembur (E), Mumbai
+p49
+sba(i__main__
+Place
+p50
+(dp51
+g3
+(lp52
+VRestaurants
+p53
+asg6
+g7
+sg8
+VGeeta Bhavan
+p54
+sg10
+Vhttp://mumbai.burrp.com/listing/geeta-bhavan_chembur-e_mumbai_restaurants/141372168
+p55
+sg12
+VChembur (E)
+p56
+sg14
+(lp57
+V25278948
+p58
+aV 25280339
+p59
+asg20
+g48
+sg22
+VCentral Avenue Rd, Chembur (E), Mumbai
+p60
+sba(i__main__
+Place
+p61
+(dp62
+g3
+(lp63
+VRestaurants
+p64
+asg6
+g36
+sg8
+VLamba
+p65
+sg10
+Vhttp://mumbai.burrp.com/listing/lamba_chembur-e_mumbai_restaurants/18770722
+p66
+sg12
+VChembur (E)
+p67
+sg14
+(lp68
+V25222878
+p69
+asg20
+V0
+p70
+sg22
+V16, Chhadva Apartments, Sion-Trombay Road, Chembur (E), Mumbai
+p71
+sba(i__main__
+Place
+p72
+(dp73
+g3
+(lp74
+VRestaurants
+p75
+aV Bars & Pubs
+p76
+asg6
+g7
+sg8
+VVaishali Garden Restaurant
+p77
+sg10
+Vhttp://mumbai.burrp.com/listing/vaishali-garden-restaurant_chembur-e_mumbai_restaurants-bars-pubs/131875178
+p78
+sg12
+VChembur (E)
+p79
+sg14
+(lp80
+V67973160
+p81
+aV 25217881
+p82
+aV 25214294
+p83
+asg20
+g21
+sg22
+VNavketan Building, 1st Floor, Govandi Road, Opp. Railway Station, Chembur (E), Mumbai
+p84
+sba(i__main__
+Place
+p85
+(dp86
+g3
+(lp87
+VIce-cream Parlours
+p88
+aV Restaurants
+p89
+aV Fast Food Shops
+p90
+aV Juice Parlours
+p91
+asg6
+g7
+sg8
+VTastings
+p92
+sg10
+Vhttp://mumbai.burrp.com/listing/tastings_chembur-e_mumbai_ice-cream-parlours-restaurants-fast-food-shops/17278237
+p93
+sg12
+VChembur (E)
+p94
+sg14
+(lp95
+V25288978
+p96
+aV 25290404
+p97
+asg20
+g21
+sg22
+VShop No.1, Near Diamond Garden, Sion Trombay Road, Chembur (E), Mumbai
+p98
+sba(i__main__
+Place
+p99
+(dp100
+g3
+(lp101
+VRestaurants
+p102
+aV Lounges
+p103
+aV Bars & Pubs
+p104
+asg6
+g7
+sg8
+VBlend n Brew
+p105
+sg10
+Vhttp://mumbai.burrp.com/listing/blend-n-brew_chembur-e_mumbai_restaurants-lounges-bars-pubs/160374049
+p106
+sg12
+VChembur (E)
+p107
+sg14
+(lp108
+V25280014
+p109
+aV 25280290
+p110
+aV 67962244
+p111
+aV 67692222
+p112
+asg20
+g21
+sg22
+VChembur (E), Mumbai
+p113
+sba(i__main__
+Place
+p114
+(dp115
+g3
+(lp116
+VRestaurants
+p117
+asg6
+g7
+sg8
+VThe Golden Wok
+p118
+sg10
+Vhttp://mumbai.burrp.com/listing/the-golden-wok_chembur-e_mumbai_restaurants/1401200069
+p119
+sg12
+VChembur (E)
+p120
+sg14
+(lp121
+V67974266
+p122
+aV 25214745
+p123
+aV 25204745
+p124
+aV 67974267
+p125
+asg20
+g36
+sg22
+VSaikrupa Compound, WT Patil Marg, Chembur (E), Mumbai
+p126
+sba(i__main__
+Place
+p127
+(dp128
+g3
+(lp129
+VBanquet Halls
+p130
+aV Restaurants
+p131
+asg6
+g36
+sg8
+VHotel Grand Central
+p132
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-grand-central_chembur-e_mumbai_banquet-halls-restaurants/122118287
+p133
+sg12
+VChembur (E)
+p134
+sg14
+(lp135
+V25283911
+p136
+aV 67611999
+p137
+asg20
+g21
+sg22
+VShilpa Building Central , Central Avenue Road, Chembur (E), Mumbai
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VRestaurants
+p142
+asg6
+g36
+sg8
+VMoksha
+p143
+sg10
+Vhttp://mumbai.burrp.com/listing/moksha_chembur-e_mumbai_restaurants/171933138
+p144
+sg12
+VChembur (E)
+p145
+sg14
+(lp146
+V25275000
+p147
+aV 25279000
+p148
+aV 25282720
+p149
+asg20
+g21
+sg22
+V1st Floor, Jewel of Chembur, 1st Road, Near Natraj Cinema, Chembur (E), Mumbai
+p150
+sba(i__main__
+Place
+p151
+(dp152
+g3
+(lp153
+VRestaurants
+p154
+asg6
+g36
+sg8
+VRatnagiri Costal Cuisine
+p155
+sg10
+Vhttp://mumbai.burrp.com/listing/ratnagiri-costal-cuisine_chembur-e_mumbai_restaurants/1765154633
+p156
+sg12
+VChembur (E)
+p157
+sg14
+(lp158
+V25283666
+p159
+aV 25283677
+p160
+asg20
+g21
+sg22
+VVishwa Karma Bldg., Ground Floor, Central Avenue Road, Chembur (E), Mumbai
+p161
+sba(i__main__
+Place
+p162
+(dp163
+g3
+(lp164
+VRestaurants
+p165
+asg6
+V5
+p166
+sg8
+VRevel - The Mother Touch Kitchen
+p167
+sg10
+Vhttp://mumbai.burrp.com/listing/revel---the-mother-touch-kitchen_chembur-e_mumbai_restaurants/17114982138
+p168
+sg12
+VChembur (E)
+p169
+sg14
+(lp170
+V25204286
+p171
+asg20
+g21
+sg22
+VPlot No. 639, Jolitha Complex No.3, N.B. Patil Road, Chembur (E), Mumbai
+p172
+sba(i__main__
+Place
+p173
+(dp174
+g3
+(lp175
+VFast Food Shops
+p176
+aV Restaurants
+p177
+asg6
+g36
+sg8
+VYoko Sizzlers
+p178
+sg10
+Vhttp://mumbai.burrp.com/listing/yoko-sizzlers_chembur-e_mumbai_fast-food-shops-restaurants/1416465168
+p179
+sg12
+VChembur (E)
+p180
+sg14
+(lp181
+V25200028
+p182
+asg20
+g21
+sg22
+VHotel Bahri Residency, Plot No. 1, Sion Trombay Road, Next to Barista, Chembur (E), Mumbai
+p183
+sba(i__main__
+Place
+p184
+(dp185
+g3
+(lp186
+VRestaurants
+p187
+asg6
+g36
+sg8
+VStars Parade
+p188
+sg10
+Vhttp://mumbai.burrp.com/listing/stars-parade_chembur-e_mumbai_restaurants/16259247
+p189
+sg12
+VChembur (E)
+p190
+sg14
+(lp191
+V25270307
+p192
+aV 25271787
+p193
+aV 32162443
+p194
+asg20
+g36
+sg22
+VSwami Jairamdas Shopping Centre, Opposite Basant Park, Chembur (E), Mumbai
+p195
+sba(i__main__
+Place
+p196
+(dp197
+g3
+(lp198
+VRestaurants
+p199
+asg6
+g36
+sg8
+VYogi
+p200
+sg10
+Vhttp://mumbai.burrp.com/listing/yogi_chembur-e_mumbai_restaurants/12473485
+p201
+sg12
+VChembur (E)
+p202
+sg14
+(lp203
+V25280289
+p204
+aV 25280011
+p205
+aV 25286826
+p206
+aV 25280293
+p207
+asg20
+g70
+sg22
+V403-K, Sion-Trombay Road, Diamond Garden, Chembur (E), Mumbai
+p208
+sba(i__main__
+Place
+p209
+(dp210
+g3
+(lp211
+VRestaurants
+p212
+asg6
+g36
+sg8
+VGolden Lawn
+p213
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-lawn_chembur-e_mumbai_restaurants/113117396
+p214
+sg12
+VChembur (E)
+p215
+sg14
+(lp216
+V25286850
+p217
+aV 25284441
+p218
+aV 25282290
+p219
+asg20
+g21
+sg22
+VKrishna Baug, R.C. Marg, Chembur (E), Mumbai
+p220
+sba(i__main__
+Place
+p221
+(dp222
+g3
+(lp223
+VMithai & Farsan Shops
+p224
+aV Restaurants
+p225
+asg6
+g7
+sg8
+VHotel Saroj & Sweet Mart
+p226
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-saroj-sweet-mart_chembur-e_mumbai_mithai-farsan-shops-restaurants/1321370277
+p227
+sg12
+VChembur (E)
+p228
+sg14
+(lp229
+V25282291
+p230
+aV 25287359
+p231
+asg20
+g21
+sg22
+V10th Road, Chembur (E), Mumbai
+p232
+sba(i__main__
+Place
+p233
+(dp234
+g3
+(lp235
+VBars & Pubs
+p236
+aV Restaurants
+p237
+asg6
+g7
+sg8
+VAdarsh Bar & Restaurant
+p238
+sg10
+Vhttp://mumbai.burrp.com/listing/adarsh-bar-restaurant_chembur-e_mumbai_bars-pubs-restaurants/161797148
+p239
+sg12
+VChembur (E)
+p240
+sg14
+(lp241
+V25214441
+p242
+aV 25214766
+p243
+aV 25216765
+p244
+aV 25285454
+p245
+aV  25287007
+p246
+asg20
+g21
+sg22
+VBalkrishna Centre, Govandi Road, NG Acahrya Marg, Chembur (E), Mumbai
+p247
+sba(i__main__
+Place
+p248
+(dp249
+g3
+(lp250
+VRestaurants
+p251
+asg6
+g7
+sg8
+VThe Shawarma Joint 
+p252
+sg10
+Vhttp://mumbai.burrp.com/listing/the-shawarma-joint-_chembur-e_mumbai_restaurants/1257102584
+p253
+sg12
+VChembur (E)
+p254
+sg14
+(lp255
+V25209506
+p256
+aV 9833300497
+p257
+asg20
+g21
+sg22
+VPriyanka Apartments, Shop No. 2, Sion Trombay Road , Next To Matri Park , Chembur (E), Mumbai
+p258
+sba(i__main__
+Place
+p259
+(dp260
+g3
+(lp261
+VRestaurants
+p262
+asg6
+g7
+sg8
+VAnything on a Platter
+p263
+sg10
+Vhttp://mumbai.burrp.com/listing/anything-on-a-platter_chembur-e_mumbai_restaurants/1613749148
+p264
+sg12
+VChembur (E)
+p265
+sg14
+(lp266
+V25578888
+p267
+aV 25579999
+p268
+asg20
+g21
+sg22
+V Shop No.16 -17, Acharya Commercial & shopping centre, Dr. C.G.Rd, Chembur (E), Mumbai
+p269
+sba(i__main__
+Place
+p270
+(dp271
+g3
+(lp272
+VRestaurants
+p273
+asg6
+g7
+sg8
+VBhatt Vishranti Graha
+p274
+sg10
+Vhttp://mumbai.burrp.com/listing/bhatt-vishranti-graha_chembur-e_mumbai_restaurants/142372267
+p275
+sg12
+VChembur (E)
+p276
+sg14
+(lp277
+V25227275
+p278
+asg20
+g48
+sg22
+VSion-Trombay Road, Chembur Naka, Chembur (E), Mumbai
+p279
+sba(i__main__
+Place
+p280
+(dp281
+g3
+(lp282
+VRestaurants
+p283
+asg6
+g7
+sg8
+VGrilled House - Kebab Corner
+p284
+sg10
+Vhttp://mumbai.burrp.com/listing/grilled-house---kebab-corner_chembur-e_mumbai_restaurants/1361199673
+p285
+sg12
+VChembur (E)
+p286
+sg14
+(lp287
+V25213347
+p288
+aV 20632299
+p289
+asg20
+g21
+sg22
+V10 Elca House, 16th Road, Chembur (E), Mumbai
+p290
+sba(i__main__
+Place
+p291
+(dp292
+g3
+(lp293
+VRestaurants
+p294
+asg6
+g21
+sg8
+VBeijing Chinese Restaurant
+p295
+sg10
+Vhttp://mumbai.burrp.com/listing/beijing-chinese-restaurant_chembur-e_mumbai_restaurants/175105534
+p296
+sg12
+VChembur (E)
+p297
+sg14
+(lp298
+V25222292
+p299
+aV 25229489
+p300
+asg20
+g70
+sg22
+V14, Sunder Apartments, Sion-Trombay Road, Chembur (E), Mumbai
+p301
+sba(i__main__
+Place
+p302
+(dp303
+g3
+(lp304
+VFast Food Shops
+p305
+aV Bars & Pubs
+p306
+aV Restaurants
+p307
+asg6
+g36
+sg8
+VChembur Gymkhana Phase 1
+p308
+sg10
+Vhttp://mumbai.burrp.com/listing/chembur-gymkhana-phase-1_chembur-e_mumbai_fast-food-shops-bars-pubs-restaurants/155373554
+p309
+sg12
+VChembur (E)
+p310
+sg14
+(lp311
+V25217030
+p312
+aV 25217031
+p313
+aV 25217032
+p314
+asg20
+g21
+sg22
+V16th Road, Chembur (E), Mumbai
+p315
+sba(i__main__
+Place
+p316
+(dp317
+g3
+(lp318
+VRestaurants
+p319
+asg6
+g36
+sg8
+VCelebrations Restaurant & Bar
+p320
+sg10
+Vhttp://mumbai.burrp.com/listing/celebrations-restaurant-bar_chembur-e_mumbai_restaurants/121109188
+p321
+sg12
+VChembur (E)
+p322
+sg14
+(lp323
+V25224446
+p324
+aV 25224447
+p325
+asg20
+g21
+sg22
+VSunny Estate 1, Sion-Trombay Road, Chembur (E), Mumbai
+p326
+sba(i__main__
+Place
+p327
+(dp328
+g3
+(lp329
+VRestaurants
+p330
+asg6
+g36
+sg8
+VUdaya Family Restaurant
+p331
+sg10
+Vhttp://mumbai.burrp.com/listing/udaya-family-restaurant_chembur-e_mumbai_restaurants/127253782
+p332
+sg12
+VChembur (E)
+p333
+sg14
+(lp334
+V25214268
+p335
+aV 25218792
+p336
+aV 25214628
+p337
+asg20
+g70
+sg22
+VShrama Safalya Building, Near Railway Station, Chembur (E), Mumbai
+p338
+sba(i__main__
+Place
+p339
+(dp340
+g3
+(lp341
+VBars & Pubs
+p342
+aV Restaurants
+p343
+asg6
+g36
+sg8
+VRaj
+p344
+sg10
+Vhttp://mumbai.burrp.com/listing/raj_chembur-e_mumbai_bars-pubs-restaurants/160797049
+p345
+sg12
+VChembur (E)
+p346
+sg14
+(lp347
+V25537598
+p348
+aV 25532051
+p349
+aV 25536162
+p350
+asg20
+g21
+sg22
+V18-19 A Chembur Camp, Dr CG Road, Chembur (E), Mumbai
+p351
+sba(i__main__
+Place
+p352
+(dp353
+g3
+(lp354
+VBars & Pubs
+p355
+aV Restaurants
+p356
+asg6
+g21
+sg8
+VRanjeet Da Dhaba
+p357
+sg10
+Vhttp://mumbai.burrp.com/listing/ranjeet-da-dhaba_chembur-e_mumbai_bars-pubs-restaurants/139371970
+p358
+sg12
+VChembur (E)
+p359
+sg14
+(lp360
+V25534903
+p361
+aV 25531603
+p362
+aV 32020209
+p363
+asg20
+g21
+sg22
+VDr. C.G. Marg, Chembur Camp, Chembur (E), Mumbai
+p364
+sba(i__main__
+Place
+p365
+(dp366
+g3
+(lp367
+VBars & Pubs
+p368
+aV Restaurants
+p369
+asg6
+g36
+sg8
+VOrnament
+p370
+sg10
+Vhttp://mumbai.burrp.com/listing/ornament_chembur-e_mumbai_bars-pubs-restaurants/198134811
+p371
+sg12
+VChembur (E)
+p372
+sg14
+(lp373
+V67856600
+p374
+aV 67856666
+p375
+aV 25280987
+p376
+aV 25281055
+p377
+asg20
+g70
+sg22
+VHotel Rajhans, Opposite Chembur Railway Station, Opposite Chembur Railway Station, Chembur (E), Mumbai
+p378
+sba(i__main__
+Place
+p379
+(dp380
+g3
+(lp381
+VRestaurants
+p382
+asg6
+g36
+sg8
+VOceanic
+p383
+sg10
+Vhttp://mumbai.burrp.com/listing/oceanic_chembur-e_mumbai_restaurants/186133623
+p384
+sg12
+VChembur (E)
+p385
+sg14
+(lp386
+V25216765
+p387
+aV 25214766
+p388
+asg20
+g70
+sg22
+VBalkrishna Centre, NG Acharya Marg, Chembur (E), Mumbai
+p389
+sba(i__main__
+Place
+p390
+(dp391
+g3
+(lp392
+VRestaurants
+p393
+asg6
+g36
+sg8
+VMaharana Kamat
+p394
+sg10
+Vhttp://mumbai.burrp.com/listing/maharana-kamat_chembur-e_mumbai_restaurants/1561354653
+p395
+sg12
+VChembur (E)
+p396
+sg14
+(lp397
+V25291030
+p398
+aV 25243557
+p399
+aV 25274003
+p400
+asg20
+g21
+sg22
+VChauhan Apartment, V. N. Marg, Chembur Naka, Chembur (E), Mumbai
+p401
+sba(i__main__
+Place
+p402
+(dp403
+g3
+(lp404
+VBars & Pubs
+p405
+aV Restaurants
+p406
+asg6
+g7
+sg8
+VTrack Side
+p407
+sg10
+Vhttp://mumbai.burrp.com/listing/track-side_chembur-e_mumbai_bars-pubs-restaurants/1601445049
+p408
+sg12
+VChembur (E)
+p409
+sg14
+(lp410
+V25239000
+p411
+aV 25249000
+p412
+asg20
+g21
+sg22
+VShell Colony Road, Next To Jenny Photo Studio, Near Chembur Station, Next to Pritam, Chembur (E), Mumbai
+p413
+sba(i__main__
+Place
+p414
+(dp415
+g3
+(lp416
+VRestaurants
+p417
+asg6
+g21
+sg8
+VGarcia's Famous Pizza
+p418
+sg10
+Vhttp://mumbai.burrp.com/listing/garcias-famous-pizza_chembur-e_mumbai_restaurants/148165861
+p419
+sg12
+VChembur (E)
+p420
+sg14
+(lp421
+V67103804
+p422
+aV 67103805
+p423
+aV 67103806
+p424
+aV 9930462674
+p425
+asg20
+g21
+sg22
+VShop no 13, Ground. Floor, Chhadva Apt, S.T. Road Diamond Garden, Chembur (E), Mumbai
+p426
+sba(i__main__
+Place
+p427
+(dp428
+g3
+(lp429
+VRestaurants
+p430
+asg6
+g36
+sg8
+VDomino's Pizza
+p431
+sg10
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_chembur-e_mumbai_restaurants/14239267
+p432
+sg12
+VChembur (E)
+p433
+sg14
+(lp434
+V25298382
+p435
+aV 25298383
+p436
+asg20
+g70
+sg22
+VVijay Cinema Compound, Opp. Akbarali, S.T. Road, Chembur (E), Mumbai
+p437
+sba(i__main__
+Place
+p438
+(dp439
+g3
+(lp440
+VLounges
+p441
+aV Bars & Pubs
+p442
+aV Restaurants
+p443
+asg6
+g36
+sg8
+VNirvana Restaurant & XS Lounge-Bar
+p444
+sg10
+Vhttp://mumbai.burrp.com/listing/nirvana-restaurant-xs-lounge-bar_chembur-e_mumbai_lounges-bars-pubs-restaurants/1331199376
+p445
+sg12
+VChembur (E)
+p446
+sg14
+(lp447
+V25480401
+p448
+aV 25480402
+p449
+asg20
+g36
+sg22
+VOasis Capsulation Premises, Sion Trombay Road, Deonar, Chembur (E), Mumbai
+p450
+sba(i__main__
+Place
+p451
+(dp452
+g3
+(lp453
+VCafes
+p454
+aV Restaurants
+p455
+asg6
+g166
+sg8
+VCafe Kayaak
+p456
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-kayaak_chembur-e_mumbai_cafes-restaurants/1524774257
+p457
+sg12
+VChembur (E)
+p458
+sg14
+(lp459
+V64236116
+p460
+aV 8097567890
+p461
+asg20
+g21
+sg22
+VShop No.13, Vani Apts, Opp Golf Club, Dr.C.G. Road, Chembur (E), Mumbai
+p462
+sba(i__main__
+Place
+p463
+(dp464
+g3
+(lp465
+VRestaurants
+p466
+aV Canteens
+p467
+asg6
+g7
+sg8
+VHotel Pradeep
+p468
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-pradeep_chembur-e_mumbai_restaurants-canteens/134740475
+p469
+sg12
+VChembur (E)
+p470
+sg14
+(lp471
+V25280110
+p472
+asg20
+g48
+sg22
+VGokul Housing Society, D.K. Sandu Marg, Near Chembur Flyover, Chembur (E), Mumbai
+p473
+sba(i__main__
+Place
+p474
+(dp475
+g3
+(lp476
+VOutdoor Caterers
+p477
+aV Restaurants
+p478
+asg6
+g7
+sg8
+VKhana Khazana
+p479
+sg10
+Vhttp://mumbai.burrp.com/listing/khana-khazana_chembur-e_mumbai_outdoor-caterers-restaurants/1481200861
+p480
+sg12
+VChembur (E)
+p481
+sg14
+(lp482
+V25575402
+p483
+aV 25518651
+p484
+aV 25503808
+p485
+aV 25892966
+p486
+aV   25892988
+p487
+asg20
+g21
+sg22
+VChembur (E), Mumbai
+p488
+sba(i__main__
+Place
+p489
+(dp490
+g3
+(lp491
+VRestaurants
+p492
+asg6
+g36
+sg8
+VSaroj Veg Restaurant
+p493
+sg10
+Vhttp://mumbai.burrp.com/listing/saroj-veg-restaurant_chembur-e_mumbai_restaurants/1341199475
+p494
+sg12
+VChembur (E)
+p495
+sg14
+(lp496
+V25222832
+p497
+asg20
+g48
+sg22
+VN.G. Acharya Marg, Chembur (E), Mumbai
+p498
+sba(i__main__
+Place
+p499
+(dp500
+g3
+(lp501
+VRestaurants
+p502
+asg6
+g36
+sg8
+VNeel Durg
+p503
+sg10
+Vhttp://mumbai.burrp.com/listing/neel-durg_chembur-e_mumbai_restaurants/170132039
+p504
+sg12
+VChembur (E)
+p505
+sg14
+(lp506
+V25211691
+p507
+asg20
+g70
+sg22
+VMukti Nagar, Waman T Patil Marg, Chembur (E), Mumbai
+p508
+sba(i__main__
+Place
+p509
+(dp510
+g3
+(lp511
+VRestaurants
+p512
+asg6
+g36
+sg8
+VPunjab Vaishno Bhojan Shala
+p513
+sg10
+Vhttp://mumbai.burrp.com/listing/punjab-vaishno-bhojan-shala_chembur-e_mumbai_restaurants/165410544
+p514
+sg12
+VChembur (E)
+p515
+sg14
+(lp516
+V25531382
+p517
+asg20
+g48
+sg22
+VChembur Colony signal, R.C.Marg, Chembur (E), Mumbai
+p518
+sba(i__main__
+Place
+p519
+(dp520
+g3
+(lp521
+VRestaurants
+p522
+asg6
+g48
+sg8
+VSmokin' Joe's
+p523
+sg10
+Vhttp://mumbai.burrp.com/listing/smokin-joes_chembur-e_mumbai_restaurants/19617613
+p524
+sg12
+VChembur (E)
+p525
+sg14
+(lp526
+V25201117
+p527
+aV 25201118
+p528
+asg20
+g70
+sg22
+VShop No.1, Priyanka Apartments, Opposite Atur Park, Sion-Trombay Road, Chembur (E), Mumbai
+p529
+sba(i__main__
+Place
+p530
+(dp531
+g3
+(lp532
+VRestaurants
+p533
+asg6
+g21
+sg8
+VInde Green
+p534
+sg10
+Vhttp://mumbai.burrp.com/listing/inde-green_chembur-e_mumbai_restaurants/1661355643
+p535
+sg12
+VChembur (E)
+p536
+sg14
+(lp537
+V25505939
+p538
+aV 67653009
+p539
+asg20
+g21
+sg22
+VSai Commericial Centre, BKS Devshi Marg, Govandi, Chembur (E), Mumbai
+p540
+sba(i__main__
+Place
+p541
+(dp542
+g3
+(lp543
+VOutdoor Caterers
+p544
+aV Gymkhanas and Social Clubs
+p545
+aV Restaurants
+p546
+asg6
+g21
+sg8
+VThe Chembur Gymkhana - Phase II 
+p547
+sg10
+Vhttp://mumbai.burrp.com/listing/the-chembur-gymkhana---phase-ii-_chembur-e_mumbai_outdoor-caterers-gymkhanas-and-social-clubs-restaurants/1605081049
+p548
+sg12
+VChembur (E)
+p549
+sg14
+(lp550
+V25217030
+p551
+aV 25217031
+p552
+aV 25217032
+p553
+asg20
+g21
+sg22
+VThe Chembur Gymkhana - Phase II, 16th Road, Chembur (E), Mumbai
+p554
+sba(i__main__
+Place
+p555
+(dp556
+g3
+(lp557
+VRestaurants
+p558
+aV Fast Food Shops
+p559
+asg6
+g70
+sg8
+VMcDonald's
+p560
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_chembur-e_mumbai_restaurants-fast-food-shops/1782499831
+p561
+sg12
+VChembur (E)
+p562
+sg14
+(lp563
+V32093246
+p564
+asg20
+g21
+sg22
+V3rd Floor, Chembur (E), Mumbai
+p565
+sba(i__main__
+Place
+p566
+(dp567
+g3
+(lp568
+VRestaurants
+p569
+asg6
+g70
+sg8
+VSai Kiran's China Garden
+p570
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-kirans-china-garden_chembur-e_mumbai_restaurants/16850841
+p571
+sg12
+VChembur (E)
+p572
+sg14
+(lp573
+V25284155
+p574
+aV 25262986
+p575
+asg20
+g70
+sg22
+V217, Central Avenue, 11th Road, Chembur (E), Mumbai
+p576
+sba(i__main__
+Place
+p577
+(dp578
+g3
+(lp579
+VBars & Pubs
+p580
+aV Restaurants
+p581
+asg6
+g70
+sg8
+VMalhar
+p582
+sg10
+Vhttp://mumbai.burrp.com/listing/malhar_chembur-e_mumbai_bars-pubs-restaurants/1391199970
+p583
+sg12
+VChembur (E)
+p584
+sg14
+(lp585
+V67973580
+p586
+aV 25284230
+p587
+asg20
+g21
+sg22
+V19th Road, B. K. Sandu Marg, Station Avenue, Chembur (E), Mumbai
+p588
+sba(i__main__
+Place
+p589
+(dp590
+g3
+(lp591
+VRestaurants
+p592
+asg6
+g70
+sg8
+VMughal Chong
+p593
+sg10
+Vhttp://mumbai.burrp.com/listing/mughal-chong_chembur-e_mumbai_restaurants/148363861
+p594
+sg12
+VChembur (E)
+p595
+sg14
+(lp596
+V25271138
+p597
+aV 25271105
+p598
+asg20
+g21
+sg22
+VCoral Classic, Road No.20, Near Ambedkar Garden, Behind ICICI Bank, Chembur (E), Mumbai
+p599
+sba(i__main__
+Place
+p600
+(dp601
+g3
+(lp602
+VRestaurants
+p603
+asg6
+g70
+sg8
+VDakshin
+p604
+sg10
+Vhttp://mumbai.burrp.com/listing/dakshin_chembur-e_mumbai_restaurants/163797346
+p605
+sg12
+VChembur (E)
+p606
+sg14
+(lp607
+V25281050
+p608
+aV 25281051
+p609
+aV 25280254
+p610
+asg20
+g48
+sg22
+VG70 Vishawakarma Bldg, Central Avenue Road, Chembur (E), Mumbai
+p611
+sba(i__main__
+Place
+p612
+(dp613
+g3
+(lp614
+VTake Away Shops
+p615
+aV Home Caterers
+p616
+aV Restaurants
+p617
+asg6
+g70
+sg8
+VKiruba Kitchen
+p618
+sg10
+Vhttp://mumbai.burrp.com/listing/kiruba-kitchen_chembur-e_mumbai_take-away-shops-home-caterers-restaurants/1436546366
+p619
+sg12
+VChembur (E)
+p620
+sg14
+(lp621
+V32099464
+p622
+aV 32099465
+p623
+aV 25222446
+p624
+asg20
+g21
+sg22
+VF/8, Radha Narayan Krupa, Opposite Basant Park Police station, R.C.Marg, Chembur (E), Mumbai
+p625
+sba(i__main__
+Place
+p626
+(dp627
+g3
+(lp628
+VBars & Pubs
+p629
+aV Restaurants
+p630
+asg6
+g70
+sg8
+VVijay Punjab
+p631
+sg10
+Vhttp://mumbai.burrp.com/listing/vijay-punjab_chembur-e_mumbai_bars-pubs-restaurants/12318829386
+p632
+sg12
+VChembur (E)
+p633
+sg14
+(lp634
+V25588000
+p635
+aV 25581841
+p636
+aV 25581624
+p637
+asg20
+g21
+sg22
+VSion Trombay Road, Chembur (E), Mumbai
+p638
+sba(i__main__
+Place
+p639
+(dp640
+g3
+(lp641
+VRestaurants
+p642
+asg6
+g70
+sg8
+VGreen Wood
+p643
+sg10
+Vhttp://mumbai.burrp.com/listing/green-wood_chembur-e_mumbai_restaurants/18722624722
+p644
+sg12
+VChembur (E)
+p645
+sg14
+(lp646
+V25290202
+p647
+aV 9029291878
+p648
+aV 9819225137
+p649
+asg20
+g21
+sg22
+VFlora Avenue, 10th Road, Sandu Garden Junction, Chembur (E), Mumbai
+p650
+sba.

@@ -1,0 +1,131 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VVinay Health Home
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/vinay-health-home_cp-tank_mumbai_restaurants/19271217
+p11
+sS'region'
+p12
+VCP Tank
+p13
+sS'phone'
+p14
+(lp15
+V22081211
+p16
+asS'cost'
+p17
+V1
+p18
+sS'addr'
+p19
+V71183, Jawahar Mansion, Fanaswadi Corner, CP Tank, Girgaon, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g7
+sg8
+VKhichdi Samrat
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/khichdi-samrat_cp-tank_mumbai_restaurants/187124722
+p26
+sg12
+VCP Tank
+p27
+sg14
+(lp28
+V22420344
+p29
+aV 66381332
+p30
+asg17
+g18
+sg19
+V44 / 46, VP Road, CP Tank, Girgaon, Mumbai
+p31
+sba(i__main__
+Place
+p32
+(dp33
+g3
+(lp34
+VRestaurants
+p35
+asg6
+V0
+p36
+sg8
+VDelhiwale Ka Bhojnalay
+p37
+sg10
+Vhttp://mumbai.burrp.com/listing/delhiwale-ka-bhojnalay_cp-tank_mumbai_restaurants/1638825346
+p38
+sg12
+VCP Tank
+p39
+sg14
+(lp40
+V22420997
+p41
+aV 9820888887
+p42
+asg17
+g36
+sg19
+VGround Floor, Ananth Terrace Buliding, V P Road, CP Tank, Girgaon, Mumbai
+p43
+sba(i__main__
+Place
+p44
+(dp45
+g3
+(lp46
+VRestaurants
+p47
+asg6
+g36
+sg8
+VYadgari Punjab Restaurant
+p48
+sg10
+Vhttp://mumbai.burrp.com/listing/yadgari-punjab-restaurant_cp-tank_mumbai_restaurants/1298830980
+p49
+sg12
+VCP Tank
+p50
+sg14
+(lp51
+V65781193
+p52
+aV 9820380338
+p53
+asg17
+g36
+sg19
+V189 Patthe Baburao Marg, Nxt To Delhi Darbar Restaurant, CP Tank, Girgaon, Mumbai
+p54
+sba.

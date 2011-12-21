@@ -1,0 +1,78 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Hotels
+p6
+asS'rating'
+p7
+V3
+p8
+sS'name'
+p9
+VAnand Sagar Resort And Water Park
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/anand-sagar-resort-and-water-park_ambernath_thane_restaurants-hotels/12114059188
+p12
+sS'region'
+p13
+VAmbernath
+p14
+sS'phone'
+p15
+(lp16
+V6481160
+p17
+aV 9822847700
+p18
+aV 9822857700
+p19
+asS'cost'
+p20
+V0
+p21
+sS'addr'
+p22
+VOff Anand Nagar MIDC Highway, Palegaon, Ambernath, Thane
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+aV Bars & Pubs
+p28
+asg7
+g21
+sg9
+VSibbu Palace
+p29
+sg11
+Vhttp://mumbai.burrp.com/listing/sibbu-palace_ambernath_thane_restaurants-bars-pubs/19914057910
+p30
+sg13
+VAmbernath
+p31
+sg15
+(lp32
+V2600609
+p33
+aV 2606958
+p34
+asg20
+g21
+sg22
+VShivdham Complex, Shivaji Path, Ambernath, Thane
+p35
+sba.

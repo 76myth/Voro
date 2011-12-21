@@ -1,0 +1,395 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VLounges
+p5
+aV Restaurants
+p6
+aV Banquet Halls
+p7
+asS'rating'
+p8
+V4
+p9
+sS'name'
+p10
+VRain Forest 
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/rain-forest-_cbd-belapur-e_navi-mumbai_lounges-restaurants-banquet-halls/1394178970
+p13
+sS'region'
+p14
+VCBD-Belapur (E)
+p15
+sS'phone'
+p16
+(lp17
+V65176565
+p18
+aV 9223394915
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VShop No 17-21, Kukreja Centre, Plot No-13, Sector 11, NMMC Building, CBD-Belapur (E), Navi Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg8
+g9
+sg10
+VPet Pujo
+p28
+sg12
+Vhttp://mumbai.burrp.com/listing/pet-pujo_cbd-belapur-e_navi-mumbai_restaurants/1362360673
+p29
+sg14
+VCBD-Belapur (E)
+p30
+sg16
+(lp31
+V65149666
+p32
+aV 9930166503
+p33
+asg20
+g21
+sg22
+VSector 15, Near Reliance Fresh, CBD-Belapur (E), Navi Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg8
+V3
+p39
+sg10
+VMoti Mahal Grand
+p40
+sg12
+Vhttp://mumbai.burrp.com/listing/moti-mahal-grand_cbd-belapur-e_navi-mumbai_restaurants/1603434049
+p41
+sg14
+VCBD-Belapur (E)
+p42
+sg16
+(lp43
+V27574173
+p44
+aV 27571818
+p45
+asg20
+g21
+sg22
+VThapar Complex, Sector 15, CBD-Belapur (E), Navi Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+aV Bars & Pubs
+p51
+asg8
+V5
+p52
+sg10
+VAshwith
+p53
+sg12
+Vhttp://mumbai.burrp.com/listing/ashwith_cbd-belapur-e_navi-mumbai_restaurants-bars-pubs/1776387732
+p54
+sg14
+VCBD-Belapur (E)
+p55
+sg16
+(lp56
+V27575613
+p57
+aV 27565554
+p58
+aV 27565840
+p59
+asg20
+g21
+sg22
+VShop No.5/6/7, Sai Sagar Building, Sector -15, CBD-Belapur (E), Navi Mumbai
+p60
+sba(i__main__
+Place
+p61
+(dp62
+g3
+(lp63
+VTake Away Shops
+p64
+aV Fast Food Shops
+p65
+aV Outdoor Caterers
+p66
+aV Restaurants
+p67
+aV Home Caterers
+p68
+aV Nutritional Supplement Stores
+p69
+aV Tiffin Services
+p70
+asg8
+g9
+sg10
+VAnkuran Restaurant
+p71
+sg12
+Vhttp://mumbai.burrp.com/listing/ankuran-restaurant_cbd-belapur-e_navi-mumbai_take-away-shops-fast-food-shops-outdoor-caterers/1796972930
+p72
+sg14
+VCBD-Belapur (E)
+p73
+sg16
+(lp74
+V9769531616
+p75
+aV 9702531616
+p76
+asg20
+g21
+sg22
+VKukreja Plaza, Shop No. 52, Sector-11, Below K Star Hotel, CBD-Belapur (E), Navi Mumbai
+p77
+sba(i__main__
+Place
+p78
+(dp79
+g3
+(lp80
+VRestaurants
+p81
+asg8
+g9
+sg10
+VThe Legend
+p82
+sg12
+Vhttp://mumbai.burrp.com/listing/the-legend_cbd-belapur-e_navi-mumbai_restaurants/1476897762
+p83
+sg14
+VCBD-Belapur (E)
+p84
+sg16
+(lp85
+V265165454
+p86
+aV 265114545
+p87
+asg20
+g21
+sg22
+VMagaldeep Building, Ground Floor, Sector-14, CBD-Belapur (E), Navi Mumbai
+p88
+sba(i__main__
+Place
+p89
+(dp90
+g3
+(lp91
+VRestaurants
+p92
+asg8
+g39
+sg10
+VThe Great Wall
+p93
+sg12
+Vhttp://mumbai.burrp.com/listing/the-great-wall_cbd-belapur-e_navi-mumbai_restaurants/1763435633
+p94
+sg14
+VCBD-Belapur (E)
+p95
+sg16
+(lp96
+V27580528
+p97
+asg20
+g21
+sg22
+VThapar Complex, Next to Moti Mahal Grand Restaurant, Sector 15, CBD-Belapur (E), Navi Mumbai
+p98
+sba(i__main__
+Place
+p99
+(dp100
+g3
+(lp101
+VRestaurants
+p102
+asg8
+V0
+p103
+sg10
+VPet Puja
+p104
+sg12
+Vhttp://mumbai.burrp.com/listing/pet-puja_cbd-belapur-e_navi-mumbai_restaurants/1304385079
+p105
+sg14
+VCBD-Belapur (E)
+p106
+sg16
+(lp107
+V65149666
+p108
+asg20
+g103
+sg22
+Vsector 15, CBD-Belapur (E), Navi Mumbai
+p109
+sba(i__main__
+Place
+p110
+(dp111
+g3
+(lp112
+VRestaurants
+p113
+asg8
+g103
+sg10
+VLajjatdar Malvani
+p114
+sg12
+Vhttp://mumbai.burrp.com/listing/lajjatdar-malvani_cbd-belapur-e_navi-mumbai_restaurants/1485556861
+p115
+sg14
+VCBD-Belapur (E)
+p116
+sg16
+(lp117
+V27571335
+p118
+aV 27571334
+p119
+aV 27573570
+p120
+aV 27573575
+p121
+asg20
+g103
+sg22
+VKukreja Plaza, Shop No. 30, Plot 46, 47, 55, Sector - 11, CBD-Belapur (E), Navi Mumbai
+p122
+sba(i__main__
+Place
+p123
+(dp124
+g3
+(lp125
+VRestaurants
+p126
+asg8
+g103
+sg10
+VNFC Dine Inn
+p127
+sg12
+Vhttp://mumbai.burrp.com/listing/nfc-dine-inn_cbd-belapur-e_navi-mumbai_restaurants/1585575851
+p128
+sg14
+VCBD-Belapur (E)
+p129
+sg16
+(lp130
+V41232016
+p131
+aV 41234016
+p132
+asg20
+g103
+sg22
+V212 - 213, Citi Tower, 2nd Floor, Plot No. 55, Sector 15, CBD-Belapur (E), Navi Mumbai
+p133
+sba(i__main__
+Place
+p134
+(dp135
+g3
+(lp136
+VRestaurants
+p137
+asg8
+g103
+sg10
+VManorama
+p138
+sg12
+Vhttp://mumbai.burrp.com/listing/manorama_cbd-belapur-e_navi-mumbai_restaurants/17314883336
+p139
+sg14
+VCBD-Belapur (E)
+p140
+sg16
+(lp141
+V27560066
+p142
+aV 27560077
+p143
+asg20
+g21
+sg22
+VBrahma Complex, Sector 15,  Sakhal Bhavan Road , CBD-Belapur (E), Navi Mumbai
+p144
+sba(i__main__
+Place
+p145
+(dp146
+g3
+(lp147
+VRestaurants
+p148
+aV Cafes
+p149
+asg8
+g103
+sg10
+VWest 1
+p150
+sg12
+Vhttp://mumbai.burrp.com/listing/west-1_cbd-belapur-e_navi-mumbai_restaurants-cafes/16715440742
+p151
+sg14
+VCBD-Belapur (E)
+p152
+sg16
+(lp153
+V27589000
+p154
+asg20
+g39
+sg22
+VCBD-Belapur (E), Navi Mumbai
+p155
+sba.

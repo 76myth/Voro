@@ -1,0 +1,76 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VPans on Fire - An Indo Arabic Delight!
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/pans-on-fire---an-indo-arabic-delight_dombivli-w_thane_restaurants/12115049188
+p11
+sS'region'
+p12
+VDombivli (W)
+p13
+sS'phone'
+p14
+(lp15
+V3192229
+p16
+aV 8080858580
+p17
+aV 9004855257
+p18
+aV 9870110144
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VShop No.5, Rajhans Apartments, Everest Lane, Near Vodafone Gallery & Dombivli Railway Station, Dombivli (W), Thane
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VRestaurants
+p27
+asg6
+g7
+sg8
+VOasis
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/oasis_dombivli-w_thane_restaurants/14923772960
+p29
+sg12
+VDombivli (W)
+p30
+sg14
+(lp31
+V9769058222
+p32
+aV 9769058444
+p33
+asg20
+g21
+sg22
+VShop 2, 3, 4 & 5, Ganapathi Sadan, Karve Road, Dombivli (W), Thane
+p34
+sba.

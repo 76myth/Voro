@@ -1,0 +1,179 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBakery Shops
+p5
+aV Restaurants
+p6
+aV Cafes
+p7
+asS'rating'
+p8
+V4
+p9
+sS'name'
+p10
+VSassanian Bakery and Boulangerie
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/sassanian-bakery-and-boulangerie_new-marine-lines_mumbai_bakery-shops-restaurants-cafes/1611202148
+p13
+sS'region'
+p14
+VNew Marine Lines
+p15
+sS'phone'
+p16
+(lp17
+V22006198
+p18
+aV 22098001
+p19
+asS'cost'
+p20
+V1
+p21
+sS'addr'
+p22
+V98, Anandilal Podar Marg, Near Gol Masjid, New Marine Lines, Churchgate, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VOutdoor Caterers
+p27
+aV Restaurants
+p28
+asg8
+V3
+p29
+sg10
+VLiberty Lunch Home
+p30
+sg12
+Vhttp://mumbai.burrp.com/listing/liberty-lunch-home_new-marine-lines_mumbai_outdoor-caterers-restaurants/1505512059
+p31
+sg14
+VNew Marine Lines
+p32
+sg16
+(lp33
+V22007063
+p34
+aV 22098533
+p35
+asg20
+V2
+p36
+sg22
+VWellington Street, New Marine Lines, Churchgate, Mumbai
+p37
+sba(i__main__
+Place
+p38
+(dp39
+g3
+(lp40
+VRestaurants
+p41
+asg8
+g29
+sg10
+VLiberty Restaurant And Juice Centre
+p42
+sg12
+Vhttp://mumbai.burrp.com/listing/liberty-restaurant-and-juice-centre_new-marine-lines_mumbai_restaurants/14711829762
+p43
+sg14
+VNew Marine Lines
+p44
+sg16
+(lp45
+V22005831
+p46
+aV 22095672
+p47
+aV 22098261
+p48
+asg20
+V0
+p49
+sg22
+VGround Floor, Jasvilla Building, Road No.9, Vitthal Das Thackersey Marg, New Marine Lines, Churchgate, Mumbai
+p50
+sba(i__main__
+Place
+p51
+(dp52
+g3
+(lp53
+VBars & Pubs
+p54
+aV Restaurants
+p55
+asg8
+g49
+sg10
+VThe Gourmet
+p56
+sg12
+Vhttp://mumbai.burrp.com/listing/the-gourmet_new-marine-lines_mumbai_bars-pubs-restaurants/11763792
+p57
+sg14
+VNew Marine Lines
+p58
+sg16
+(lp59
+V22039121
+p60
+aV 40839121
+p61
+asg20
+g49
+sg22
+VWest End Hotel, 45, New Marine Lines, Churchgate, Mumbai
+p62
+sba(i__main__
+Place
+p63
+(dp64
+g3
+(lp65
+VRestaurants
+p66
+aV Hotels
+p67
+asg8
+g49
+sg10
+VKabab Corner
+p68
+sg12
+Vhttp://mumbai.burrp.com/listing/kabab-corner_new-marine-lines_mumbai_restaurants-hotels/15112433158
+p69
+sg14
+VNew Marine Lines
+p70
+sg16
+(lp71
+V38979999
+p72
+aV 66399999
+p73
+aV 38979600
+p74
+asg20
+g49
+sg22
+V135, Intercontinental Hotel, Marine Drive, New Marine Lines, Churchgate, Mumbai
+p75
+sba.

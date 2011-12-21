@@ -1,0 +1,2343 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VThe Golden Chariot
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/the-golden-chariot_goregaon-east_mumbai_restaurants/1481479861
+p11
+sS'region'
+p12
+VGoregaon East
+p13
+sS'phone'
+p14
+(lp15
+V26866869
+p16
+aV 26866867
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VHub Mall, 2nd Floor, Western Express Highway, Goregaon East, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+aV Delicatessens
+p26
+aV Cafes
+p27
+asg6
+g7
+sg8
+VPrego Restaurant
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/prego-restaurant_goregaon-east_mumbai_restaurants-delicatessens-cafes/1364547673
+p29
+sg12
+VGoregaon East
+p30
+sg14
+(lp31
+V61470000 
+p32
+asg18
+V3
+p33
+sg20
+VGoregaon East, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg6
+g7
+sg8
+VSatkar Rice Plate House
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/satkar-rice-plate-house_goregaon-east_mumbai_restaurants/154373455
+p40
+sg12
+VGoregaon East
+p41
+sg14
+(lp42
+V65729257
+p43
+asg18
+V1
+p44
+sg20
+V1st Floor, Dreamland Building, Goregaon (E), Goregaon East, Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g33
+sg8
+VSeasonal Tastes
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/seasonal-tastes_goregaon-east_mumbai_restaurants/1574981752
+p51
+sg12
+VGoregaon East
+p52
+sg14
+(lp53
+V61470000
+p54
+aV 67361050
+p55
+asg18
+g33
+sg20
+VGoregaon (E), Goregaon East, Mumbai
+p56
+sba(i__main__
+Place
+p57
+(dp58
+g3
+(lp59
+VRestaurants
+p60
+asg6
+g33
+sg8
+VCopper Chimney
+p61
+sg10
+Vhttp://mumbai.burrp.com/listing/copper-chimney_goregaon-east_mumbai_restaurants/1125283297
+p62
+sg12
+VGoregaon East
+p63
+sg14
+(lp64
+V67105966
+p65
+asg18
+g33
+sg20
+V3rd Floor, Goregaon East, Mumbai
+p66
+sba(i__main__
+Place
+p67
+(dp68
+g3
+(lp69
+VRestaurants
+p70
+asg6
+g33
+sg8
+VCream Centre
+p71
+sg10
+Vhttp://mumbai.burrp.com/listing/cream-centre_goregaon-east_mumbai_restaurants/1394826970
+p72
+sg12
+VGoregaon East
+p73
+sg14
+(lp74
+V28410606  
+p75
+aV 28412626
+p76
+asg18
+g19
+sg20
+V3rd Floor, Goregaon East, Mumbai
+p77
+sba(i__main__
+Place
+p78
+(dp79
+g3
+(lp80
+VRestaurants
+p81
+asg6
+g33
+sg8
+VChina Ming
+p82
+sg10
+Vhttp://mumbai.burrp.com/listing/china-ming_goregaon-east_mumbai_restaurants/133371376
+p83
+sg12
+VGoregaon East
+p84
+sg14
+(lp85
+V67066077
+p86
+aV 67066011
+p87
+aV 9987641719
+p88
+asg18
+g19
+sg20
+VThe Hub Mall, Goregaon, Off Western Express Highway, Goregaon (E), Goregaon East, Mumbai
+p89
+sba(i__main__
+Place
+p90
+(dp91
+g3
+(lp92
+VFast Food Shops
+p93
+aV Restaurants
+p94
+asg6
+g7
+sg8
+VSai Veg World
+p95
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-veg-world_goregaon-east_mumbai_fast-food-shops-restaurants/120280089
+p96
+sg12
+VGoregaon East
+p97
+sg14
+(lp98
+V26866952
+p99
+aV 26866953
+p100
+aV 26866954
+p101
+aV 26866955
+p102
+asg18
+g19
+sg20
+VNiligiri, Gr. Floor, Opp. Goregaon (E) Rly Station, Goregaon (E), Goregaon East, Mumbai
+p103
+sba(i__main__
+Place
+p104
+(dp105
+g3
+(lp106
+VRestaurants
+p107
+asg6
+g7
+sg8
+VBalaji Pure Veg
+p108
+sg10
+Vhttp://mumbai.burrp.com/listing/balaji-pure-veg_goregaon-east_mumbai_restaurants/1213106188
+p109
+sg12
+VGoregaon East
+p110
+sg14
+(lp111
+V26862777
+p112
+aV 66642111
+p113
+asg18
+g19
+sg20
+VThe Hub Mall, Western Express Highway, Goregaon East, Mumbai
+p114
+sba(i__main__
+Place
+p115
+(dp116
+g3
+(lp117
+VRestaurants
+p118
+asg6
+g33
+sg8
+VPunjab Lion Dhaba
+p119
+sg10
+Vhttp://mumbai.burrp.com/listing/punjab-lion-dhaba_goregaon-east_mumbai_restaurants/1575476752
+p120
+sg12
+VGoregaon East
+p121
+sg14
+(lp122
+V9870931625
+p123
+aV 9221975636
+p124
+asg18
+g19
+sg20
+VD1, Shop No. 30, Satellite Garden Phase II, Film City Road, Goregaon East, Mumbai
+p125
+sba(i__main__
+Place
+p126
+(dp127
+g3
+(lp128
+VRestaurants
+p129
+aV Bars & Pubs
+p130
+asg6
+g7
+sg8
+VJay Prakash Bar and Restaurant
+p131
+sg10
+Vhttp://mumbai.burrp.com/listing/jay-prakash-bar-and-restaurant_goregaon-east_mumbai_restaurants-bars-pubs/168446841
+p132
+sg12
+VGoregaon East
+p133
+sg14
+(lp134
+V26860227
+p135
+aV 26863160
+p136
+aV 32498170
+p137
+asg18
+g19
+sg20
+VSahyagiri Society, Goregaon East, Mumbai
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VBakery Shops
+p142
+aV Cafes
+p143
+aV Restaurants
+p144
+aV Dessert Shops
+p145
+asg6
+g33
+sg8
+VMoxaa
+p146
+sg10
+Vhttp://mumbai.burrp.com/listing/moxaa_goregaon-east_mumbai_bakery-shops-cafes-restaurants/1593298950
+p147
+sg12
+VGoregaon East
+p148
+sg14
+(lp149
+V32091677
+p150
+aV 28790781
+p151
+aV 28712148
+p152
+aV 22906060
+p153
+asg18
+g19
+sg20
+VShop No. 7 & 8, Golden Isle, Royal Palms, Aarey Milk Colony, Goregaon East, Mumbai
+p154
+sba(i__main__
+Place
+p155
+(dp156
+g3
+(lp157
+VRestaurants
+p158
+asg6
+g33
+sg8
+VKangan Restaurant
+p159
+sg10
+Vhttp://mumbai.burrp.com/listing/kangan-restaurant_goregaon-east_mumbai_restaurants/1324547277
+p160
+sg12
+VGoregaon East
+p161
+sg14
+(lp162
+V61470000 
+p163
+aV 67361050
+p164
+asg18
+g19
+sg20
+VGoregaon (E), Goregaon East, Mumbai
+p165
+sba(i__main__
+Place
+p166
+(dp167
+g3
+(lp168
+VRestaurants
+p169
+aV Banquet Halls
+p170
+asg6
+g33
+sg8
+VRoyal Challenge
+p171
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-challenge_goregaon-east_mumbai_restaurants-banquet-halls/112297
+p172
+sg12
+VGoregaon East
+p173
+sg14
+(lp174
+V28400208
+p175
+aV 28401982
+p176
+aV 28410986
+p177
+asg18
+V0
+p178
+sg20
+VRoyal Challenge Complex, Off Film City Road, Goregaon East, Mumbai
+p179
+sba(i__main__
+Place
+p180
+(dp181
+g3
+(lp182
+VRestaurants
+p183
+asg6
+g33
+sg8
+VRajdhani
+p184
+sg10
+Vhttp://mumbai.burrp.com/listing/rajdhani_goregaon-east_mumbai_restaurants/1675171742
+p185
+sg12
+VGoregaon East
+p186
+sg14
+(lp187
+V28424001
+p188
+asg18
+g19
+sg20
+VGoregaon East, Mumbai
+p189
+sba(i__main__
+Place
+p190
+(dp191
+g3
+(lp192
+VRestaurants
+p193
+asg6
+g19
+sg8
+VAromas of China
+p194
+sg10
+Vhttp://mumbai.burrp.com/listing/aromas-of-china_goregaon-east_mumbai_restaurants/1301208079
+p195
+sg12
+VGoregaon East
+p196
+sg14
+(lp197
+V28405581
+p198
+aV 28405582
+p199
+aV 28405583
+p200
+aV 28405584
+p201
+asg18
+g33
+sg20
+V3rd Floor, Goregaon East, Mumbai
+p202
+sba(i__main__
+Place
+p203
+(dp204
+g3
+(lp205
+VRestaurants
+p206
+asg6
+g7
+sg8
+VDomino's Pizza
+p207
+sg10
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_goregaon-east_mumbai_restaurants/143813366
+p208
+sg12
+VGoregaon East
+p209
+sg14
+(lp210
+V28493740
+p211
+aV 28493739
+p212
+aV 28493741
+p213
+aV 28493742
+p214
+asg18
+g19
+sg20
+VShop No. G-11 & G-12, Ground Floor, Gokuldham Shopping Centre, Goregaon East, Mumbai
+p215
+sba(i__main__
+Place
+p216
+(dp217
+g3
+(lp218
+VRestaurants
+p219
+asg6
+g33
+sg8
+VAarey Garden Restaurant
+p220
+sg10
+Vhttp://mumbai.burrp.com/listing/aarey-garden-restaurant_goregaon-east_mumbai_restaurants/176168633
+p221
+sg12
+VGoregaon East
+p222
+sg14
+(lp223
+V29272435
+p224
+aV 9821966496
+p225
+asg18
+g44
+sg20
+VAarey Milk Colony, Aarey Road, Opp Central Dairy, Goregaon East, Mumbai
+p226
+sba(i__main__
+Place
+p227
+(dp228
+g3
+(lp229
+VRestaurants
+p230
+asg6
+g33
+sg8
+VPratha Restaurant
+p231
+sg10
+Vhttp://mumbai.burrp.com/listing/pratha-restaurant_goregaon-east_mumbai_restaurants/1123510297
+p232
+sg12
+VGoregaon East
+p233
+sg14
+(lp234
+V65191884
+p235
+aV 26406252
+p236
+aV 9323917748
+p237
+aV 9322092900
+p238
+asg18
+g178
+sg20
+VNear Dindoshi Bus Depot, A K Vaidya Marg, Filmcity Road, Goregaon (E), Goregaon East, Mumbai
+p239
+sba(i__main__
+Place
+p240
+(dp241
+g3
+(lp242
+VRestaurants
+p243
+asg6
+V5
+p244
+sg8
+VSeven Spices
+p245
+sg10
+Vhttp://mumbai.burrp.com/listing/seven-spices_goregaon-east_mumbai_restaurants/116270693
+p246
+sg12
+VGoregaon East
+p247
+sg14
+(lp248
+V28795000
+p249
+aV 66457000
+p250
+asg18
+g33
+sg20
+VPark Plaza Hotel, Royal Palms, Goregaon (E), Goregaon East, Mumbai
+p251
+sba(i__main__
+Place
+p252
+(dp253
+g3
+(lp254
+VRestaurants
+p255
+aV Outdoor Caterers
+p256
+asg6
+g19
+sg8
+VLucky Restaurant
+p257
+sg10
+Vhttp://mumbai.burrp.com/listing/lucky-restaurant_goregaon-east_mumbai_restaurants-outdoor-caterers/1242809485
+p258
+sg12
+VGoregaon East
+p259
+sg14
+(lp260
+V65003651
+p261
+aV 28761977
+p262
+aV 9820025697
+p263
+asg18
+g44
+sg20
+VGoregaon Mulund Link Road, Ahead of Durian Estate, Goregaon (E), Goregaon East, Mumbai
+p264
+sba(i__main__
+Place
+p265
+(dp266
+g3
+(lp267
+VRestaurants
+p268
+asg6
+g33
+sg8
+VRoyal Palms
+p269
+sg10
+Vhttp://mumbai.burrp.com/listing/royal-palms_goregaon-east_mumbai_restaurants/1591372950
+p270
+sg12
+VGoregaon East
+p271
+sg14
+(lp272
+V28794000
+p273
+asg18
+g178
+sg20
+V169, Aarey Colony, Goregaon (E), Goregaon East, Mumbai
+p274
+sba(i__main__
+Place
+p275
+(dp276
+g3
+(lp277
+VRestaurants
+p278
+asg6
+g19
+sg8
+VBorivali Biryani Centre
+p279
+sg10
+Vhttp://mumbai.burrp.com/listing/borivali-biryani-centre_goregaon-east_mumbai_restaurants/1533109356
+p280
+sg12
+VGoregaon East
+p281
+sg14
+(lp282
+V26860646
+p283
+aV 26852383
+p284
+asg18
+g19
+sg20
+VShop No 173 A/4, Shantaben Estate, Station Road, Goregaon (E), Goregaon East, Mumbai
+p285
+sba(i__main__
+Place
+p286
+(dp287
+g3
+(lp288
+VRestaurants
+p289
+asg6
+g33
+sg8
+VToscano
+p290
+sg10
+Vhttp://mumbai.burrp.com/listing/toscano_goregaon-east_mumbai_restaurants/1932393316
+p291
+sg12
+VGoregaon East
+p292
+sg14
+(lp293
+V67133000
+p294
+aV 28716000
+p295
+asg18
+g33
+sg20
+VGoregaon East, Mumbai
+p296
+sba(i__main__
+Place
+p297
+(dp298
+g3
+(lp299
+VRestaurants
+p300
+asg6
+g33
+sg8
+VClassic Veg. Treat
+p301
+sg10
+Vhttp://mumbai.burrp.com/listing/classic-veg-treat_goregaon-east_mumbai_restaurants/1664415643
+p302
+sg12
+VGoregaon East
+p303
+sg14
+(lp304
+V28408854 
+p305
+aV 28408864
+p306
+aV 28426123
+p307
+aV 9594716604
+p308
+aV  9821070505
+p309
+asg18
+g178
+sg20
+VShivaji Nagar, Kanyachipada, Film City Road, Goregaon East, Mumbai
+p310
+sba(i__main__
+Place
+p311
+(dp312
+g3
+(lp313
+VRestaurants
+p314
+asg6
+g33
+sg8
+VPritam Fast Food 
+p315
+sg10
+Vhttp://mumbai.burrp.com/listing/pritam-fast-food-_goregaon-east_mumbai_restaurants/1504504059
+p316
+sg12
+VGoregaon East
+p317
+sg14
+(lp318
+V26864159 
+p319
+asg18
+g178
+sg20
+VSant Nivriti Bldg, Aarey Rd, Goregaon (E), Goregaon East, Mumbai
+p320
+sba(i__main__
+Place
+p321
+(dp322
+g3
+(lp323
+VRestaurants
+p324
+asg6
+g44
+sg8
+VSnackers' Stop 
+p325
+sg10
+Vhttp://mumbai.burrp.com/listing/snackers-stop-_goregaon-east_mumbai_restaurants/1894471920
+p326
+sg12
+VGoregaon East
+p327
+sg14
+(lp328
+V65101480
+p329
+aV 9920747147
+p330
+asg18
+g178
+sg20
+VShop No. 6, New Mahada Shopping Complex, Flimcity Road, N.N.P., Dindoshi , Goregaon East, Mumbai
+p331
+sba(i__main__
+Place
+p332
+(dp333
+g3
+(lp334
+VRestaurants
+p335
+asg6
+g178
+sg8
+VFusion Food Bistro
+p336
+sg10
+Vhttp://mumbai.burrp.com/listing/fusion-food-bistro_goregaon-east_mumbai_restaurants/1461218663
+p337
+sg12
+VGoregaon East
+p338
+sg14
+(lp339
+V28417278
+p340
+aV 32967278
+p341
+asg18
+g19
+sg20
+V7, Yashodham Shopping Centre, Opposite Royal Challenge, Film City Rd, Goregaon (E), Goregaon East, Mumbai
+p342
+sba(i__main__
+Place
+p343
+(dp344
+g3
+(lp345
+VBars & Pubs
+p346
+aV Restaurants
+p347
+asg6
+g178
+sg8
+VSwagat - Restaurant & Bar
+p348
+sg10
+Vhttp://mumbai.burrp.com/listing/swagat---restaurant-bar_goregaon-east_mumbai_bars-pubs-restaurants/1545377455
+p349
+sg12
+VGoregaon East
+p350
+sg14
+(lp351
+V29276991
+p352
+aV 29276919
+p353
+asg18
+g19
+sg20
+VAarey Road, Goregaon East, Mumbai
+p354
+sba(i__main__
+Place
+p355
+(dp356
+g3
+(lp357
+VFood-court Stalls
+p358
+aV Restaurants
+p359
+asg6
+g178
+sg8
+VDesi Dhaba
+p360
+sg10
+Vhttp://mumbai.burrp.com/listing/desi-dhaba_goregaon-east_mumbai_food-court-stalls-restaurants/1775442732
+p361
+sg12
+VGoregaon East
+p362
+sg14
+(lp363
+V40990888
+p364
+aV 9320173933
+p365
+asg18
+g178
+sg20
+V3rd Floor, Goregaon East, Mumbai
+p366
+sba(i__main__
+Place
+p367
+(dp368
+g3
+(lp369
+VRestaurants
+p370
+asg6
+g178
+sg8
+VPallavi Restaurant
+p371
+sg10
+Vhttp://mumbai.burrp.com/listing/pallavi-restaurant_goregaon-east_mumbai_restaurants/1291198980
+p372
+sg12
+VGoregaon East
+p373
+sg14
+(lp374
+V28495599
+p375
+aV 28427779
+p376
+aV 9322770605
+p377
+aV 9867362556
+p378
+asg18
+g19
+sg20
+VBelow MTNL Telephone Exchange, Gokuldham, Goregaon East, Mumbai
+p379
+sba(i__main__
+Place
+p380
+(dp381
+g3
+(lp382
+VRestaurants
+p383
+asg6
+g178
+sg8
+VShri Krishna Restaurant
+p384
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-krishna-restaurant_goregaon-east_mumbai_restaurants/1775181732
+p385
+sg12
+VGoregaon East
+p386
+sg14
+(lp387
+V28421188
+p388
+aV 64403490
+p389
+asg18
+g44
+sg20
+VVaibhav Shopping Complex, A.K. Vaidaya Marg, Nagri Nivara Parishad, Goregaon East, Mumbai
+p390
+sba(i__main__
+Place
+p391
+(dp392
+g3
+(lp393
+VBars & Pubs
+p394
+aV Restaurants
+p395
+asg6
+g178
+sg8
+VSai Prasad Family Restaurant & Bar
+p396
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-prasad-family-restaurant-bar_goregaon-east_mumbai_bars-pubs-restaurants/18723371722
+p397
+sg12
+VGoregaon East
+p398
+sg14
+(lp399
+V28405160
+p400
+aV 32665505
+p401
+asg18
+g19
+sg20
+VD-169, B.M.C.Colony, Santosh Nagar, Film City Road, N.N.P., Goregaon East, Mumbai
+p402
+sba(i__main__
+Place
+p403
+(dp404
+g3
+(lp405
+VRestaurants
+p406
+asg6
+g178
+sg8
+VMaroosh Restaurant
+p407
+sg10
+Vhttp://mumbai.burrp.com/listing/maroosh-restaurant_goregaon-east_mumbai_restaurants/18124505128
+p408
+sg12
+VGoregaon East
+p409
+sg14
+(lp410
+V28407772
+p411
+aV 28407773
+p412
+asg18
+g19
+sg20
+V3rd Floor, Goregaon East, Mumbai
+p413
+sba(i__main__
+Place
+p414
+(dp415
+g3
+(lp416
+VRestaurants
+p417
+asg6
+g178
+sg8
+VHotel Sadanand
+p418
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-sadanand_goregaon-east_mumbai_restaurants/1837054326
+p419
+sg12
+VGoregaon East
+p420
+sg14
+(lp421
+V26861334
+p422
+aV 26863857
+p423
+asg18
+g19
+sg20
+VGoregaon East, Mumbai
+p424
+sba(i__main__
+Place
+p425
+(dp426
+g3
+(lp427
+VRestaurants
+p428
+asg6
+g178
+sg8
+VThe Spice
+p429
+sg10
+Vhttp://mumbai.burrp.com/listing/the-spice_goregaon-east_mumbai_restaurants/1319758178
+p430
+sg12
+VGoregaon East
+p431
+sg14
+(lp432
+V64521474
+p433
+aV 65244706
+p434
+aV 9869855966
+p435
+asg18
+g178
+sg20
+VGala No 18, Girima Devi Chawl, Service Raod, Goregaon East, Mumbai
+p436
+sba(i__main__
+Place
+p437
+(dp438
+g3
+(lp439
+VBars & Pubs
+p440
+aV Restaurants
+p441
+asg6
+g178
+sg8
+VGreen Court
+p442
+sg10
+Vhttp://mumbai.burrp.com/listing/green-court_goregaon-east_mumbai_bars-pubs-restaurants/11522932594
+p443
+sg12
+VGoregaon East
+p444
+sg14
+(lp445
+V28414690
+p446
+aV 28415447
+p447
+aV 28496449
+p448
+asg18
+g19
+sg20
+VBhagya Laxmi Society, Film City Road, Gokuldham Market, Goregaon East, Mumbai
+p449
+sba(i__main__
+Place
+p450
+(dp451
+g3
+(lp452
+VRestaurants
+p453
+asg6
+g178
+sg8
+VShree Krishna Restaurant
+p454
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-krishna-restaurant_goregaon-east_mumbai_restaurants/1239757386
+p455
+sg12
+VGoregaon East
+p456
+sg14
+(lp457
+V65792681
+p458
+aV 28413090
+p459
+aV 9819408904
+p460
+asg18
+g178
+sg20
+VGokuldham Market, Plot No. 266, Film City Road, Goregaon East, Mumbai
+p461
+sba(i__main__
+Place
+p462
+(dp463
+g3
+(lp464
+VRestaurants
+p465
+aV Fast Food Shops
+p466
+asg6
+g178
+sg8
+VChina Came Fast Food
+p467
+sg10
+Vhttp://mumbai.burrp.com/listing/china-came-fast-food_goregaon-east_mumbai_restaurants-fast-food-shops/1599769950
+p468
+sg12
+VGoregaon East
+p469
+sg14
+(lp470
+V26865410
+p471
+aV 26865411
+p472
+asg18
+g178
+sg20
+VShop No 9, Laxmi Niwas Building, Aarey Road, Goregaon East, Mumbai
+p473
+sba(i__main__
+Place
+p474
+(dp475
+g3
+(lp476
+VRestaurants
+p477
+asg6
+g178
+sg8
+VVillaggio
+p478
+sg10
+Vhttp://mumbai.burrp.com/listing/villaggio_goregaon-east_mumbai_restaurants/1121377297
+p479
+sg12
+VGoregaon East
+p480
+sg14
+(lp481
+V66457000
+p482
+aV 28795000
+p483
+aV 28794106
+p484
+asg18
+g33
+sg20
+VRoyal Palms Estate, 169, Aarey Milk Colony, Goregaon (E), Goregaon East, Mumbai
+p485
+sba(i__main__
+Place
+p486
+(dp487
+g3
+(lp488
+VRestaurants
+p489
+asg6
+g178
+sg8
+VMachu Picchu
+p490
+sg10
+Vhttp://mumbai.burrp.com/listing/machu-picchu_goregaon-east_mumbai_restaurants/1916506118
+p491
+sg12
+VGoregaon East
+p492
+sg14
+(lp493
+V67066011
+p494
+asg18
+g178
+sg20
+V2nd Floor, The Hub Mall, Western Express Highway, Goregaon (E), Goregaon East, Mumbai
+p495
+sba(i__main__
+Place
+p496
+(dp497
+g3
+(lp498
+VRestaurants
+p499
+asg6
+g178
+sg8
+VCafeteria  Restaurant
+p500
+sg10
+Vhttp://mumbai.burrp.com/listing/cafeteria-restaurant_goregaon-east_mumbai_restaurants/1499768960
+p501
+sg12
+VGoregaon East
+p502
+sg14
+(lp503
+V28785135
+p504
+aV 32710365
+p505
+asg18
+g178
+sg20
+V3rd Floor, Oberoi Mall, Western Express Highway, Goregaon East, Mumbai
+p506
+sba(i__main__
+Place
+p507
+(dp508
+g3
+(lp509
+VRestaurants
+p510
+aV Outdoor Caterers
+p511
+asg6
+g178
+sg8
+VJaina's
+p512
+sg10
+Vhttp://mumbai.burrp.com/listing/jainas_sonawala-road_mumbai_restaurants-outdoor-caterers/15322936356
+p513
+sg12
+VSonawala Road
+p514
+sg14
+(lp515
+V26853897
+p516
+aV 26853570
+p517
+aV 9220756603
+p518
+asg18
+g19
+sg20
+VShop No. 3, Corporate Avenue, Sonawala Road, Goregaon East, Mumbai
+p519
+sba(i__main__
+Place
+p520
+(dp521
+g3
+(lp522
+VFast Food Shops
+p523
+aV Restaurants
+p524
+asg6
+g178
+sg8
+VRuchi Fast Food Corner
+p525
+sg10
+Vhttp://mumbai.burrp.com/listing/ruchi-fast-food-corner_goregaon-east_mumbai_fast-food-shops-restaurants/191467118
+p526
+sg12
+VGoregaon East
+p527
+sg14
+(lp528
+V28495706
+p529
+aV 28408737
+p530
+aV 28494259
+p531
+asg18
+g44
+sg20
+VYashodham Market, Film City Road, Goregaon (E), Goregaon East, Mumbai
+p532
+sba(i__main__
+Place
+p533
+(dp534
+g3
+(lp535
+VRestaurants
+p536
+asg6
+g178
+sg8
+VHeritage Family Restaurant & Bar
+p537
+sg10
+Vhttp://mumbai.burrp.com/listing/heritage-family-restaurant-bar_goregaon-east_mumbai_restaurants/190926019
+p538
+sg12
+VGoregaon East
+p539
+sg14
+(lp540
+V29270047
+p541
+aV 29270048
+p542
+aV 29270049
+p543
+asg18
+g19
+sg20
+VNivrutii Building, Opp Hollywood Optical Gallery, Aarey Road, Goregaon East, Mumbai
+p544
+sba(i__main__
+Place
+p545
+(dp546
+g3
+(lp547
+VRestaurants
+p548
+asg6
+g178
+sg8
+VPalladio
+p549
+sg10
+Vhttp://mumbai.burrp.com/listing/palladio_goregaon-east_mumbai_restaurants/1942393415
+p550
+sg12
+VGoregaon East
+p551
+sg14
+(lp552
+V67133000
+p553
+aV 28716000
+p554
+asg18
+g178
+sg20
+VRoyal Palms Estate, 169, Aarey Milk Colony , Goregaon East, Mumbai
+p555
+sba(i__main__
+Place
+p556
+(dp557
+g3
+(lp558
+VRestaurants
+p559
+asg6
+g178
+sg8
+VOm Sai Fast Food ( Pure Veg )
+p560
+sg10
+Vhttp://mumbai.burrp.com/listing/om-sai-fast-food-pure-veg-_goregaon-east_mumbai_restaurants/1424512267
+p561
+sg12
+VGoregaon East
+p562
+sg14
+(lp563
+V26862571
+p564
+asg18
+g178
+sg20
+VShop No. 10, Vanrai Shopping Premises Co. Op. Soceity, W. E. Hihgway, Mahada Colony, Goregaon (E), Goregaon East, Mumbai
+p565
+sba(i__main__
+Place
+p566
+(dp567
+g3
+(lp568
+VRestaurants
+p569
+asg6
+g178
+sg8
+VNayaks Khyber
+p570
+sg10
+Vhttp://mumbai.burrp.com/listing/nayaks-khyber_goregaon-east_mumbai_restaurants/1754560534
+p571
+sg12
+VGoregaon East
+p572
+sg14
+(lp573
+V265115399
+p574
+aV 265114799
+p575
+aV 9819575399
+p576
+asg18
+g19
+sg20
+VShop No.26, Sattelite Gardens, Film City Road, Goregaon (E), Goregaon East, Mumbai
+p577
+sba(i__main__
+Place
+p578
+(dp579
+g3
+(lp580
+VRestaurants
+p581
+asg6
+g178
+sg8
+VLa Sani, Kebab Kitchen
+p582
+sg10
+Vhttp://mumbai.burrp.com/listing/la-sani-kebab-kitchen_goregaon-east_mumbai_restaurants/1505206059
+p583
+sg12
+VGoregaon East
+p584
+sg14
+(lp585
+V28406713
+p586
+aV 65903535
+p587
+aV 28411601
+p588
+asg18
+g19
+sg20
+V38/39, Yashodham Shopping Centre,  Film City Road, Goregaon East, Mumbai
+p589
+sba(i__main__
+Place
+p590
+(dp591
+g3
+(lp592
+VRestaurants
+p593
+asg6
+g178
+sg8
+VWater Court
+p594
+sg10
+Vhttp://mumbai.burrp.com/listing/water-court_goregaon-east_mumbai_restaurants/1465232663
+p595
+sg12
+VGoregaon East
+p596
+sg14
+(lp597
+V67133000
+p598
+aV 28716000
+p599
+asg18
+g178
+sg20
+VImperial Palace , Royal Palms Estate, 169, Aarey Milk Colony, Goregaon (E), Goregaon East, Mumbai
+p600
+sba(i__main__
+Place
+p601
+(dp602
+g3
+(lp603
+VRestaurants
+p604
+asg6
+g178
+sg8
+VJade Pavillion
+p605
+sg10
+Vhttp://mumbai.burrp.com/listing/jade-pavillion_goregaon-east_mumbai_restaurants/1256211584
+p606
+sg12
+VGoregaon East
+p607
+sg14
+(lp608
+V28794000
+p609
+asg18
+g178
+sg20
+VRoyal Palms, 169, Aarey Colony, Goregaon (E), Goregaon East, Mumbai
+p610
+sba(i__main__
+Place
+p611
+(dp612
+g3
+(lp613
+VRestaurants
+p614
+asg6
+g178
+sg8
+VSatya Narayan
+p615
+sg10
+Vhttp://mumbai.burrp.com/listing/satya-narayan_goregaon-east_mumbai_restaurants/1837018326
+p616
+sg12
+VGoregaon East
+p617
+sg14
+(lp618
+V29275342
+p619
+aV 9967622369
+p620
+asg18
+g178
+sg20
+VSubham Sadan, Shop No. 1, Datta Mandir Chowk, Aarey Road, Goregaon (E), Goregaon East, Mumbai
+p621
+sba(i__main__
+Place
+p622
+(dp623
+g3
+(lp624
+VJuice Parlours
+p625
+aV Restaurants
+p626
+asg6
+g178
+sg8
+VLa Rotanda Restaurants
+p627
+sg10
+Vhttp://mumbai.burrp.com/listing/la-rotanda-restaurants_goregaon-east_mumbai_juice-parlours-restaurants/1939719316
+p628
+sg12
+VGoregaon East
+p629
+sg14
+(lp630
+V28716000
+p631
+aV 67133000
+p632
+asg18
+g178
+sg20
+VImperial Palace Hotel, Royal Palms , 169 Aarey Milk Colony , Mayur Nagar, Goregaon East, Mumbai
+p633
+sba(i__main__
+Place
+p634
+(dp635
+g3
+(lp636
+VRestaurants
+p637
+asg6
+g178
+sg8
+VUpkaar Bar & Restaurant
+p638
+sg10
+Vhttp://mumbai.burrp.com/listing/upkaar-bar-restaurant_goregaon-east_mumbai_restaurants/1139720396
+p639
+sg12
+VGoregaon East
+p640
+sg14
+(lp641
+V26853282
+p642
+aV 26853290
+p643
+asg18
+g178
+sg20
+VI B Patel Road, Rocky Industrial Estate, Goregaon East, Mumbai
+p644
+sba(i__main__
+Place
+p645
+(dp646
+g3
+(lp647
+VRestaurants
+p648
+asg6
+g178
+sg8
+VAashiya Restaurant
+p649
+sg10
+Vhttp://mumbai.burrp.com/listing/aashiya-restaurant_goregaon-east_mumbai_restaurants/1959728514
+p650
+sg12
+VGoregaon East
+p651
+sg14
+(lp652
+V28413839
+p653
+aV 28422764
+p654
+asg18
+g178
+sg20
+VFilm City Road, Near Gokuldham, Opposite Police Chowki, Goregaon East, Mumbai
+p655
+sba(i__main__
+Place
+p656
+(dp657
+g3
+(lp658
+VHotels
+p659
+aV Restaurants
+p660
+asg6
+g178
+sg8
+VBusiness Associates Private Limited
+p661
+sg10
+Vhttp://mumbai.burrp.com/listing/business-associates-private-limited_goregaon-east_mumbai_hotels-restaurants/1139747396
+p662
+sg12
+VGoregaon East
+p663
+sg14
+(lp664
+V26862191
+p665
+aV 9820626981
+p666
+asg18
+g178
+sg20
+VBunglow No 10, Krishna Niketan Sanchit Colony, Sonawala Lane, Near Union Bank , Goregaon East, Mumbai
+p667
+sba(i__main__
+Place
+p668
+(dp669
+g3
+(lp670
+VRestaurants
+p671
+asg6
+g178
+sg8
+VMass
+p672
+sg10
+Vhttp://mumbai.burrp.com/listing/mass_goregaon-east_mumbai_restaurants/1639752346
+p673
+sg12
+VGoregaon East
+p674
+sg14
+(lp675
+V
+p676
+aV 9371886912
+p677
+asg18
+g178
+sg20
+V3rd Floor, Oberoi Food Mall, Western Express Highway, Goregaon East, Mumbai
+p678
+sba(i__main__
+Place
+p679
+(dp680
+g3
+(lp681
+VRestaurants
+p682
+asg6
+g178
+sg8
+VSam Pan Restaurant
+p683
+sg10
+Vhttp://mumbai.burrp.com/listing/sam-pan-restaurant_goregaon-east_mumbai_restaurants/1299757980
+p684
+sg12
+VGoregaon East
+p685
+sg14
+(lp686
+V28425454
+p687
+aV 28490277
+p688
+aV 9322262728
+p689
+asg18
+g178
+sg20
+VShop 9 & 10, NNP Colony, Suyash Shopping Center, Filmcity Road, Goregaon East, Mumbai
+p690
+sba(i__main__
+Place
+p691
+(dp692
+g3
+(lp693
+VRestaurants
+p694
+asg6
+g178
+sg8
+VShanghai Restaurant & Bar
+p695
+sg10
+Vhttp://mumbai.burrp.com/listing/shanghai-restaurant-bar_goregaon-east_mumbai_restaurants/1119765198
+p696
+sg12
+VGoregaon East
+p697
+sg14
+(lp698
+V28413367
+p699
+aV 28424557
+p700
+asg18
+g178
+sg20
+VFilm City Road, Gokuldham Market, Goregaon East, Mumbai
+p701
+sba(i__main__
+Place
+p702
+(dp703
+g3
+(lp704
+VRestaurants
+p705
+aV Dance Classes
+p706
+asg6
+g178
+sg8
+VChoice Group
+p707
+sg10
+Vhttp://mumbai.burrp.com/listing/choice-group_goregaon-east_mumbai_restaurants-dance-classes/1439768366
+p708
+sg12
+VGoregaon East
+p709
+sg14
+(lp710
+V26865701
+p711
+aV 26865702
+p712
+aV 26865703
+p713
+aV 9022222746
+p714
+asg18
+g178
+sg20
+VOffice No 5, 1st Floor, Dreamland, Above Sadanand Hotel, Goregaon East, Mumbai
+p715
+sba(i__main__
+Place
+p716
+(dp717
+g3
+(lp718
+VRestaurants
+p719
+asg6
+g178
+sg8
+VChina City Chinese Corner
+p720
+sg10
+Vhttp://mumbai.burrp.com/listing/china-city-chinese-corner_goregaon-east_mumbai_restaurants/1579769752
+p721
+sg12
+VGoregaon East
+p722
+sg14
+(lp723
+g676
+aV 9323506393
+p724
+asg18
+g178
+sg20
+VDindoshi, Goregaon East, Mumbai
+p725
+sba(i__main__
+Place
+p726
+(dp727
+g3
+(lp728
+VRestaurants
+p729
+aV Bars & Pubs
+p730
+asg6
+g178
+sg8
+VHighway Restaurant & Bar
+p731
+sg10
+Vhttp://mumbai.burrp.com/listing/highway-restaurant-bar_goregaon-east_mumbai_restaurants-bars-pubs/1959773514
+p732
+sg12
+VGoregaon East
+p733
+sg14
+(lp734
+V26852569
+p735
+aV 26855071
+p736
+asg18
+g19
+sg20
+VGuru Nanak Indl Estate, Off Western Express Highway, Goregaon East, Mumbai
+p737
+sba(i__main__
+Place
+p738
+(dp739
+g3
+(lp740
+VRestaurants
+p741
+asg6
+g178
+sg8
+VGokul Restaurant & Bar
+p742
+sg10
+Vhttp://mumbai.burrp.com/listing/gokul-restaurant-bar_goregaon-east_mumbai_restaurants/1159774594
+p743
+sg12
+VGoregaon East
+p744
+sg14
+(lp745
+V28410611
+p746
+aV 28495902
+p747
+aV 9167441862
+p748
+asg18
+g178
+sg20
+VGokuldham, Film City Road, Goregaon East, Mumbai
+p749
+sba(i__main__
+Place
+p750
+(dp751
+g3
+(lp752
+VRestaurants
+p753
+asg6
+g178
+sg8
+VPooja Bar And Restaurant
+p754
+sg10
+Vhttp://mumbai.burrp.com/listing/pooja-bar-and-restaurant_goregaon-east_mumbai_restaurants/1339785376
+p755
+sg12
+VGoregaon East
+p756
+sg14
+(lp757
+V26863891
+p758
+aV 9004028406
+p759
+asg18
+g178
+sg20
+VShop No 89, Universal Compound, I B Patel Road, Goregaon East, Mumbai
+p760
+sba(i__main__
+Place
+p761
+(dp762
+g3
+(lp763
+VRestaurants
+p764
+aV Cafes
+p765
+asg6
+g178
+sg8
+VLa Rotande
+p766
+sg10
+Vhttp://mumbai.burrp.com/listing/la-rotande_goregaon-east_mumbai_restaurants-cafes/16715350742
+p767
+sg12
+VGoregaon East
+p768
+sg14
+(lp769
+V67133000
+p770
+aV 28716000
+p771
+asg18
+g33
+sg20
+VGoregaon East, Mumbai
+p772
+sba(i__main__
+Place
+p773
+(dp774
+g3
+(lp775
+VRestaurants
+p776
+asg6
+g178
+sg8
+VHotel Jyoti 
+p777
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-jyoti-_goregaon-east_mumbai_restaurants/14515600564
+p778
+sg12
+VGoregaon East
+p779
+sg14
+(lp780
+V28429997
+p781
+aV 32165088
+p782
+aV 28416695
+p783
+aV 28403571
+p784
+asg18
+g178
+sg20
+VMunuicipal Colony, H 2, Ward, Santosh Nagar, AKV Marg, Goregaon East, Mumbai
+p785
+sba(i__main__
+Place
+p786
+(dp787
+g3
+(lp788
+VRestaurants
+p789
+aV Bars & Pubs
+p790
+asg6
+g178
+sg8
+VChakra
+p791
+sg10
+Vhttp://mumbai.burrp.com/listing/chakra_goregaon-east_mumbai_restaurants-bars-pubs/18715604722
+p792
+sg12
+VGoregaon East
+p793
+sg14
+(lp794
+V28410889
+p795
+aV 28424080 
+p796
+asg18
+g178
+sg20
+VFilmcity Road, Gokuldham Market, Goregaon East, Mumbai
+p797
+sba(i__main__
+Place
+p798
+(dp799
+g3
+(lp800
+VRestaurants
+p801
+aV Cafes
+p802
+asg6
+g178
+sg8
+VKalpana Restaurant
+p803
+sg10
+Vhttp://mumbai.burrp.com/listing/kalpana-restaurant_goregaon-east_mumbai_restaurants-cafes/11518657594
+p804
+sg12
+VGoregaon East
+p805
+sg14
+(lp806
+V28760872
+p807
+aV 28780301
+p808
+asg18
+g178
+sg20
+V6, Hanuman Tekdi, Service Road, Goregaon East, Mumbai
+p809
+sba(i__main__
+Place
+p810
+(dp811
+g3
+(lp812
+VRestaurants
+p813
+aV Bars & Pubs
+p814
+asg6
+g178
+sg8
+VNirvana Family Restaurant & Bar
+p815
+sg10
+Vhttp://mumbai.burrp.com/listing/nirvana-family-restaurant-bar_goregaon-east_mumbai_restaurants-bars-pubs/12918667980
+p816
+sg12
+VGoregaon East
+p817
+sg14
+(lp818
+V28420042
+p819
+aV 28420049
+p820
+aV 28420043
+p821
+aV 28420044
+p822
+asg18
+g178
+sg20
+VSafal Shopping Mall, Opposite Raheja Heights, Nagari Niwara Parishad, Off Filmcity Road, Goregaon East, Mumbai
+p823
+sba(i__main__
+Place
+p824
+(dp825
+g3
+(lp826
+VRestaurants
+p827
+asg6
+g178
+sg8
+VShree Krishna
+p828
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-krishna_goregaon-east_mumbai_restaurants/16922955940
+p829
+sg12
+VGoregaon East
+p830
+sg14
+(lp831
+V26862571
+p832
+aV 26862451
+p833
+aV 26856022
+p834
+aV 9619506199
+p835
+asg18
+g19
+sg20
+VShop No 3, Vanrai Shopping Premises Co-op. Society, W.E. Highway, Mahada Colony, Goregaon East, Mumbai
+p836
+sba(i__main__
+Place
+p837
+(dp838
+g3
+(lp839
+VRestaurants
+p840
+asg6
+g178
+sg8
+VGanesh Restaurant 
+p841
+sg10
+Vhttp://mumbai.burrp.com/listing/ganesh-restaurant-_goregaon-east_mumbai_restaurants/19323633316
+p842
+sg12
+VGoregaon East
+p843
+sg14
+(lp844
+V29272605
+p845
+aV 8898814664
+p846
+asg18
+g19
+sg20
+VAarey Market, Unit no 5, Aarey Colony , Goregaon East, Mumbai
+p847
+sba(i__main__
+Place
+p848
+(dp849
+g3
+(lp850
+VRestaurants
+p851
+asg6
+g178
+sg8
+VChetna Restaurant & Bar
+p852
+sg10
+Vhttp://mumbai.burrp.com/listing/chetna-restaurant-bar_goregaon-east_mumbai_restaurants/18123749128
+p853
+sg12
+VGoregaon East
+p854
+sg14
+(lp855
+V26853799
+p856
+aV 26852719
+p857
+asg18
+g19
+sg20
+VCama Industrial Estate, Wallbhatt Road, Goregaon East, Mumbai
+p858
+sba(i__main__
+Place
+p859
+(dp860
+g3
+(lp861
+VRestaurants
+p862
+asg6
+g178
+sg8
+VMohan Punjab
+p863
+sg10
+Vhttp://mumbai.burrp.com/listing/mohan-punjab_goregaon-east_mumbai_restaurants/12724229782
+p864
+sg12
+VGoregaon East
+p865
+sg14
+(lp866
+V26854649
+p867
+asg18
+g178
+sg20
+V Western Express Highway, Near Jay Coach Builders, Goregaon East, Mumbai
+p868
+sba(i__main__
+Place
+p869
+(dp870
+g3
+(lp871
+VFast Food Shops
+p872
+asg6
+g7
+sg8
+VPizza Factory
+p873
+sg10
+Vhttp://mumbai.burrp.com/listing/pizza-factory_goregaon-east_mumbai_fast-food-shops/1956164514
+p874
+sg12
+VGoregaon East
+p875
+sg14
+(lp876
+V64463901
+p877
+aV 64463902
+p878
+aV 64463903
+p879
+aV 9870174840
+p880
+asg18
+g19
+sg20
+VMovietime Multiplexes, The Hub, Goregaon (E), Goregaon East, Mumbai
+p881
+sba.

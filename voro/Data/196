@@ -1,0 +1,266 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VY Not Restaurant
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/y-not-restaurant_manpada_thane_restaurants/13314339376
+p11
+sS'region'
+p12
+VManpada
+p13
+sS'phone'
+p14
+(lp15
+V25899589
+p16
+aV 9321368943
+p17
+asS'cost'
+p18
+V0
+p19
+sS'addr'
+p20
+VPlot No I/6, Ground Floor, Khothari Compound, Across Tikuji Ni Wadi Road, Manpada, Thane West, Thane
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+aV Fast Food Shops
+p26
+asg6
+V4
+p27
+sg8
+VPaparazzi
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/paparazzi_manpada_thane_restaurants-fast-food-shops/16919022940
+p29
+sg12
+VManpada
+p30
+sg14
+(lp31
+V25899013
+p32
+aV 25899313
+p33
+aV 9320088429
+p34
+asg18
+V2
+p35
+sg20
+VH/2A, Kothari Compound, 27 Acres, Manpada, Thane West, Thane
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VRestaurants
+p40
+asg6
+g19
+sg8
+VShri Seena Palace Hotel
+p41
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-seena-palace-hotel_manpada_thane_restaurants/11114337198
+p42
+sg12
+VManpada
+p43
+sg14
+(lp44
+V25375943
+p45
+aV 65772566
+p46
+asg18
+g19
+sg20
+VSamata Nagar, Manpada, Thane West, Thane
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VRestaurants
+p51
+asg6
+g19
+sg8
+VShivmahal Hotel
+p52
+sg10
+Vhttp://mumbai.burrp.com/listing/shivmahal-hotel_manpada_thane_restaurants/11314337396
+p53
+sg12
+VManpada
+p54
+sg14
+(lp55
+V25895934
+p56
+asg18
+g19
+sg20
+VS V Road, Kapurwadi, Manpada, Thane West, Thane
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg6
+g19
+sg8
+VShagun Restaurant
+p62
+sg10
+Vhttp://mumbai.burrp.com/listing/shagun-restaurant_manpada_thane_restaurants/11514337594
+p63
+sg12
+VManpada
+p64
+sg14
+(lp65
+V25842087
+p66
+aV 25898787
+p67
+aV 2542088
+p68
+asg18
+g19
+sg20
+VJangid Heights, Kapurwadi Next Cine Wonder, Manpada, Thane West, Thane
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VRestaurants
+p73
+asg6
+g19
+sg8
+VSAI Kiran
+p74
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-kiran_manpada_thane_restaurants/11714337792
+p75
+sg12
+VManpada
+p76
+sg14
+(lp77
+V25894271
+p78
+asg18
+g19
+sg20
+VG B Rd, Chitalsar, Manpada, Thane West, Thane
+p79
+sba(i__main__
+Place
+p80
+(dp81
+g3
+(lp82
+VCafes
+p83
+aV Dessert Shops
+p84
+aV Shops
+p85
+aV Restaurants
+p86
+asg6
+g19
+sg8
+VTip Top Mithaiwala
+p87
+sg10
+Vhttp://mumbai.burrp.com/listing/tip-top-mithaiwala_manpada_thane_cafes-dessert-shops-shops/17314343336
+p88
+sg12
+VManpada
+p89
+sg14
+(lp90
+V65109133
+p91
+aV 9820446161
+p92
+asg18
+g19
+sg20
+VD Mart Shopping Center, Garden Estate, Shitalsar, Manpada, Thane West, Thane
+p93
+sba(i__main__
+Place
+p94
+(dp95
+g3
+(lp96
+VAmusement Parks
+p97
+asg6
+g19
+sg8
+VTikuji-ni-wadi
+p98
+sg10
+Vhttp://mumbai.burrp.com/listing/tikuji-ni-wadi_manpada_thane_amusement-parks/1276490782
+p99
+sg12
+VManpada
+p100
+sg14
+(lp101
+V25892062
+p102
+aV 25892063
+p103
+aV 25892064
+p104
+aV 25892065
+p105
+asg18
+g35
+sg20
+VManpada village, Chitalsar, Manpada, Thane West, Thane
+p106
+sba.

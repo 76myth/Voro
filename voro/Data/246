@@ -1,0 +1,1230 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VShanghai Club
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/shanghai-club_parel_mumbai_restaurants/11654693
+p11
+sS'region'
+p12
+VParel
+p13
+sS'phone'
+p14
+(lp15
+V24101010
+p16
+aV 67045111
+p17
+asS'cost'
+p18
+g7
+sS'addr'
+p19
+VParel, Mumbai
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VRestaurants
+p24
+asg6
+g7
+sg8
+VKebab & Kurries
+p25
+sg10
+Vhttp://mumbai.burrp.com/listing/kebab-kurries_parel_mumbai_restaurants/11672693
+p26
+sg12
+VParel
+p27
+sg14
+(lp28
+V24101010
+p29
+asg18
+g7
+sg19
+VParel, Mumbai
+p30
+sba(i__main__
+Place
+p31
+(dp32
+g3
+(lp33
+VRestaurants
+p34
+asg6
+V3
+p35
+sg8
+VHornby's Pavilion
+p36
+sg10
+Vhttp://mumbai.burrp.com/listing/hornbys-pavilion_parel_mumbai_restaurants/137119772
+p37
+sg12
+VParel
+p38
+sg14
+(lp39
+V24101010
+p40
+asg18
+g7
+sg19
+VParel, Mumbai
+p41
+sba(i__main__
+Place
+p42
+(dp43
+g3
+(lp44
+VRestaurants
+p45
+asg6
+V5
+p46
+sg8
+VShri Datta Boarding
+p47
+sg10
+Vhttp://mumbai.burrp.com/listing/shri-datta-boarding_parel_mumbai_restaurants/154832455
+p48
+sg12
+VParel
+p49
+sg14
+(lp50
+V24710830
+p51
+asg18
+V1
+p52
+sg19
+V7, Narayan Ashram, Dr. Babasaheb Ambedkar Road, Lalbaug, Parel, Mumbai
+p53
+sba(i__main__
+Place
+p54
+(dp55
+g3
+(lp56
+VRestaurants
+p57
+asg6
+g46
+sg8
+VRelish Restaurant 
+p58
+sg10
+Vhttp://mumbai.burrp.com/listing/relish-restaurant-_parel_mumbai_restaurants/1744497435
+p59
+sg12
+VParel
+p60
+sg14
+(lp61
+V32169268
+p62
+aV 32169269 
+p63
+asg18
+V0
+p64
+sg19
+VShop No. 7, Manek Kunj, Dr. S.S.Rao Road, Meghwadi, Lalbaug , Parel, Mumbai
+p65
+sba(i__main__
+Place
+p66
+(dp67
+g3
+(lp68
+VRestaurants
+p69
+asg6
+g46
+sg8
+VModern Lunch Home
+p70
+sg10
+Vhttp://mumbai.burrp.com/listing/modern-lunch-home_parel_mumbai_restaurants/1935165316
+p71
+sg12
+VParel
+p72
+sg14
+(lp73
+V24149782
+p74
+aV 9867309782
+p75
+asg18
+V2
+p76
+sg19
+VHussaini Chambers, Acharya Dhonde Marg, Parel, Mumbai
+p77
+sba(i__main__
+Place
+p78
+(dp79
+g3
+(lp80
+VRestaurants
+p81
+asg6
+g7
+sg8
+VGolden Chain Restaurant
+p82
+sg10
+Vhttp://mumbai.burrp.com/listing/golden-chain-restaurant_lalbaug_mumbai_restaurants/14118993168
+p83
+sg12
+VLalbaug
+p84
+sg14
+(lp85
+V9867776568
+p86
+aV 24719163
+p87
+asg18
+g76
+sg19
+VKalachowki Naka, Lalbaug, Parel, Mumbai
+p88
+sba(i__main__
+Place
+p89
+(dp90
+g3
+(lp91
+VRestaurants
+p92
+asg6
+g7
+sg8
+VModern Lunch Home
+p93
+sg10
+Vhttp://mumbai.burrp.com/listing/modern-lunch-home_parel_mumbai_restaurants/19844811
+p94
+sg12
+VParel
+p95
+sg14
+(lp96
+V24149782
+p97
+asg18
+g64
+sg19
+VSupariwala Mansion, Dr Ambedkar Road, Parel, Mumbai
+p98
+sba(i__main__
+Place
+p99
+(dp100
+g3
+(lp101
+VRestaurants
+p102
+asg6
+g64
+sg8
+VKamath Pure Veg
+p103
+sg10
+Vhttp://mumbai.burrp.com/listing/kamath-pure-veg_parel_mumbai_restaurants/15923728950
+p104
+sg12
+VParel
+p105
+sg14
+(lp106
+V24136131
+p107
+aV 24159588
+p108
+asg18
+g76
+sg19
+VShivdikar Bldg., J.B.Road, Opp Shirodkar Market, Parel, Mumbai
+p109
+sba(i__main__
+Place
+p110
+(dp111
+g3
+(lp112
+VRestaurants
+p113
+asg6
+g64
+sg8
+VHotel New Darbar
+p114
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-new-darbar_lalbaug_mumbai_restaurants/19333866316
+p115
+sg12
+VLalbaug
+p116
+sg14
+(lp117
+V24709759
+p118
+aV 22910338
+p119
+asg18
+g76
+sg19
+VShop No. 1, Ibrahimkasam Building, Sane Guruji Marg, Lalbaug, Parel, Mumbai
+p120
+sba(i__main__
+Place
+p121
+(dp122
+g3
+(lp123
+VRestaurants
+p124
+aV Cafes
+p125
+asg6
+g64
+sg8
+VCafe Grapeviine
+p126
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-grapeviine_parel_mumbai_restaurants-cafes/18923614920
+p127
+sg12
+VParel
+p128
+sg14
+(lp129
+V65212121
+p130
+asg18
+g76
+sg19
+VAshok Tower, Parel East, Parel, Mumbai
+p131
+sba(i__main__
+Place
+p132
+(dp133
+g3
+(lp134
+VRestaurants
+p135
+asg6
+g64
+sg8
+VMumbai Ladoo Samrat
+p136
+sg10
+Vhttp://mumbai.burrp.com/listing/mumbai-ladoo-samrat_lalbaug_mumbai_restaurants/18311131326
+p137
+sg12
+VLalbaug
+p138
+sg14
+(lp139
+V24710127
+p140
+aV 24710327
+p141
+aV 24710227
+p142
+asg18
+g52
+sg19
+VShop No 1/2, Ground Floor, Habib Terrace, Dr Ambedkar Road, Lalbaug, Parel, Mumbai
+p143
+sba(i__main__
+Place
+p144
+(dp145
+g3
+(lp146
+VRestaurants
+p147
+aV Bars & Pubs
+p148
+asg6
+g64
+sg8
+VJanani Bar & Restaurant
+p149
+sg10
+Vhttp://mumbai.burrp.com/listing/janani-bar-restaurant_parel_mumbai_restaurants-bars-pubs/15323719356
+p150
+sg12
+VParel
+p151
+sg14
+(lp152
+V24111687
+p153
+aV 24119074
+p154
+asg18
+g76
+sg19
+VAi Mai Merwanji Street, Parel, Mumbai
+p155
+sba(i__main__
+Place
+p156
+(dp157
+g3
+(lp158
+VRestaurants
+p159
+asg6
+g64
+sg8
+VKirti Mahal
+p160
+sg10
+Vhttp://mumbai.burrp.com/listing/kirti-mahal_lalbaug_mumbai_restaurants/19711114712
+p161
+sg12
+VLalbaug
+p162
+sg14
+(lp163
+V24181238
+p164
+aV 650471602
+p165
+asg18
+g76
+sg19
+VF South Municipal Building, Ground Floor, Lalbaug, Parel, Mumbai
+p166
+sba(i__main__
+Place
+p167
+(dp168
+g3
+(lp169
+VRestaurants
+p170
+asg6
+g64
+sg8
+VSahyadri Refreshments
+p171
+sg10
+Vhttp://mumbai.burrp.com/listing/sahyadri-refreshments_parel_mumbai_restaurants/16750742
+p172
+sg12
+VParel
+p173
+sg14
+(lp174
+V24181877
+p175
+aV 65713210
+p176
+asg18
+g64
+sg19
+VOpposite KEM Hospital, Dr E Borges Road, Parel, Mumbai
+p177
+sba(i__main__
+Place
+p178
+(dp179
+g3
+(lp180
+VRestaurants
+p181
+asg6
+g64
+sg8
+VMeenakshi Bhavan
+p182
+sg10
+Vhttp://mumbai.burrp.com/listing/meenakshi-bhavan_parel_mumbai_restaurants/140129069
+p183
+sg12
+VParel
+p184
+sg14
+(lp185
+V24135505
+p186
+aV 24183971
+p187
+asg18
+g64
+sg19
+V8, Vishwas Nivas, Acharya Dhondhe Marg, Parel, Mumbai
+p188
+sba(i__main__
+Place
+p189
+(dp190
+g3
+(lp191
+VRestaurants
+p192
+asg6
+g64
+sg8
+VNew Sardar Restaurant
+p193
+sg10
+Vhttp://mumbai.burrp.com/listing/new-sardar-restaurant_lalbaug_mumbai_restaurants/12311125386
+p194
+sg12
+VLalbaug
+p195
+sg14
+(lp196
+V24700583
+p197
+aV 24701773
+p198
+aV 24709919
+p199
+asg18
+g76
+sg19
+VGround Floor, Bhiwandiwala Building, Corner Of Dr B A Road & D L Marg, Lalbaug, Parel, Mumbai
+p200
+sba(i__main__
+Place
+p201
+(dp202
+g3
+(lp203
+VRestaurants
+p204
+aV Cafes
+p205
+aV Dessert Shops
+p206
+aV Juice Parlours
+p207
+asg6
+g64
+sg8
+VSushila Vihar Restaurant
+p208
+sg10
+Vhttp://mumbai.burrp.com/listing/sushila-vihar-restaurant_lalbaug_mumbai_restaurants-cafes-dessert-shops/15911128950
+p209
+sg12
+VLalbaug
+p210
+sg14
+(lp211
+V24702441
+p212
+asg18
+g64
+sg19
+VPatel Chambers, M P Road, Near Curry Road Station  , Lalbaug, Parel, Mumbai
+p213
+sba(i__main__
+Place
+p214
+(dp215
+g3
+(lp216
+VRestaurants
+p217
+asg6
+g64
+sg8
+VSai Krupa Veg Fast Food Restaurant
+p218
+sg10
+Vhttp://mumbai.burrp.com/listing/sai-krupa-veg-fast-food-restaurant_lalbaug_mumbai_restaurants/16111129148
+p219
+sg12
+VLalbaug
+p220
+sg14
+(lp221
+V65273334
+p222
+aV 9869906388
+p223
+asg18
+g64
+sg19
+VNarayan Ashram, Dr Baba Saheb Ambedkar Road, Lalbaug, Parel, Mumbai
+p224
+sba(i__main__
+Place
+p225
+(dp226
+g3
+(lp227
+VRestaurants
+p228
+asg6
+g64
+sg8
+VViva Kitchen
+p229
+sg10
+Vhttp://mumbai.burrp.com/listing/viva-kitchen_lalbaug_mumbai_restaurants/12111134188
+p230
+sg12
+VLalbaug
+p231
+sg14
+(lp232
+V24712884
+p233
+aV 24712885
+p234
+aV 9594059299
+p235
+aV 9867729299
+p236
+asg18
+g76
+sg19
+VShop No 19, Sardar Hotel Building, Dr B A Road, Kalachauki, Lalbaug, Parel, Mumbai
+p237
+sba(i__main__
+Place
+p238
+(dp239
+g3
+(lp240
+VRestaurants
+p241
+aV Lounges
+p242
+asg6
+g64
+sg8
+VFredericks Lounge
+p243
+sg10
+Vhttp://mumbai.burrp.com/listing/fredericks-lounge_parel_mumbai_restaurants-lounges/1631427346
+p244
+sg12
+VParel
+p245
+sg14
+(lp246
+V24101010
+p247
+asg18
+g35
+sg19
+VParel, Mumbai
+p248
+sba(i__main__
+Place
+p249
+(dp250
+g3
+(lp251
+VRestaurants
+p252
+asg6
+g64
+sg8
+VHotel Mast Malwani
+p253
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-mast-malwani_parel_mumbai_restaurants/1524441257
+p254
+sg12
+VParel
+p255
+sg14
+(lp256
+V24712067
+p257
+aV 65212252
+p258
+asg18
+g64
+sg19
+VJai Mahal Bldg, Jiji Bhai Lane, Lalbaug, Parel, Mumbai
+p259
+sba(i__main__
+Place
+p260
+(dp261
+g3
+(lp262
+VRestaurants
+p263
+asg6
+g64
+sg8
+VShree Datta Boarding House 
+p264
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-datta-boarding-house-_parel_mumbai_restaurants/1464476663
+p265
+sg12
+VParel
+p266
+sg14
+(lp267
+V24710830 
+p268
+asg18
+g64
+sg19
+V2, Narayan Ashram no. 7, Dr. B.A.Road, Lalbaug , Parel, Mumbai
+p269
+sba(i__main__
+Place
+p270
+(dp271
+g3
+(lp272
+VRestaurants
+p273
+asg6
+g52
+sg8
+VVeg - Always
+p274
+sg10
+Vhttp://mumbai.burrp.com/listing/veg---always_parel_mumbai_restaurants/1265446683
+p275
+sg12
+VParel
+p276
+sg14
+(lp277
+V24146666
+p278
+aV 24105566
+p279
+aV 24175566
+p280
+asg18
+g64
+sg19
+VLare Pose Building, Dr. E. Borges Road, Parel, Mumbai
+p281
+sba(i__main__
+Place
+p282
+(dp283
+g3
+(lp284
+VRestaurants
+p285
+asg6
+g64
+sg8
+VHotel Ramanand
+p286
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-ramanand_lalbaug_mumbai_restaurants/17911112930
+p287
+sg12
+VLalbaug
+p288
+sg14
+(lp289
+V24128620
+p290
+asg18
+g64
+sg19
+VKondaji Chawl No 2, Jerbai Wadia Road, Lalbaug, Parel, Mumbai
+p291
+sba(i__main__
+Place
+p292
+(dp293
+g3
+(lp294
+VBars & Pubs
+p295
+aV Restaurants
+p296
+asg6
+g64
+sg8
+VShree Durga Parmeshwari Restaurant & Bar
+p297
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-durga-parmeshwari-restaurant-bar_lalbaug_mumbai_bars-pubs-restaurants/16911129940
+p298
+sg12
+VLalbaug
+p299
+sg14
+(lp300
+V24710222
+p301
+aV 24719222
+p302
+asg18
+g76
+sg19
+VShop No 6/7/8, Veer Mahal, Dr. Ambedkar Road, Lalbaug, Parel, Mumbai
+p303
+sba(i__main__
+Place
+p304
+(dp305
+g3
+(lp306
+VCafes
+p307
+aV Dessert Shops
+p308
+aV Restaurants
+p309
+asg6
+g64
+sg8
+VGagangiri Farsan
+p310
+sg10
+Vhttp://mumbai.burrp.com/listing/gagangiri-farsan_lalbaug_mumbai_cafes-dessert-shops-restaurants/11311133396
+p311
+sg12
+VLalbaug
+p312
+sg14
+(lp313
+V69931793
+p314
+aV 9969359459
+p315
+asg18
+g64
+sg19
+VLalbaug Industrial Estate, Chiwda Galli, Lalbaug, Parel, Mumbai
+p316
+sba(i__main__
+Place
+p317
+(dp318
+g3
+(lp319
+VRestaurants
+p320
+asg6
+g64
+sg8
+VViva Kitchen Just Veg
+p321
+sg10
+Vhttp://mumbai.burrp.com/listing/viva-kitchen-just-veg_lalbaug_mumbai_restaurants/11911133990
+p322
+sg12
+VLalbaug
+p323
+sg14
+(lp324
+V24712884
+p325
+aV 24712885
+p326
+asg18
+g64
+sg19
+VShop No 19, Bhiwandi Wala Building, Dr Babasaheb Ambedkar Road, Near Kala Chowki Juntion, Lalbaug, Parel, Mumbai
+p327
+sba(i__main__
+Place
+p328
+(dp329
+g3
+(lp330
+VRestaurants
+p331
+asg6
+g64
+sg8
+VKebabs & Curries
+p332
+sg10
+Vhttp://mumbai.burrp.com/listing/kebabs-curries_parel_mumbai_restaurants/16512524544
+p333
+sg12
+VParel
+p334
+sg14
+(lp335
+V24101010
+p336
+aV 24101111
+p337
+aV 40175117
+p338
+asg18
+g64
+sg19
+VITC Grand Central, 287, Dr Babasaheb Ambedkar Road, Parel, Mumbai
+p339
+sba(i__main__
+Place
+p340
+(dp341
+g3
+(lp342
+VRestaurants
+p343
+asg6
+g64
+sg8
+VTrupti Ahar Restaurant
+p344
+sg10
+Vhttp://mumbai.burrp.com/listing/trupti-ahar-restaurant_parel_mumbai_restaurants/18512526524
+p345
+sg12
+VParel
+p346
+sg14
+(lp347
+V24132923
+p348
+aV 9323282200
+p349
+asg18
+g76
+sg19
+VJehangir Building, Parel, Mumbai
+p350
+sba(i__main__
+Place
+p351
+(dp352
+g3
+(lp353
+VRestaurants
+p354
+aV Dessert Shops
+p355
+aV Cafes
+p356
+asg6
+g64
+sg8
+VRuchi Veg Restaurant
+p357
+sg10
+Vhttp://mumbai.burrp.com/listing/ruchi-veg-restaurant_parel_mumbai_restaurants-dessert-shops-cafes/11512528594
+p358
+sg12
+VParel
+p359
+sg14
+(lp360
+V24118866
+p361
+aV 24122466
+p362
+asg18
+g64
+sg19
+VPlot No 5, Ground Floor, New Pradhan Building , Parel, Mumbai
+p363
+sba(i__main__
+Place
+p364
+(dp365
+g3
+(lp366
+VBars & Pubs
+p367
+aV Restaurants
+p368
+asg6
+g64
+sg8
+VSarovar Bar & Restaurant
+p369
+sg10
+Vhttp://mumbai.burrp.com/listing/sarovar-bar-restaurant_parel_mumbai_bars-pubs-restaurants/16512542544
+p370
+sg12
+VParel
+p371
+sg14
+(lp372
+V24109353
+p373
+aV 24153418
+p374
+asg18
+g64
+sg19
+VSadanand Hotel, Dr Babasahed Ambedkar Road, Near Itc Grand Centaur, Parel, Mumbai
+p375
+sba(i__main__
+Place
+p376
+(dp377
+g3
+(lp378
+VRestaurants
+p379
+asg6
+g64
+sg8
+VMillennium Bar And Restaurant
+p380
+sg10
+Vhttp://mumbai.burrp.com/listing/millennium-bar-and-restaurant_parel_mumbai_restaurants/11312546396
+p381
+sg12
+VParel
+p382
+sg14
+(lp383
+V24108121
+p384
+aV 9224125822
+p385
+asg18
+g64
+sg19
+VShop No 6, Ground Floor, Amba Bhavan Building, J W Road, Bhoiwada, Near Mokkam Post Hotel, Parel, Mumbai
+p386
+sba(i__main__
+Place
+p387
+(dp388
+g3
+(lp389
+VRestaurants
+p390
+asg6
+g64
+sg8
+VJahangir Restaurant & Communication
+p391
+sg10
+Vhttp://mumbai.burrp.com/listing/jahangir-restaurant-communication_parel_mumbai_restaurants/16912551940
+p392
+sg12
+VParel
+p393
+sg14
+(lp394
+V24114452
+p395
+asg18
+g64
+sg19
+VIqbal Manzil, Dr Babasaheb Ambedkar Road, Parel, Mumbai
+p396
+sba(i__main__
+Place
+p397
+(dp398
+g3
+(lp399
+VRestaurants
+p400
+aV Juice Parlours
+p401
+asg6
+g64
+sg8
+VJahangir Hotel
+p402
+sg10
+Vhttp://mumbai.burrp.com/listing/jahangir-hotel_parel_mumbai_restaurants-juice-parlours/17512552534
+p403
+sg12
+VParel
+p404
+sg14
+(lp405
+V24114452
+p406
+aV 9920931950
+p407
+asg18
+g64
+sg19
+VShop No 11/12 , Iqbal Manzil, Dr B Ambedkar Road, Near Premier Cinema, Parel, Mumbai
+p408
+sba(i__main__
+Place
+p409
+(dp410
+g3
+(lp411
+VRestaurants
+p412
+asg6
+g64
+sg8
+VOnly Fish
+p413
+sg10
+Vhttp://mumbai.burrp.com/listing/only-fish_parel_mumbai_restaurants/16515044544
+p414
+sg12
+VParel
+p415
+sg14
+(lp416
+V24168533
+p417
+aV 24138213 
+p418
+asg18
+g76
+sg19
+VShop No. 8, Supariwala Baug, Parel, Mumbai
+p419
+sba(i__main__
+Place
+p420
+(dp421
+g3
+(lp422
+VRestaurants
+p423
+asg6
+g64
+sg8
+V7 Spice  Chinese Restaurant
+p424
+sg10
+Vhttp://mumbai.burrp.com/listing/7-spice-chinese-restaurant_parel_mumbai_restaurants/19723930712
+p425
+sg12
+VParel
+p426
+sg14
+(lp427
+V64234634
+p428
+asg18
+g64
+sg19
+VSaath Asara Bldg.Shop No.3, Dr. S. S. Road, Opp. Peninsula Centre, Parel, Mumbai
+p429
+sba(i__main__
+Place
+p430
+(dp431
+g3
+(lp432
+VRestaurants
+p433
+asg6
+g64
+sg8
+VHotel Ranjana
+p434
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-ranjana_parel_mumbai_restaurants/13324167376
+p435
+sg12
+VParel
+p436
+sg14
+(lp437
+V24124354
+p438
+asg18
+g64
+sg19
+V Opp. Tata Cancer Hospital, Bhoiwada, Parel, Mumbai
+p439
+sba(i__main__
+Place
+p440
+(dp441
+g3
+(lp442
+VRestaurants
+p443
+asg6
+g64
+sg8
+VShree Ram Vijay Lunch Home
+p444
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-ram-vijay-lunch-home_parel_mumbai_restaurants/12532959584
+p445
+sg12
+VParel
+p446
+sg14
+(lp447
+V24704521
+p448
+aV 9220416906
+p449
+asg18
+g76
+sg19
+VDr. Shirodkar Market, J.B. Marg, Parel, Mumbai
+p450
+sba(i__main__
+Place
+p451
+(dp452
+g3
+(lp453
+VRestaurants
+p454
+asg6
+g64
+sg8
+VKirti Chinese Point
+p455
+sg10
+Vhttp://mumbai.burrp.com/listing/kirti-chinese-point_lalbaug_mumbai_restaurants/11133867198
+p456
+sg12
+VLalbaug
+p457
+sg14
+(lp458
+V9969191041
+p459
+aV 9619285622
+p460
+asg18
+g76
+sg19
+V30, 91/A, Digvijay Mill Building, Dr. Ambedkar Road, Lalbaug, Parel, Mumbai
+p461
+sba.

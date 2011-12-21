@@ -1,0 +1,306 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VBanjara Family Restaurant & Bar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/banjara-family-restaurant-bar_virar_thane_restaurants/17914838930
+p11
+sS'region'
+p12
+VVirar
+p13
+sS'phone'
+p14
+(lp15
+V2513460
+p16
+aV 3291601
+p17
+asS'cost'
+p18
+g7
+sS'addr'
+p19
+VShravan Apartments, M V Estate, Virar, Thane
+p20
+sba(i__main__
+Place
+p21
+(dp22
+g3
+(lp23
+VJuice Parlours
+p24
+aV Hotels
+p25
+aV Restaurants
+p26
+asg6
+V1
+p27
+sg8
+VKshitij Resort
+p28
+sg10
+Vhttp://mumbai.burrp.com/listing/kshitij-resort_virar_thane_juice-parlours-hotels-restaurants/13714843772
+p29
+sg12
+VVirar
+p30
+sg14
+(lp31
+V2585277
+p32
+aV 3203518
+p33
+aV 9226229673
+p34
+aV 9767709562
+p35
+asg18
+g7
+sg19
+VVatar Jeladi Beach , Samadhan Auto Jeladi Road, Near Vatar School Stop, Virar, Thane
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VHotels
+p40
+aV Restaurants
+p41
+asg6
+g7
+sg8
+VHotel Panchamrut
+p42
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-panchamrut_virar_thane_hotels-restaurants/11314823396
+p43
+sg12
+VVirar
+p44
+sg14
+(lp45
+V2527193
+p46
+asg18
+g7
+sg19
+VBazarwad , Dhawalgiri Apartment, Bazar Road, Virar, Thane
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VRestaurants
+p51
+aV Cafes
+p52
+aV Dessert Shops
+p53
+asg6
+g7
+sg8
+VHotel R K
+p54
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-r-k_virar_thane_restaurants-cafes-dessert-shops/11514823594
+p55
+sg12
+VVirar
+p56
+sg14
+(lp57
+V2521910
+p58
+asg18
+g7
+sg19
+VShop No3, Bajarangbali Apartments, Bajar Road, Virar, Thane
+p59
+sba(i__main__
+Place
+p60
+(dp61
+g3
+(lp62
+VRestaurants
+p63
+asg6
+g7
+sg8
+VM K Lunch Home
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/m-k-lunch-home_virar_thane_restaurants/14514826564
+p65
+sg12
+VVirar
+p66
+sg14
+(lp67
+V2507048
+p68
+aV 2508831
+p69
+asg18
+g7
+sg19
+VGanesh Smriti, Matre Wadi, Gauthan Road, Virar, Thane
+p70
+sba(i__main__
+Place
+p71
+(dp72
+g3
+(lp73
+VBanquet Halls
+p74
+aV Restaurants
+p75
+asg6
+g7
+sg8
+VUdipi Restaurant & Bar
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/udipi-restaurant-bar_virar_thane_banquet-halls-restaurants/13314834376
+p77
+sg12
+VVirar
+p78
+sg14
+(lp79
+V2500373
+p80
+aV 2503370
+p81
+asg18
+g7
+sg19
+VGoradia Apartments, Agashi Road, Virar, Thane
+p82
+sba(i__main__
+Place
+p83
+(dp84
+g3
+(lp85
+VRestaurants
+p86
+aV Hotels
+p87
+asg6
+g7
+sg8
+VNirmal Lake Resort
+p88
+sg10
+Vhttp://mumbai.burrp.com/listing/nirmal-lake-resort_virar_thane_restaurants-hotels/14514835564
+p89
+sg12
+VVirar
+p90
+sg14
+(lp91
+V
+p92
+aV 9867900723
+p93
+aV 9869244011
+p94
+aV 9967271383
+p95
+asg18
+g7
+sg19
+VBhaliwali Goan, National Western Express Highway No 8, Virar, Thane
+p96
+sba(i__main__
+Place
+p97
+(dp98
+g3
+(lp99
+VRestaurants
+p100
+asg6
+g7
+sg8
+VModern Restaurant & Bar
+p101
+sg10
+Vhttp://mumbai.burrp.com/listing/modern-restaurant-bar_virar_thane_restaurants/19714840712
+p102
+sg12
+VVirar
+p103
+sg14
+(lp104
+V2507048
+p105
+aV 2508831
+p106
+asg18
+g7
+sg19
+VGanesh Smriti, Goathon Road, Matre Wadi, Virar, Thane
+p107
+sba(i__main__
+Place
+p108
+(dp109
+g3
+(lp110
+VRestaurants
+p111
+aV Hotels
+p112
+asg6
+g7
+sg8
+VParmar Resort
+p113
+sg10
+Vhttp://mumbai.burrp.com/listing/parmar-resort_virar_thane_restaurants-hotels/13914843970
+p114
+sg12
+VVirar
+p115
+sg14
+(lp116
+V2452500
+p117
+aV 3214343
+p118
+aV 3214344
+p119
+aV 6450269
+p120
+asg18
+g7
+sg19
+VShivansai Village, Vajreshwari Road, Western Express Highway, Virar, Thane
+p121
+sba.

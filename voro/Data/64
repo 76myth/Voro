@@ -1,0 +1,104 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+aV Food-court Stalls
+p6
+aV Cafes
+p7
+asS'rating'
+p8
+V0
+p9
+sS'name'
+p10
+VPooja Veg Diet
+p11
+sS'url'
+p12
+Vhttp://mumbai.burrp.com/listing/pooja-veg-diet_kalachowki_mumbai_restaurants-food-court-stalls-cafes/15310336356
+p13
+sS'region'
+p14
+VKalachowki
+p15
+sS'phone'
+p16
+(lp17
+V24707220
+p18
+aV 24719111
+p19
+asS'cost'
+p20
+g9
+sS'addr'
+p21
+VShop No 34/35, Shraddha Co Operative Housing Society, Ganesh Nagar Lane, Ambewadi, Kalachowki, Cotton Green, Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg8
+V1
+p27
+sg10
+VBest Punjab Restaurant & Bar
+p28
+sg12
+Vhttp://mumbai.burrp.com/listing/best-punjab-restaurant-bar_cotton-green_mumbai_restaurants/125361584
+p29
+sg14
+VCotton Green
+p30
+sg16
+(lp31
+V23725706
+p32
+aV 23749276
+p33
+asg20
+g27
+sg21
+VPlot No.32, Damodar Nivas, Dr. Nathpai Marg, Cotton Green, Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg8
+g9
+sg10
+VShri Ram Punjab Rest 
+p39
+sg12
+Vhttp://mumbai.burrp.com/listing/shri-ram-punjab-rest-_cotton-green_mumbai_restaurants/1124473297
+p40
+sg14
+VCotton Green
+p41
+sg16
+(lp42
+V23712322 
+p43
+asg20
+g9
+sg21
+V32, Damoder Nivas, Dr. Nathpai Marg , Cotton Green, Mumbai
+p44
+sba.

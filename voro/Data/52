@@ -1,0 +1,321 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V5
+p7
+sS'name'
+p8
+VHotel Sunny
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/hotel-sunny_chembur-w_mumbai_restaurants/1821429227
+p11
+sS'region'
+p12
+VChembur (W)
+p13
+sS'phone'
+p14
+(lp15
+V25223549
+p16
+aV 25225616
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VShop No. 43, Shell Colony Road, Chembur (W), Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+V3
+p26
+sg8
+VIvy Restaurant Banquets
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/ivy-restaurant-banquets_chembur-w_mumbai_restaurants/129775980
+p28
+sg12
+VChembur (W)
+p29
+sg14
+(lp30
+V67982296
+p31
+aV 67982297
+p32
+aV 67982298
+p33
+asg18
+g26
+sg20
+VIvy Restaurant and Banquets, Amar Mahal Junction, Chembur (W), Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg6
+g26
+sg8
+VSankalp
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/sankalp_chembur-w_mumbai_restaurants/1264978683
+p40
+sg12
+VChembur (W)
+p41
+sg14
+(lp42
+V66719809
+p43
+asg18
+g19
+sg20
+VThe Destination, M.G. Road, Chembur (W), Mumbai
+p44
+sba(i__main__
+Place
+p45
+(dp46
+g3
+(lp47
+VBars & Pubs
+p48
+aV Restaurants
+p49
+asg6
+V4
+p50
+sg8
+VOasis Restaurant & Bar
+p51
+sg10
+Vhttp://mumbai.burrp.com/listing/oasis-restaurant-bar_chembur-w_mumbai_bars-pubs-restaurants/1482145861
+p52
+sg12
+VChembur (W)
+p53
+sg14
+(lp54
+V25480401
+p55
+aV 25480402
+p56
+asg18
+g19
+sg20
+VOpp Tata Institue of Social Sciences, Sion Trombay Rd, Chembur (W), Mumbai
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VFast Food Shops
+p61
+aV Restaurants
+p62
+asg6
+g26
+sg8
+VMcDonald's
+p63
+sg10
+Vhttp://mumbai.burrp.com/listing/mcdonalds_chembur-w_mumbai_fast-food-shops-restaurants/19244217
+p64
+sg12
+VChembur (W)
+p65
+sg14
+(lp66
+V65982934
+p67
+asg18
+V0
+p68
+sg20
+V001/101, The Destination, Next to Shoppers Stop, M. G. Road, Chembur (W), Mumbai
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VRestaurants
+p73
+asg6
+g26
+sg8
+VFusions Wine N Dine
+p74
+sg10
+Vhttp://mumbai.burrp.com/listing/fusions-wine-n-dine_chembur-w_mumbai_restaurants/1736459336
+p75
+sg12
+VChembur (W)
+p76
+sg14
+(lp77
+V32186161
+p78
+aV 25252857
+p79
+asg18
+g19
+sg20
+VG M Road, Chembur (W), Mumbai
+p80
+sba(i__main__
+Place
+p81
+(dp82
+g3
+(lp83
+VRestaurants
+p84
+asg6
+g19
+sg8
+VCurries and Parathas
+p85
+sg10
+Vhttp://mumbai.burrp.com/listing/curries-and-parathas_chembur-w_mumbai_restaurants/113873396
+p86
+sg12
+VChembur (W)
+p87
+sg14
+(lp88
+V25260934
+p89
+aV 25260935
+p90
+aV 25260936
+p91
+asg18
+g68
+sg20
+VSun View, Building. No. 4, Tilak Nagar, Chembur (W), Mumbai
+p92
+sba(i__main__
+Place
+p93
+(dp94
+g3
+(lp95
+VRestaurants
+p96
+aV Bars & Pubs
+p97
+asg6
+g68
+sg8
+VKings Snack Bar
+p98
+sg10
+Vhttp://mumbai.burrp.com/listing/kings-snack-bar_chembur-w_mumbai_restaurants-bars-pubs/1974454712
+p99
+sg12
+VChembur (W)
+p100
+sg14
+(lp101
+V25532302
+p102
+aV 25536553
+p103
+asg18
+g19
+sg20
+VDr. C.G. Road, Chembur Colony, Chembur (W), Mumbai
+p104
+sba(i__main__
+Place
+p105
+(dp106
+g3
+(lp107
+VRestaurants
+p108
+asg6
+g68
+sg8
+VK Super Market
+p109
+sg10
+Vhttp://mumbai.burrp.com/listing/k-super-market_chembur-w_mumbai_restaurants/1564450653
+p110
+sg12
+VChembur (W)
+p111
+sg14
+(lp112
+V25205555 
+p113
+aV 25202233
+p114
+asg18
+g68
+sg20
+V1 maltri vijay, C.G. Road, Chembur (W), Mumbai
+p115
+sba(i__main__
+Place
+p116
+(dp117
+g3
+(lp118
+VRestaurants
+p119
+aV Bars & Pubs
+p120
+asg6
+g68
+sg8
+VKumar Lunch Home ( Bar & Restaurant )
+p121
+sg10
+Vhttp://mumbai.burrp.com/listing/kumar-lunch-home-bar-restaurant-_chembur-w_mumbai_restaurants-bars-pubs/1214456188
+p122
+sg12
+VChembur (W)
+p123
+sg14
+(lp124
+V25221219
+p125
+asg18
+g68
+sg20
+VShop No-40 To 42 , G.M Road, Chembur (W), Mumbai
+p126
+sba.

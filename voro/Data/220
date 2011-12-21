@@ -1,0 +1,168 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBars & Pubs
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V0
+p8
+sS'name'
+p9
+VS4 Family Restaurant & Bar
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/s4-family-restaurant-bar_nala-sopara-e_thane_bars-pubs-restaurants/1305681079
+p12
+sS'region'
+p13
+VNala Sopara (E)
+p14
+sS'phone'
+p15
+(lp16
+V2440098
+p17
+aV 2440099
+p18
+aV 2440096
+p19
+aV 2440097
+p20
+asS'cost'
+p21
+V2
+p22
+sS'addr'
+p23
+VMehta Chambers, 1st Floor, Achole Road, Nala Sopara (E), Thane
+p24
+sba(i__main__
+Place
+p25
+(dp26
+g3
+(lp27
+VRestaurants
+p28
+aV Tiffin Services
+p29
+asg7
+g8
+sg9
+VHotel Sugaran
+p30
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-sugaran_nala-sopara-e_thane_restaurants-tiffin-services/1616242148
+p31
+sg13
+VNala Sopara (E)
+p32
+sg15
+(lp33
+V9922043046
+p34
+aV 9270531066
+p35
+asg21
+g8
+sg23
+VShop No. 4, Rashmi-Divya Complex, Vasai Link Road, Nala Sopara (E), Thane
+p36
+sba(i__main__
+Place
+p37
+(dp38
+g3
+(lp39
+VBars & Pubs
+p40
+aV Restaurants
+p41
+asg7
+g8
+sg9
+VPandav Restaurant And Bar
+p42
+sg11
+Vhttp://mumbai.burrp.com/listing/pandav-restaurant-and-bar_nala-sopara-e_thane_bars-pubs-restaurants/12114428188
+p43
+sg13
+VNala Sopara (E)
+p44
+sg15
+(lp45
+V2442861
+p46
+asg21
+g8
+sg23
+VNallasopara Shopping Centre, Dubey Estate, Station Road, Nala Sopara (E), Thane
+p47
+sba(i__main__
+Place
+p48
+(dp49
+g3
+(lp50
+VRestaurants
+p51
+asg7
+g8
+sg9
+VUtsav Pure Veg Restaurant
+p52
+sg11
+Vhttp://mumbai.burrp.com/listing/utsav-pure-veg-restaurant_nala-sopara-e_thane_restaurants/1916119118
+p53
+sg13
+VNala Sopara (E)
+p54
+sg15
+(lp55
+V2432329
+p56
+asg21
+g22
+sg23
+VNarayan Nagar, Tulinj Road, Nala Sopara (E), Thane
+p57
+sba(i__main__
+Place
+p58
+(dp59
+g3
+(lp60
+VRestaurants
+p61
+asg7
+g8
+sg9
+VAmantran
+p62
+sg11
+Vhttp://mumbai.burrp.com/listing/amantran_nala-sopara-e_thane_restaurants/18532992524
+p63
+sg13
+VNala Sopara (E)
+p64
+sg15
+(lp65
+V2434778
+p66
+aV 2436595
+p67
+asg21
+g22
+sg23
+VGround Floor, Aangan Apartment, Taki Road, Nala Sopara (E), Thane
+p68
+sba.

@@ -1,0 +1,225 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VPersian Darbar
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/persian-darbar_byculla-e_mumbai_restaurants/128136881
+p11
+sS'region'
+p12
+VByculla (E)
+p13
+sS'phone'
+p14
+(lp15
+V23724525
+p16
+aV 23501114
+p17
+aV 23501117
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+V5, Alexandra Terace, Dr Babasaheb Ambedkar Road, Byculla (E), Mumbai
+p22
+sba(i__main__
+Place
+p23
+(dp24
+g3
+(lp25
+VRestaurants
+p26
+asg6
+g7
+sg8
+VNizam's Heritage
+p27
+sg10
+Vhttp://mumbai.burrp.com/listing/nizams-heritage_byculla-e_mumbai_restaurants/180133029
+p28
+sg12
+VByculla (E)
+p29
+sg14
+(lp30
+V23714891
+p31
+aV 23734901
+p32
+asg19
+V0
+p33
+sg21
+VHotel Comfort Inn Heritage, Sant Savta Marg, Byculla (E), Mumbai
+p34
+sba(i__main__
+Place
+p35
+(dp36
+g3
+(lp37
+VRestaurants
+p38
+asg6
+g33
+sg8
+VMajestic Coffee Shop
+p39
+sg10
+Vhttp://mumbai.burrp.com/listing/majestic-coffee-shop_byculla-e_mumbai_restaurants/121127188
+p40
+sg12
+VByculla (E)
+p41
+sg14
+(lp42
+V23714891
+p43
+aV 23734901
+p44
+asg19
+g33
+sg21
+VComfort Inn Heritage, Sant Savta Marg, Opposite Gloria Church, Byculla (E), Mumbai
+p45
+sba(i__main__
+Place
+p46
+(dp47
+g3
+(lp48
+VRestaurants
+p49
+asg6
+g33
+sg8
+VRam Punjab Rest and Bar
+p50
+sg10
+Vhttp://mumbai.burrp.com/listing/ram-punjab-rest-and-bar_byculla-e_mumbai_restaurants/165140544
+p51
+sg12
+VByculla (E)
+p52
+sg14
+(lp53
+V23727983
+p54
+aV 23757284
+p55
+asg19
+g33
+sg21
+VKavarana Terrace, Opp. Byculla Church, Dr. Ambedkar Road, Byculla (E), Mumbai
+p56
+sba(i__main__
+Place
+p57
+(dp58
+g3
+(lp59
+VRestaurants
+p60
+asg6
+g33
+sg8
+VHotel Nagina
+p61
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-nagina_byculla-e_mumbai_restaurants/1564441653
+p62
+sg12
+VByculla (E)
+p63
+sg14
+(lp64
+V23777400
+p65
+aV 23758400
+p66
+asg19
+g33
+sg21
+V53, Dr B. A. Road, Byculla (E), Mumbai
+p67
+sba(i__main__
+Place
+p68
+(dp69
+g3
+(lp70
+VRestaurants
+p71
+asg6
+g33
+sg8
+VRenault Bar & Restaurant 
+p72
+sg10
+Vhttp://mumbai.burrp.com/listing/renault-bar-restaurant-_byculla-e_mumbai_restaurants/1734497336
+p73
+sg12
+VByculla (E)
+p74
+sg14
+(lp75
+V23709860
+p76
+aV 23773938 
+p77
+asg19
+g33
+sg21
+V263/265, Gloria Church Bldg, Dr. B.A. Road, Byculla (E), Mumbai
+p78
+sba(i__main__
+Place
+p79
+(dp80
+g3
+(lp81
+VRestaurants
+p82
+asg6
+g33
+sg8
+VPearl Restaurant 
+p83
+sg10
+Vhttp://mumbai.burrp.com/listing/pearl-restaurant-_byculla-e_mumbai_restaurants/1844507425
+p84
+sg12
+VByculla (E)
+p85
+sg14
+(lp86
+V23777489
+p87
+aV 23777400
+p88
+asg19
+g33
+sg21
+V53, Dr B. A. Road , Byculla (E), Mumbai
+p89
+sba.

@@ -1,0 +1,4437 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VBars & Pubs
+p5
+aV Restaurants
+p6
+asS'rating'
+p7
+V4
+p8
+sS'name'
+p9
+VLemon Grass RestoBar
+p10
+sS'url'
+p11
+Vhttp://mumbai.burrp.com/listing/lemon-grass-restobar_malad-west_mumbai_bars-pubs-restaurants/127748782
+p12
+sS'region'
+p13
+VMalad West
+p14
+sS'phone'
+p15
+(lp16
+V28817444
+p17
+aV 28817888
+p18
+aV 9833924461
+p19
+asS'cost'
+p20
+V2
+p21
+sS'addr'
+p22
+VPalm Spring Mall, 106, 1st Floor, Next to D-Mart Store, Link Road, Malad West, Mumbai
+p23
+sba(i__main__
+Place
+p24
+(dp25
+g3
+(lp26
+VBars & Pubs
+p27
+aV Lounges
+p28
+aV Banquet Halls
+p29
+aV Restaurants
+p30
+asg7
+g8
+sg9
+VOn Toes
+p31
+sg11
+Vhttp://mumbai.burrp.com/listing/on-toes_malad-west_mumbai_bars-pubs-lounges-banquet-halls/177717732
+p32
+sg13
+VMalad West
+p33
+sg15
+(lp34
+V66710679
+p35
+aV 66710690
+p36
+aV 9820339924
+p37
+aV 9619860901
+p38
+asg20
+g21
+sg22
+V1st Floor, Palm Spring, Malad Link Road, Malad West, Mumbai
+p39
+sba(i__main__
+Place
+p40
+(dp41
+g3
+(lp42
+VRestaurants
+p43
+aV Juice Parlours
+p44
+aV Take Away Shops
+p45
+aV Fast Food Shops
+p46
+aV Dessert Shops
+p47
+asg7
+V5
+p48
+sg9
+VVenue6
+p49
+sg11
+Vhttp://mumbai.burrp.com/listing/venue6_malad-west_mumbai_restaurants-juice-parlours-take-away-shops/17322416336
+p50
+sg13
+VMalad West
+p51
+sg15
+(lp52
+V65656655
+p53
+aV 9619166551
+p54
+asg20
+g21
+sg22
+V6, Samruddhi Building, Off Link Road, Mindspace, Malad West, Mumbai
+p55
+sba(i__main__
+Place
+p56
+(dp57
+g3
+(lp58
+VBars & Pubs
+p59
+aV Restaurants
+p60
+asg7
+g8
+sg9
+VThe Laughing Cavalier
+p61
+sg11
+Vhttp://mumbai.burrp.com/listing/the-laughing-cavalier_malad-west_mumbai_bars-pubs-restaurants/190827019
+p62
+sg13
+VMalad West
+p63
+sg15
+(lp64
+V28803411
+p65
+aV 28803412
+p66
+aV 28803413
+p67
+asg20
+V3
+p68
+sg22
+VFobez Tower, Kanchpada, Ramchandra Lane, Malad West, Mumbai
+p69
+sba(i__main__
+Place
+p70
+(dp71
+g3
+(lp72
+VRestaurants
+p73
+asg7
+g8
+sg9
+VThe Peking Tom
+p74
+sg11
+Vhttp://mumbai.burrp.com/listing/the-peking-tom_malad-west_mumbai_restaurants/116279693
+p75
+sg13
+VMalad West
+p76
+sg15
+(lp77
+V65027789
+p78
+aV 65027790
+p79
+aV 28808886
+p80
+asg20
+g21
+sg22
+VJagdamba Commercial Complex, Link Road, Evershine Nagar, Malad West, Mumbai
+p81
+sba(i__main__
+Place
+p82
+(dp83
+g3
+(lp84
+VRestaurants
+p85
+asg7
+g68
+sg9
+VMachaan
+p86
+sg11
+Vhttp://mumbai.burrp.com/listing/machaan_malad-west_mumbai_restaurants/187412722
+p87
+sg13
+VMalad West
+p88
+sg15
+(lp89
+V32687147
+p90
+aV 30684507
+p91
+aV 30684508
+p92
+aV 9322113110
+p93
+asg20
+g68
+sg22
+VPalm Spring Building, Unit No.812, 8th Floor, Kanchpadha, Link Road, Malad West, Mumbai
+p94
+sba(i__main__
+Place
+p95
+(dp96
+g3
+(lp97
+VBars & Pubs
+p98
+aV Outdoor Caterers
+p99
+aV Home Caterers
+p100
+aV Restaurants
+p101
+asg7
+g8
+sg9
+VLittle Italy
+p102
+sg11
+Vhttp://mumbai.burrp.com/listing/little-italy_malad-west_mumbai_bars-pubs-outdoor-caterers-home-caterers/149741960
+p103
+sg13
+VMalad West
+p104
+sg15
+(lp105
+V66716205
+p106
+aV 66716206
+p107
+asg20
+g21
+sg22
+V1st Floor, Anant Enterprises, Palm Spring, Link Road, Next to DMart, Malad West, Mumbai
+p108
+sba(i__main__
+Place
+p109
+(dp110
+g3
+(lp111
+VOutdoor Caterers
+p112
+aV Banquet Halls
+p113
+aV Restaurants
+p114
+asg7
+g48
+sg9
+VSubkuchh Ki Thali Restaurant
+p115
+sg11
+Vhttp://mumbai.burrp.com/listing/subkuchh-ki-thali-restaurant_malad-west_mumbai_outdoor-caterers-banquet-halls-restaurants/182853227
+p116
+sg13
+VMalad West
+p117
+sg15
+(lp118
+V28760000
+p119
+aV 28771320
+p120
+aV 28792959
+p121
+asg20
+g21
+sg22
+V1st Floor, Subkuchh Complex, Link Road, Malad (W), Malad West, Mumbai
+p122
+sba(i__main__
+Place
+p123
+(dp124
+g3
+(lp125
+VRestaurants
+p126
+asg7
+g8
+sg9
+VUncle's Kitchen
+p127
+sg11
+Vhttp://mumbai.burrp.com/listing/uncles-kitchen_malad-west_mumbai_restaurants/14766762
+p128
+sg13
+VMalad West
+p129
+sg15
+(lp130
+V28881752
+p131
+aV 28816204
+p132
+asg20
+g21
+sg22
+VSunder Lane, Opp HSBC Bank ATM, Malad (W), Malad West, Mumbai
+p133
+sba(i__main__
+Place
+p134
+(dp135
+g3
+(lp136
+VRestaurants
+p137
+aV Bars & Pubs
+p138
+asg7
+g68
+sg9
+VJughead's -The Unrestaurant
+p139
+sg11
+Vhttp://mumbai.burrp.com/listing/jugheads--the-unrestaurant_malad-west_mumbai_restaurants-bars-pubs/115279594
+p140
+sg13
+VMalad West
+p141
+sg15
+(lp142
+V28445514
+p143
+aV 28445515
+p144
+aV 28445516
+p145
+asg20
+g21
+sg22
+VShop No. 1&2, New Link Road, Malad West, Mumbai
+p146
+sba(i__main__
+Place
+p147
+(dp148
+g3
+(lp149
+VBars & Pubs
+p150
+aV Restaurants
+p151
+asg7
+g8
+sg9
+VGalaxy of Stars
+p152
+sg11
+Vhttp://mumbai.burrp.com/listing/galaxy-of-stars_malad-west_mumbai_bars-pubs-restaurants/182115227
+p153
+sg13
+VMalad West
+p154
+sg15
+(lp155
+V28886835
+p156
+aV 28442959
+p157
+asg20
+g21
+sg22
+V1, Pleasant Park, Off Link Road, Malad West, Mumbai
+p158
+sba(i__main__
+Place
+p159
+(dp160
+g3
+(lp161
+VRestaurants
+p162
+asg7
+g8
+sg9
+VGarden Court Restaurant
+p163
+sg11
+Vhttp://mumbai.burrp.com/listing/garden-court-restaurant_malad-west_mumbai_restaurants/17615633
+p164
+sg13
+VMalad West
+p165
+sg15
+(lp166
+V28072973
+p167
+aV 28078342
+p168
+asg20
+V0
+p169
+sg22
+V167 Marve Road, Orlem Area, Opp. HDFC Bank, Malad West, Mumbai
+p170
+sba(i__main__
+Place
+p171
+(dp172
+g3
+(lp173
+VRestaurants
+p174
+asg7
+g8
+sg9
+VVertigo
+p175
+sg11
+Vhttp://mumbai.burrp.com/listing/vertigo_malad-west_mumbai_restaurants/197359712
+p176
+sg13
+VMalad West
+p177
+sg15
+(lp178
+V28816542
+p179
+asg20
+g169
+sg22
+VPleasant Park Society, Opposite Movie Time Cinema, Malad (W), Malad West, Mumbai
+p180
+sba(i__main__
+Place
+p181
+(dp182
+g3
+(lp183
+VBars & Pubs
+p184
+aV Restaurants
+p185
+asg7
+g8
+sg9
+VScore Sports Bar And Grill
+p186
+sg11
+Vhttp://mumbai.burrp.com/listing/score-sports-bar-and-grill_malad-west_mumbai_bars-pubs-restaurants/1935921316
+p187
+sg13
+VMalad West
+p188
+sg15
+(lp189
+V28887744
+p190
+aV 28884477
+p191
+asg20
+g169
+sg22
+V1st Floor, Palm Spring, Link Road, Malad West, Mumbai
+p192
+sba(i__main__
+Place
+p193
+(dp194
+g3
+(lp195
+VRestaurants
+p196
+asg7
+g8
+sg9
+VYoko Sizzlers
+p197
+sg11
+Vhttp://mumbai.burrp.com/listing/yoko-sizzlers_malad-west_mumbai_restaurants/196422613
+p198
+sg13
+VMalad West
+p199
+sg15
+(lp200
+V32665997
+p201
+aV 28443077
+p202
+asg20
+g21
+sg22
+V1/2/3 China Link, Opposite Goregaon Sports Club, Link Road, Malad(West), Malad West, Mumbai
+p203
+sba(i__main__
+Place
+p204
+(dp205
+g3
+(lp206
+VRestaurants
+p207
+asg7
+g8
+sg9
+VZaffran
+p208
+sg11
+Vhttp://mumbai.burrp.com/listing/zaffran_malad-west_mumbai_restaurants/16921821940
+p209
+sg13
+VMalad West
+p210
+sg15
+(lp211
+V64502828
+p212
+aV 64502929
+p213
+aV 67709120
+p214
+aV 67709121
+p215
+asg20
+g21
+sg22
+VMalad West, Mumbai
+p216
+sba(i__main__
+Place
+p217
+(dp218
+g3
+(lp219
+VRestaurants
+p220
+aV Outdoor Caterers
+p221
+asg7
+g8
+sg9
+VJalebi Chowk
+p222
+sg11
+Vhttp://mumbai.burrp.com/listing/jalebi-chowk_malad-west_mumbai_restaurants-outdoor-caterers/167851742
+p223
+sg13
+VMalad West
+p224
+sg15
+(lp225
+V28887635
+p226
+aV 28810212
+p227
+asg20
+g21
+sg22
+V6, Nisha Palace, Link Road, Malad West, Mumbai
+p228
+sba(i__main__
+Place
+p229
+(dp230
+g3
+(lp231
+VFast Food Shops
+p232
+aV Restaurants
+p233
+asg7
+g8
+sg9
+VJain Subkuchh Food Plaza
+p234
+sg11
+Vhttp://mumbai.burrp.com/listing/jain-subkuchh-food-plaza_malad-west_mumbai_fast-food-shops-restaurants/191278118
+p235
+sg13
+VMalad West
+p236
+sg15
+(lp237
+V28755555
+p238
+aV 28760000
+p239
+aV 28792959
+p240
+aV 65187529
+p241
+aV  28764151
+p242
+aV  28771320
+p243
+asg20
+g21
+sg22
+VSubkuchh Complex, Malad West, Mumbai
+p244
+sba(i__main__
+Place
+p245
+(dp246
+g3
+(lp247
+VRestaurants
+p248
+asg7
+g68
+sg9
+VFlag's
+p249
+sg11
+Vhttp://mumbai.burrp.com/listing/flags_malad-west_mumbai_restaurants/176114633
+p250
+sg13
+VMalad West
+p251
+sg15
+(lp252
+V28832222
+p253
+aV 28821111
+p254
+aV 9892057548
+p255
+asg20
+g169
+sg22
+VSBS Food Court: Asiad Co-op Housing Society Ltd, B.J Patel Road, Near Liberty Gardens, Malad West, Mumbai
+p256
+sba(i__main__
+Place
+p257
+(dp258
+g3
+(lp259
+VLounges
+p260
+aV Bars & Pubs
+p261
+aV Restaurants
+p262
+asg7
+g68
+sg9
+VOro Lounge & Kitchen
+p263
+sg11
+Vhttp://mumbai.burrp.com/listing/oro-lounge-kitchen_chincholi-bunder_mumbai_lounges-bars-pubs-restaurants/1764830633
+p264
+sg13
+VChincholi Bunder
+p265
+sg15
+(lp266
+V65263777
+p267
+aV 65263776
+p268
+aV 9223463777
+p269
+asg20
+g21
+sg22
+VTrends, 1st Floor, Chincholi Bunder Junction, Link Road, Chincholi Bunder, Malad West, Mumbai
+p270
+sba(i__main__
+Place
+p271
+(dp272
+g3
+(lp273
+VRestaurants
+p274
+asg7
+g8
+sg9
+VKonkan Swad Gomantak Food
+p275
+sg11
+Vhttp://mumbai.burrp.com/listing/konkan-swad-gomantak-food_malad-west_mumbai_restaurants/154247455
+p276
+sg13
+VMalad West
+p277
+sg15
+(lp278
+V28835095
+p279
+aV 32957896
+p280
+aV 9969084120
+p281
+asg20
+g169
+sg22
+VBagwandas House, Chincholi Bunder Road, Malad (W), Malad West, Mumbai
+p282
+sba(i__main__
+Place
+p283
+(dp284
+g3
+(lp285
+VRestaurants
+p286
+asg7
+g68
+sg9
+VGreens
+p287
+sg11
+Vhttp://mumbai.burrp.com/listing/greens_malad-west_mumbai_restaurants/139245970
+p288
+sg13
+VMalad West
+p289
+sg15
+(lp290
+V28742481
+p291
+aV 28742482
+p292
+aV 28742483
+p293
+aV 66790770
+p294
+asg20
+g169
+sg22
+VLinkway Estate, Link Road, Malad(W), Malad West, Mumbai
+p295
+sba(i__main__
+Place
+p296
+(dp297
+g3
+(lp298
+VRestaurants
+p299
+asg7
+g68
+sg9
+VDum Lagaa Ke
+p300
+sg11
+Vhttp://mumbai.burrp.com/listing/dum-lagaa-ke_malad-west_mumbai_restaurants/130821079
+p301
+sg13
+VMalad West
+p302
+sg15
+(lp303
+V64511223
+p304
+aV 64511224
+p305
+asg20
+g21
+sg22
+VShop No 2 & 3, Ganga Niwas, Next to Toyota Showroom, Link Road, Malad West, Mumbai
+p306
+sba(i__main__
+Place
+p307
+(dp308
+g3
+(lp309
+VBanquet Halls
+p310
+aV Dessert Shops
+p311
+aV Restaurants
+p312
+aV Fast Food Shops
+p313
+aV Outdoor Caterers
+p314
+asg7
+g8
+sg9
+VSrinathji's Restaurant & Banquet Hall
+p315
+sg11
+Vhttp://mumbai.burrp.com/listing/srinathjis-restaurant-banquet-hall_malad-west_mumbai_banquet-halls-dessert-shops-restaurants/1994670910
+p316
+sg13
+VMalad West
+p317
+sg15
+(lp318
+V65222500
+p319
+aV 32090393
+p320
+asg20
+g21
+sg22
+VGanga Niwas, Chincholi Bunder, New Link Road, Malad (W), Malad West, Mumbai
+p321
+sba(i__main__
+Place
+p322
+(dp323
+g3
+(lp324
+VRestaurants
+p325
+asg7
+g8
+sg9
+VSpaghetti Kitchen
+p326
+sg11
+Vhttp://mumbai.burrp.com/listing/spaghetti-kitchen_malad-west_mumbai_restaurants/16322271346
+p327
+sg13
+VMalad West
+p328
+sg15
+(lp329
+V65344660
+p330
+asg20
+g169
+sg22
+VLevel 2, Malad West, Mumbai
+p331
+sba(i__main__
+Place
+p332
+(dp333
+g3
+(lp334
+VRestaurants
+p335
+asg7
+g68
+sg9
+VNorthern Tadka
+p336
+sg11
+Vhttp://mumbai.burrp.com/listing/northern-tadka_malad-west_mumbai_restaurants/1301730079
+p337
+sg13
+VMalad West
+p338
+sg15
+(lp339
+V28811717
+p340
+asg20
+g21
+sg22
+V1st Floor, Jagdamba Complex, New Link Road , Above Jugheads, Malad West, Mumbai
+p341
+sba(i__main__
+Place
+p342
+(dp343
+g3
+(lp344
+VRestaurants
+p345
+aV Fast Food Shops
+p346
+asg7
+g8
+sg9
+VSarenaa Restaurant
+p347
+sg11
+Vhttp://mumbai.burrp.com/listing/sarenaa-restaurant_malad-west_mumbai_restaurants-fast-food-shops/1934436316
+p348
+sg13
+VMalad West
+p349
+sg15
+(lp350
+V65149002
+p351
+aV 9987962220
+p352
+aV 9324646600
+p353
+asg20
+g21
+sg22
+VSure & Pure Planet, 7-8 Vishal Shoping Complex, Nursing Lane, Opposite N.L. School, S.V. Road, Malad West, Mumbai
+p354
+sba(i__main__
+Place
+p355
+(dp356
+g3
+(lp357
+VRestaurants
+p358
+asg7
+g8
+sg9
+VSun, Moon & Potatoes
+p359
+sg11
+Vhttp://mumbai.burrp.com/listing/sun-moon-potatoes_malad-west_mumbai_restaurants/17760732
+p360
+sg13
+VMalad West
+p361
+sg15
+(lp362
+V28814645
+p363
+asg20
+g21
+sg22
+VShop No 11/12, Pleasant Park Building, Evershine Link Road, Malad West, Mumbai
+p364
+sba(i__main__
+Place
+p365
+(dp366
+g3
+(lp367
+VRestaurants
+p368
+asg7
+g68
+sg9
+VPizza Hut
+p369
+sg11
+Vhttp://mumbai.burrp.com/listing/pizza-hut_malad-west_mumbai_restaurants/12746782
+p370
+sg13
+VMalad West
+p371
+sg15
+(lp372
+V66450909
+p373
+asg20
+g169
+sg22
+V2nd Floor, Malad West, Mumbai
+p374
+sba(i__main__
+Place
+p375
+(dp376
+g3
+(lp377
+VRestaurants
+p378
+asg7
+g8
+sg9
+VGoan Food
+p379
+sg11
+Vhttp://mumbai.burrp.com/listing/goan-food_malad-west_mumbai_restaurants/180871029
+p380
+sg13
+VMalad West
+p381
+sg15
+(lp382
+V9820756797
+p383
+asg20
+V1
+p384
+sg22
+VAt Shop No. 1, Marve Apartments, Marve Road, Malad (W), Malad West, Mumbai
+p385
+sba(i__main__
+Place
+p386
+(dp387
+g3
+(lp388
+VRestaurants
+p389
+asg7
+g8
+sg9
+VFlamingo
+p390
+sg11
+Vhttp://mumbai.burrp.com/listing/flamingo_malad-west_mumbai_restaurants/1656881544
+p391
+sg13
+VMalad West
+p392
+sg15
+(lp393
+V31921000
+p394
+aV 61143200
+p395
+asg20
+g169
+sg22
+V3rd Floor, Link House Building , Link Road, Malad West, Mumbai
+p396
+sba(i__main__
+Place
+p397
+(dp398
+g3
+(lp399
+VRestaurants
+p400
+asg7
+g8
+sg9
+VZephyr Restobar
+p401
+sg11
+Vhttp://mumbai.burrp.com/listing/zephyr-restobar_malad-west_mumbai_restaurants/1576889752
+p402
+sg13
+VMalad West
+p403
+sg15
+(lp404
+V32584400
+p405
+aV 28762555
+p406
+aV 28768555
+p407
+aV 28769555
+p408
+asg20
+g21
+sg22
+V1090, 1091, New Link Road, Malad West, Mumbai
+p409
+sba(i__main__
+Place
+p410
+(dp411
+g3
+(lp412
+VRestaurants
+p413
+asg7
+g8
+sg9
+VMainland China 
+p414
+sg11
+Vhttp://mumbai.burrp.com/listing/mainland-china-_malad-west_mumbai_restaurants/14123205168
+p415
+sg13
+VMalad West
+p416
+sg15
+(lp417
+V32469533
+p418
+aV 28890398 
+p419
+asg20
+g68
+sg22
+VUnit No. 308, 3rd Floor , Malad West, Mumbai
+p420
+sba(i__main__
+Place
+p421
+(dp422
+g3
+(lp423
+VRestaurants
+p424
+asg7
+g68
+sg9
+VFeast India
+p425
+sg11
+Vhttp://mumbai.burrp.com/listing/feast-india_malad-west_mumbai_restaurants/1341343475
+p426
+sg13
+VMalad West
+p427
+sg15
+(lp428
+V28752020
+p429
+asg20
+g21
+sg22
+VLaxmi Palace, Swami Vivekanand Road, Malad West, Mumbai
+p430
+sba(i__main__
+Place
+p431
+(dp432
+g3
+(lp433
+VFast Food Shops
+p434
+aV Restaurants
+p435
+asg7
+g68
+sg9
+VLandmark Restaurant Veg Diet
+p436
+sg11
+Vhttp://mumbai.burrp.com/listing/landmark-restaurant-veg-diet_malad-west_mumbai_fast-food-shops-restaurants/1332216376
+p437
+sg13
+VMalad West
+p438
+sg15
+(lp439
+V28442627
+p440
+aV 28443737
+p441
+aV 28801946
+p442
+aV 28809025
+p443
+asg20
+g21
+sg22
+VLandmark Building, Link Road, Mithchowki, Malad West, Mumbai
+p444
+sba(i__main__
+Place
+p445
+(dp446
+g3
+(lp447
+VRestaurants
+p448
+asg7
+g68
+sg9
+V5 Spice
+p449
+sg11
+Vhttp://mumbai.burrp.com/listing/5-spice_malad-west_mumbai_restaurants/1876379722
+p450
+sg13
+VMalad West
+p451
+sg15
+(lp452
+V28760172
+p453
+aV 28760173
+p454
+aV 28760170
+p455
+asg20
+g21
+sg22
+VRenis Apartment, Lane Opp. Green Hotel, Near Inorbit Mall, Off Link Road, Malad (W), Malad West, Mumbai
+p456
+sba(i__main__
+Place
+p457
+(dp458
+g3
+(lp459
+VRestaurants
+p460
+aV Home Caterers
+p461
+aV Outdoor Caterers
+p462
+asg7
+g68
+sg9
+VPateela Restaurant
+p463
+sg11
+Vhttp://mumbai.burrp.com/listing/pateela-restaurant_malad-west_mumbai_restaurants-home-caterers-outdoor-caterers/1274627782
+p464
+sg13
+VMalad West
+p465
+sg15
+(lp466
+V28806888
+p467
+aV 28805000
+p468
+aV 9819784429
+p469
+asg20
+g21
+sg22
+VPalm Spring Mall, 105, 1st Floor, Above Croma Showroom, Malad West, Mumbai
+p470
+sba(i__main__
+Place
+p471
+(dp472
+g3
+(lp473
+VRestaurants
+p474
+asg7
+g48
+sg9
+VSuburban Tadka
+p475
+sg11
+Vhttp://mumbai.burrp.com/listing/suburban-tadka_malad-west_mumbai_restaurants/192278217
+p476
+sg13
+VMalad West
+p477
+sg15
+(lp478
+V28811717
+p479
+aV 28803939
+p480
+asg20
+g68
+sg22
+VAbove Pop Tates, Behind Movie Time, Kanchpada New Link Road, Malad (W), Malad West, Mumbai
+p481
+sba(i__main__
+Place
+p482
+(dp483
+g3
+(lp484
+VRestaurants
+p485
+aV Bars & Pubs
+p486
+asg7
+g68
+sg9
+VUnplugg - Wine Dine N Retro
+p487
+sg11
+Vhttp://mumbai.burrp.com/listing/unplugg---wine-dine-n-retro_malad-west_mumbai_restaurants-bars-pubs/1225365287
+p488
+sg13
+VMalad West
+p489
+sg15
+(lp490
+V28443686
+p491
+aV 28443822
+p492
+aV 9096349456
+p493
+aV 9821516388
+p494
+asg20
+g21
+sg22
+VUncle's Kitchen Junction, Mith Chowki, Marve Road, Malad West, Mumbai
+p495
+sba(i__main__
+Place
+p496
+(dp497
+g3
+(lp498
+VFast Food Shops
+p499
+aV Restaurants
+p500
+asg7
+g8
+sg9
+VAditi Fast Food and Restaurant
+p501
+sg11
+Vhttp://mumbai.burrp.com/listing/aditi-fast-food-and-restaurant_malad-west_mumbai_fast-food-shops-restaurants/139254970
+p502
+sg13
+VMalad West
+p503
+sg15
+(lp504
+V28823344
+p505
+aV 28824455
+p506
+aV 66006699
+p507
+asg20
+g384
+sg22
+V105, S.V. Road, Malad Shopping Centre, Malad (W), Malad West, Mumbai
+p508
+sba(i__main__
+Place
+p509
+(dp510
+g3
+(lp511
+VRestaurants
+p512
+aV Outdoor Caterers
+p513
+asg7
+g8
+sg9
+VBorivali Biryani Center
+p514
+sg11
+Vhttp://mumbai.burrp.com/listing/borivali-biryani-center_malad-west_mumbai_restaurants-outdoor-caterers/153913356
+p515
+sg13
+VMalad West
+p516
+sg15
+(lp517
+V28631886
+p518
+aV 28625252
+p519
+asg20
+g21
+sg22
+VPremier Tower, Orlem Church, Marve Road, Malad West, Mumbai
+p520
+sba(i__main__
+Place
+p521
+(dp522
+g3
+(lp523
+VRestaurants
+p524
+asg7
+g8
+sg9
+VMartin's - The Chinese Nook
+p525
+sg11
+Vhttp://mumbai.burrp.com/listing/martins---the-chinese-nook_malad-west_mumbai_restaurants/1404791069
+p526
+sg13
+VMalad West
+p527
+sg15
+(lp528
+V64506450
+p529
+aV 64516451
+p530
+aV 28781182
+p531
+aV 32210675
+p532
+asg20
+g384
+sg22
+VCorrea Compound, Link Road, Malad West, Mumbai
+p533
+sba(i__main__
+Place
+p534
+(dp535
+g3
+(lp536
+VRestaurants
+p537
+aV Cafes
+p538
+aV Bars & Pubs
+p539
+asg7
+g8
+sg9
+VManchester United Cafe Bar
+p540
+sg11
+Vhttp://mumbai.burrp.com/listing/manchester-united-cafe-bar_malad-west_mumbai_restaurants-cafes-bars-pubs/14319281366
+p541
+sg13
+VMalad West
+p542
+sg15
+(lp543
+V61960300
+p544
+aV 61960399
+p545
+asg20
+g68
+sg22
+VMalad West, Mumbai
+p546
+sba(i__main__
+Place
+p547
+(dp548
+g3
+(lp549
+VBars & Pubs
+p550
+aV Restaurants
+p551
+asg7
+g21
+sg9
+VRuby Tuesday
+p552
+sg11
+Vhttp://mumbai.burrp.com/listing/ruby-tuesday_malad-west_mumbai_bars-pubs-restaurants/111198
+p553
+sg13
+VMalad West
+p554
+sg15
+(lp555
+V66450925
+p556
+asg20
+g68
+sg22
+VShop No. 20, 2nd Floor, Malad West, Mumbai
+p557
+sba(i__main__
+Place
+p558
+(dp559
+g3
+(lp560
+VRestaurants
+p561
+asg7
+g68
+sg9
+VSpark Wine & Dine
+p562
+sg11
+Vhttp://mumbai.burrp.com/listing/spark-wine-dine_malad-west_mumbai_restaurants/121874188
+p563
+sg13
+VMalad West
+p564
+sg15
+(lp565
+V28812829
+p566
+aV 28819596
+p567
+aV 28819545
+p568
+asg20
+g21
+sg22
+VGround Floor, Malad West, Mumbai
+p569
+sba(i__main__
+Place
+p570
+(dp571
+g3
+(lp572
+VRestaurants
+p573
+asg7
+g21
+sg9
+VMoti Mahal Delux Tandoori Trail Restaurant
+p574
+sg11
+Vhttp://mumbai.burrp.com/listing/moti-mahal-delux-tandoori-trail-restaurant_malad-west_mumbai_restaurants/160131049
+p575
+sg13
+VMalad West
+p576
+sg15
+(lp577
+V32902945
+p578
+asg20
+g169
+sg22
+VShop No. 21 A, 2nd Floor, Inorbit Mall, Link Road, Malad West, Mumbai
+p579
+sba(i__main__
+Place
+p580
+(dp581
+g3
+(lp582
+VRestaurants
+p583
+asg7
+g68
+sg9
+VGarcia's Famous Pizza
+p584
+sg11
+Vhttp://mumbai.burrp.com/listing/garcias-famous-pizza_malad-west_mumbai_restaurants/146165663
+p585
+sg13
+VMalad West
+p586
+sg15
+(lp587
+V66751101
+p588
+aV 66751102
+p589
+aV 28884495
+p590
+asg20
+g169
+sg22
+VShop No 2, Building No 1, New Sonal Link Industrial Estate, Malad (W), Malad West, Mumbai
+p591
+sba(i__main__
+Place
+p592
+(dp593
+g3
+(lp594
+VRestaurants
+p595
+asg7
+g68
+sg9
+VCrepe Station Cafe
+p596
+sg11
+Vhttp://mumbai.burrp.com/listing/crepe-station-cafe_malad-west_mumbai_restaurants/1601400049
+p597
+sg13
+VMalad West
+p598
+sg15
+(lp599
+V65170404
+p600
+aV 65170505
+p601
+asg20
+g68
+sg22
+VInterface 11, Mindspace, Off Link Road, Malad (W), Malad West, Mumbai
+p602
+sba(i__main__
+Place
+p603
+(dp604
+g3
+(lp605
+VRestaurants
+p606
+asg7
+g68
+sg9
+VKitchen Bell
+p607
+sg11
+Vhttp://mumbai.burrp.com/listing/kitchen-bell_malad-west_mumbai_restaurants/179276930
+p608
+sg13
+VMalad West
+p609
+sg15
+(lp610
+V32584400
+p611
+aV 32581414
+p612
+aV 65148333
+p613
+aV 65148666
+p614
+asg20
+g68
+sg22
+VNext to Shakti Ford Showroom and Subhiksha Hypermarket, New Link Road, Near Greens Restaurant, Malad (W), Malad West, Mumbai
+p615
+sba(i__main__
+Place
+p616
+(dp617
+g3
+(lp618
+VRestaurants
+p619
+asg7
+g8
+sg9
+VSernyaa
+p620
+sg11
+Vhttp://mumbai.burrp.com/listing/sernyaa_malad-west_mumbai_restaurants/19115146118
+p621
+sg13
+VMalad West
+p622
+sg15
+(lp623
+V28765105
+p624
+aV 9920274261
+p625
+asg20
+g169
+sg22
+VShop No. 8, Ashok Enclave, Chincholi Bunder Junction, Link Road, Malad West, Mumbai
+p626
+sba(i__main__
+Place
+p627
+(dp628
+g3
+(lp629
+VOutdoor Caterers
+p630
+aV Fast Food Shops
+p631
+aV Home Caterers
+p632
+aV Take Away Shops
+p633
+aV Restaurants
+p634
+asg7
+g21
+sg9
+VCalifornia Pizza Kitchen
+p635
+sg11
+Vhttp://mumbai.burrp.com/listing/california-pizza-kitchen_malad-west_mumbai_outdoor-caterers-fast-food-shops-home-caterers/14519155564
+p636
+sg13
+VMalad West
+p637
+sg15
+(lp638
+V65848888
+p639
+aV 65885697
+p640
+asg20
+g169
+sg22
+V3rd Floor, Food Court, Malad West, Mumbai
+p641
+sba(i__main__
+Place
+p642
+(dp643
+g3
+(lp644
+VRestaurants
+p645
+asg7
+g21
+sg9
+VKareem's
+p646
+sg11
+Vhttp://mumbai.burrp.com/listing/kareems_malad-west_mumbai_restaurants/198737811
+p647
+sg13
+VMalad West
+p648
+sg15
+(lp649
+V9920299789
+p650
+aV 8888807
+p651
+aV 8888808
+p652
+aV 8888809
+p653
+asg20
+g21
+sg22
+VJagdamba Complex, Movietimes Compound, Malad Link Road, Malad (W), Malad West, Mumbai
+p654
+sba(i__main__
+Place
+p655
+(dp656
+g3
+(lp657
+VRestaurants
+p658
+aV Lounges
+p659
+asg7
+g68
+sg9
+VStardust The Lounge
+p660
+sg11
+Vhttp://mumbai.burrp.com/listing/stardust-the-lounge_malad-west_mumbai_restaurants-lounges/1541381455
+p661
+sg13
+VMalad West
+p662
+sg15
+(lp663
+V28797979
+p664
+aV 28797999
+p665
+aV 42797979
+p666
+asg20
+g68
+sg22
+VGrand Hometel, Chincholi Bunder, Mindspace, Off New Link Road, Behind Inorbit Mall, Malad (W), Malad West, Mumbai
+p667
+sba(i__main__
+Place
+p668
+(dp669
+g3
+(lp670
+VRestaurants
+p671
+asg7
+g48
+sg9
+VGopal
+p672
+sg11
+Vhttp://mumbai.burrp.com/listing/gopal_malad-west_mumbai_restaurants/12837881
+p673
+sg13
+VMalad West
+p674
+sg15
+(lp675
+V28825331
+p676
+asg20
+g169
+sg22
+VHotel Gopal, Talov Mahal, Malad (W), Malad West, Mumbai
+p677
+sba(i__main__
+Place
+p678
+(dp679
+g3
+(lp680
+VRestaurants
+p681
+asg7
+g21
+sg9
+V72 Degrees North Hospitality
+p682
+sg11
+Vhttp://mumbai.burrp.com/listing/72-degrees-north-hospitality_malad-west_mumbai_restaurants/1274591782
+p683
+sg13
+VMalad West
+p684
+sg15
+(lp685
+V28834391
+p686
+aV 9773322924
+p687
+asg20
+g21
+sg22
+VJagdamba Commercial Complex, A-2, Shop No.3 & 4, Link Road, Evershine Nagar, Malad West, Mumbai
+p688
+sba(i__main__
+Place
+p689
+(dp690
+g3
+(lp691
+VRestaurants
+p692
+asg7
+g21
+sg9
+VLegacy of Mumbai 
+p693
+sg11
+Vhttp://mumbai.burrp.com/listing/legacy-of-mumbai-_malad-west_mumbai_restaurants/1804840029
+p694
+sg13
+VMalad West
+p695
+sg15
+(lp696
+V28740454
+p697
+aV 28751474
+p698
+aV 28738549
+p699
+asg20
+g21
+sg22
+VS.V. Road, Chincholi Naka, Malad (W), Malad West, Mumbai
+p700
+sba(i__main__
+Place
+p701
+(dp702
+g3
+(lp703
+VBars & Pubs
+p704
+aV Restaurants
+p705
+asg7
+g8
+sg9
+VVrindavan
+p706
+sg11
+Vhttp://mumbai.burrp.com/listing/vrindavan_malad-west_mumbai_bars-pubs-restaurants/184250425
+p707
+sg13
+VMalad West
+p708
+sg15
+(lp709
+V28885008
+p710
+aV 28817029
+p711
+aV 66978486
+p712
+asg20
+g21
+sg22
+VCorner of S.V. Road and Chincholi Bunder,  Rd Junction, Opp. Ramanjaneya Hotel, S.V Road, Malad (W), Malad West, Mumbai
+p713
+sba(i__main__
+Place
+p714
+(dp715
+g3
+(lp716
+VRestaurants
+p717
+asg7
+g8
+sg9
+VJango's
+p718
+sg11
+Vhttp://mumbai.burrp.com/listing/jangos_malad-west_mumbai_restaurants/188376821
+p719
+sg13
+VMalad West
+p720
+sg15
+(lp721
+V65137533
+p722
+aV 65129048
+p723
+asg20
+g21
+sg22
+VShop No. 3, Chincholi Bunder Signal, Link Road, Mindspace, Malad West, Mumbai
+p724
+sba(i__main__
+Place
+p725
+(dp726
+g3
+(lp727
+VRestaurants
+p728
+asg7
+g8
+sg9
+VPride
+p729
+sg11
+Vhttp://mumbai.burrp.com/listing/pride_malad-west_mumbai_restaurants/169851940
+p730
+sg13
+VMalad West
+p731
+sg15
+(lp732
+V28793925
+p733
+asg20
+g169
+sg22
+VOpp: Shakti Showrrom, Goregaon Malad Link Rd, Malad (W), Malad West, Mumbai
+p734
+sba(i__main__
+Place
+p735
+(dp736
+g3
+(lp737
+VRestaurants
+p738
+asg7
+g8
+sg9
+VFlavours
+p739
+sg11
+Vhttp://mumbai.burrp.com/listing/flavours_malad-west_mumbai_restaurants/1561399653
+p740
+sg13
+VMalad West
+p741
+sg15
+(lp742
+V28797979
+p743
+asg20
+g68
+sg22
+VGrand Hometel, Mindspace, Chincholi Bunder, Off. New Link Road, Malad (W), Malad West, Mumbai
+p744
+sba(i__main__
+Place
+p745
+(dp746
+g3
+(lp747
+VRestaurants
+p748
+asg7
+g8
+sg9
+VSwadshakti
+p749
+sg11
+Vhttp://mumbai.burrp.com/listing/swadshakti_malad-west_mumbai_restaurants/1521480257
+p750
+sg13
+VMalad West
+p751
+sg15
+(lp752
+V28065757
+p753
+asg20
+g21
+sg22
+V Bhadran Nagar, Cross Road 2, Off SV Road, Opp. Milap Theatre, Malad (W), Malad West, Mumbai
+p754
+sba(i__main__
+Place
+p755
+(dp756
+g3
+(lp757
+VRestaurants
+p758
+aV Bars & Pubs
+p759
+asg7
+g21
+sg9
+VWTF
+p760
+sg11
+Vhttp://mumbai.burrp.com/listing/wtf_malad-west_mumbai_restaurants-bars-pubs/11322320396
+p761
+sg13
+VMalad West
+p762
+sg15
+(lp763
+V9920477497
+p764
+asg20
+g21
+sg22
+VMalad West, Mumbai
+p765
+sba(i__main__
+Place
+p766
+(dp767
+g3
+(lp768
+VBars & Pubs
+p769
+aV Lounges
+p770
+aV Restaurants
+p771
+asg7
+g21
+sg9
+VSKYE Restaurant & Cocktail Lounge
+p772
+sg11
+Vhttp://mumbai.burrp.com/listing/skye-restaurant-cocktail-lounge_malad-west_mumbai_bars-pubs-lounges-restaurants/1522542257
+p773
+sg13
+VMalad West
+p774
+sg15
+(lp775
+V28642862
+p776
+aV 9819089797
+p777
+asg20
+g21
+sg22
+VGermaine Apartments, Next to Grotto Heritage, Gautam Buddha Lane, Malad (W), Malad West, Mumbai
+p778
+sba(i__main__
+Place
+p779
+(dp780
+g3
+(lp781
+VRestaurants
+p782
+asg7
+g68
+sg9
+VMalwani Kalwan 
+p783
+sg11
+Vhttp://mumbai.burrp.com/listing/malwani-kalwan-_malad-west_mumbai_restaurants/1584981851
+p784
+sg13
+VMalad West
+p785
+sg15
+(lp786
+V28881511
+p787
+aV 65913516
+p788
+aV 9619494072
+p789
+aV 9619494073
+p790
+asg20
+g21
+sg22
+VSpringfield, Sundar Lane, Orlem, Malad West, Mumbai
+p791
+sba(i__main__
+Place
+p792
+(dp793
+g3
+(lp794
+VRestaurants
+p795
+asg7
+g68
+sg9
+VCoffee and More
+p796
+sg11
+Vhttp://mumbai.burrp.com/listing/coffee-and-more_malad-west_mumbai_restaurants/153112356
+p797
+sg13
+VMalad West
+p798
+sg15
+(lp799
+V28770003
+p800
+aV 28770005
+p801
+aV 28770004
+p802
+asg20
+g169
+sg22
+VShop No.9 & 10, Sundarvan 5 - 4 C.H.5.L., Sunder Nagar, SV Road, Malad West, Mumbai
+p803
+sba(i__main__
+Place
+p804
+(dp805
+g3
+(lp806
+VRestaurants
+p807
+asg7
+g68
+sg9
+VSoon Li Restaurant
+p808
+sg11
+Vhttp://mumbai.burrp.com/listing/soon-li-restaurant_malad-west_mumbai_restaurants/16311561346
+p809
+sg13
+VMalad West
+p810
+sg15
+(lp811
+V28440611
+p812
+aV 28881772
+p813
+asg20
+g169
+sg22
+VShop No 15, Guru Kripa Building, Evershine Nagar, Malad West, Mumbai
+p814
+sba(i__main__
+Place
+p815
+(dp816
+g3
+(lp817
+VRestaurants
+p818
+asg7
+g21
+sg9
+VSmokin' Joe's
+p819
+sg11
+Vhttp://mumbai.burrp.com/listing/smokin-joes_malad-west_mumbai_restaurants/19217217
+p820
+sg13
+VMalad West
+p821
+sg15
+(lp822
+V28823300
+p823
+aV 28827766
+p824
+asg20
+g68
+sg22
+VShop No.6, Ganga Building, Chincholi Bunder and Link Road Junction, Malad West, Mumbai
+p825
+sba(i__main__
+Place
+p826
+(dp827
+g3
+(lp828
+VRestaurants
+p829
+asg7
+g21
+sg9
+VTrident Ghar ka Khana
+p830
+sg11
+Vhttp://mumbai.burrp.com/listing/trident-ghar-ka-khana_malad-west_mumbai_restaurants/1741212435
+p831
+sg13
+VMalad West
+p832
+sg15
+(lp833
+V65288080
+p834
+aV 9323080421
+p835
+asg20
+g21
+sg22
+V# 17, Orbit Industrial Estate, Chincholi Bunder Road, Malad (W), Malad West, Mumbai
+p836
+sba(i__main__
+Place
+p837
+(dp838
+g3
+(lp839
+VRestaurants
+p840
+asg7
+g21
+sg9
+VUncle's Kitchen
+p841
+sg11
+Vhttp://mumbai.burrp.com/listing/uncles-kitchen_malad-west_mumbai_restaurants/1672174742
+p842
+sg13
+VMalad West
+p843
+sg15
+(lp844
+V28881752
+p845
+aV 28816204
+p846
+asg20
+g21
+sg22
+VLine and Marve Road Junction, Mith Chowki, Malad (W), Malad West, Mumbai
+p847
+sba(i__main__
+Place
+p848
+(dp849
+g3
+(lp850
+VTake Away Shops
+p851
+aV Restaurants
+p852
+asg7
+g48
+sg9
+VAiden's
+p853
+sg11
+Vhttp://mumbai.burrp.com/listing/aidens_malad-west_mumbai_take-away-shops-restaurants/1476717762
+p854
+sg13
+VMalad West
+p855
+sg15
+(lp856
+V28814715
+p857
+aV 9699384411
+p858
+aV 9702660455
+p859
+asg20
+g384
+sg22
+VShop No.6, Ann-O-Lou Building, Sunder Lane, Orlem, Malad West, Mumbai
+p860
+sba(i__main__
+Place
+p861
+(dp862
+g3
+(lp863
+VRestaurants
+p864
+asg7
+g48
+sg9
+VChina Park
+p865
+sg11
+Vhttp://mumbai.burrp.com/listing/china-park_malad-west_mumbai_restaurants/13522331574
+p866
+sg13
+VMalad West
+p867
+sg15
+(lp868
+V64533621
+p869
+aV 64533622
+p870
+aV 32098193
+p871
+asg20
+g169
+sg22
+VJustine D'Souza Road, Orlem, Malad West, Mumbai
+p872
+sba(i__main__
+Place
+p873
+(dp874
+g3
+(lp875
+VRestaurants
+p876
+asg7
+g48
+sg9
+VLiberty Restaurant
+p877
+sg11
+Vhttp://mumbai.burrp.com/listing/liberty-restaurant_malad-west_mumbai_restaurants/15911578950
+p878
+sg13
+VMalad West
+p879
+sg15
+(lp880
+V28889494
+p881
+aV 28889696
+p882
+aV 9820419806
+p883
+asg20
+g169
+sg22
+VShanti Niketan Co Operative Housing Society, Liberty Garden Road, Malad West, Mumbai
+p884
+sba(i__main__
+Place
+p885
+(dp886
+g3
+(lp887
+VRestaurants
+p888
+asg7
+g48
+sg9
+VRoyal Garden Restaurant& Bar 
+p889
+sg11
+Vhttp://mumbai.burrp.com/listing/royal-garden-restaurant-bar-_malad-west_mumbai_restaurants/1564495653
+p890
+sg13
+VMalad West
+p891
+sg15
+(lp892
+V28822174 
+p893
+asg20
+g169
+sg22
+VOm Shanti Apts., Evershine Nagar , Malad (W), Malad West, Mumbai
+p894
+sba(i__main__
+Place
+p895
+(dp896
+g3
+(lp897
+VRestaurants
+p898
+aV Outdoor Caterers
+p899
+asg7
+g48
+sg9
+VRosh & Ron Restaurant
+p900
+sg11
+Vhttp://mumbai.burrp.com/listing/rosh-ron-restaurant_malad-west_mumbai_restaurants-outdoor-caterers/11911583990
+p901
+sg13
+VMalad West
+p902
+sg15
+(lp903
+V28895234
+p904
+aV 64462154
+p905
+aV 9892203511
+p906
+asg20
+g169
+sg22
+V2/344, BMC Colony, Malwani, Malad West, Mumbai
+p907
+sba(i__main__
+Place
+p908
+(dp909
+g3
+(lp910
+VRestaurants
+p911
+asg7
+g8
+sg9
+VPop Tate's
+p912
+sg11
+Vhttp://mumbai.burrp.com/listing/pop-tates_malad-west_mumbai_restaurants/12714878782
+p913
+sg13
+VMalad West
+p914
+sg15
+(lp915
+V9769214502
+p916
+aV 28890736
+p917
+aV 28890737
+p918
+aV 28890738
+p919
+asg20
+g21
+sg22
+VParth Plaza, 7th Floor, New Link Road, Mith Chowki, Malad West, Mumbai
+p920
+sba(i__main__
+Place
+p921
+(dp922
+g3
+(lp923
+VRestaurants
+p924
+asg7
+g8
+sg9
+VJughead's -The Unrestaurant
+p925
+sg11
+Vhttp://mumbai.burrp.com/listing/jugheads--the-unrestaurant_malad-west_mumbai_restaurants/1837144326
+p926
+sg13
+VMalad West
+p927
+sg15
+(lp928
+V28445514
+p929
+aV 28445515
+p930
+aV 28445516
+p931
+aV 9820185915
+p932
+asg20
+g169
+sg22
+VShop No 1 And 2, Jagdamba Commercial House, Evershine Nagar, New Link Road, Malad West, Mumbai
+p933
+sba(i__main__
+Place
+p934
+(dp935
+g3
+(lp936
+VRestaurants
+p937
+asg7
+g8
+sg9
+VNatraj
+p938
+sg11
+Vhttp://mumbai.burrp.com/listing/natraj_malad-west_mumbai_restaurants/167131742
+p939
+sg13
+VMalad West
+p940
+sg15
+(lp941
+V28894286
+p942
+aV 9820283454
+p943
+asg20
+g169
+sg22
+VNatraj Market, SV Road, 1st Mezzanine floor, Malad (W), Malad West, Mumbai
+p944
+sba(i__main__
+Place
+p945
+(dp946
+g3
+(lp947
+VRestaurants
+p948
+asg7
+g8
+sg9
+VTaste Budz
+p949
+sg11
+Vhttp://mumbai.burrp.com/listing/taste-budz_malad-west_mumbai_restaurants/113891396
+p950
+sg13
+VMalad West
+p951
+sg15
+(lp952
+V28783993
+p953
+aV 9324599815
+p954
+asg20
+g21
+sg22
+VOpp. Magnus Tower, Mindspace, Chincholi Bunder, Malad (W), Malad West, Mumbai
+p955
+sba(i__main__
+Place
+p956
+(dp957
+g3
+(lp958
+VRestaurants
+p959
+asg7
+g8
+sg9
+VKailash Parbat
+p960
+sg11
+Vhttp://mumbai.burrp.com/listing/kailash-parbat_malad-west_mumbai_restaurants/1312351178
+p961
+sg13
+VMalad West
+p962
+sg15
+(lp963
+V28772044
+p964
+asg20
+g21
+sg22
+V2nd Floor, Food Court, Malad West, Mumbai
+p965
+sba(i__main__
+Place
+p966
+(dp967
+g3
+(lp968
+VRestaurants
+p969
+asg7
+g8
+sg9
+VSanskriti Restaurant
+p970
+sg11
+Vhttp://mumbai.burrp.com/listing/sanskriti-restaurant_malad-west_mumbai_restaurants/12511692584
+p971
+sg13
+VMalad West
+p972
+sg15
+(lp973
+V28765051
+p974
+aV 65170010
+p975
+aV 9867647407
+p976
+asg20
+g169
+sg22
+VC/O Inorbit Mall, 2nd Floor, Link Road, Malad West, Mumbai
+p977
+sba(i__main__
+Place
+p978
+(dp979
+g3
+(lp980
+VRestaurants
+p981
+asg7
+g8
+sg9
+VGarden Court At Bageecha Restaurant
+p982
+sg11
+Vhttp://mumbai.burrp.com/listing/garden-court-at-bageecha-restaurant_malad-west_mumbai_restaurants/16711759742
+p983
+sg13
+VMalad West
+p984
+sg15
+(lp985
+V28832671
+p986
+aV 28832672
+p987
+aV 28884423
+p988
+asg20
+g169
+sg22
+VBageecha Complex, Madh Marve Road, Malad West, Mumbai
+p989
+sba(i__main__
+Place
+p990
+(dp991
+g3
+(lp992
+VRestaurants
+p993
+asg7
+g8
+sg9
+VJ. B. Dynasty Chinese Corner
+p994
+sg11
+Vhttp://mumbai.burrp.com/listing/j-b-dynasty-chinese-corner_malad-west_mumbai_restaurants/19111771118
+p995
+sg13
+VMalad West
+p996
+sg15
+(lp997
+V28828948
+p998
+aV 9619494070
+p999
+aV 9619494071
+p1000
+asg20
+g21
+sg22
+VSunder Lane, Orlem, Malad West, Mumbai
+p1001
+sba(i__main__
+Place
+p1002
+(dp1003
+g3
+(lp1004
+VRestaurants
+p1005
+asg7
+g8
+sg9
+VMangoes
+p1006
+sg11
+Vhttp://mumbai.burrp.com/listing/mangoes_orlem_mumbai_restaurants/15522909554
+p1007
+sg13
+VOrlem
+p1008
+sg15
+(lp1009
+V28015552
+p1010
+aV 9769479665
+p1011
+asg20
+g21
+sg22
+VShop No.1, Almar Apartments, Near Orlem Market, Orlem, Malad West, Mumbai
+p1012
+sba(i__main__
+Place
+p1013
+(dp1014
+g3
+(lp1015
+VRestaurants
+p1016
+asg7
+g68
+sg9
+VAmma's Restaurant
+p1017
+sg11
+Vhttp://mumbai.burrp.com/listing/ammas-restaurant_chincholi-bunder_mumbai_restaurants/13911612970
+p1018
+sg13
+VChincholi Bunder
+p1019
+sg15
+(lp1020
+V28808093
+p1021
+aV 28814492
+p1022
+aV 9987402644
+p1023
+asg20
+g21
+sg22
+VShop No. 5, Ganga Niwas, Chincholi Cross Road, Chincholi Bunder, Malad West, Mumbai
+p1024
+sba(i__main__
+Place
+p1025
+(dp1026
+g3
+(lp1027
+VRestaurants
+p1028
+asg7
+g384
+sg9
+VDomino's Pizza
+p1029
+sg11
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_malad-west_mumbai_restaurants/14039069
+p1030
+sg13
+VMalad West
+p1031
+sg15
+(lp1032
+V28446191
+p1033
+aV 28443553
+p1034
+aV 28443602
+p1035
+aV 28805219
+p1036
+asg20
+g169
+sg22
+VShop no 6, Jagdamba Commercial Complex, Malad West, Mumbai
+p1037
+sba(i__main__
+Place
+p1038
+(dp1039
+g3
+(lp1040
+VRestaurants
+p1041
+asg7
+g68
+sg9
+VChaman
+p1042
+sg11
+Vhttp://mumbai.burrp.com/listing/chaman_malad-west_mumbai_restaurants/125109584
+p1043
+sg13
+VMalad West
+p1044
+sg15
+(lp1045
+V28757747
+p1046
+asg20
+g169
+sg22
+V9 Sunita Apts, S V Road. Malad (W), Malad West, Mumbai
+p1047
+sba(i__main__
+Place
+p1048
+(dp1049
+g3
+(lp1050
+VRestaurants
+p1051
+asg7
+g384
+sg9
+VDial-A-Biryani
+p1052
+sg11
+Vhttp://mumbai.burrp.com/listing/dial-a-biryani_malad-west_mumbai_restaurants/162113247
+p1053
+sg13
+VMalad West
+p1054
+sg15
+(lp1055
+V28814229
+p1056
+aV 9820067988
+p1057
+asg20
+g169
+sg22
+VMain Marve Road Rathodi, Near Bageecha, Malad (W), Malad West, Mumbai
+p1058
+sba(i__main__
+Place
+p1059
+(dp1060
+g3
+(lp1061
+VJuice Parlours
+p1062
+aV Restaurants
+p1063
+asg7
+g21
+sg9
+VSun Shine Restaurant
+p1064
+sg11
+Vhttp://mumbai.burrp.com/listing/sun-shine-restaurant_malad-west_mumbai_juice-parlours-restaurants/14911721960
+p1065
+sg13
+VMalad West
+p1066
+sg15
+(lp1067
+V28781749
+p1068
+asg20
+g169
+sg22
+VLink Road, Malad West, Mumbai
+p1069
+sba(i__main__
+Place
+p1070
+(dp1071
+g3
+(lp1072
+VRestaurants
+p1073
+asg7
+g384
+sg9
+VRajdhani Thali
+p1074
+sg11
+Vhttp://mumbai.burrp.com/listing/rajdhani-thali_malad-west_mumbai_restaurants/12122213188
+p1075
+sg13
+VMalad West
+p1076
+sg15
+(lp1077
+V28780045
+p1078
+aV 28780022
+p1079
+aV 28780044
+p1080
+aV 65766004
+p1081
+asg20
+g169
+sg22
+V2nd Floor, New Link Road, Malad West, Mumbai
+p1082
+sba(i__main__
+Place
+p1083
+(dp1084
+g3
+(lp1085
+VRestaurants
+p1086
+asg7
+g21
+sg9
+VKerala Hut
+p1087
+sg11
+Vhttp://mumbai.burrp.com/listing/kerala-hut_malad-west_mumbai_restaurants/19523237514
+p1088
+sg13
+VMalad West
+p1089
+sg15
+(lp1090
+V65757072
+p1091
+aV 65757078
+p1092
+asg20
+g21
+sg22
+VLink Road, Malad West, Mumbai
+p1093
+sba(i__main__
+Place
+p1094
+(dp1095
+g3
+(lp1096
+VRestaurants
+p1097
+asg7
+g169
+sg9
+VGreens Veg Diet
+p1098
+sg11
+Vhttp://mumbai.burrp.com/listing/greens-veg-diet_malad-west_mumbai_restaurants/19123120118
+p1099
+sg13
+VMalad West
+p1100
+sg15
+(lp1101
+V28742481
+p1102
+aV 28742482
+p1103
+aV 28742483
+p1104
+aV 66790770
+p1105
+asg20
+g169
+sg22
+VLinkway Estate, Link Road   , Malad West, Mumbai
+p1106
+sba(i__main__
+Place
+p1107
+(dp1108
+g3
+(lp1109
+VRestaurants
+p1110
+aV Bars & Pubs
+p1111
+asg7
+g169
+sg9
+VSpice Tree Foods
+p1112
+sg11
+Vhttp://mumbai.burrp.com/listing/spice-tree-foods_malad-west_mumbai_restaurants-bars-pubs/1137119396
+p1113
+sg13
+VMalad West
+p1114
+sg15
+(lp1115
+V42668927
+p1116
+aV 42668928
+p1117
+asg20
+g21
+sg22
+V54, Ground Floor, Mindspace, Link Road, Malad West, Mumbai
+p1118
+sba(i__main__
+Place
+p1119
+(dp1120
+g3
+(lp1121
+VRestaurants
+p1122
+asg7
+g169
+sg9
+VCafe Spice
+p1123
+sg11
+Vhttp://mumbai.burrp.com/listing/cafe-spice_malad-west_mumbai_restaurants/15723107752
+p1124
+sg13
+VMalad West
+p1125
+sg15
+(lp1126
+V28712566
+p1127
+aV 42668840
+p1128
+asg20
+g21
+sg22
+VShop No. 4, Aruna Residency, Atmaram Compound, Malad West, Mumbai
+p1129
+sba(i__main__
+Place
+p1130
+(dp1131
+g3
+(lp1132
+VRestaurants
+p1133
+asg7
+g169
+sg9
+VSpaghetti Kitchen 
+p1134
+sg11
+Vhttp://mumbai.burrp.com/listing/spaghetti-kitchen-_malad-west_mumbai_restaurants/17722290732
+p1135
+sg13
+VMalad West
+p1136
+sg15
+(lp1137
+V65344660
+p1138
+asg20
+g68
+sg22
+VFood Court , Unit No.17, 2nd Floor, Malad West, Mumbai
+p1139
+sba(i__main__
+Place
+p1140
+(dp1141
+g3
+(lp1142
+VRestaurants
+p1143
+asg7
+g169
+sg9
+VPrem's 
+p1144
+sg11
+Vhttp://mumbai.burrp.com/listing/prems-_malad-west_mumbai_restaurants/18115613128
+p1145
+sg13
+VMalad West
+p1146
+sg15
+(lp1147
+V28827776  
+p1148
+aV 28819608 
+p1149
+aV 28887771 
+p1150
+aV 9820709645
+p1151
+asg20
+g384
+sg22
+VShop No.5-6-7-8, Costa Graves , Sunder Lane , Malad West, Mumbai
+p1152
+sba(i__main__
+Place
+p1153
+(dp1154
+g3
+(lp1155
+VRestaurants
+p1156
+asg7
+g169
+sg9
+VAroma & Spices
+p1157
+sg11
+Vhttp://mumbai.burrp.com/listing/aroma-spices_chincholi-bunder_mumbai_restaurants/17133711138
+p1158
+sg13
+VChincholi Bunder
+p1159
+sg15
+(lp1160
+V61817300
+p1161
+aV 65686860
+p1162
+aV 65687562
+p1163
+asg20
+g21
+sg22
+VClub Link, Plot No. 1064 A & B, New Link Road, Chincholi Bunder, Malad West, Mumbai
+p1164
+sba(i__main__
+Place
+p1165
+(dp1166
+g3
+(lp1167
+VIce-cream Parlours
+p1168
+aV Juice Parlours
+p1169
+aV Restaurants
+p1170
+aV Food-court Stalls
+p1171
+aV Cafes
+p1172
+asg7
+g169
+sg9
+VFoodland Restaurant And Bar
+p1173
+sg11
+Vhttp://mumbai.burrp.com/listing/foodland-restaurant-and-bar_malad-west_mumbai_ice-cream-parlours-juice-parlours-restaurants/14311622366
+p1174
+sg13
+VMalad West
+p1175
+sg15
+(lp1176
+V28813636
+p1177
+aV 28884083
+p1178
+aV 28885888
+p1179
+asg20
+g169
+sg22
+VShop No 3/4, Jagruti Premises Limited, Sainath Road, Near Municipality Fish Market, Malad West, Mumbai
+p1180
+sba(i__main__
+Place
+p1181
+(dp1182
+g3
+(lp1183
+VRestaurants
+p1184
+aV Outdoor Caterers
+p1185
+asg7
+g384
+sg9
+VYogita Restaurant
+p1186
+sg11
+Vhttp://mumbai.burrp.com/listing/yogita-restaurant_malad-west_mumbai_restaurants-outdoor-caterers/15911749950
+p1187
+sg13
+VMalad West
+p1188
+sg15
+(lp1189
+V28655770
+p1190
+aV 32159979
+p1191
+aV 32102223
+p1192
+aV 65530453
+p1193
+asg20
+g21
+sg22
+VShop No 33, Deepanjali Chs, Jankalyan Nagar Road, Off Marve Road, Malad West, Mumbai
+p1194
+sba(i__main__
+Place
+p1195
+(dp1196
+g3
+(lp1197
+VRestaurants
+p1198
+asg7
+g169
+sg9
+VKakaji Fast Food
+p1199
+sg11
+Vhttp://mumbai.burrp.com/listing/kakaji-fast-food_malad-west_mumbai_restaurants/13111783178
+p1200
+sg13
+VMalad West
+p1201
+sg15
+(lp1202
+V
+p1203
+aV 9869133059
+p1204
+asg20
+g169
+sg22
+VShop No 1, Mith Chowki Junction, Marve Road, Malad West, Mumbai
+p1205
+sba(i__main__
+Place
+p1206
+(dp1207
+g3
+(lp1208
+VRestaurants
+p1209
+asg7
+g169
+sg9
+VAlka Vihar Restaurant
+p1210
+sg11
+Vhttp://mumbai.burrp.com/listing/alka-vihar-restaurant_malad-west_mumbai_restaurants/19311609316
+p1211
+sg13
+VMalad West
+p1212
+sg15
+(lp1213
+V28892184
+p1214
+aV 28839844
+p1215
+asg20
+g169
+sg22
+VS V Road, Malad West, Mumbai
+p1216
+sba(i__main__
+Place
+p1217
+(dp1218
+g3
+(lp1219
+VFast Food Shops
+p1220
+aV Restaurants
+p1221
+asg7
+g169
+sg9
+VFlavors
+p1222
+sg11
+Vhttp://mumbai.burrp.com/listing/flavors_malad-west_mumbai_fast-food-shops-restaurants/1381568871
+p1223
+sg13
+VMalad West
+p1224
+sg15
+(lp1225
+V28797979
+p1226
+aV 42797979
+p1227
+asg20
+g169
+sg22
+VGrand Hometel A Sarovar Hotel, Mind Space, Chincholi Bunder, Malad (W), Malad West, Mumbai
+p1228
+sba(i__main__
+Place
+p1229
+(dp1230
+g3
+(lp1231
+VRestaurants
+p1232
+asg7
+g169
+sg9
+VGokul Pure Veg.
+p1233
+sg11
+Vhttp://mumbai.burrp.com/listing/gokul-pure-veg_malad-west_mumbai_restaurants/16523117544
+p1234
+sg13
+VMalad West
+p1235
+sg15
+(lp1236
+V28810169
+p1237
+asg20
+g21
+sg22
+VMamlatdar Wadi Road, Malad West, Mumbai
+p1238
+sba(i__main__
+Place
+p1239
+(dp1240
+g3
+(lp1241
+VRestaurants
+p1242
+asg7
+g169
+sg9
+VMaroush
+p1243
+sg11
+Vhttp://mumbai.burrp.com/listing/maroush_malad-west_mumbai_restaurants/1996947910
+p1244
+sg13
+VMalad West
+p1245
+sg15
+(lp1246
+V9702782000
+p1247
+asg20
+g169
+sg22
+VLocated in Inorbit Mall, Malad (W), Malad West, Mumbai
+p1248
+sba(i__main__
+Place
+p1249
+(dp1250
+g3
+(lp1251
+VRestaurants
+p1252
+asg7
+g169
+sg9
+VPolo Noche
+p1253
+sg11
+Vhttp://mumbai.burrp.com/listing/polo-noche_malad-west_mumbai_restaurants/11918558990
+p1254
+sg13
+VMalad West
+p1255
+sg15
+(lp1256
+V28781039
+p1257
+aV 9769446555
+p1258
+asg20
+g21
+sg22
+VJadhav Estate, N. B. Road, Chincholi Bunder, Malad West, Mumbai
+p1259
+sba(i__main__
+Place
+p1260
+(dp1261
+g3
+(lp1262
+VRestaurants
+p1263
+asg7
+g169
+sg9
+VPizza Hut
+p1264
+sg11
+Vhttp://mumbai.burrp.com/listing/pizza-hut_malad-west_mumbai_restaurants/12946980
+p1265
+sg13
+VMalad West
+p1266
+sg15
+(lp1267
+V67022531
+p1268
+asg20
+g169
+sg22
+VEureka Towers, Mindspace, Malad Link Road, Malad (W), Malad West, Mumbai
+p1269
+sba(i__main__
+Place
+p1270
+(dp1271
+g3
+(lp1272
+VFood-court Stalls
+p1273
+aV Cafes
+p1274
+aV Fast Food Shops
+p1275
+aV Restaurants
+p1276
+asg7
+g169
+sg9
+VDodsal Corporation Pvt Ltd
+p1277
+sg11
+Vhttp://mumbai.burrp.com/listing/dodsal-corporation-pvt-ltd_malad-west_mumbai_food-court-stalls-cafes-fast-food-shops/13511801574
+p1278
+sg13
+VMalad West
+p1279
+sg15
+(lp1280
+V67522300
+p1281
+asg20
+g169
+sg22
+V702, A Wing, Prism Tower, Link Road, Mindspace , Malad West, Mumbai
+p1282
+sba(i__main__
+Place
+p1283
+(dp1284
+g3
+(lp1285
+VRestaurants
+p1286
+asg7
+g169
+sg9
+VSala Thai
+p1287
+sg11
+Vhttp://mumbai.burrp.com/listing/sala-thai_malad-west_mumbai_restaurants/1902285019
+p1288
+sg13
+VMalad West
+p1289
+sg15
+(lp1290
+V28712801
+p1291
+asg20
+g21
+sg22
+VInorbit Mall, Link Road, Malad (W), Malad West, Mumbai
+p1292
+sba(i__main__
+Place
+p1293
+(dp1294
+g3
+(lp1295
+VRestaurants
+p1296
+asg7
+g169
+sg9
+VFlavours Of China Restaurant
+p1297
+sg11
+Vhttp://mumbai.burrp.com/listing/flavours-of-china-restaurant_malad-west_mumbai_restaurants/13111621178
+p1298
+sg13
+VMalad West
+p1299
+sg15
+(lp1300
+V28806971
+p1301
+aV 28816971
+p1302
+aV 64206969
+p1303
+aV 64206972
+p1304
+asg20
+g169
+sg22
+VShop No 6, Pratham Pad, Evershine Nagar, Malad West, Mumbai
+p1305
+sba(i__main__
+Place
+p1306
+(dp1307
+g3
+(lp1308
+VRestaurants
+p1309
+asg7
+g169
+sg9
+VSiam Restaurant
+p1310
+sg11
+Vhttp://mumbai.burrp.com/listing/siam-restaurant_malad-west_mumbai_restaurants/15911695950
+p1311
+sg13
+VMalad West
+p1312
+sg15
+(lp1313
+V28818700
+p1314
+aV 28818900
+p1315
+aV 9820034556
+p1316
+asg20
+g169
+sg22
+V107, 1st Floor, Palm Spring Mall, Malad Link Road, Malad West, Mumbai
+p1317
+sba(i__main__
+Place
+p1318
+(dp1319
+g3
+(lp1320
+VIce-cream Parlours
+p1321
+aV Restaurants
+p1322
+aV Dessert Shops
+p1323
+aV Cafes
+p1324
+asg7
+g169
+sg9
+VEat Restaurant
+p1325
+sg11
+Vhttp://mumbai.burrp.com/listing/eat-restaurant_malad-west_mumbai_ice-cream-parlours-restaurants-dessert-shops/13711747772
+p1326
+sg13
+VMalad West
+p1327
+sg15
+(lp1328
+V65170404
+p1329
+aV 65170505
+p1330
+aV 9930255928
+p1331
+asg20
+g169
+sg22
+VEnclave II, Off Link Road Next To Goregoan Sport Slub, Malad West, Mumbai
+p1332
+sba(i__main__
+Place
+p1333
+(dp1334
+g3
+(lp1335
+VRestaurants
+p1336
+asg7
+g169
+sg9
+VDakshin Bar & Restaurant
+p1337
+sg11
+Vhttp://mumbai.burrp.com/listing/dakshin-bar-restaurant_malad-west_mumbai_restaurants/17511490534
+p1338
+sg13
+VMalad West
+p1339
+sg15
+(lp1340
+V28786763
+p1341
+aV 28786764
+p1342
+aV 28763334
+p1343
+asg20
+g169
+sg22
+VShop No. 4-5, Govind Kunj, S.V. Road  , Malad West, Mumbai
+p1344
+sba(i__main__
+Place
+p1345
+(dp1346
+g3
+(lp1347
+VRestaurants
+p1348
+asg7
+g169
+sg9
+VBlue Heaven Restaurant And Bar
+p1349
+sg11
+Vhttp://mumbai.burrp.com/listing/blue-heaven-restaurant-and-bar_malad-west_mumbai_restaurants/15511686554
+p1350
+sg13
+VMalad West
+p1351
+sg15
+(lp1352
+V28824268
+p1353
+asg20
+g169
+sg22
+VMalwani No 1, Marve Road, Kharodi Village, Malad West, Mumbai
+p1354
+sba(i__main__
+Place
+p1355
+(dp1356
+g3
+(lp1357
+VRestaurants
+p1358
+asg7
+g169
+sg9
+VHarish Bar And Restaurant
+p1359
+sg11
+Vhttp://mumbai.burrp.com/listing/harish-bar-and-restaurant_malad-west_mumbai_restaurants/12311755386
+p1360
+sg13
+VMalad West
+p1361
+sg15
+(lp1362
+V28440527
+p1363
+aV 28442010
+p1364
+asg20
+g169
+sg22
+VMeena Apartment, Ground Floor, Mamledar Wadi, Liberty Garden, Malad West, Mumbai
+p1365
+sba(i__main__
+Place
+p1366
+(dp1367
+g3
+(lp1368
+VRestaurants
+p1369
+asg7
+g169
+sg9
+VORIENTAL BALL
+p1370
+sg11
+Vhttp://mumbai.burrp.com/listing/oriental-ball_malad-west_mumbai_restaurants/19911771910
+p1371
+sg13
+VMalad West
+p1372
+sg15
+(lp1373
+V28813500
+p1374
+asg20
+g169
+sg22
+VTHE RETREAT, ERANGAL BEACH, MADH - MARVE ROAD, Malad West, Mumbai
+p1375
+sba(i__main__
+Place
+p1376
+(dp1377
+g3
+(lp1378
+VRestaurants
+p1379
+asg7
+g169
+sg9
+VCity Lite 
+p1380
+sg11
+Vhttp://mumbai.burrp.com/listing/city-lite-_malad-west_mumbai_restaurants/18123632128
+p1381
+sg13
+VMalad West
+p1382
+sg15
+(lp1383
+V28807771
+p1384
+aV 28807772
+p1385
+aV 65264400
+p1386
+aV 65265500
+p1387
+asg20
+g21
+sg22
+VDheeraj Sagar C.H.S , Shop no 4, 5, 6 PG Marg, Link Road, Mind Space , Malad West, Mumbai
+p1388
+sba(i__main__
+Place
+p1389
+(dp1390
+g3
+(lp1391
+VRestaurants
+p1392
+asg7
+g169
+sg9
+VSantosh Sagar
+p1393
+sg11
+Vhttp://mumbai.burrp.com/listing/santosh-sagar_malad-west_mumbai_restaurants/179240930
+p1394
+sg13
+VMalad West
+p1395
+sg15
+(lp1396
+V32468566
+p1397
+aV 28739010
+p1398
+aV 28760866
+p1399
+asg20
+g169
+sg22
+VS.V. Road, Opp. Bajaj Hall, Malad (W), Malad West, Mumbai
+p1400
+sba(i__main__
+Place
+p1401
+(dp1402
+g3
+(lp1403
+VRestaurants
+p1404
+aV Juice Parlours
+p1405
+asg7
+g169
+sg9
+VAshray Restaurant
+p1406
+sg11
+Vhttp://mumbai.burrp.com/listing/ashray-restaurant_liberty-garden_mumbai_restaurants-juice-parlours/12711161782
+p1407
+sg13
+VLiberty Garden
+p1408
+sg15
+(lp1409
+V28800440
+p1410
+aV 28815582
+p1411
+aV 65195720
+p1412
+aV 65195721
+p1413
+asg20
+g169
+sg22
+VDamodar Krupa Building, Shop No 1, Ground Floor, Road No 3, Opposite To ICICI Bank, Liberty Garden, Malad West, Mumbai
+p1414
+sba(i__main__
+Place
+p1415
+(dp1416
+g3
+(lp1417
+VRestaurants
+p1418
+asg7
+g169
+sg9
+VRamanjaneya Restaurant
+p1419
+sg11
+Vhttp://mumbai.burrp.com/listing/ramanjaneya-restaurant_malad-west_mumbai_restaurants/13511585574
+p1420
+sg13
+VMalad West
+p1421
+sg15
+(lp1422
+V28740454
+p1423
+aV 28751474
+p1424
+aV 42221000
+p1425
+aV 9320509070
+p1426
+asg20
+g169
+sg22
+V10, Govind Bhavan, S V Road, Chincholi Naka, Malad West, Mumbai
+p1427
+sba(i__main__
+Place
+p1428
+(dp1429
+g3
+(lp1430
+VRestaurants
+p1431
+asg7
+g169
+sg9
+VAshoka's Veg Treat
+p1432
+sg11
+Vhttp://mumbai.burrp.com/listing/ashokas-veg-treat_malad-west_mumbai_restaurants/17111616138
+p1433
+sg13
+VMalad West
+p1434
+sg15
+(lp1435
+V28807348
+p1436
+aV 28821364
+p1437
+asg20
+g21
+sg22
+VKalyan Apartment, Marve Road, Malad West, Mumbai
+p1438
+sba(i__main__
+Place
+p1439
+(dp1440
+g3
+(lp1441
+VCafes
+p1442
+aV Restaurants
+p1443
+asg7
+g169
+sg9
+VDesi Cafe
+p1444
+sg11
+Vhttp://mumbai.burrp.com/listing/desi-cafe_malad-west_mumbai_cafes-restaurants/14511649564
+p1445
+sg13
+VMalad West
+p1446
+sg15
+(lp1447
+g1203
+aV 8976468005
+p1448
+asg20
+g169
+sg22
+VC/O Hypercity Mall, Ground Floor, Link Road, Malad West, Mumbai
+p1449
+sba(i__main__
+Place
+p1450
+(dp1451
+g3
+(lp1452
+VRestaurants
+p1453
+asg7
+g169
+sg9
+VShanti Fast Food
+p1454
+sg11
+Vhttp://mumbai.burrp.com/listing/shanti-fast-food_malad-west_mumbai_restaurants/16511696544
+p1455
+sg13
+VMalad West
+p1456
+sg15
+(lp1457
+V28139010
+p1458
+aV 28760470
+p1459
+asg20
+g169
+sg22
+VBuilding No S4/106, Sunder Nagar, S V Road, Malad West, Mumbai
+p1460
+sba(i__main__
+Place
+p1461
+(dp1462
+g3
+(lp1463
+VRestaurants
+p1464
+asg7
+g169
+sg9
+VShiv Sagar Veg Restaurant
+p1465
+sg11
+Vhttp://mumbai.burrp.com/listing/shiv-sagar-veg-restaurant_malad-west_mumbai_restaurants/11511700594
+p1466
+sg13
+VMalad West
+p1467
+sg15
+(lp1468
+V28803707
+p1469
+aV 28812078
+p1470
+aV 28824917
+p1471
+aV 28832992
+p1472
+asg20
+g169
+sg22
+VShop No 1/2/3, Swing Building, Marve Road, Malad West, Mumbai
+p1473
+sba(i__main__
+Place
+p1474
+(dp1475
+g3
+(lp1476
+VRestaurants
+p1477
+aV Dessert Shops
+p1478
+aV Cafes
+p1479
+aV Juice Parlours
+p1480
+asg7
+g169
+sg9
+VShree Krishna Veg Restaurant
+p1481
+sg11
+Vhttp://mumbai.burrp.com/listing/shree-krishna-veg-restaurant_malad-west_mumbai_restaurants-dessert-shops-cafes/11711718792
+p1482
+sg13
+VMalad West
+p1483
+sg15
+(lp1484
+V28813039
+p1485
+aV 28887898
+p1486
+aV 9820200685
+p1487
+asg20
+g169
+sg22
+VNemani Building, S V Road, Malad West, Mumbai
+p1488
+sba(i__main__
+Place
+p1489
+(dp1490
+g3
+(lp1491
+VRestaurants
+p1492
+aV Fast Food Shops
+p1493
+asg7
+g169
+sg9
+VMcDonald's
+p1494
+sg11
+Vhttp://mumbai.burrp.com/listing/mcdonalds_malad-west_mumbai_restaurants-fast-food-shops/19111726118
+p1495
+sg13
+VMalad West
+p1496
+sg15
+(lp1497
+V32904327
+p1498
+aV 66000666
+p1499
+aV 9820997754
+p1500
+asg20
+g169
+sg22
+VGround Floor, Evershine Mall, Link Road and Junction of Mind Space, Malad West, Mumbai
+p1501
+sba(i__main__
+Place
+p1502
+(dp1503
+g3
+(lp1504
+VRestaurants
+p1505
+asg7
+g169
+sg9
+VWater's Edge
+p1506
+sg11
+Vhttp://mumbai.burrp.com/listing/waters-edge_malad-west_mumbai_restaurants/11372396
+p1507
+sg13
+VMalad West
+p1508
+sg15
+(lp1509
+V28813500
+p1510
+asg20
+g169
+sg22
+VThe Retreat, Erangal Beach, Malad (W), Malad West, Mumbai
+p1511
+sba(i__main__
+Place
+p1512
+(dp1513
+g3
+(lp1514
+VCafes
+p1515
+aV Restaurants
+p1516
+asg7
+g169
+sg9
+VBay Watch
+p1517
+sg11
+Vhttp://mumbai.burrp.com/listing/bay-watch_malad-west_mumbai_cafes-restaurants/172105237
+p1518
+sg13
+VMalad West
+p1519
+sg15
+(lp1520
+V28447777
+p1521
+asg20
+g68
+sg22
+V11, Madh Marve, Aksa Beach, Malad West, Mumbai
+p1522
+sba(i__main__
+Place
+p1523
+(dp1524
+g3
+(lp1525
+VRestaurants
+p1526
+asg7
+g169
+sg9
+VDosa Diner
+p1527
+sg11
+Vhttp://mumbai.burrp.com/listing/dosa-diner_malad-west_mumbai_restaurants/166113643
+p1528
+sg13
+VMalad West
+p1529
+sg15
+(lp1530
+V65763136
+p1531
+asg20
+g169
+sg22
+VInorbit Mall, Mindspace, Link Road, Malad (W), Malad West, Mumbai
+p1532
+sba(i__main__
+Place
+p1533
+(dp1534
+g3
+(lp1535
+VRestaurants
+p1536
+asg7
+g169
+sg9
+VHigh Tide
+p1537
+sg11
+Vhttp://mumbai.burrp.com/listing/high-tide_malad-west_mumbai_restaurants/133119376
+p1538
+sg13
+VMalad West
+p1539
+sg15
+(lp1540
+V28447777
+p1541
+aV 28808888
+p1542
+asg20
+g68
+sg22
+VC/O The Resost, 11, Madh Marve Road, Aksa Beach, Malad West, Mumbai
+p1543
+sba(i__main__
+Place
+p1544
+(dp1545
+g3
+(lp1546
+VRestaurants
+p1547
+asg7
+g169
+sg9
+VJourney's End
+p1548
+sg11
+Vhttp://mumbai.burrp.com/listing/journeys-end_malad-west_mumbai_restaurants/169122940
+p1549
+sg13
+VMalad West
+p1550
+sg15
+(lp1551
+V28813500
+p1552
+asg20
+g169
+sg22
+VThe Retreat, Erangal Beach, Madh-Marve Road, Malad (W), Malad West, Mumbai
+p1553
+sba(i__main__
+Place
+p1554
+(dp1555
+g3
+(lp1556
+VRestaurants
+p1557
+asg7
+g169
+sg9
+VMake Waves
+p1558
+sg11
+Vhttp://mumbai.burrp.com/listing/make-waves_malad-west_mumbai_restaurants/124127485
+p1559
+sg13
+VMalad West
+p1560
+sg15
+(lp1561
+V28813500
+p1562
+asg20
+g169
+sg22
+VThe Retreat, Erangal Beach, Madh-Marve Road, Malad (W), Malad West, Mumbai
+p1563
+sba(i__main__
+Place
+p1564
+(dp1565
+g3
+(lp1566
+VRestaurants
+p1567
+asg7
+g169
+sg9
+VRaju Kabab and Chinese Corner
+p1568
+sg11
+Vhttp://mumbai.burrp.com/listing/raju-kabab-and-chinese-corner_malad-west_mumbai_restaurants/160140049
+p1569
+sg13
+VMalad West
+p1570
+sg15
+(lp1571
+V28078086
+p1572
+asg20
+g169
+sg22
+VOpp Orlem Church, Marve Rd, Malad (W), Malad West, Mumbai
+p1573
+sba(i__main__
+Place
+p1574
+(dp1575
+g3
+(lp1576
+VFast Food Shops
+p1577
+aV Restaurants
+p1578
+aV Cafes
+p1579
+aV Juice Parlours
+p1580
+aV Ice-cream Parlours
+p1581
+asg7
+g169
+sg9
+VDots
+p1582
+sg11
+Vhttp://mumbai.burrp.com/listing/dots_malad-west_mumbai_fast-food-shops-restaurants-cafes/127271782
+p1583
+sg13
+VMalad West
+p1584
+sg15
+(lp1585
+V32927658
+p1586
+aV 32461651
+p1587
+asg20
+g21
+sg22
+VNestle Apartment, Shop No.4, Off Link Road, Opp.Toyota Showroom, Malad (W), Malad West, Mumbai
+p1588
+sba(i__main__
+Place
+p1589
+(dp1590
+g3
+(lp1591
+VRestaurants
+p1592
+asg7
+g169
+sg9
+VShree Krishna
+p1593
+sg11
+Vhttp://mumbai.burrp.com/listing/shree-krishna_malad-west_mumbai_restaurants/152274257
+p1594
+sg13
+VMalad West
+p1595
+sg15
+(lp1596
+V28887898
+p1597
+aV 28813039
+p1598
+asg20
+g21
+sg22
+VNemani Building, Opp. I.B.P. Petrol Pump, S.V. Road, Malad (W), Malad West, Mumbai
+p1599
+sba(i__main__
+Place
+p1600
+(dp1601
+g3
+(lp1602
+VRestaurants
+p1603
+asg7
+g169
+sg9
+VBala Ka Dhaba
+p1604
+sg11
+Vhttp://mumbai.burrp.com/listing/bala-ka-dhaba_malad-west_mumbai_restaurants/195359514
+p1605
+sg13
+VMalad West
+p1606
+sg15
+(lp1607
+V9819134279
+p1608
+aV 8652512479
+p1609
+aV 9004596639
+p1610
+asg20
+g384
+sg22
+VGanga Sadan, B.J. Patel Road, Near Keval Tower, Malad West, Mumbai
+p1611
+sba(i__main__
+Place
+p1612
+(dp1613
+g3
+(lp1614
+VRestaurants
+p1615
+asg7
+g169
+sg9
+VPrems Restaurant
+p1616
+sg11
+Vhttp://mumbai.burrp.com/listing/prems-restaurant_malad-west_mumbai_restaurants/1411326168
+p1617
+sg13
+VMalad West
+p1618
+sg15
+(lp1619
+V28827776
+p1620
+aV 28819608
+p1621
+aV 9820709645
+p1622
+asg20
+g169
+sg22
+V Shop No 5/6/7/8 Costa Graves Society, Sunder Lane, Malad (W), Malad West, Mumbai
+p1623
+sba(i__main__
+Place
+p1624
+(dp1625
+g3
+(lp1626
+VRestaurants
+p1627
+asg7
+g169
+sg9
+VAshoka Restaurant Bar & Permit Room
+p1628
+sg11
+Vhttp://mumbai.burrp.com/listing/ashoka-restaurant-bar-permit-room_malad-west_mumbai_restaurants/1343836475
+p1629
+sg13
+VMalad West
+p1630
+sg15
+(lp1631
+V28822828
+p1632
+aV 28443125
+p1633
+asg20
+g21
+sg22
+VParasrampuria Chambers, Station Road, Malad (W), Malad West, Mumbai
+p1634
+sba(i__main__
+Place
+p1635
+(dp1636
+g3
+(lp1637
+VRestaurants
+p1638
+asg7
+g169
+sg9
+VGreen'S Veg Diet
+p1639
+sg11
+Vhttp://mumbai.burrp.com/listing/greens-veg-diet_malad-west_mumbai_restaurants/1434431366
+p1640
+sg13
+VMalad West
+p1641
+sg15
+(lp1642
+V28742481
+p1643
+aV 28742482
+p1644
+aV 28742483
+p1645
+asg20
+g169
+sg22
+VLinkway Estate, Link Road, Malad (W), Malad West, Mumbai
+p1646
+sba(i__main__
+Place
+p1647
+(dp1648
+g3
+(lp1649
+VRestaurants
+p1650
+asg7
+g169
+sg9
+VGurukrupa restaurant & Bar
+p1651
+sg11
+Vhttp://mumbai.burrp.com/listing/gurukrupa-restaurant-bar_malad-west_mumbai_restaurants/1544432455
+p1652
+sg13
+VMalad West
+p1653
+sg15
+(lp1654
+V28807981
+p1655
+aV 28812753
+p1656
+asg20
+g169
+sg22
+VBhagwati Chawl No 5, Chincholi Bandar Road , Link Road Junction, Malad West, Mumbai
+p1657
+sba(i__main__
+Place
+p1658
+(dp1659
+g3
+(lp1660
+VRestaurants
+p1661
+asg7
+g169
+sg9
+VHotel Atithi
+p1662
+sg11
+Vhttp://mumbai.burrp.com/listing/hotel-atithi_malad-west_mumbai_restaurants/1114437198
+p1663
+sg13
+VMalad West
+p1664
+sg15
+(lp1665
+V25640123
+p1666
+aV 25602588
+p1667
+asg20
+g169
+sg22
+VJ.S. Dosa Road, Malad West, Mumbai
+p1668
+sba.

@@ -1,0 +1,44 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V0
+p7
+sS'name'
+p8
+VManasa
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/manasa_kamothe_navi-mumbai_restaurants/15318310356
+p11
+sS'region'
+p12
+VKamothe
+p13
+sS'phone'
+p14
+(lp15
+V65262301
+p16
+aV 65262302
+p17
+aV 65262303
+p18
+asS'cost'
+p19
+V2
+p20
+sS'addr'
+p21
+VKamothe, Navi Mumbai
+p22
+sba.

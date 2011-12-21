@@ -1,0 +1,1550 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VRestaurants
+p5
+asS'rating'
+p6
+V4
+p7
+sS'name'
+p8
+VThe Bowl House
+p9
+sS'url'
+p10
+Vhttp://mumbai.burrp.com/listing/the-bowl-house_ghatkopar-west_mumbai_restaurants/1314196178
+p11
+sS'region'
+p12
+VGhatkopar West
+p13
+sS'phone'
+p14
+(lp15
+V67703320
+p16
+aV 9930819006
+p17
+asS'cost'
+p18
+V2
+p19
+sS'addr'
+p20
+VLBS Marg, Ghatkopar West, Mumbai
+p21
+sba(i__main__
+Place
+p22
+(dp23
+g3
+(lp24
+VRestaurants
+p25
+asg6
+g7
+sg8
+VUrban Tadka
+p26
+sg10
+Vhttp://mumbai.burrp.com/listing/urban-tadka_ghatkopar-west_mumbai_restaurants/1903662019
+p27
+sg12
+VGhatkopar West
+p28
+sg14
+(lp29
+V9769005769
+p30
+aV 9769005770
+p31
+asg18
+g19
+sg20
+VLevel 3, LBS Road, Ghatkopar West, Mumbai
+p32
+sba(i__main__
+Place
+p33
+(dp34
+g3
+(lp35
+VOutdoor Caterers
+p36
+aV Restaurants
+p37
+asg6
+g7
+sg8
+VShvatra
+p38
+sg10
+Vhttp://mumbai.burrp.com/listing/shvatra_ghatkopar-west_mumbai_outdoor-caterers-restaurants/1364853673
+p39
+sg12
+VGhatkopar West
+p40
+sg14
+(lp41
+V67704411
+p42
+aV 67704499
+p43
+aV 9833858200
+p44
+asg18
+V1
+p45
+sg20
+VLevel 3, LBS Road, Ghatkopar West, Mumbai
+p46
+sba(i__main__
+Place
+p47
+(dp48
+g3
+(lp49
+VRestaurants
+p50
+asg6
+V3
+p51
+sg8
+VCafe Casamia
+p52
+sg10
+Vhttp://mumbai.burrp.com/listing/cafe-casamia_ghatkopar-west_mumbai_restaurants/1925183217
+p53
+sg12
+VGhatkopar West
+p54
+sg14
+(lp55
+V65241555
+p56
+aV 9320129283
+p57
+asg18
+g19
+sg20
+V3rd Floor, Ghatkopar West, Mumbai
+p58
+sba(i__main__
+Place
+p59
+(dp60
+g3
+(lp61
+VRestaurants
+p62
+aV Bars & Pubs
+p63
+asg6
+g7
+sg8
+VMeghdoot
+p64
+sg10
+Vhttp://mumbai.burrp.com/listing/meghdoot_ghatkopar-west_mumbai_restaurants-bars-pubs/141129168
+p65
+sg12
+VGhatkopar West
+p66
+sg14
+(lp67
+V25148006
+p68
+aV 25148488
+p69
+asg18
+V0
+p70
+sg20
+VJV Road, Near Raliway Station, Ghatkopar West, Mumbai
+p71
+sba(i__main__
+Place
+p72
+(dp73
+g3
+(lp74
+VRestaurants
+p75
+asg6
+g7
+sg8
+VAbhinandan
+p76
+sg10
+Vhttp://mumbai.burrp.com/listing/abhinandan_ghatkopar-west_mumbai_restaurants/1413171168
+p77
+sg12
+VGhatkopar West
+p78
+sg14
+(lp79
+V25006693
+p80
+aV 25006877
+p81
+asg18
+g19
+sg20
+VNext To Damodar Park, LBS Marg, Ghatkopar (W), Ghatkopar West, Mumbai
+p82
+sba(i__main__
+Place
+p83
+(dp84
+g3
+(lp85
+VRestaurants
+p86
+asg6
+V5
+p87
+sg8
+VNeo Welcome Restaurant
+p88
+sg10
+Vhttp://mumbai.burrp.com/listing/neo-welcome-restaurant_ghatkopar-west_mumbai_restaurants/1551300554
+p89
+sg12
+VGhatkopar West
+p90
+sg14
+(lp91
+V25152355
+p92
+aV 25094420
+p93
+aV 25094421
+p94
+asg18
+g45
+sg20
+VNear Ghatkopar Railway Station, Ghatkopar (W), Ghatkopar West, Mumbai
+p95
+sba(i__main__
+Place
+p96
+(dp97
+g3
+(lp98
+VBars & Pubs
+p99
+aV Restaurants
+p100
+asg6
+g51
+sg8
+VRain Forest 
+p101
+sg10
+Vhttp://mumbai.burrp.com/listing/rain-forest-_ghatkopar-west_mumbai_bars-pubs-restaurants/1645630445
+p102
+sg12
+VGhatkopar West
+p103
+sg14
+(lp104
+V65176566
+p105
+aV 9821196270
+p106
+asg18
+g51
+sg20
+VT/20, 3rd Floor, Ghatkopar West, Mumbai
+p107
+sba(i__main__
+Place
+p108
+(dp109
+g3
+(lp110
+VRestaurants
+p111
+asg6
+g7
+sg8
+VQusba
+p112
+sg10
+Vhttp://mumbai.burrp.com/listing/qusba_ghatkopar-west_mumbai_restaurants/1925480217
+p113
+sg12
+VGhatkopar West
+p114
+sg14
+(lp115
+V67755811
+p116
+asg18
+g19
+sg20
+VR-City Mall, LBS Marg, Ghatkopar (W), Ghatkopar West, Mumbai
+p117
+sba(i__main__
+Place
+p118
+(dp119
+g3
+(lp120
+VRestaurants
+p121
+asg6
+g87
+sg8
+VBharat Café
+p122
+sg10
+Vhttp://mumbai.burrp.com/listing/bharat-cafe_ghatkopar-west_mumbai_restaurants/178105831
+p123
+sg12
+VGhatkopar West
+p124
+sg14
+(lp125
+V25112366
+p126
+asg18
+g19
+sg20
+VOpposite Railway Station, Ghatkopar (W), Ghatkopar (W), Ghatkopar West, Mumbai
+p127
+sba(i__main__
+Place
+p128
+(dp129
+g3
+(lp130
+VRestaurants
+p131
+asg6
+g19
+sg8
+VRajdhani
+p132
+sg10
+Vhttp://mumbai.burrp.com/listing/rajdhani_ghatkopar-west_mumbai_restaurants/1283016881
+p133
+sg12
+VGhatkopar West
+p134
+sg14
+(lp135
+V32226074
+p136
+aV 32215807
+p137
+asg18
+g19
+sg20
+VR City Mall, 3rd Floor, LBS Marg, Ghatkopar (W), Ghatkopar West, Mumbai
+p138
+sba(i__main__
+Place
+p139
+(dp140
+g3
+(lp141
+VRestaurants
+p142
+aV Bars & Pubs
+p143
+asg6
+g7
+sg8
+VSundeep
+p144
+sg10
+Vhttp://mumbai.burrp.com/listing/sundeep_ghatkopar-west_mumbai_restaurants-bars-pubs/17560534
+p145
+sg12
+VGhatkopar West
+p146
+sg14
+(lp147
+V25158380
+p148
+asg18
+g70
+sg20
+VOpposite Railway Station, Above Bharat Cafe, Ghatkopar West, Mumbai
+p149
+sba(i__main__
+Place
+p150
+(dp151
+g3
+(lp152
+VRestaurants
+p153
+asg6
+g7
+sg8
+VHotel Ashirwad
+p154
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-ashirwad_ghatkopar-west_mumbai_restaurants/1104437099
+p155
+sg12
+VGhatkopar West
+p156
+sg14
+(lp157
+V25147418
+p158
+aV 25161694
+p159
+aV 25161852
+p160
+asg18
+g45
+sg20
+VShree Santoshi Mata Hsg. Society, Jambul Pada, Shiv Sena Office, Bhatwadi, Ghatkopar (W), Ghatkopar West, Mumbai
+p161
+sba(i__main__
+Place
+p162
+(dp163
+g3
+(lp164
+VRestaurants
+p165
+asg6
+g7
+sg8
+VThambi
+p166
+sg10
+Vhttp://mumbai.burrp.com/listing/thambi_lbs-marg-ghatkopar-west_mumbai_restaurants/1337193376
+p167
+sg12
+VLBS Marg (Ghatkopar West)
+p168
+sg14
+(lp169
+V25004773
+p170
+aV 25004774
+p171
+asg18
+g45
+sg20
+VPatanwala Compound, LBS Marg, Opp. Shreyas Talkies, LBS Marg (Ghatkopar West), Ghatkopar West, Mumbai
+p172
+sba(i__main__
+Place
+p173
+(dp174
+g3
+(lp175
+VRestaurants
+p176
+asg6
+g70
+sg8
+VUdipi Vihar
+p177
+sg10
+Vhttp://mumbai.burrp.com/listing/udipi-vihar_ghatkopar-west_mumbai_restaurants/14666663
+p178
+sg12
+VGhatkopar West
+p179
+sg14
+(lp180
+V25149796
+p181
+aV 25145598
+p182
+asg18
+g19
+sg20
+VSai Nath Nagar, Near Shreya Cinema, Ghatkopar West, Mumbai
+p183
+sba(i__main__
+Place
+p184
+(dp185
+g3
+(lp186
+VRestaurants
+p187
+asg6
+g70
+sg8
+VHotel Anand
+p188
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-anand_ghatkopar-west_mumbai_restaurants/1695351940
+p189
+sg12
+VGhatkopar West
+p190
+sg14
+(lp191
+V25024194
+p192
+asg18
+g19
+sg20
+VPunjabi Building, J.P. Road, Ghatkopar West, Mumbai
+p193
+sba(i__main__
+Place
+p194
+(dp195
+g3
+(lp196
+VFood-court Stalls
+p197
+aV Restaurants
+p198
+asg6
+g45
+sg8
+VFlavours of China
+p199
+sg10
+Vhttp://mumbai.burrp.com/listing/flavours-of-china_ghatkopar-west_mumbai_food-court-stalls-restaurants/1895056920
+p200
+sg12
+VGhatkopar West
+p201
+sg14
+(lp202
+V26333322
+p203
+aV 26323535
+p204
+aV 26333323
+p205
+aV 32188881
+p206
+asg18
+g19
+sg20
+VR City Mall, Food Court, Lal Bahadur Shastri Rd, Ghatkopar West, Mumbai
+p207
+sba(i__main__
+Place
+p208
+(dp209
+g3
+(lp210
+VBars & Pubs
+p211
+aV Restaurants
+p212
+asg6
+g70
+sg8
+VKunal Family Restaurant & Bar
+p213
+sg10
+Vhttp://mumbai.burrp.com/listing/kunal-family-restaurant-bar_barve-nagar_mumbai_bars-pubs-restaurants/1237912386
+p214
+sg12
+VBarve Nagar
+p215
+sg14
+(lp216
+V25005776
+p217
+aV 25007279
+p218
+aV 9821482491
+p219
+asg18
+g19
+sg20
+VLBS Marg, Opposite Ashok Silk Mills, Near Damodar Park, Barve Nagar, Ghatkopar West, Mumbai
+p220
+sba(i__main__
+Place
+p221
+(dp222
+g3
+(lp223
+VDessert Shops
+p224
+aV Restaurants
+p225
+aV Cafes
+p226
+asg6
+g70
+sg8
+VAmrut Restaurant And Bar
+p227
+sg10
+Vhttp://mumbai.burrp.com/listing/amrut-restaurant-and-bar_ghatkopar-west_mumbai_dessert-shops-restaurants-cafes/1439606366
+p228
+sg12
+VGhatkopar West
+p229
+sg14
+(lp230
+V25008017
+p231
+aV 25158924
+p232
+aV 9987312454
+p233
+asg18
+g70
+sg20
+VRam Sagar Housing Society, Asalpha Road, Ghatkopar West, Mumbai
+p234
+sba(i__main__
+Place
+p235
+(dp236
+g3
+(lp237
+VJuice Parlours
+p238
+aV Restaurants
+p239
+asg6
+g70
+sg8
+VShiv Krupa Fast Food
+p240
+sg10
+Vhttp://mumbai.burrp.com/listing/shiv-krupa-fast-food_ghatkopar-west_mumbai_juice-parlours-restaurants/1679635742
+p241
+sg12
+VGhatkopar West
+p242
+sg14
+(lp243
+V25106861
+p244
+aV 25151090
+p245
+asg18
+g70
+sg20
+VShop No 8, Gopal Lane, Ghatkopar West, Mumbai
+p246
+sba(i__main__
+Place
+p247
+(dp248
+g3
+(lp249
+VRestaurants
+p250
+asg6
+g70
+sg8
+VVasanth Hotel
+p251
+sg10
+Vhttp://mumbai.burrp.com/listing/vasanth-hotel_ghatkopar-west_mumbai_restaurants/1279649782
+p252
+sg12
+VGhatkopar West
+p253
+sg14
+(lp254
+V25141449
+p255
+aV 9920510079
+p256
+asg18
+g70
+sg20
+VJai Moti Building, H D Road, Ghatkopar West, Mumbai
+p257
+sba(i__main__
+Place
+p258
+(dp259
+g3
+(lp260
+VRestaurants
+p261
+asg6
+g70
+sg8
+VVishwa Bharat
+p262
+sg10
+Vhttp://mumbai.burrp.com/listing/vishwa-bharat_ghatkopar-west_mumbai_restaurants/19471415
+p263
+sg12
+VGhatkopar West
+p264
+sg14
+(lp265
+V25116161
+p266
+aV 65752405
+p267
+asg18
+g70
+sg20
+VLaxmi Shopping Centre, H.D. Road, Ghatkopar West, Mumbai
+p268
+sba(i__main__
+Place
+p269
+(dp270
+g3
+(lp271
+VRestaurants
+p272
+asg6
+g70
+sg8
+VLaxmi Chinese Corner
+p273
+sg10
+Vhttp://mumbai.burrp.com/listing/laxmi-chinese-corner_ghatkopar-west_mumbai_restaurants/1334457376
+p274
+sg12
+VGhatkopar West
+p275
+sg14
+(lp276
+V25140494
+p277
+asg18
+g70
+sg20
+VDobi Dasai Chawl, Bhatwadi., Ghatkopar (W), Ghatkopar West, Mumbai
+p278
+sba(i__main__
+Place
+p279
+(dp280
+g3
+(lp281
+VRestaurants
+p282
+asg6
+g70
+sg8
+VSaroj Veg Restaurant 
+p283
+sg10
+Vhttp://mumbai.burrp.com/listing/saroj-veg-restaurant-_ghatkopar-west_mumbai_restaurants/1534486356
+p284
+sg12
+VGhatkopar West
+p285
+sg14
+(lp286
+V25109904
+p287
+aV 25113757 
+p288
+asg18
+g70
+sg20
+VN.S.S.Road, Narayan Nagar, Opp Union Bank. , Ghatkopar (W), Ghatkopar West, Mumbai
+p289
+sba(i__main__
+Place
+p290
+(dp291
+g3
+(lp292
+VRestaurants
+p293
+asg6
+g70
+sg8
+VMirchi Pure Veg.
+p294
+sg10
+Vhttp://mumbai.burrp.com/listing/mirchi-pure-veg_ghatkopar-west_mumbai_restaurants/1154491594
+p295
+sg12
+VGhatkopar West
+p296
+sg14
+(lp297
+V25006422 
+p298
+aV 25007422
+p299
+asg18
+g70
+sg20
+VKanan Aprt. , Shop No 6 to 8, Amrut Nagar, Ghatkopar (W), Ghatkopar West, Mumbai
+p300
+sba(i__main__
+Place
+p301
+(dp302
+g3
+(lp303
+VRestaurants
+p304
+asg6
+g70
+sg8
+VDesi Tadka
+p305
+sg10
+Vhttp://mumbai.burrp.com/listing/desi-tadka_lbs-marg-ghatkopar-west_mumbai_restaurants/1335492376
+p306
+sg12
+VLBS Marg (Ghatkopar West)
+p307
+sg14
+(lp308
+V25007244
+p309
+aV 64521495
+p310
+aV 9987361747
+p311
+asg18
+g19
+sg20
+VOpposite Shantiniketan Society, LBS Marg (Ghatkopar West), Ghatkopar West, Mumbai
+p312
+sba(i__main__
+Place
+p313
+(dp314
+g3
+(lp315
+VCanteens
+p316
+aV Home Caterers
+p317
+aV Outdoor Caterers
+p318
+aV Restaurants
+p319
+aV Tiffin Services
+p320
+asg6
+g70
+sg8
+VGeeta Tiffin Service 
+p321
+sg10
+Vhttp://mumbai.burrp.com/listing/geeta-tiffin-service-_ghatkopar-west_mumbai_canteens-home-caterers-outdoor-caterers/1816739128
+p322
+sg12
+VGhatkopar West
+p323
+sg14
+(lp324
+V25004317
+p325
+aV 9892795125
+p326
+aV 7738034317
+p327
+asg18
+g70
+sg20
+VAmrut Nagar, Ashirwad Building , Ciba Society, Ghatkopar (W), Ghatkopar West, Mumbai
+p328
+sba(i__main__
+Place
+p329
+(dp330
+g3
+(lp331
+VRestaurants
+p332
+asg6
+g70
+sg8
+VGiri Liquor Bar
+p333
+sg10
+Vhttp://mumbai.burrp.com/listing/giri-liquor-bar_ghatkopar-west_mumbai_restaurants/1199567990
+p334
+sg12
+VGhatkopar West
+p335
+sg14
+(lp336
+V25137666
+p337
+asg18
+g70
+sg20
+VPatil House, Station Road, Ghatkopar West, Mumbai
+p338
+sba(i__main__
+Place
+p339
+(dp340
+g3
+(lp341
+VRestaurants
+p342
+asg6
+g70
+sg8
+VGuru Restaurant
+p343
+sg10
+Vhttp://mumbai.burrp.com/listing/guru-restaurant_ghatkopar-west_mumbai_restaurants/1279568782
+p344
+sg12
+VGhatkopar West
+p345
+sg14
+(lp346
+V25151497
+p347
+aV 30181796
+p348
+asg18
+g70
+sg20
+VOpposite Ghatkopar Station, Ghatkopar West, Mumbai
+p349
+sba(i__main__
+Place
+p350
+(dp351
+g3
+(lp352
+VBars & Pubs
+p353
+aV Restaurants
+p354
+asg6
+g70
+sg8
+VMahesh Vihar Restaurant & Bar
+p355
+sg10
+Vhttp://mumbai.burrp.com/listing/mahesh-vihar-restaurant-bar_ghatkopar-west_mumbai_bars-pubs-restaurants/1759573534
+p356
+sg12
+VGhatkopar West
+p357
+sg14
+(lp358
+V25105750
+p359
+aV 25158911
+p360
+asg18
+g70
+sg20
+VSunil Shopping Centre, New Maneklal Mehta Estate, Ghatkopar West, Mumbai
+p361
+sba(i__main__
+Place
+p362
+(dp363
+g3
+(lp364
+VRestaurants
+p365
+asg6
+g70
+sg8
+VNityanand Lunch Home
+p366
+sg10
+Vhttp://mumbai.burrp.com/listing/nityanand-lunch-home_ghatkopar-west_mumbai_restaurants/1279577782
+p367
+sg12
+VGhatkopar West
+p368
+sg14
+(lp369
+V25113935
+p370
+asg18
+g70
+sg20
+VAsalpha Village, N S S Road, Ghatkopar West, Mumbai
+p371
+sba(i__main__
+Place
+p372
+(dp373
+g3
+(lp374
+VRestaurants
+p375
+asg6
+g70
+sg8
+VRajdeep Restaurant And Bar
+p376
+sg10
+Vhttp://mumbai.burrp.com/listing/rajdeep-restaurant-and-bar_ghatkopar-west_mumbai_restaurants/1739582336
+p377
+sg12
+VGhatkopar West
+p378
+sg14
+(lp379
+V25115949
+p380
+asg18
+g70
+sg20
+VChirag Nagar, L B S Marg, Ghatkopar West, Mumbai
+p381
+sba(i__main__
+Place
+p382
+(dp383
+g3
+(lp384
+VRestaurants
+p385
+asg6
+g70
+sg8
+VSharad  Lunch Home
+p386
+sg10
+Vhttp://mumbai.burrp.com/listing/sharad-lunch-home_ghatkopar-west_mumbai_restaurants/1279586782
+p387
+sg12
+VGhatkopar West
+p388
+sg14
+(lp389
+V25125200
+p390
+aV 25152104
+p391
+asg18
+g70
+sg20
+VKeshani Bhawan, LBS Marg, Ghatkopar West, Mumbai
+p392
+sba(i__main__
+Place
+p393
+(dp394
+g3
+(lp395
+VRestaurants
+p396
+asg6
+g70
+sg8
+VTrishul Bar & Restaurant
+p397
+sg10
+Vhttp://mumbai.burrp.com/listing/trishul-bar-restaurant_ghatkopar-west_mumbai_restaurants/1839592326
+p398
+sg12
+VGhatkopar West
+p399
+sg14
+(lp400
+V25146943
+p401
+aV 25157171
+p402
+asg18
+g70
+sg20
+VGround Floor, Jai Bhawani Compound, LBS Marg, Ghatkopar West, Mumbai
+p403
+sba(i__main__
+Place
+p404
+(dp405
+g3
+(lp406
+VRestaurants
+p407
+asg6
+g70
+sg8
+VU P Restaurant
+p408
+sg10
+Vhttp://mumbai.burrp.com/listing/u-p-restaurant_ghatkopar-west_mumbai_restaurants/1879592722
+p409
+sg12
+VGhatkopar West
+p410
+sg14
+(lp411
+V25133142
+p412
+aV 9323463550
+p413
+asg18
+g70
+sg20
+VParsiwadi, Chirag Nagar, Ghatkopar West, Mumbai
+p414
+sba(i__main__
+Place
+p415
+(dp416
+g3
+(lp417
+VRestaurants
+p418
+asg6
+g70
+sg8
+VRadha Krishna Restaurant
+p419
+sg10
+Vhttp://mumbai.burrp.com/listing/radha-krishna-restaurant_ghatkopar-west_mumbai_restaurants/1579598752
+p420
+sg12
+VGhatkopar West
+p421
+sg14
+(lp422
+V25119552
+p423
+aV 25150310
+p424
+aV 25150327
+p425
+asg18
+g70
+sg20
+VNoor Mohammad Building, Lal Bahadur Shastri Road, Ghatkopar West, Mumbai
+p426
+sba(i__main__
+Place
+p427
+(dp428
+g3
+(lp429
+VRestaurants
+p430
+asg6
+g70
+sg8
+VNavy Restaurants & Bar
+p431
+sg10
+Vhttp://mumbai.burrp.com/listing/navy-restaurants-bar_ghatkopar-west_mumbai_restaurants/1859601524
+p432
+sg12
+VGhatkopar West
+p433
+sg14
+(lp434
+V25115949
+p435
+asg18
+g70
+sg20
+VChirag Nagar, L B S Marg, Ghatkopar West, Mumbai
+p436
+sba(i__main__
+Place
+p437
+(dp438
+g3
+(lp439
+VRestaurants
+p440
+asg6
+g70
+sg8
+VA 1 Restaurant
+p441
+sg10
+Vhttp://mumbai.burrp.com/listing/a-1-restaurant_ghatkopar-west_mumbai_restaurants/1759609534
+p442
+sg12
+VGhatkopar West
+p443
+sg14
+(lp444
+V25007076
+p445
+aV 25007691
+p446
+asg18
+g70
+sg20
+VGala No 7 A, D Block, Ghatkopar Industrai Estate, Near Amrut Nagar, Ghatkopar West, Mumbai
+p447
+sba(i__main__
+Place
+p448
+(dp449
+g3
+(lp450
+VBars & Pubs
+p451
+aV Restaurants
+p452
+asg6
+g70
+sg8
+VDeepa Restaurant & Bar
+p453
+sg10
+Vhttp://mumbai.burrp.com/listing/deepa-restaurant-bar_ghatkopar-west_mumbai_bars-pubs-restaurants/1219613188
+p454
+sg12
+VGhatkopar West
+p455
+sg14
+(lp456
+V25092710
+p457
+asg18
+g70
+sg20
+VL B S Marg, Opp Bhaveshwar Plaza Near Shreyas Cinema, Ghatkopar West, Mumbai
+p458
+sba(i__main__
+Place
+p459
+(dp460
+g3
+(lp461
+VCafes
+p462
+aV Ice-cream Parlours
+p463
+aV Restaurants
+p464
+aV Dessert Shops
+p465
+aV Fast Food Shops
+p466
+aV Juice Parlours
+p467
+asg6
+g70
+sg8
+VSAT Kav Pure Veg
+p468
+sg10
+Vhttp://mumbai.burrp.com/listing/sat-kav-pure-veg_ghatkopar-west_mumbai_cafes-ice-cream-parlours-restaurants/1959629514
+p469
+sg12
+VGhatkopar West
+p470
+sg14
+(lp471
+V25005351
+p472
+aV 25006364
+p473
+asg18
+g70
+sg20
+VSangani Estate, L B S Marg, Ghatkopar West, Mumbai
+p474
+sba(i__main__
+Place
+p475
+(dp476
+g3
+(lp477
+VRestaurants
+p478
+asg6
+g70
+sg8
+VSujata Hotel
+p479
+sg10
+Vhttp://mumbai.burrp.com/listing/sujata-hotel_ghatkopar-west_mumbai_restaurants/1759636534
+p480
+sg12
+VGhatkopar West
+p481
+sg14
+(lp482
+V25173170
+p483
+aV 9821724336
+p484
+asg18
+g70
+sg20
+VAmrut Nagar, Ghatkopar West, Mumbai
+p485
+sba(i__main__
+Place
+p486
+(dp487
+g3
+(lp488
+VRestaurants
+p489
+aV Bars & Pubs
+p490
+asg6
+g70
+sg8
+VEmson Engineers
+p491
+sg10
+Vhttp://mumbai.burrp.com/listing/emson-engineers_ghatkopar-west_mumbai_restaurants-bars-pubs/1659644544
+p492
+sg12
+VGhatkopar West
+p493
+sg14
+(lp494
+V67991655
+p495
+aV 25118979
+p496
+asg18
+g70
+sg20
+VNetaji Palkar Marg, Opp 1st Kurla Indl Est , Narayan Nagar, Ghatkopar West, Mumbai
+p497
+sba(i__main__
+Place
+p498
+(dp499
+g3
+(lp500
+VRestaurants
+p501
+asg6
+g70
+sg8
+VYashraj Hotel
+p502
+sg10
+Vhttp://mumbai.burrp.com/listing/yashraj-hotel_ghatkopar-west_mumbai_restaurants/1719645138
+p503
+sg12
+VGhatkopar West
+p504
+sg14
+(lp505
+V25172019
+p506
+aV 25173178
+p507
+aV 9323383155
+p508
+asg18
+g70
+sg20
+VShop No 2/A, Noor Mohammad Chawl, L B S Marg, Park Site, Ghatkopar West, Mumbai
+p509
+sba(i__main__
+Place
+p510
+(dp511
+g3
+(lp512
+VRestaurants
+p513
+asg6
+g70
+sg8
+VHotel Maan
+p514
+sg10
+Vhttp://mumbai.burrp.com/listing/hotel-maan_ghatkopar-west_mumbai_restaurants/1879646722
+p515
+sg12
+VGhatkopar West
+p516
+sg14
+(lp517
+V25143002
+p518
+asg18
+g70
+sg20
+VShop No 13/14, Laxmi Shopping Centre, H D Road, Ghatkopar West, Mumbai
+p519
+sba(i__main__
+Place
+p520
+(dp521
+g3
+(lp522
+VRestaurants
+p523
+asg6
+g70
+sg8
+VShree Nityan Family Restaurant
+p524
+sg10
+Vhttp://mumbai.burrp.com/listing/shree-nityan-family-restaurant_ghatkopar-west_mumbai_restaurants/1919647118
+p525
+sg12
+VGhatkopar West
+p526
+sg14
+(lp527
+V25163806
+p528
+aV 9702038625
+p529
+asg18
+g70
+sg20
+VShop No 11, D Silva Baug, Asalfa Link Road, Saki Naka, Ghatkopar West, Mumbai
+p530
+sba(i__main__
+Place
+p531
+(dp532
+g3
+(lp533
+VRestaurants
+p534
+asg6
+g70
+sg8
+VAashirwad Hotel
+p535
+sg10
+Vhttp://mumbai.burrp.com/listing/aashirwad-hotel_lbs-marg-ghatkopar-west_mumbai_restaurants/18311149326
+p536
+sg12
+VLBS Marg (Ghatkopar West)
+p537
+sg14
+(lp538
+V25004767
+p539
+asg18
+g70
+sg20
+VOpposite Dena Bank, LBS Marg (Ghatkopar West), Ghatkopar West, Mumbai
+p540
+sba(i__main__
+Place
+p541
+(dp542
+g3
+(lp543
+VRestaurants
+p544
+asg6
+g70
+sg8
+VGrand China
+p545
+sg10
+Vhttp://mumbai.burrp.com/listing/grand-china_ghatkopar-west_mumbai_restaurants/12518109584
+p546
+sg12
+VGhatkopar West
+p547
+sg14
+(lp548
+V25181871
+p549
+asg18
+g19
+sg20
+VUnit No. K/14, 3rd Floor, Ghatkopar West, Mumbai
+p550
+sba(i__main__
+Place
+p551
+(dp552
+g3
+(lp553
+VRestaurants
+p554
+asg6
+g70
+sg8
+VMalgudi (Simply South)
+p555
+sg10
+Vhttp://mumbai.burrp.com/listing/malgudi-simply-south_ghatkopar-west_mumbai_restaurants/14124213168
+p556
+sg12
+VGhatkopar West
+p557
+sg14
+(lp558
+V9594616997
+p559
+asg18
+g70
+sg20
+VR City Mall, Food Court, Shop No.12, 3rd Floor, Lbs Marg, Ghatkopar West, Mumbai
+p560
+sba(i__main__
+Place
+p561
+(dp562
+g3
+(lp563
+VRestaurants
+p564
+asg6
+g70
+sg8
+VMalwaneez A Treat Of Kokan
+p565
+sg10
+Vhttp://mumbai.burrp.com/listing/malwaneez-a-treat-of-kokan_ghatkopar-west_mumbai_restaurants/15124214158
+p566
+sg12
+VGhatkopar West
+p567
+sg14
+(lp568
+V64235374
+p569
+asg18
+g70
+sg20
+VShop No.6, Food CourtR City Mall, L.B.S Marg., Ghatkopar West, Mumbai
+p570
+sba(i__main__
+Place
+p571
+(dp572
+g3
+(lp573
+VRestaurants
+p574
+asg6
+g70
+sg8
+VPopular 
+p575
+sg10
+Vhttp://mumbai.burrp.com/listing/popular-_ghatkopar-west_mumbai_restaurants/18932092920
+p576
+sg12
+VGhatkopar West
+p577
+sg14
+(lp578
+V9820118098
+p579
+aV 9833998098
+p580
+asg18
+g19
+sg20
+VNoor Mohammed Compound, Off LBS Marg, Vikhroli Fire Brigade, Ghatkopar West, Mumbai
+p581
+sba.

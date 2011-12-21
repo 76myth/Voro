@@ -1,0 +1,217 @@
+(lp0
+(i__main__
+Place
+p1
+(dp2
+S'category'
+p3
+(lp4
+VOutdoor Caterers
+p5
+aV Take Away Shops
+p6
+aV Cafes
+p7
+aV Restaurants
+p8
+aV Fast Food Shops
+p9
+asS'rating'
+p10
+V4
+p11
+sS'name'
+p12
+VCafe Appetite
+p13
+sS'url'
+p14
+Vhttp://mumbai.burrp.com/listing/cafe-appetite_chakala_mumbai_outdoor-caterers-take-away-shops-cafes/1103240099
+p15
+sS'region'
+p16
+VChakala
+p17
+sS'phone'
+p18
+(lp19
+V28367141
+p20
+aV 28327141
+p21
+aV 9820398705
+p22
+asS'cost'
+p23
+V2
+p24
+sS'addr'
+p25
+V186 Bhagat Singh Colony, New Andheri Link Road, Chakala, Andheri East, Mumbai
+p26
+sba(i__main__
+Place
+p27
+(dp28
+g3
+(lp29
+VRestaurants
+p30
+asg10
+g11
+sg12
+VNH-1 Kitchen & Bar
+p31
+sg14
+Vhttp://mumbai.burrp.com/listing/nh-1-kitchen-bar_chakala_mumbai_restaurants/177132732
+p32
+sg16
+VChakala
+p33
+sg18
+(lp34
+V28227922
+p35
+aV 28257922
+p36
+asg23
+g24
+sg25
+VKajuwadi, Cardinal Gracious Road, Chakala, Andheri East, Mumbai
+p37
+sba(i__main__
+Place
+p38
+(dp39
+g3
+(lp40
+VRestaurants
+p41
+aV Bars & Pubs
+p42
+asg10
+g11
+sg12
+VMumbai Mirchi
+p43
+sg14
+Vhttp://mumbai.burrp.com/listing/mumbai-mirchi_chakala_mumbai_restaurants-bars-pubs/1761338633
+p44
+sg16
+VChakala
+p45
+sg18
+(lp46
+V42151888
+p47
+aV 42151900  
+p48
+asg23
+g24
+sg25
+VSawant House, Andheri Kurla Road, Chakala, Andheri East, Mumbai
+p49
+sba(i__main__
+Place
+p50
+(dp51
+g3
+(lp52
+VRestaurants
+p53
+asg10
+V3
+p54
+sg12
+VNayak's Khyber
+p55
+sg14
+Vhttp://mumbai.burrp.com/listing/nayaks-khyber_chakala_mumbai_restaurants/1422343267
+p56
+sg16
+VChakala
+p57
+sg18
+(lp58
+V28325460
+p59
+aV 28372144
+p60
+aV 28365460
+p61
+aV 28324560
+p62
+asg23
+g24
+sg25
+VMonarch Palace, J.B. nagar , Andheri (E), Chakala, Andheri East, Mumbai
+p63
+sba(i__main__
+Place
+p64
+(dp65
+g3
+(lp66
+VRestaurants
+p67
+asg10
+g54
+sg12
+VJust Kerala
+p68
+sg14
+Vhttp://mumbai.burrp.com/listing/just-kerala_chakala_mumbai_restaurants/1221396287
+p69
+sg16
+VChakala
+p70
+sg18
+(lp71
+V9819158349
+p72
+aV 28363919
+p73
+aV 66595899
+p74
+asg23
+g24
+sg25
+VHotel Samraj, Next to NH-1 Restaurant, Andheri (E), Chakala, Andheri East, Mumbai
+p75
+sba(i__main__
+Place
+p76
+(dp77
+g3
+(lp78
+VRestaurants
+p79
+asg10
+V5
+p80
+sg12
+VDomino's Pizza
+p81
+sg14
+Vhttp://mumbai.burrp.com/listing/dominos-pizza_chakala_mumbai_restaurants/14139168
+p82
+sg16
+VChakala
+p83
+sg18
+(lp84
+V28263760
+p85
+aV 28263762
+p86
+aV 28263763
+p87
+aV 28263764
+p88
+asg23
+V0
+p89
+sg25
+VUnit 5, Ground Floor, Kapadia Industrial Estate, 123/124, Andheri Kurla Road, Andheri (E), Chakala, Andheri East, Mumbai
+p90
+sba.
