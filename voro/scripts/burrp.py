@@ -78,7 +78,7 @@ def get_results(url, turn):
     return place_list
 
 
-def run_on_specified_url(url, file1, file2):
+def run_on_specified_url(url, file1):
     ''' this method is used to call functions which help obtain content from the specified url. This method also 
     takes any previous results obtained and adds to them the results from this url anbd writes it to a new file.
     
@@ -107,11 +107,21 @@ def run_on_specified_url(url, file1, file2):
         if i==11:
             break    
     
-    file = open("1","w")
+    print file1
+    file = open(file1,"w")
     pickle.dump(place_list, file)
     file.close()
 
     
 if __name__ == "__main__" :
 #    run_on_specified_url("http://mumbai.burrp.com/find.html?oN=&q=Restaurants&n=&zc=&s=OR&zone=Select+Zone&fltLocalities=Andheri+West&&p=", "1", "2")
-    run_on_specified_url("http://mumbai.burrp.com/find.html?oN=&q=Restaurants&n=&zc=&s=OR&zone=Select+Zone&fltLocalities=Lokhandwala+%28Andheri%29&&p=","1","2")
+    file =open("burrp-data.txt","r")
+    list =[]
+    for line in file:        
+        list.append(line.strip().replace("1",""))       
+    file.close()
+    for i,link in enumerate(list):
+        print link
+        fp = "../Data/" + str(i)    
+        run_on_specified_url(link, fp)
+        
