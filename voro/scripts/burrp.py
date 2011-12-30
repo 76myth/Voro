@@ -45,8 +45,7 @@ def get_results(url, turn):
         #all_results contains all the places tags(with their content)
         # 'search_row' is the class name for the place tags on burrp
         all_results = pool.findAll('div', {'class' : 'search_row'})
-        
-        # if turn is 1 compute the total number of results for this search query        
+                
         if turn == 1:
             # 'right searchBlack' is the class name for the tag containing total number of results on burrp
             page_total = pool.findAll('span', {'class' : 'right searchBlack'})                  
