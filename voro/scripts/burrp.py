@@ -72,8 +72,7 @@ def get_results(url, turn):
                        
     except:
         pass
-    if turn ==1:     
-        # If first turn then return total number of results and place_list   
+    if turn ==1:              
         return length,place_list
     
     return place_list
@@ -91,17 +90,14 @@ def run_on_specified_url(url, file1, file2):
     place_list = []
     
     # For the first tie obtain the total number of reuslts
-    (length,hmap) = get_results(url, 1)
-    
-    #update place_dict 
+    (length,hmap) = get_results(url, 1)        
     place_list.extend(hmap)
     
     #since there are 15 results per page on burrp compute the total number of times we have to ping burrp
     total_turns = length / 15 + 1
         
-    # Obtain every batch of 10 results
     for i in range(2,total_turns+1):
-        # Get the hmap(whcih is place_dict of this url only)    
+        # Get the hmap(whcih is place_list of this url only)    
         hmap = get_results(url, i)        
         if len(hmap) ==0:
             break        
