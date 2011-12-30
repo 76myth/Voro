@@ -10,6 +10,7 @@ Voro.egg-info/requires.txt
 Voro.egg-info/top_level.txt
 voro/__init__.py
 voro/lib/__init__.py
+voro/scripts/BurrpScraper.py
 voro/scripts/__init__.py
-voro/scripts/example.py
-voro/scripts/just_eat_scraper.py
+voro/scripts/burrp.py
+voro/scripts/zomato_scraper.py
