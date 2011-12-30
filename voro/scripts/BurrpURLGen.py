@@ -25,7 +25,7 @@ for option in OptionTag:
 
 Zones.remove(ZoneText)
 JSTag=SelectTag('script')
-replaceDict={'1,':'','escapedLoc = ':'','[':'',']':'',';':''}
+replaceDict={'1,':'','escapedLoc = ':'','[':'',']':'',';':'','"':''}
 LocalityValues=replace_all(JSTag[0].text,replaceDict).replace(' ','+').split(',')
 LocalityValues.remove('')
 MUMBAIMAINURL="http://mumbai.burrp.com/find.html?p=1&oN=&q=Restaurants&n=&zc=&s=OR&zone=Select+Zone&fltLocalities="
